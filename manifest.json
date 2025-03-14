@@ -1,0 +1,17 @@
+{
+    "name": "KoW Companion Translator",
+    "description": "Translate KoW Companion",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/dexie.js",
+                "scripts/content.js"
+            ],
+            "matches": [
+                "https://companion.manticgames.com/kings-of-war-rules/*"
+            ]
+        }
+    ]
+}
