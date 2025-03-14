@@ -18,7 +18,7 @@ if (pageContentCollection.length === 1) {
 
 let translatableElements = pageContent
     .querySelector('.units-row, .rules_contents')
-    .querySelectorAll('li, b, i, a, p, h1, h2, h3, h4, h5, h6, span');
+    .querySelectorAll('li, em, strong, b, i, a, p, h1, h2, h3, h4, h5, h6, span, th, td');
 
 function insertNewText(value) {
     db.texts.put({
