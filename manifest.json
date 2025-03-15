@@ -3,6 +3,9 @@
     "description": "Translate KoW Companion",
     "version": "1.0",
     "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
     "content_scripts": [
         {
             "js": [
@@ -13,5 +16,8 @@
                 "https://companion.manticgames.com/kings-of-war-rules/*"
             ]
         }
+    ],
+    "permissions": [
+        "storage"
     ]
 }

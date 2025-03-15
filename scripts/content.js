@@ -8,17 +8,66 @@ db.version(1).stores({
       locale`,
 });
 
-let pageContentCollection = document.getElementsByClassName('rules_container');
+(async function() {
+    var currentLanguage = await chrome.storage.local.get(["KoWCompanionTranslatorLanguage"]).then(result => result.KoWCompanionTranslatorLanguage) || null;
+    var devMode = await chrome.storage.local.get(["KoWCompanionTranslatorDevMode"]).then(result => result.KoWCompanionTranslatorDevMode) || null;
 
-let pageContent = null;
+    if (currentLanguage !== 'fr') {
+        return;
+    }
 
-if (pageContentCollection.length === 1) {
-    pageContent = pageContentCollection.item(0);
-}
+    let pageContentCollection = document.getElementsByClassName('rules_container');
 
-let translatableElements = pageContent
-    .querySelector('.units-row, .rules_contents')
-    .querySelectorAll('li, em, strong, b, i, a, p, h1, h2, h3, h4, h5, h6, span, th, td');
+    let pageContent = null;
+
+    if (pageContentCollection.length === 1) {
+        pageContent = pageContentCollection.item(0);
+    }
+
+    let translatableElements = pageContent
+        .querySelector('.units-row, .rules_contents')
+        .querySelectorAll('li, em, strong, b, i, a, p, h1, h2, h3, h4, h5, h6, span, th, td');
+        
+    let translations = await db.texts.where({'locale': 'fr'}).toArray();
+
+    for (let element of translatableElements) {
+        if (element.children.length === 0 && element.innerText.trim() !== '') {
+            let item = translations.find(text => text.value_en === element.innerText.trim());
+            
+            if (devMode === '1' && item === undefined) {
+                insertNewText(element.innerText.trim());
+            } else if (item.value_translated !== null) {
+                element.innerHTML = element.innerHTML.replace(element.innerText.trim(), item.value_translated);
+            }
+            if (devMode === '1' && (item === undefined || item.value_translated === null)) {
+                setElementTranslatable(element, element.innerText.trim());
+            }
+
+        } else if (element.children.length > 0) {
+            let child = element.firstChild
+            while (child) {
+                if (child.nodeType === 3 && child.data.trim() !== '') {
+                    let item = translations.find(text => text.value_en === child.data.trim());
+
+                    if (devMode === '1' && item === undefined) {
+                        insertNewText(child.data.trim());
+                    } else if (item.value_translated !== null) {
+                        child.data = child.data.replace(child.data.trim(), item.value_translated);
+                    }
+                    if (devMode === '1' && (item === undefined || item.value_translated === null)) {
+                        setElementTranslatable(element, child.data.trim());
+                    }
+
+                }
+                child = child.nextSibling
+            }
+        }
+    }
+})();
+
+// ------------------------ //
+// -- DEV MODE FUNCTIONS -- //
+// ------------------------ //
 
 function insertNewText(value) {
     db.texts.put({
@@ -47,41 +96,3 @@ function setElementTranslatable(element, value) {
         }
     });
 }
-
-(async function() {
-    let translations = await db.texts.where({'locale': 'fr'}).toArray();
-
-    for (let element of translatableElements) {
-        if (element.children.length === 0 && element.innerText.trim() !== '') {
-            let item = translations.find(text => text.value_en === element.innerText.trim());
-            
-            if (item === undefined) {
-                insertNewText(element.innerText.trim());
-            } else if (item.value_translated !== null) {
-                element.innerHTML = element.innerHTML.replace(element.innerText.trim(), item.value_translated);
-            }
-            if (item === undefined || item.value_translated === null) {
-                setElementTranslatable(element, element.innerText.trim());
-            }
-
-        } else if (element.children.length > 0) {
-            let child = element.firstChild
-            while (child) {
-                if (child.nodeType === 3 && child.data.trim() !== '') {
-                    let item = translations.find(text => text.value_en === child.data.trim());
-
-                    if (item === undefined) {
-                        insertNewText(child.data.trim());
-                    } else if (item.value_translated !== null) {
-                        child.data = child.data.replace(child.data.trim(), item.value_translated);
-                    }
-                    if (item === undefined || item.value_translated === null) {
-                        setElementTranslatable(element, child.data.trim());
-                    }
-
-                }
-                child = child.nextSibling
-            }
-        }
-    }
-})();
