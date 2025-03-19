@@ -19,5 +19,15 @@
     ],
     "permissions": [
         "storage"
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "data/KoWCompanionTranslator_exported_data.json"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
     ]
 }

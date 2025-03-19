@@ -1,15 +1,29 @@
 
-var db = new Dexie('KoWCompanionTranslator');
-
-db.version(1).stores({
-    texts: `
-      value_en,
-      value_translated,
-      locale,
-      *urls`,
-});
 
 (async function() {
+    var db = new Dexie('KoWCompanionTranslator');
+
+    db.version(1).stores({
+        texts: `
+          value_en,
+          value_translated,
+          locale,
+          *urls`,
+    });
+
+    let countRecords = await db.texts.count();
+
+    if (countRecords == 0) {
+        // Load json file
+        var jsonFile = await fetch(chrome.runtime.getURL('data/KoWCompanionTranslator_exported_data.json'))
+            .then(function(response) { return response.json(); })
+            .then(function(json) { return json; });
+        
+        for (let text of jsonFile.texts) {
+            db.texts.put(text);
+        }
+    }
+
     var currentLanguage = await chrome.storage.local.get(["KoWCompanionTranslatorLanguage"]).then(result => result.KoWCompanionTranslatorLanguage) || null;
     var devMode = await chrome.storage.local.get(["KoWCompanionTranslatorDevMode"]).then(result => result.KoWCompanionTranslatorDevMode) || null;
     var url = location.href.replace(location.hash,'');
