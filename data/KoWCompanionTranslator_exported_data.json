@@ -1524,7 +1524,7 @@
     },
     {
       "value_en": "7: Kill",
-      "value_translated": null,
+      "value_translated": "7: Massacre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -1549,7 +1549,7 @@
     },
     {
       "value_en": "8. Nerve",
-      "value_translated": null,
+      "value_translated": "8. Moral",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/"
@@ -1557,7 +1557,7 @@
     },
     {
       "value_en": "8: Raze",
-      "value_translated": null,
+      "value_translated": "8: Ravage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -1582,7 +1582,7 @@
     },
     {
       "value_en": "9. War Engines",
-      "value_translated": null,
+      "value_translated": "9. Machines de Guerre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/"
@@ -1590,7 +1590,7 @@
     },
     {
       "value_en": "9: Plunder",
-      "value_translated": null,
+      "value_translated": "9: Saccage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -1607,7 +1607,7 @@
     },
     {
       "value_en": "A 6’x4’ table is the widely accepted standard size for playing Kings of War, however when playing Legendary games where each army is worth over 3000 points (maybe even 10,000 or more!), it will probably be necessary to increase the size of the playing area to facilitate the extra units in each army.",
-      "value_translated": null,
+      "value_translated": "Une table de 6’x4’ est la taille standard largement acceptée pour jouer à Kings of War. Cependant, lors de parties légendaires où chaque armée dépasse 3000 points (voire 10 000 ou plus !), il sera probablement nécessaire d’agrandir la zone de jeu afin d’accueillir les unités supplémentaires de chaque armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -1615,7 +1615,7 @@
     },
     {
       "value_en": "A Charge is typically the only way your units can move into contact with the enemy. A unit can Charge a single enemy unit (‘the target’) as long as the following conditions are all met:",
-      "value_translated": null,
+      "value_translated": "Une Charge est généralement le seul moyen pour vos unités d’entrer en contact avec l’ennemi. Une unité peut charger une seule unité ennemie ('la cible') tant que toutes les conditions suivantes sont remplies:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -1623,7 +1623,7 @@
     },
     {
       "value_en": "A Charge move is carried out in three steps:",
-      "value_translated": null,
+      "value_translated": "Un mouvement de Charge s’effectue en trois étapes:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -1631,7 +1631,7 @@
     },
     {
       "value_en": "A Garrisoning unit may also elect to declare a charge against the closest enemy unit in the Courtyard providing it is facing the Courtyard. Measure the charge distance and draw line of sight from the centre of the wall section. Providing the unit fits, pick up and place the Garrisoning unit in contact with the enemy unit. If an enemy unit is in base contact with the inside of the castle wall, or the Garrisoning unit cannot be placed in base contact, a unit Garrisoning that wall section may still charge. In this instance, do not move the Garrisoning unit – simply roll the attacks in the Melee phase as though the Garrisoning unit had charged in the enemy unit’s front. Charges by Garrisoning units against units in the Courtyard are considered to be over an obstacle (and so may be Hindered).",
-      "value_translated": null,
+      "value_translated": "Une unité en Garnison peut également choisir de déclarer une charge contre l’unité ennemie la plus proche dans la Cour intérieure, à condition qu’elle soit orientée vers celle-ci. La distance de charge est mesurée, et la ligne de vue est tracée depuis le centre de la section de mur. Si l’unité peut s’insérer, prenez-la et placez-la en contact avec l’unité ennemie. Si une unité ennemie est en contact socle à socle avec l’intérieur du mur du château, ou si l’unité en Garnison ne peut pas être placée en contact socle à socle, elle peut tout de même charger. Dans ce cas, ne déplacez pas l’unité en Garnison – effectuez simplement les jets d’attaque lors de la phase de Mêlée comme si l’unité en Garnison avait chargé l’ennemi de face. Les charges effectuées par des unités en Garnison contre des unités situées dans la Cour intérieure sont considérées comme se déroulant par-dessus un obstacle (et peuvent donc être Entravées).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1639,7 +1639,7 @@
     },
     {
       "value_en": "A Garrisoning unit may only be attacked from the outside of the castle if the attacking unit has Siege Equipment that allows it to, or it is of Height 5 or more. If the attacking unit is one of the unit types that may attack the wall itself (see Damaging a Castle Wall), it may choose to do so. Charges against Garrisoning units on wall sections from within the castle do not require the attacking unit to possess Siege Equipment. However this will be considered a Hindered charge, even if the attacking unit has Strider or Pathfinder. Charges made against Garrisoning units never benefit from the Thunderous Charge special rule.",
-      "value_translated": null,
+      "value_translated": "Une unité en garnison ne peut être attaquée depuis l’extérieur du château que si l’unité attaquante possède un équipement de siège lui permettant de le faire, ou si elle a une Hauteur de 5 ou plus. Si l’unité attaquante fait partie des types d’unités capables d’attaquer le mur lui-même (voir Endommager un Mur de Château), elle peut choisir de le faire. Les charges contre des unités en garnison sur les sections de mur depuis l’intérieur du château ne nécessitent pas que l’unité attaquante possède un équipement de siège. Cependant, cela sera considéré comme une charge Entravée, même si l’unité attaquante possède Tout-terrain ou Éclaireur. Les charges effectuées contre des unités en garnison ne bénéficient jamais de la règle spéciale Charge fracassante.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1647,7 +1647,7 @@
     },
     {
       "value_en": "A Hero is a unit of a single model. It can be an officer, a sorcerer or even a mighty lord of its race. Heroes vary in size between different races, and can ride many types of mount or even monstrous war-beasts, so Heroes always have a tag in brackets specifying what type of unit they belong to. This helps when determining their Height and other special rules that are relevant to that type.",
-      "value_translated": null,
+      "value_translated": "Un Héros est une unité composée d’un seul modèle. Il peut s’agir d’un officier, d’un sorcier, voire d’un puissant seigneur de sa lignée. Les Héros varient en taille selon les différentes races, et peuvent monter divers types de montures ou même de monstrueuses bêtes de guerre. Ainsi, les Héros portent toujours une étiquette entre parenthèses spécifiant le type d’unité auquel ils appartiennent. Cela aide à déterminer leur Hauteur et à appliquer d’autres règles spéciales pertinentes pour ce type.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -1655,7 +1655,7 @@
     },
     {
       "value_en": "A Monster is a unit of a single model – a large and powerful mythical beast or magical construct.",
-      "value_translated": null,
+      "value_translated": "Un Monstre est une unité composée d’un seul modèle – une créature mythique grande et puissante, ou une construction magique.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -1663,7 +1663,7 @@
     },
     {
       "value_en": "A Player generates a new Command Pool at the start of each Turn excluding Turn 7:",
-      "value_translated": null,
+      "value_translated": "Un joueur génère une nouvelle réserve de Commandement au début de chaque Tour, à l'exception du Tour 7.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -1671,7 +1671,7 @@
     },
     {
       "value_en": "A Titan is a unit of a single model – a being of both gargantuan size and strength.",
-      "value_translated": null,
+      "value_translated": "Un Titan est une unité composée d’un seul modèle – un être à la fois de taille et de force gargantuesques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -1679,7 +1679,7 @@
     },
     {
       "value_en": "A Unit can only pick up one Loot Counter from each pile per Turn (for example it would take a unit 3 Turns to pick up the 3 Counter from the central pile).",
-      "value_translated": null,
+      "value_translated": "Une unité ne peut ramasser qu'un seul jeton de butin par pile par tour (par exemple, il faudrait à une unité 3 tours pour ramasser les 3 jetons de la pile centrale).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -1687,7 +1687,7 @@
     },
     {
       "value_en": "A War Engine is a unit of a single machine, like a catapult or bolt thrower. A number of decorative crew models may be arranged around the machine in a suitably entertaining fashion.",
-      "value_translated": null,
+      "value_translated": "Une Machine de guerre est une unité composée d’une seule machine, comme une catapulte ou un canon. Plusieurs figurines décoratives de l'équipage peuvent être disposées autour de la machine de manière à la rendre visuellement intéressante.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -1695,7 +1695,7 @@
     },
     {
       "value_en": "A Wavered unit that is engaged on a single flank may disengage by issuing a change facing order and may end the change facing order within 1” of enemy units.",
-      "value_translated": null,
+      "value_translated": "Une unité déstabilisée engagée sur un seul flanc peut se désengager en donnant un ordre de changement de direction et peut terminer cet ordre de changement de direction à 1” des unités ennemies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -1703,7 +1703,7 @@
     },
     {
       "value_en": "A charging unit must make contact with a wall section if they intend to attack a unit Garrisoning it.",
-      "value_translated": null,
+      "value_translated": "Une unité qui charge doit entrer en contact avec une section de mur si elle a l'intention d'attaquer une unité en garnison sur ce mur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2542,7 +2542,7 @@
     },
     {
       "value_en": "Army Composition",
-      "value_translated": null,
+      "value_translated": "Composition de l'Armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2827,7 +2827,7 @@
     },
     {
       "value_en": "Attacker Objectives",
-      "value_translated": null,
+      "value_translated": "Objectifs de l'Attaquant",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2835,7 +2835,7 @@
     },
     {
       "value_en": "Attacks (Att)",
-      "value_translated": null,
+      "value_translated": "Attaques (Att)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -2843,7 +2843,7 @@
     },
     {
       "value_en": "Attacks are never tripled versus a Garrisoning unit.",
-      "value_translated": null,
+      "value_translated": "Les attaques ne sont jamais triplées contre une unité en garnison.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2851,7 +2851,7 @@
     },
     {
       "value_en": "Aura",
-      "value_translated": null,
+      "value_translated": "Aura",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -2859,7 +2859,7 @@
     },
     {
       "value_en": "Axe of the Giant Slayer",
-      "value_translated": null,
+      "value_translated": "Hache du Tueur de Géants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3884,7 +3884,7 @@
     },
     {
       "value_en": "Defender Objectives",
-      "value_translated": null,
+      "value_translated": "Objectifs du Défenseur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7269,7 +7269,7 @@
     },
     {
       "value_en": "Kings of War is a mass-battle fantasy wargame set in the world of Pannithor. Rank upon rank of soldiers march into bloody combat, while winged demons battle fiery dragons overhead. From launching devastating bombardments of artillery, to tactically out-flanking your opponent's forces, Kings of War is a game of exciting, expansive fantasy battles.",
-      "value_translated": null,
+      "value_translated": "Kings of War est un jeu de guerre fantastique à grande échelle se déroulant dans le monde de Pannithor. Des rangs entiers de soldats marchent vers un combat sanglant, tandis que des démons ailés affrontent des dragons enflammés dans les airs. Des bombardements dévastateurs d'artillerie, aux manœuvres tactiques visant à contourner les forces ennemies, Kings of War est un jeu de batailles fantastiques excitantes de grande envergure.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -7278,7 +7278,7 @@
     },
     {
       "value_en": "Kings of War is played in Rounds, with each player taking a Turn during each Round. Both players roll a die each to decide who has the first Turn – the player winning the die roll decides who goes first. That player goes through the three phases listed below, concluding their Turn. The opposing player then takes their Turn. When both players have finished their Turns, Round 1 is complete. Players continue alternating Turns and completing Rounds this way until an agreed time limit or Round limit is reached. This is usually determined by the scenario being played (see",
-      "value_translated": null,
+      "value_translated": "Kings of War se joue en Tours, durant lesquels chaque joueur joue un Tour complet. Les deux joueurs lancent un dé pour déterminer qui commence – le joueur gagnant le lancer de dé décide qui commence. Ce joueur passe par les trois phases listées ci-dessous, concluant ainsi son Tour. Le joueur adverse prend ensuite son Tour. Lorsque les deux joueurs ont terminé leurs Tours, le Tour 1 est terminé. Les joueurs alternent ensuite les Tours et complètent les Tours de cette manière jusqu'à ce qu'une limite de temps ou de Tours soit atteinte. Cela est généralement déterminé par le scénario joué (voir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -10229,7 +10229,7 @@
     },
     {
       "value_en": "Rout",
-      "value_translated": null,
+      "value_translated": "Déroute",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10238,7 +10238,7 @@
     },
     {
       "value_en": "Rout for +5 pts (per up to a max",
-      "value_translated": null,
+      "value_translated": "Déroute pour +5 pts (pour un max",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10246,7 +10246,7 @@
     },
     {
       "value_en": "Sacred Horn",
-      "value_translated": null,
+      "value_translated": "Corne Sacrée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10254,7 +10254,7 @@
     },
     {
       "value_en": "Sacred Stronghold [70pts]",
-      "value_translated": null,
+      "value_translated": "Forteresse Sacrée [70pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -10270,7 +10270,7 @@
     },
     {
       "value_en": "Salt the Earth: Use two Objective Markers.",
-      "value_translated": null,
+      "value_translated": "Saler la Terre: Utilisez deux marqueurs d'objectif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -10278,7 +10278,7 @@
     },
     {
       "value_en": "Scenario",
-      "value_translated": null,
+      "value_translated": "Scénario",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -10286,7 +10286,7 @@
     },
     {
       "value_en": "Scenarios",
-      "value_translated": null,
+      "value_translated": "Scénarios",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10470,7 +10470,7 @@
     },
     {
       "value_en": "Shattering for +10 pts",
-      "value_translated": null,
+      "value_translated": "Dispersion pour +10pts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10478,7 +10478,7 @@
     },
     {
       "value_en": "Shattering, Hits on a 5+ against units in Cover or with Stealthy.",
-      "value_translated": null,
+      "value_translated": "Dispersion, Touche sur un 5+ contre les unités à couvert ou avec Furtif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10486,7 +10486,7 @@
     },
     {
       "value_en": "Shooting",
-      "value_translated": null,
+      "value_translated": "Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -10494,7 +10494,7 @@
     },
     {
       "value_en": "Shooting & Hitting the Target",
-      "value_translated": null,
+      "value_translated": "Tirer et Atteindre la Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10503,7 +10503,7 @@
     },
     {
       "value_en": "Shroud of the Saint",
-      "value_translated": null,
+      "value_translated": "Voile du Saint",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10511,7 +10511,7 @@
     },
     {
       "value_en": "Shrouded in Darkness [70pts]",
-      "value_translated": null,
+      "value_translated": "Enveloppé dans les Ténèbres [70pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -10519,7 +10519,7 @@
     },
     {
       "value_en": "Sidestep",
-      "value_translated": null,
+      "value_translated": "Esquive latérale",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -10527,7 +10527,7 @@
     },
     {
       "value_en": "Siege Scenarios",
-      "value_translated": null,
+      "value_translated": "Scénarios de Siège",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10536,7 +10536,7 @@
     },
     {
       "value_en": "Siege Towers",
-      "value_translated": null,
+      "value_translated": "Tours de siège",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -10608,7 +10608,7 @@
     },
     {
       "value_en": "Smoke & Mirrors: Use one of each value of Bluff Counter.",
-      "value_translated": null,
+      "value_translated": "Fumée et Miroirs: Utilisez un jeton de bluff de chaque valeur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -10616,7 +10616,7 @@
     },
     {
       "value_en": "Smoke and Mirrors",
-      "value_translated": null,
+      "value_translated": "Fumée et Miroirs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -14464,7 +14464,7 @@
     },
     {
       "value_en": "a.",
-      "value_translated": "TEST",
+      "value_translated": null,
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -16064,7 +16064,7 @@
     },
     {
       "value_en": "l. 12: Salt the Earth",
-      "value_translated": null,
+      "value_translated": "l. 12: Saler la Terre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16081,7 +16081,7 @@
     },
     {
       "value_en": "m. Hold the Line!",
-      "value_translated": null,
+      "value_translated": "m. Tenez la ligne!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16106,7 +16106,7 @@
     },
     {
       "value_en": "n. Stockpile",
-      "value_translated": null,
+      "value_translated": "n. Réserve",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16123,7 +16123,7 @@
     },
     {
       "value_en": "o. Wrack and Ruin",
-      "value_translated": null,
+      "value_translated": "o. Destruction et Ruine",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16131,7 +16131,7 @@
     },
     {
       "value_en": "of 22)",
-      "value_translated": null,
+      "value_translated": "de 22)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
