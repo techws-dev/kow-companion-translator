@@ -32,32 +32,24 @@ db.version(1).stores({
 
     for (let element of translatableElements) {
         if (element.children.length === 0 && element.innerText.trim() !== '') {
-            let item = translations.find(text => text.value_en === element.innerText.trim());
+            let valueToTranslate = element.innerText.trim();
+            let item = translations.find(text => text.value_en === valueToTranslate);
             
-            if (devMode === '1' && item === undefined) {
-                insertNewText(element.innerText.trim());
-            } else if (item.value_translated !== null) {
-                element.innerHTML = element.innerHTML.replace(element.innerText.trim(), item.value_translated);
+            handleDevMode(valueToTranslate);
+            if (item !== undefined && item.value_translated !== null) {
+                element.innerHTML = element.innerHTML.replace(valueToTranslate, item.value_translated);
             }
-            if (devMode === '1' && (item === undefined || item.value_translated === null)) {
-                setElementTranslatable(element, element.innerText.trim());
-            }
-
         } else if (element.children.length > 0) {
             let child = element.firstChild
             while (child) {
                 if (child.nodeType === 3 && child.data.trim() !== '') {
-                    let item = translations.find(text => text.value_en === child.data.trim());
-
-                    if (devMode === '1' && item === undefined) {
-                        insertNewText(child.data.trim());
-                    } else if (item.value_translated !== null) {
-                        child.data = child.data.replace(child.data.trim(), item.value_translated);
+                    let valueToTranslate = child.data.trim();
+                    let item = translations.find(text => text.value_en === valueToTranslate);
+                    
+                    handleDevMode(valueToTranslate);
+                    if (item !== undefined && item.value_translated !== null) {
+                        child.data = child.data.replace(valueToTranslate, item.value_translated);
                     }
-                    if (devMode === '1' && (item === undefined || item.value_translated === null)) {
-                        setElementTranslatable(element, child.data.trim());
-                    }
-
                 }
                 child = child.nextSibling
             }
@@ -68,6 +60,16 @@ db.version(1).stores({
 // ------------------------ //
 // -- DEV MODE FUNCTIONS -- //
 // ------------------------ //
+
+function handleDevMode(value) {
+    if (devMode === '1') {
+        if (item === undefined) {
+            insertNewText(value);
+        } else if (item.value_translated === null) {
+            setElementTranslatable(value);
+        }
+    }
+}
 
 function insertNewText(value) {
     db.texts.put({
