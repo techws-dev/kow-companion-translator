@@ -5,12 +5,14 @@ db.version(1).stores({
     texts: `
       value_en,
       value_translated,
-      locale`,
+      locale,
+      *urls`,
 });
 
 (async function() {
     var currentLanguage = await chrome.storage.local.get(["KoWCompanionTranslatorLanguage"]).then(result => result.KoWCompanionTranslatorLanguage) || null;
     var devMode = await chrome.storage.local.get(["KoWCompanionTranslatorDevMode"]).then(result => result.KoWCompanionTranslatorDevMode) || null;
+    var url = location.href.replace(location.hash,'');
 
     if (currentLanguage !== 'fr') {
         return;
@@ -27,15 +29,21 @@ db.version(1).stores({
     let translatableElements = pageContent
         .querySelector('.units-row, .rules_contents')
         .querySelectorAll('li, em, strong, b, i, a, p, h1, h2, h3, h4, h5, h6, span, th, td');
-        
-    let translations = await db.texts.where({'locale': 'fr'}).toArray();
+    
+    let translations = await db.texts
+        .where('locale')
+        .equals('fr')
+        .and(function(text) { return text.urls.includes(url); })
+        .toArray();
+
+    console.log(translations);
 
     for (let element of translatableElements) {
         if (element.children.length === 0 && element.innerText.trim() !== '') {
             let valueToTranslate = element.innerText.trim();
             let item = translations.find(text => text.value_en === valueToTranslate);
             
-            handleDevMode(valueToTranslate);
+            await handleDevMode(devMode, url, element, item, valueToTranslate);
             if (item !== undefined && item.value_translated !== null) {
                 element.innerHTML = element.innerHTML.replace(valueToTranslate, item.value_translated);
             }
@@ -46,7 +54,7 @@ db.version(1).stores({
                     let valueToTranslate = child.data.trim();
                     let item = translations.find(text => text.value_en === valueToTranslate);
                     
-                    handleDevMode(valueToTranslate);
+                    await handleDevMode(devMode, url, element, item, valueToTranslate);
                     if (item !== undefined && item.value_translated !== null) {
                         child.data = child.data.replace(valueToTranslate, item.value_translated);
                     }
@@ -61,21 +69,34 @@ db.version(1).stores({
 // -- DEV MODE FUNCTIONS -- //
 // ------------------------ //
 
-function handleDevMode(value) {
+async function handleDevMode(devMode, url, element, item, value) {
     if (devMode === '1') {
         if (item === undefined) {
-            insertNewText(value);
-        } else if (item.value_translated === null) {
-            setElementTranslatable(value);
+            // check if exists with different url
+            let item = await db.texts
+                .where({locale: 'fr', value_en: value})
+                .first();
+            
+            if (item === undefined) {
+                insertNewText(value, url);
+            } else if(!item.urls.includes(url)) {
+                await db.texts.update(item.value_en, {
+                    'urls': [...new Set(item.urls.concat([url]))]
+                });
+            }
+        }
+        if (item === undefined || item.value_translated === null) {
+            setElementTranslatable(element, value);
         }
     }
 }
 
-function insertNewText(value) {
+function insertNewText(value, url) {
     db.texts.put({
         'value_en': value,
         'value_translated': null,
-        'locale': 'fr'
+        'locale': 'fr',
+        'urls': [url]
     });
 }
 
@@ -88,10 +109,8 @@ function setElementTranslatable(element, value) {
 
         if (translation && translation.trim() !== '') {
             translation = translation.trim();
-            db.texts.put({
-                'value_en': value,
-                'value_translated': translation,
-                'locale': 'fr'
+            db.texts.update(value, {
+                'value_translated': translation
             }).then(() => {
                 location.reload(true);
             });
