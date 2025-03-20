@@ -355,7 +355,7 @@
     },
     {
       "value_en": ". Unit Strength represents the presence a unit exerts on its surroundings and its ability to control the battlefield. It’s frequently used when scoring scenarios to determine the winner of a game.",
-      "value_translated": ". La Force d’Unité représente l’influence qu’une unité exerce sur son environnement et sa capacité à contrôler le champ de bataille. Elle est souvent utilisée pour le comptage des points dans les scénarios afin de déterminer le gagnant d’une partie.",
+      "value_translated": ". La Puissance d’Unité représente l’influence qu’une unité exerce sur son environnement et sa capacité à contrôler le champ de bataille. Elle est souvent utilisée pour le comptage des points dans les scénarios afin de déterminer le gagnant d’une partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -1928,7 +1928,7 @@
     },
     {
       "value_en": "Accuracy",
-      "value_translated": null,
+      "value_translated": "Précision",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -1936,7 +1936,7 @@
     },
     {
       "value_en": "Add 1 to Unit Strength",
-      "value_translated": null,
+      "value_translated": "Ajoutez 1 à la Puissance d'Unité",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -1944,7 +1944,7 @@
     },
     {
       "value_en": "Add 1 to Unit Strength.",
-      "value_translated": null,
+      "value_translated": "Ajoutez 1 à la Puissance d'Unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -1952,7 +1952,7 @@
     },
     {
       "value_en": "Add 13 to both Waver and Rout values of the Regiment.",
-      "value_translated": null,
+      "value_translated": "Ajoutez 13 aux valeurs d'Ébranlement et de Déroute du Régiment.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -1960,7 +1960,7 @@
     },
     {
       "value_en": "Add 2 to Unit Strength",
-      "value_translated": null,
+      "value_translated": "Ajoutez 2 à la Puissance d'Unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -1968,7 +1968,7 @@
     },
     {
       "value_en": "Add 3” of Range to a single non Unique spell ranged attack until the end of the Turn.",
-      "value_translated": null,
+      "value_translated": "Ajoutez 3” de portée à une seule attaque à distance de sort non Unique jusqu'à la fin du Tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -1976,7 +1976,7 @@
     },
     {
       "value_en": "Add 6 to both Waver and Rout values of the Regiment.",
-      "value_translated": null,
+      "value_translated": "Ajoutez 6 aux valeurs d'Ébranlement et de Déroute du Régiment.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -1984,7 +1984,7 @@
     },
     {
       "value_en": "Add 7 to both Waver and Rout values of the Regiment.",
-      "value_translated": null,
+      "value_translated": "Ajoutez 7 aux valeurs d'Ébranlement et de Déroute du Régiment.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -1992,7 +1992,7 @@
     },
     {
       "value_en": "Add 7 to both Waver and Rout values.",
-      "value_translated": null,
+      "value_translated": "Ajoutez 7 aux valeurs d'Ébranlement et de Déroute.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -2000,7 +2000,7 @@
     },
     {
       "value_en": "Add 8 to the number of attacks",
-      "value_translated": null,
+      "value_translated": "Ajoutez 8 au nombre d'attaques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -2040,7 +2040,7 @@
     },
     {
       "value_en": "Additional Attacks",
-      "value_translated": null,
+      "value_translated": "Attaques supplémentaires",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2049,7 +2049,7 @@
     },
     {
       "value_en": "Additional Composition Rules",
-      "value_translated": null,
+      "value_translated": "Règles de Composition Supplémentaires",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2074,7 +2074,7 @@
     },
     {
       "value_en": "Advance",
-      "value_translated": null,
+      "value_translated": "Avancer",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -2243,7 +2243,7 @@
     },
     {
       "value_en": "Alchemist's Curse",
-      "value_translated": null,
+      "value_translated": "Malédiction de l'Alchimiste",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -2561,7 +2561,7 @@
     },
     {
       "value_en": "Army Selection",
-      "value_translated": null,
+      "value_translated": "Sélection des unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2570,7 +2570,7 @@
     },
     {
       "value_en": "Army Selection and Composition",
-      "value_translated": null,
+      "value_translated": "Sélection et Composition de l'Armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
