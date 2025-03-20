@@ -1711,7 +1711,7 @@
     },
     {
       "value_en": "A diverse abundance of terrain becomes more important in smaller games where small imbalances in lists can have a big impact. Perhaps representing a small hamlet, or a farm with outbuildings. As such, it’s recommended that Ambush! games be played on a more terrain-crowded table than would be the case in traditional games. Players should make sure there are few, if any, clear lanes where LoS can be drawn across the entire table, to keep spells and other ranged attacks from dominating the game. Furthermore, blocking terrain and obstacles should be utilized to keep units with the Pathfinder special rule from dominating the playing area.",
-      "value_translated": null,
+      "value_translated": "Une abondance variée de décors devient plus importante dans les petites parties, où de légers déséquilibres dans les listes peuvent avoir un impact significatif. Cela peut représenter un petit hameau ou une ferme avec des dépendances. Ainsi, il est recommandé que les parties de Kings of War: Embuscade! se jouent sur une table plus densément couverte de décors que dans les parties traditionnelles. Les joueurs doivent veiller à ce qu'il y ait peu, voire aucune, ligne dégagée permettant de tracer une ligne de vue (LoS) à travers toute la table, afin d'éviter que les sorts et autres attaques à distance ne dominent la partie. De plus, les terrains bloquants et les obstacles doivent être utilisés pour empêcher les unités dotées de la règle spéciale Éclaireur de dominer le champ de bataille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -1719,7 +1719,7 @@
     },
     {
       "value_en": "A firing unit that is currently in base contact with an Obstacle, ignores it for determining whether an enemy unit is an Obscured Target, unless the enemy unit is also in contact with the same Obstacle.",
-      "value_translated": null,
+      "value_translated": "Une unité effectuant un tir et étant actuellement en contact socle à socle avec un Obstacle l’ignore lorsqu’elle détermine si une unité ennemie est une Cible Obscurcie, sauf si l’unité ennemie est également en contact avec le même Obstacle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -1727,7 +1727,7 @@
     },
     {
       "value_en": "A firing unit that received a Halt order in its Movement phase ignores any piece of Difficult Terrain that it is currently within, or in base contact with, for determining whether an enemy unit is an Obscured Target, unless the enemy unit is also touching or within the same piece of Difficult Terrain.",
-      "value_translated": null,
+      "value_translated": "Une unité effectuant un tir et ayant reçu un ordre Halte pendant sa phase de Mouvement ignore tout élément de Terrain Difficile dans lequel elle se trouve ou avec lequel elle est en contact socle à socle lorsqu’elle détermine si une unité ennemie est une Cible Obscurcie, sauf si l’unité ennemie touche ou se trouve également dans le même Terrain Difficile.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -1735,7 +1735,7 @@
     },
     {
       "value_en": "A good commander is able to bring the best out in their soldiers with expert leadership and tactical acumen. To simulate this we use Command Points to represent your ability to get the most from your army. The number of swords you roll on your Command Dice equates to the Command Points you have and forms your Command Pool. Turning the dice (e.g. 3 to 2, 1 to blank), is a useful way to track the Command Points you are spending.",
-      "value_translated": null,
+      "value_translated": "Un bon commandant sait tirer le meilleur de ses soldats grâce à un leadership exemplaire et une grande acuité tactique. Pour simuler cela, nous utilisons des Points de Commandement afin de représenter votre capacité à optimiser les performances de votre armée. Le nombre d’icônes d’épée obtenues sur vos Dés de Commandement correspond aux Points de Commandement générés et constitue votre Réserve de Commandement. Faire pivoter les dés (par exemple de 3 à 2, de 1 à vide) est une méthode pratique pour suivre les Points de Commandement dépensés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -1743,7 +1743,7 @@
     },
     {
       "value_en": "A maximum of 2 Tower Artillery may be selected in a defending force and do not need to be unlocked by a Regiment, Horde or Legion of ‘regular’ units.",
-      "value_translated": null,
+      "value_translated": "Un maximum de 2 Artilleries de Tour peut être sélectionné dans une force défensive et elles n'ont pas besoin d'être débloquées par un Régiment, une Horde ou une Légion d’unités 'régulières'",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1751,7 +1751,7 @@
     },
     {
       "value_en": "A maximum of 3 Bomb Wagons and 3 Siege Artillery may be chosen in an Attacker’s force but these do not need to be unlocked by a Regiment, Horde or Legion of ‘regular’ units.",
-      "value_translated": null,
+      "value_translated": "Un maximum de 3 Chariots Explosifs et 3 Artilleries de Siège peut être sélectionné dans une force attaquante, mais ils n'ont pas besoin d'être débloqués par un Régiment, une Horde ou une Légion d’unités 'régulières'",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1759,7 +1759,7 @@
     },
     {
       "value_en": "A normal castle is comprised of three wall sections and two towers. The walls consist of one front section which must contain a gate/door, and two side sections. While there is no standard castle size, we recommend that each wall section should be roughly 12” length, and have enough space on top to comfortably place a horde of Infantry. For particularly large sieges you may wish to increase the amount of sections used, or play with larger sections. A tower should be placed at each end of the front wall section, they should be roughly the same size as the depth of the walls. Being large enough to support a Troop of Infantry is ideal.",
-      "value_translated": null,
+      "value_translated": "Un château normal est composé de trois sections de mur et de deux tours. Les murs se composent d’une section avant qui doit contenir une porte ou une porte d'entrée, et de deux sections latérales. Bien qu'il n'y ait pas de taille standard pour un château, nous recommandons que chaque section de mur mesure environ 30 cm de longueur, et ait suffisamment d'espace sur le dessus pour y placer confortablement une horde d'Infanterie. Pour les sièges particulièrement importants, vous pouvez envisager d'augmenter le nombre de sections utilisées, ou de jouer avec des sections plus grandes. Une tour devrait être placée à chaque extrémité de la section de mur avant, elles devraient être à peu près de la même taille que la profondeur des murs. Il est idéal qu'elles soient suffisamment grandes pour supporter une Troupe d'Infanterie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1767,7 +1767,7 @@
     },
     {
       "value_en": "A number of factors can affect the chance of hitting a target:",
-      "value_translated": null,
+      "value_translated": "Plusieurs facteurs peuvent influencer les chances de toucher une cible:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6",
@@ -1776,7 +1776,7 @@
     },
     {
       "value_en": "A number of scenarios require you to place an Objective Marker or Loot Counter in the centre of the board. If you are unable to do so due to Blocking Terrain, it should be placed along the centre line of the table as close to the centre as possible, remaining at least 3” from Blocking Terrain.",
-      "value_translated": null,
+      "value_translated": "Dans certains scénarios, vous devez placer un Marqueur d'Objectif ou un Jeton de Butin au centre du plateau. Si vous ne pouvez pas le faire en raison d'un Terrain Bloquant, il doit être placé le long de la ligne centrale de la table, aussi près du centre que possible, en restant à au moins 3 pouces du Terrain Bloquant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -1784,7 +1784,7 @@
     },
     {
       "value_en": "A player goes through the following three phases in their Turn:",
-      "value_translated": null,
+      "value_translated": "Un joueur passe par les trois phases suivantes lors de son Tour:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -1792,7 +1792,7 @@
     },
     {
       "value_en": "A ranged weapon’s own profile is composed of several different elements. At the very least it will display its name and range but may also indicate a different number of dice to roll for its attacks to be used instead of the unit’s own Att stat. Special rules that affect the weapon are also included and only apply to that weapon when it is used.",
-      "value_translated": null,
+      "value_translated": "Le profil d'une arme à distance est composé de plusieurs éléments différents. Au minimum, il affichera son nom et sa portée, mais pourra également indiquer un nombre différent de dés à lancer pour ses attaques, à utiliser à la place de la valeur d'Attaque (Att) de l'unité. Les règles spéciales qui affectent l'arme sont également incluses et ne s'appliquent qu'à cette arme lorsqu'elle est utilisée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -1800,7 +1800,7 @@
     },
     {
       "value_en": "A spellcaster can only purchase a version of the spell up to their spellcaster tier; it can purchase below its tier, but not above. i.e., a tier 1 spellcaster can purchase tier 1 spells, but not tier 2 or 3; whereas a tier 3 spellcaster can purchase tier 1, 2 and 3 spells.",
-      "value_translated": null,
+      "value_translated": "Un lanceur de sorts ne peut acheter une version du sort que jusqu'à son niveau de lanceur de sorts ; il peut acheter des sorts en dessous de son niveau, mais pas au-dessus. Par exemple, un lanceur de sorts de niveau 1 peut acheter des sorts de niveau 1, mais pas de niveau 2 ou 3 ; tandis qu'un lanceur de sorts de niveau 3 peut acheter des sorts de niveau 1, 2 et 3.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -1808,7 +1808,7 @@
     },
     {
       "value_en": "A spellcasting tier is listed in the special rules section of each unit that is capable of casting spells. Tiers give a rough idea of the relative power of any given caster, where a higher number represents a more powerful or knowledgeable sorcerer, and a lower number may represent a novice, or even a unit with a simple innate magical ability. A unit must have a spellcasting tier to be considered a spellcaster. These tiers will be used in future supplements.",
-      "value_translated": null,
+      "value_translated": "Un niveau de lancement de sorts est indiqué dans la section des règles spéciales de chaque unité capable de lancer des sorts. Les niveaux donnent une idée générale de la puissance relative de chaque lanceur de sorts, où un chiffre plus élevé représente un sorcier plus puissant ou plus expérimenté, tandis qu'un chiffre plus bas peut représenter un novice, ou même une unité avec une simple capacité magique innée. Une unité doit avoir un niveau de lancement de sorts pour être considérée comme un lanceur de sorts. Ces niveaux seront utilisés dans les futurs suppléments.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -1816,7 +1816,7 @@
     },
     {
       "value_en": "A tower may only be Garrisoned by a single Hero (Inf), Hero (Large Inf), Infantry/Heavy Infantry, Troop or Large/ Monstrous Infantry Regiment. The tower itself may not be directly targeted. However, if all adjoining wall sections are Routed (destroyed), the tower, along with any Garrisoning unit, is removed from play and replaced with a suitable obstacle (generally a large pile of rubble!).",
-      "value_translated": null,
+      "value_translated": "Une tour ne peut être occupée que par un seul Héros (Inf), Héros (Infanterie Lourde), Infanterie/Infanterie Lourde, Troupe ou Régiment d'Infanterie Lourde/Monstrueuse. La tour elle-même ne peut pas être directement ciblée. Cependant, si toutes les sections de mur adjacentes sont Ébranlées (détruites), la tour, ainsi que toute unité en garnison (occupant la tour), est retirée du jeu et remplacée par un obstacle approprié (généralement un grand tas de décombres !).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1824,7 +1824,7 @@
     },
     {
       "value_en": "A unit can pick a single Enemy unit as a target for its ranged attacks as long as all the following conditions are met:",
-      "value_translated": null,
+      "value_translated": "Une unité peut choisir une seule unité ennemie comme cible pour ses attaques à distance tant que toutes les conditions suivantes sont remplies:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -1832,7 +1832,7 @@
     },
     {
       "value_en": "A unit can sometimes be “boxed in”, stopping it from doing anything but back up (and sometimes not even that!). The positioning of an enemy unit might mean that none of the viable targets that the unit should be able to charge can be because the charging unit cannot align to any of them, such as in the example below.",
-      "value_translated": null,
+      "value_translated": "Une unité peut parfois être 'enfermée', l'empêchant de faire autre chose que de se replier (et parfois même cela n'est pas possible !). Le positionnement d'une unité ennemie peut faire en sorte qu'aucune des cibles viables que l'unité devrait pouvoir charger ne soit accessible, car l'unité qui charge ne peut s'aligner sur aucune d'entre elles, comme dans l'exemple ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -1840,7 +1840,7 @@
     },
     {
       "value_en": "A unit cannot move through any other units while regrouping, though it can pivot through them as long as it ends clear. Once the Regroup move has been carried out, nudge the unit out of base contact with any enemy units it may be touching, so that it’s clear they are not Engaged.",
-      "value_translated": null,
+      "value_translated": "Une unité ne peut pas traverser d'autres unités lorsqu'elle se regroupe, bien qu'elle puisse pivoter autour d'elles tant qu'elle termine son mouvement en dehors de leur contact. Une fois le mouvement de regroupement effectué, déplacez légèrement l'unité pour la sortir du contact de base avec toute unité ennemie qu'elle pourrait toucher, afin qu'il soit clair qu'elle n'est pas engagée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -1848,7 +1848,7 @@
     },
     {
       "value_en": "A unit from the Attacking side may not move or charge through a gate from the outside of the castle while it is still intact. However, if they charge the front castle wall section and finish their move in base contact with the gate, they may choose to attack it. Unlike a castle wall section, any unit may attack and cause damage to a gate in Melee.",
-      "value_translated": null,
+      "value_translated": "Une unité de l'armée attaquante ne peut pas se déplacer ni charger à travers une porte depuis l'extérieur du château tant qu'elle est intacte. Cependant, si elle charge la section avant du mur du château et termine son mouvement en contact de base avec la porte, elle peut choisir de l'attaquer. Contrairement à une section de mur de château, n'importe quelle unité peut attaquer et causer des dégâts à une porte en mêlée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1856,7 +1856,7 @@
     },
     {
       "value_en": "A unit is Engaged when it is in base contact with an enemy unit that it 1) Charged or 2) was Charged by.",
-      "value_translated": null,
+      "value_translated": "Une unité est Engagée lorsqu'elle est en contact de base avec une unité ennemie qu'elle 1) a chargée ou 2) a été chargée par.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -1864,7 +1864,7 @@
     },
     {
       "value_en": "A unit may not hold more than one Loot Counter for purposes of scoring.",
-      "value_translated": null,
+      "value_translated": "Une unité ne peut pas détenir plus d'un Marqueur de Butin pour le comptage des points.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -1872,7 +1872,7 @@
     },
     {
       "value_en": "A unit may only benefit from a single Command Order, including Orders with a persistent effect, per Turn. If a unit could be affected by multiple Orders, it must choose which to benefit from before any actions are made or dice are rolled. All Orders must be declared before any relevant dice are rolled. To use a Command Order on a unit, spend the appropriate Command Point(s) for the Order and then apply the listed effects. Each Command Order only lasts until the End of the current Turn unless otherwise stated.",
-      "value_translated": null,
+      "value_translated": "Une unité ne peut bénéficier que d'un seul Ordre de Commandement, y compris les Ordres ayant un effet persistant, par Tour. Si une unité peut être affectée par plusieurs Ordres, elle doit choisir lequel bénéficier avant toute action ou jet de dés. Tous les Ordres doivent être déclarés avant que les dés importants ne soient lancés. Pour utiliser un Ordre de Commandement sur une unité, dépensez les Points de Commandement appropriés pour l'Ordre, puis appliquez les effets listés. Chaque Ordre de Commandement ne dure que jusqu'à la fin du Tour en cours, sauf indication contraire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -1880,7 +1880,7 @@
     },
     {
       "value_en": "A unit that is Counter Charging is never Hindered, whether by terrain, special rules or any other reason.",
-      "value_translated": null,
+      "value_translated": "Une unité qui effectue une Contre-charge n'est jamais Entravée, que ce soit par le terrain, des règles spéciales ou toute autre raison.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -1888,7 +1888,7 @@
     },
     {
       "value_en": "A unit that is Garrisoning a wall section may move to an adjoining empty wall section as its movement order for the Turn - simply pick up the unit and place it in the adjoining section, facing in or out as required. The wall section being moved to must not already be Garrisoned by another unit. Once the unit has moved to the adjoining wall section, it may not make any further moves that Turn.",
-      "value_translated": null,
+      "value_translated": "Une unité qui occupe une section de mur peut se déplacer vers une section de mur adjacente vide en tant qu'ordre de mouvement pour le tour – il suffit de soulever l'unité et de la placer dans la section adjacente, en l'orientant vers l'intérieur ou l'extérieur selon les besoins. La section de mur vers laquelle elle se déplace ne doit pas déjà être occupée par une autre unité. Une fois que l'unité a déplacé vers la section de mur adjacente, elle ne peut effectuer aucun autre mouvement durant ce tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1896,7 +1896,7 @@
     },
     {
       "value_en": "A unit with the Frozen special rule has -1 Sp until the end of its next turn, at which point the special rule is removed from the unit. No unit may have its speed reduced by more than -1 in a given turn due to having the Frozen special rule (although other modifiers may still apply). Frozen has no effect if the unit’s Sp is already 4 or below.",
-      "value_translated": null,
+      "value_translated": "Une unité ayant la règle spéciale Gelée subit une réduction de -1 en Vitesse jusqu'à la fin de son prochain tour, moment où la règle spéciale est retirée de l'unité. Aucune unité ne peut voir sa Vitesse réduite de plus de -1 lors d'un même tour en raison de la règle spéciale Gelée (bien que d'autres modificateurs puissent encore s'appliquer). La règle Gelée n'a aucun effet si la Vitesse de l'unité est déjà de 4 ou moins.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -1904,7 +1904,7 @@
     },
     {
       "value_en": "A unit with the Individual special rule also has the Nimble special rule, which can be found in the next section.",
-      "value_translated": null,
+      "value_translated": "Une unité avec la règle spéciale Indépendant possède également la règle spéciale Agile, qui se trouve dans la section suivante.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -1912,7 +1912,7 @@
     },
     {
       "value_en": "A unit with the Individual special rule also has the Steady Aim special rule, which can be found in the next section.",
-      "value_translated": null,
+      "value_translated": "Une unité avec la règle spéciale Indépendant possède également la règle spéciale Tir Stable, qui se trouve dans la section suivante.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -1920,7 +1920,7 @@
     },
     {
       "value_en": "A unit’s LoS can never pass through the unit itself.",
-      "value_translated": null,
+      "value_translated": "La ligne de vue d'une unité ne peut jamais traverser l'unité elle-même.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -2008,7 +2008,7 @@
     },
     {
       "value_en": "Add some mayhem with these hungry, marauding titans to any scenario. Terrain is set up as normal, but once all terrain has been placed, add a Giant in the exact centre of the board, with a Giant on either side - each halfway between the central Giant and the edges of the table along the centre line (i.e. every 18” for a 6’x4’ table, or every 12” for a 4’x4’ table).",
-      "value_translated": null,
+      "value_translated": "Ajoutez un peu de chaos avec ces titans affamés et maraudeurs à n'importe quel scénario. Le terrain est disposé comme d'habitude, mais une fois que tous les éléments de terrain sont en place, placez un Géant au centre exact de la table, avec un Géant de chaque côté – chacun à mi-chemin entre le Géant central et les bords de la table le long de la ligne centrale (c'est-à-dire tous les 18” pour une table de 6’x4’, ou tous les 12” pour une table de 4’x4’).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2016,7 +2016,7 @@
     },
     {
       "value_en": "Add the target’s Defence value to the (n) value of this spell. e.g. Casting Alchemist’s Curse [1] (2) against a Defence 4+ unit, will result in Alchemist’s Curse [1] (6), rolling 6 dice for the spell.",
-      "value_translated": null,
+      "value_translated": "Ajoutez la valeur de Défense de la cible à la valeur (n) de ce sort. Par exemple, en lançant la Malédiction de l'Alchimiste [1] (2) contre une unité ayant une Défense 4+, cela donnera Malédiction de l'Alchimiste [1] (6), lançant 6 dés pour le sort.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -2024,7 +2024,7 @@
     },
     {
       "value_en": "Add the total value of all dice rolled. This is your Command Pool for the Turn.",
-      "value_translated": null,
+      "value_translated": "Ajoutez la valeur totale de tous les dés lancés. Cela constitue votre Réserve de Commandement pour le Tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -2032,7 +2032,7 @@
     },
     {
       "value_en": "Add up the total Unit Strength of each player’s units with a majority of their footprint inside a scoring zone. If a unit is straddling the line between two zones it is considered to be in whichever zone is covered by more than 50% of the unit’s base. If there is not a clear majority, the unit is not considered in either zone.",
-      "value_translated": null,
+      "value_translated": "Additionnez la Puissance d'Unité totale des unités de chaque joueur dont la majorité de la zone occupée se trouve à l'intérieur d'une zone de score. Si une unité chevauche la ligne entre deux zones, elle est considérée comme étant dans la zone où plus de 50 % de sa base se trouve. Si aucune majorité claire n'est atteinte, l'unité n'est considérée dans aucune des zones.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2058,7 +2058,7 @@
     },
     {
       "value_en": "Additionally, the target unit or attacking unit may have special rules that also modify the roll to hit when making Melee attacks; these will be explained in the units’ special rules.",
-      "value_translated": null,
+      "value_translated": "De plus, l'unité cible ou l'unité attaquante peut avoir des règles spéciales qui modifient également le jet pour toucher lors des attaques de mêlée ; celles-ci seront expliquées dans les règles spéciales des unités.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -2066,7 +2066,7 @@
     },
     {
       "value_en": "Additionally, the target unit or firing unit may have special rules which also modify To Hit rolls when shooting and will be explained in the unit’s special rules.",
-      "value_translated": null,
+      "value_translated": "De plus, l'unité cible ou l'unité tireuse peut avoir des règles spéciales qui modifient également les jets pour toucher lors des tirs, et celles-ci seront expliquées dans les règles spéciales de l'unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -2082,7 +2082,7 @@
     },
     {
       "value_en": "Aegis of the Elohi",
-      "value_translated": null,
+      "value_translated": "Égide des élohis",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -2090,7 +2090,7 @@
     },
     {
       "value_en": "After Combat",
-      "value_translated": null,
+      "value_translated": "Après le Combat",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2643,7 +2643,7 @@
     },
     {
       "value_en": "At the Double",
-      "value_translated": null,
+      "value_translated": "Au pas de course",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -2651,7 +2651,7 @@
     },
     {
       "value_en": "At the end of Round 3, all the Bluff Counters are fipped to reveal their value. Bluff counters are treated as Objective Markers from this point on.",
-      "value_translated": null,
+      "value_translated": "À la fin du Round 3, tous les Pions Bluff sont retournés pour révéler leur valeur. À partir de ce moment, les Pions Bluff sont considérés comme des Marqueurs d'Objectif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2659,7 +2659,7 @@
     },
     {
       "value_en": "At the end of both the Movement and Ranged phases of your Turn, you test the Nerve of any enemy unit that suffered any damage during that phase. If there are multiple units, you may choose the order to make the tests.",
-      "value_translated": null,
+      "value_translated": "À la fin des phases de Mouvement et de Tir de votre Tour, testez le Moral de toute unité ennemie ayant subi des dégâts durant cette phase. S'il y a plusieurs unités, vous pouvez choisir l'ordre dans lequel effectuer les tests.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -2867,7 +2867,7 @@
     },
     {
       "value_en": "Back",
-      "value_translated": null,
+      "value_translated": "Recul",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -3066,7 +3066,7 @@
     },
     {
       "value_en": "Blessing of the Gods",
-      "value_translated": null,
+      "value_translated": "Bénédiction des Dieux",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3164,7 +3164,7 @@
     },
     {
       "value_en": "Bomb Wagon",
-      "value_translated": null,
+      "value_translated": "Chariot Explosif",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -4930,7 +4930,7 @@
     },
     {
       "value_en": "Extra Units",
-      "value_translated": null,
+      "value_translated": "Unités supplémentaires",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7312,7 +7312,7 @@
     },
     {
       "value_en": "Kings of War: Siege",
-      "value_translated": null,
+      "value_translated": "Kings of War: Siège",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11803,7 +11803,7 @@
     },
     {
       "value_en": "The unit can move straight backward at up to half of its Speed stat value, in inches. See Diagram E.",
-      "value_translated": null,
+      "value_translated": "L'unité peut se déplacer directement en arrière à une distance égale à la moitié de sa valeur de caractéristique de Vitesse, en pouces. Voir le Diagramme E.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -14502,7 +14502,7 @@
     },
     {
       "value_en": "a. Army Composition",
-      "value_translated": null,
+      "value_translated": "a. Composition de l'Armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -15287,7 +15287,7 @@
     },
     {
       "value_en": "f. Extra Units",
-      "value_translated": null,
+      "value_translated": "f. Unités supplémentaires",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
