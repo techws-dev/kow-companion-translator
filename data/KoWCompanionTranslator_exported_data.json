@@ -347,7 +347,7 @@
     },
     {
       "value_en": ". The unit’s Height value. This value is used primarily when determining Line of Sight.",
-      "value_translated": ". La valeur de Hauteur de l’unité. Cette valeur est principalement utilisée pour déterminer la Ligne de Vue.",
+      "value_translated": ". La valeur de Taille de l’unité. Cette valeur est principalement utilisée pour déterminer la Ligne de Vue.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -560,7 +560,7 @@
     },
     {
       "value_en": "10. Individuals",
-      "value_translated": "10. Personnages",
+      "value_translated": "10. Indépendants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/"
@@ -1671,7 +1671,7 @@
     },
     {
       "value_en": "A Titan is a unit of a single model – a being of both gargantuan size and strength.",
-      "value_translated": "Un Titan est une unité composée d’un seul modèle – un être à la fois de taille et de force gargantuesques.",
+      "value_translated": "Un Titan est une unité composée d’un seul modèle – un être à la fois de taille et de force exceptionnelle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -2476,7 +2476,7 @@
     },
     {
       "value_en": "An army is made up of units, which can range from mighty heroes, to powerful war engines, to blocks of stoic troops.",
-      "value_translated": null,
+      "value_translated": "Une armée est composée d’unités, allant de puissants héros et redoutables machines de guerre à des régiments de troupes impassibles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -2875,7 +2875,7 @@
     },
     {
       "value_en": "Back to Top",
-      "value_translated": null,
+      "value_translated": "Revenir en haut",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -3318,7 +3318,7 @@
     },
     {
       "value_en": "Cavalry",
-      "value_translated": null,
+      "value_translated": "Cavalerie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3326,7 +3326,7 @@
     },
     {
       "value_en": "Cavalry (Cav)",
-      "value_translated": null,
+      "value_translated": "Cavalerie (Cav)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3334,7 +3334,7 @@
     },
     {
       "value_en": "Cavalry Hordes:",
-      "value_translated": null,
+      "value_translated": "Hordes de Cavalerie:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3342,7 +3342,7 @@
     },
     {
       "value_en": "Cavalry units come in three sizes:",
-      "value_translated": null,
+      "value_translated": "Les unités de cavalerie se déclinent en trois tailles:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3367,7 +3367,7 @@
     },
     {
       "value_en": "Certain actions, such as charging or shooting at an enemy unit, will require you to determine if your unit can see another unit. This requires drawing an imaginary straight line, called the Line of Sight (LoS), from your unit’s Leader Point to any point on the target’s base.",
-      "value_translated": null,
+      "value_translated": "Certaines actions, telles que charger ou tirer sur une unité ennemie, nécessitent de déterminer si votre unité peut voir une autre unité. Cela implique de tracer une ligne imaginaire droite, appelée ligne de vue (LdV), depuis le Point de Leader de votre unité jusqu'à n'importe quel point du socle de la cible.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3383,7 +3383,7 @@
     },
     {
       "value_en": "Change Facing",
-      "value_translated": null,
+      "value_translated": "Changer de direction",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -3433,7 +3433,7 @@
     },
     {
       "value_en": "Charge",
-      "value_translated": null,
+      "value_translated": "Charger",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -3457,7 +3457,7 @@
     },
     {
       "value_en": "Chariot (Cht)",
-      "value_translated": null,
+      "value_translated": "Char (Cht)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3465,7 +3465,7 @@
     },
     {
       "value_en": "Chariot Legions",
-      "value_translated": null,
+      "value_translated": "Légions de Chars",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3473,7 +3473,7 @@
     },
     {
       "value_en": "Chariot units come in four sizes:",
-      "value_translated": null,
+      "value_translated": "Les unités de Chars se déclinent en quatre tailles:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3481,7 +3481,7 @@
     },
     {
       "value_en": "Chariots",
-      "value_translated": null,
+      "value_translated": "Chars",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3489,7 +3489,7 @@
     },
     {
       "value_en": "Chess Clocks",
-      "value_translated": null,
+      "value_translated": "Horloges d'Échecs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3662,7 +3662,7 @@
     },
     {
       "value_en": "Conversely, your opponent’s units and army are considered the Enemy units in the rules.",
-      "value_translated": null,
+      "value_translated": "Inversement, les unités et l'armée de votre adversaire sont considérées comme les unités ennemies dans les règles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -3876,7 +3876,7 @@
     },
     {
       "value_en": "Defence (De)",
-      "value_translated": null,
+      "value_translated": "Défense (De)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4036,7 +4036,7 @@
     },
     {
       "value_en": "Diagram A",
-      "value_translated": null,
+      "value_translated": "Diagramme A",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4044,7 +4044,7 @@
     },
     {
       "value_en": "Diagram B1: Drawing Line of Sight",
-      "value_translated": null,
+      "value_translated": "Diagramme B1: Traçage de la ligne de vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4052,7 +4052,7 @@
     },
     {
       "value_en": "Diagram B2: Drawing Line of Sight",
-      "value_translated": null,
+      "value_translated": "Diagramme B2: Traçage de la ligne de vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4060,7 +4060,7 @@
     },
     {
       "value_en": "Diagram C: Changing Facing",
-      "value_translated": null,
+      "value_translated": "Diagramme C: Changer de direction",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4068,7 +4068,7 @@
     },
     {
       "value_en": "Diagram D: Advance",
-      "value_translated": null,
+      "value_translated": "Diagramme D: Avancer",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4076,7 +4076,7 @@
     },
     {
       "value_en": "Diagram E: Move",
-      "value_translated": null,
+      "value_translated": "Diagramme E: Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4196,7 +4196,7 @@
     },
     {
       "value_en": "Dice",
-      "value_translated": null,
+      "value_translated": "Les dés",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4420,7 +4420,7 @@
     },
     {
       "value_en": "During the Movement Phase of your Turn, pick each of your units, one at a time, and give them one of the following Movement orders. Complete each order and any movement with a unit before proceeding with the next one.",
-      "value_translated": null,
+      "value_translated": "Pendant la phase de mouvement de votre tour, choisissez chacune de vos unités, une par une, et donnez-leur l'un des ordres de mouvement suivants. Effectuez chaque ordre et chaque mouvement d'une unité avant de passer à la suivante.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4468,7 +4468,7 @@
     },
     {
       "value_en": "Each Cavalry model has a 25x50mm rectangular base.",
-      "value_translated": null,
+      "value_translated": "Chaque figurine de cavalerie possède un socle rectangulaire de 25x50mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4476,7 +4476,7 @@
     },
     {
       "value_en": "Each Chariot model has a 50x100mm rectangular base (a ‘chariot base’).",
-      "value_translated": null,
+      "value_translated": "Chaque figurine de Char a un socle rectangulaire de 50x100mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4492,7 +4492,7 @@
     },
     {
       "value_en": "Each Heavy Infantry model has a 25mm square base.",
-      "value_translated": null,
+      "value_translated": "Chaque figurine d'infanterie lourde possède un socle carré de 25mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4508,7 +4508,7 @@
     },
     {
       "value_en": "Each Infantry model has a 20mm square base.",
-      "value_translated": null,
+      "value_translated": "Chaque figurine d'infanterie possède un socle carré de 20mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4516,7 +4516,7 @@
     },
     {
       "value_en": "Each Large Cavalry and Monstrous Infantry model has a 50mm square base.",
-      "value_translated": null,
+      "value_translated": "Chaque figurine de Cavalerie de Grande Taille et d'Infanterie Monstrueuse a un socle carré de 50mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4524,7 +4524,7 @@
     },
     {
       "value_en": "Each Large Infantry and Swarm model has a 40mm square base. Note that a Swarm of human-sized models must have at least three models per model base, while a Swarm of smaller creatures like Orclings should aim for five or more models per base.",
-      "value_translated": null,
+      "value_translated": "Chaque figurine d'Infanterie de Grande Taille et groupe de figurines de Nuée est monté sur un socle carré de 40mm. Notez qu'une Nuée composée de figurines de taille humaine doit comporter au moins trois figurines par socle, tandis qu'une Nuée de créatures plus petites, comme des petits orcs, devrait en compter cinq ou plus par socle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4556,7 +4556,7 @@
     },
     {
       "value_en": "Each Titan model has a 75mm square base.",
-      "value_translated": null,
+      "value_translated": "Chaque figurine de Titan possède un socle carré de 75mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4564,7 +4564,7 @@
     },
     {
       "value_en": "Each War Engine model has a 50mm square base.",
-      "value_translated": null,
+      "value_translated": "Chaque figurine de machine de guerre possède un socle carré de 50mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4588,7 +4588,7 @@
     },
     {
       "value_en": "Each unit and army plays slightly differently, leading to an almost infinite variety of tactics and strategies that can be employed against your opponent in a game. You can fight massive cataclysmic battles in an hour or two, fielding monsters and hundreds of troops against each other, pulling off feints and flanking manoeuvres to thwart your opponent’s plans.",
-      "value_translated": null,
+      "value_translated": "Chaque unité et chaque armée se joue de manière légèrement différente, ce qui mène à une variété presque infinie de tactiques et de stratégies que l'on peut employer contre son adversaire lors d'une partie. Vous pouvez livrer des batailles colossales et dévastatrices en une heure ou deux, déployant des monstres et des centaines de troupes les unes contre les autres, réalisant des feintes et des manœuvres de contournement pour contrecarrer les plans de votre adversaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -4621,7 +4621,7 @@
     },
     {
       "value_en": "Each unit in Kings of War has a name and a series of statistics (for short, we call them ‘stats’), which define how powerful it is in the game. These are:",
-      "value_translated": null,
+      "value_translated": "Chaque unité dans Kings of War possède un nom et une série de statistiques (que l'on appelle simplement 'stats'), qui définissent sa puissance dans le jeu. Celles-ci sont :",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4749,7 +4749,7 @@
     },
     {
       "value_en": "Enemy Units",
-      "value_translated": null,
+      "value_translated": "Unités ennemies",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2",
@@ -4913,7 +4913,7 @@
     },
     {
       "value_en": "Exceptional Base Sizes",
-      "value_translated": null,
+      "value_translated": "Tailles de socles exceptionnelles",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4939,7 +4939,7 @@
     },
     {
       "value_en": "Facings & Arcs",
-      "value_translated": null,
+      "value_translated": "Faces et Arcs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -4979,7 +4979,7 @@
     },
     {
       "value_en": "Finally, you will need a gaming area. This should be a flat, rectangular surface that is 6’x4’. It doesn’t need to be exactly this size, but this is an ideal size for a standard game. You can use some books as terrain if you don’t have any model scenery for your table yet. In the rules, the surface you are playing on – your battlefield – is called the table, or board.",
-      "value_translated": null,
+      "value_translated": "Enfin, vous aurez besoin d'une surface de jeu. Elle est plate et rectangulaire, de dimensions 6' x 4'. Elle n'a pas besoin d'être exactement de cette taille, mais c'est la taille idéale pour une partie standard. Vous pouvez utiliser des livres comme terrain si vous n'avez pas encore de décors pour votre table. Dans les règles, la surface sur laquelle vous jouez – votre champ de bataille – est appelée la table ou le plateau.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -5012,7 +5012,7 @@
     },
     {
       "value_en": "First and foremost, you’ll need an opponent - someone to face on the battlefield... and enjoy the game with! Each of you will need an army of your own to play with. You can get started quickly by picking up a Mantic Army or Mega Army each, or build up your forces with units according to your own preference. You could also split the contents of the Shadows in the North starter box between you and use them to begin your own new armies!",
-      "value_translated": null,
+      "value_translated": "Avant tout, vous aurez besoin d'un adversaire - quelqu'un avec qui s'affronter sur le champ de bataille... et partager le plaisir du jeu ! Chacun de vous aura besoin de sa propre armée pour jouer. Vous pouvez commencer rapidement en choisissant une Armée Mantic ou Mega Armée chacun, ou bien construire votre armée avec des unités selon vos préférences. Vous pourriez également partager le contenu de la boîte de démarrage 'Shadows in the North' entre vous et l'utiliser pour commencer vos nouvelles armées !",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -5417,7 +5417,7 @@
     },
     {
       "value_en": "Friendly Units",
-      "value_translated": null,
+      "value_translated": "Unités amies",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2",
@@ -5499,7 +5499,7 @@
     },
     {
       "value_en": "Game Definitions",
-      "value_translated": null,
+      "value_translated": "Glossaire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5557,7 +5557,7 @@
     },
     {
       "value_en": "Getting Started",
-      "value_translated": null,
+      "value_translated": "Commencer",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -5615,7 +5615,7 @@
     },
     {
       "value_en": "Halt",
-      "value_translated": null,
+      "value_translated": "Halte",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -5687,7 +5687,7 @@
     },
     {
       "value_en": "Heavy Infantry",
-      "value_translated": null,
+      "value_translated": "Infanterie Lourde",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -5695,7 +5695,7 @@
     },
     {
       "value_en": "Height (Ht)",
-      "value_translated": null,
+      "value_translated": "Taille (Ht)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -5736,7 +5736,7 @@
     },
     {
       "value_en": "Hero (Hero/[type])",
-      "value_translated": null,
+      "value_translated": "Héros (Hero/[type])",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -5761,7 +5761,7 @@
     },
     {
       "value_en": "Heroes fit on the relevant base of their type unless specified otherwise. For example, a Hero (Inf) will be on a 20mm square base, a Hero (Cav) will be on a 25x50mm base, etc.",
-      "value_translated": null,
+      "value_translated": "Les Héros sont placés sur un socle correspondant à leur type, sauf indication contraire. Par exemple, un Héros (Inf) sera sur un socle carré de 20mm, un Héros (Cav) sera sur un socle de 25x50mm, etc.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -5869,7 +5869,7 @@
     },
     {
       "value_en": "Hordes",
-      "value_translated": null,
+      "value_translated": "Hordes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5878,7 +5878,7 @@
     },
     {
       "value_en": "Hordes and Legions",
-      "value_translated": null,
+      "value_translated": "Hordes et Légions",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5895,7 +5895,7 @@
     },
     {
       "value_en": "Hordes of 20 models, arranged ten models wide in two ranks.",
-      "value_translated": null,
+      "value_translated": "Hordes de 20 figurines, disposées en dix figurines de large sur deux rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -5903,7 +5903,7 @@
     },
     {
       "value_en": "Hordes of 4 models, arranged in a single rank.",
-      "value_translated": null,
+      "value_translated": "Hordes de 4 figurines, disposées en un seul rang.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -5911,7 +5911,7 @@
     },
     {
       "value_en": "Hordes of 40 models, arranged ten models wide in four ranks.",
-      "value_translated": null,
+      "value_translated": "Hordes de 40 figurines, disposées en dix figurines de large sur quatre rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -5919,7 +5919,7 @@
     },
     {
       "value_en": "Hordes of 6 models, arranged three models wide in two ranks.",
-      "value_translated": null,
+      "value_translated": "Hordes de 6 figurines, disposées en trois figurines de large sur deux rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6032,7 +6032,7 @@
     },
     {
       "value_en": "If a rule refers to Friendly units, this means all the units in your army.",
-      "value_translated": null,
+      "value_translated": "Si une règle fait référence aux unités amies, cela signifie toutes les unités de votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6072,7 +6072,7 @@
     },
     {
       "value_en": "If a unit consists of a large number of models, it is far more convenient when moving it around to place a ‘movement tray’ underneath it – that way you effectively have a single object to move on the battlefield rather than a large number of them (say 20 Elf infantry models). This speeds up gameplay immensely. The ideal movement tray is a piece of plastic, thick cardboard or plasticard that is cut to the exact space occupied by the bases of the models forming the unit, and painted to match the colour of their bases. For example, a regiment of 20 Elf infantry models occupies a rectangular tray 100mm wide and 80mm deep. If the tray has a little ‘lip’ around the unit (normally up to a couple of millimetres wide), this does not matter and players should ignore the lip when measuring distances.",
-      "value_translated": null,
+      "value_translated": "Si une unité est composée d’un grand nombre de figurines, il est bien plus pratique de la déplacer en mettant un 'plateau de mouvement' en dessous – cela permet de déplacer un seul élément sur le champ de bataille au lieu de manipuler individuellement chaque figurine (par exemple, 20 figurines d’infanterie elfique). Cela accélère énormément le jeu. L’idéal est d’utiliser une plaque de plastique, de carton épais ou de plasticard découpée aux dimensions exactes de l’espace occupé par les socles des figurines formant l’unité, et peinte pour s’accorder à la couleur de leurs socles. Par exemple, un régiment de 20 figurines d’infanterie elfique occupe un plateau rectangulaire de 100mm de large sur 80mm de profondeur. Si le plateau comporte un léger rebord (habituellement de quelques millimètres de large), cela n’a pas d’importance et les joueurs doivent l’ignorer lors des mesures de distance.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6192,7 +6192,7 @@
     },
     {
       "value_en": "If any units or terrain in the way are the same Height or greater than both your unit and the target unit, then LoS is blocked.",
-      "value_translated": null,
+      "value_translated": "Si des unités ou des éléments de terrain sur le chemin ont une Taille égale ou supérieure à celle de votre unité et de l'unité cible, alors la ligne de vue est bloquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6224,7 +6224,7 @@
     },
     {
       "value_en": "If either your unit or the target unit has a greater Height stat than any other units or terrain in the way, then LoS is not blocked.",
-      "value_translated": null,
+      "value_translated": "Si votre unité ou l'unité cible a une statistique de Taille plus élevée que toute autre unité ou élément de terrain sur le chemin, alors la ligne de vue n'est pas bloquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6392,7 +6392,7 @@
     },
     {
       "value_en": "If this imaginary line passes over no other unit’s base or terrain features, then LoS is not blocked.",
-      "value_translated": null,
+      "value_translated": "Si cette ligne imaginaire ne passe pas au-dessus d'une autre unité ou d'éléments de terrain, la ligne de vue n'est pas bloquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6528,7 +6528,7 @@
     },
     {
       "value_en": "If you’re unsure whether your unit can see a target unit or not, roll a die. On a 4+ it can see it, on 3 or less it cannot.",
-      "value_translated": null,
+      "value_translated": "Si vous n'êtes pas sûr que votre unité puisse voir une unité cible ou non, lancez un dé. Sur un résultat de 4 ou plus, elle peut la voir, sur 3 ou moins, elle ne peut pas.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6576,7 +6576,7 @@
     },
     {
       "value_en": "In Kings of War, all units are made up of one or more models. The number of models that make up a unit is specified in each unit’s stats and will normally correspond to the number of models you get in boxes supplied by Mantic. These models must be attached to bases and formed up into their units as described below and each unit belongs to one of the following Types:",
-      "value_translated": null,
+      "value_translated": "Dans Kings of War, toutes les unités sont composées d'une ou plusieurs figurines. Le nombre de figurines qui composent une unité est spécifié dans les statistiques de chaque unité et correspond normalement au nombre de figurines incluses dans les boîtes fournies par Mantic. Ces figurines doivent être fixées sur des socles et organisées en unités comme décrit ci-dessous, chaque unité appartenant à l'un des types suivants :",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6720,7 +6720,7 @@
     },
     {
       "value_en": "In games of Kings of War, players field armies of painted Mantic miniatures to fight exciting battles across the tabletop! Combat and abilities are represented by a unit’s statistics (called stats for short) and by rolling six-sided dice (called D6 for short) to decide your warriors’ fates.",
-      "value_translated": null,
+      "value_translated": "Dans les parties de Kings of War, les joueurs déploient des armées de figurines Mantic peintes pour livrer des batailles passionnantes sur la table de jeu ! Le combat et les capacités sont représentés par les statistiques d’une unité (appelées stats en abrégé) et par des jets de dés à six faces (D6 en abrégé) pour déterminer le destin de vos guerriers.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -6745,7 +6745,7 @@
     },
     {
       "value_en": "In order to avoid confusion, keep your units at least 1” away from enemy units at all times, except when charging, engaged or regrouping as explained later. To remove any confusion, ensure that your units are not in base contact with other friendly units at all times.",
-      "value_translated": null,
+      "value_translated": "Afin d'éviter toute confusion, gardez vos unités à au moins 1 pouce de distance des unités ennemies à tout moment, sauf lorsqu'elles chargent, sont engagées au combat ou se regroupent comme expliqué plus tard. Pour éviter toute confusion, assurez-vous que vos unités ne soient pas en contact socle à socle avec d'autres unités amies à tout moment.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6849,7 +6849,7 @@
     },
     {
       "value_en": "In these rules, whenever we refer to a die or dice, we mean a normal six-sided die, which we call D6. Sometimes we also use terms like ‘D3’, which is the result of a D6 divided by 2 (rounded up); ‘D2’, which is the result of a D6 divided by 3 (rounded up); ‘D6+1’, meaning rolling a D6 and adding 1 to the result; or ‘2D6’, which is rolling two dice and adding them together.",
-      "value_translated": null,
+      "value_translated": "Dans ces règles, chaque fois que nous faisons référence à un dé ou à des dés, nous parlons d'un dé standard à six faces, que nous appelons D6. Parfois, nous utilisons également des termes comme « D3 », qui correspond au résultat d'un D6 divisé par 2 (arrondi à l'entier supérieur) ; « D2 », qui correspond au résultat d'un D6 divisé par 3 (arrondi à l'entier supérieur) ; « D6+1 », ce qui signifie lancer un D6 et ajouter 1 au résultat ; ou « 2D6 », ce qui signifie lancer deux dés et additionner les résultats.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -6858,7 +6858,7 @@
     },
     {
       "value_en": "In this example (see Diagram B2), Unit B is considered to be as tall as Unit A and C and therefore blocks LoS. Unit A can still see Unit C by looking around the edge of Unit B.",
-      "value_translated": null,
+      "value_translated": "Dans cet exemple (voir Diagramme B2), l'unité B est considérée aussi haute que les unités A et C et bloque donc la ligne de vue. Cependant, l'unité A peut toujours voir l'unité C en regardant autour du bord de l'unité B.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -6931,7 +6931,7 @@
     },
     {
       "value_en": "Individuals",
-      "value_translated": null,
+      "value_translated": "Indépendants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -7027,7 +7027,7 @@
     },
     {
       "value_en": "Infantry",
-      "value_translated": null,
+      "value_translated": "Infanterie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7035,7 +7035,7 @@
     },
     {
       "value_en": "Infantry (Inf) & Heavy Infantry (Hv Inf)",
-      "value_translated": null,
+      "value_translated": "Infanterie (Inf) et Infanterie Lourde (Hv Inf)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7051,7 +7051,7 @@
     },
     {
       "value_en": "Infantry units come in four sizes:",
-      "value_translated": null,
+      "value_translated": "Les unités d'infanterie se déclinent en quatre tailles:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7139,7 +7139,7 @@
     },
     {
       "value_en": "Interpenetration When Moving",
-      "value_translated": null,
+      "value_translated": "Traversée des Unités pendant le mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -7213,7 +7213,7 @@
     },
     {
       "value_en": "It is even faster, not to mention more practical, to actually glue the models’ bases directly onto the tray. That way you have an army that effectively consists of a very small number of individual ‘elements’ – very compact and easy to store and transport. Some people even go to the next level, and glue their models directly onto the tray, without first placing them on their individual bases. We refer to these solutions as ‘multi-bases’. Multi-bases are very useful, but make sure that the multi-base itself conforms to the correct size for the ranked up models as if they were mounted onto their individual bases. To continue the example above, you could mount the 20 Elf infantry models directly onto a 100x80mm multi-base.",
-      "value_translated": null,
+      "value_translated": "Il est encore plus rapide, et sans parler de la praticité, de coller directement les socles des figurines sur le plateau de mouvement. Ainsi, votre armée se compose d’un très petit nombre d’éléments individuels, ce qui la rend plus compacte et facile à ranger et à transporter. Certains vont encore plus loin en collant directement leurs figurines sur le plateau, sans les fixer d’abord sur des socles individuels. On appelle ces solutions des 'multi-socles'. Les multi-socles sont très pratiques, mais assurez-vous que leur taille correspond bien à celle que prendraient les figurines si elles étaient montées sur leurs socles individuels et alignées correctement. Pour reprendre l’exemple précédent, vous pourriez monter directement les 20 figurines d’infanterie elfique sur un multi-socle de 100x80mm.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7237,7 +7237,7 @@
     },
     {
       "value_en": "Keep Your Distance",
-      "value_translated": null,
+      "value_translated": "Gardez vos distances",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7253,7 +7253,7 @@
     },
     {
       "value_en": "Keywords",
-      "value_translated": null,
+      "value_translated": "Mots-clés",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7337,7 +7337,7 @@
     },
     {
       "value_en": "Large Cavalry and Monstrous Infantry",
-      "value_translated": null,
+      "value_translated": "Cavalerie de G. T. et Infanterie Mons.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7345,7 +7345,7 @@
     },
     {
       "value_en": "Large Infantry (Lrg Inf), Monstrous Infantry (Mon Inf), Swarm (Swa) & Large Cavalry (Lrg Cav)",
-      "value_translated": null,
+      "value_translated": "Infanterie de Grande Taille (Lrg Inf), Infanterie Monstrueuse (Mon Inf), Nuée (Swa) et Cavalerie de Grande Taille (Lrg Cav)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7353,7 +7353,7 @@
     },
     {
       "value_en": "Large Infantry and Swarms",
-      "value_translated": null,
+      "value_translated": "Infanterie de G. T. et Nuées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7361,7 +7361,7 @@
     },
     {
       "value_en": "Large Infantry, Monstrous Infantry, Large Cavalry and Swarm units come in three sizes:",
-      "value_translated": null,
+      "value_translated": "Les unités d'Infanterie de Grande Taille, d'Infanterie Monstrueuse, de Cavalerie de Grande Taille et de Nuée existent en trois formats:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7403,7 +7403,7 @@
     },
     {
       "value_en": "Legion",
-      "value_translated": null,
+      "value_translated": "Légion",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7411,7 +7411,7 @@
     },
     {
       "value_en": "Legions",
-      "value_translated": null,
+      "value_translated": "Légions",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7420,7 +7420,7 @@
     },
     {
       "value_en": "Legions of 12 models, arranged six models wide in two ranks.",
-      "value_translated": null,
+      "value_translated": "Légions de 12 figurines, disposées en six figurines de large sur deux rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7428,7 +7428,7 @@
     },
     {
       "value_en": "Legions of 6 models, arranged three models wide in two ranks.",
-      "value_translated": null,
+      "value_translated": "Légions de 6 figurines, disposées en trois figurines de large sur deux rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7436,7 +7436,7 @@
     },
     {
       "value_en": "Legions of 60 models, arranged ten models wide in six ranks.",
-      "value_translated": null,
+      "value_translated": "Légions de 60 figurines, disposées en dix figurines de large sur six rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7535,7 +7535,7 @@
     },
     {
       "value_en": "Line of Sight (LoS)",
-      "value_translated": null,
+      "value_translated": "Line de Vue (LdV)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7609,7 +7609,7 @@
     },
     {
       "value_en": "Magical Artefacts",
-      "value_translated": null,
+      "value_translated": "Artefacts magiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7618,7 +7618,7 @@
     },
     {
       "value_en": "Magical Artefacts List",
-      "value_translated": null,
+      "value_translated": "Liste des Artefacts magiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7739,7 +7739,7 @@
     },
     {
       "value_en": "Measuring Distances",
-      "value_translated": null,
+      "value_translated": "Mesurer les distances",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7758,7 +7758,7 @@
     },
     {
       "value_en": "Melee (Me)",
-      "value_translated": null,
+      "value_translated": "Mêlée (Me)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7863,7 +7863,7 @@
     },
     {
       "value_en": "Modifiers",
-      "value_translated": null,
+      "value_translated": "Modificateurs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7875,7 +7875,7 @@
     },
     {
       "value_en": "Monster",
-      "value_translated": null,
+      "value_translated": "Monstre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12",
@@ -7884,7 +7884,7 @@
     },
     {
       "value_en": "Monster (Mon)",
-      "value_translated": null,
+      "value_translated": "Monstre (Mon)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -7892,7 +7892,7 @@
     },
     {
       "value_en": "Monster and Titan units cannot be given artefacts, but Hero (Mon), Hero (Cht) and Hero (Ttn) units definitely can.",
-      "value_translated": null,
+      "value_translated": "Les unités de Monstre et de Titan ne peuvent pas recevoir d'artefacts, mais les unités Héros (Mon), Héros (Cht) et Héros (Ttn) peuvent en recevoir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7900,7 +7900,7 @@
     },
     {
       "value_en": "Monster models normally have 50mm square bases. Some Monsters may be labeled as Mon (Cht), in which case they have a 50x100mm chariot base. Other rare exceptions may be noted in the unit profile.",
-      "value_translated": null,
+      "value_translated": "Les figurines de monstres ont normalement des socles carrés de 50mm. Certains monstres peuvent être définis comme Mon (Cht), auquel cas ils ont un socle de chariot de 50x100mm. D'autres exceptions peuvent être notées dans le profil de l'unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -8052,7 +8052,7 @@
     },
     {
       "value_en": "Nerve (Ne)",
-      "value_translated": null,
+      "value_translated": "Moral (Ne)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -8060,7 +8060,7 @@
     },
     {
       "value_en": "Next Chapter: Command Points",
-      "value_translated": "Next Chapter: Command Points",
+      "value_translated": "Chapitre suivant: Points de Commandement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -8068,7 +8068,7 @@
     },
     {
       "value_en": "Next Chapter: Game Definitions",
-      "value_translated": "Next Chapter: Game Definitions",
+      "value_translated": "Chapitre suivant: Glossaire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -8076,7 +8076,7 @@
     },
     {
       "value_en": "Next Chapter: Individuals",
-      "value_translated": "Next Chapter: Individuals",
+      "value_translated": "Chapitre suivant: Indépendants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -8084,7 +8084,7 @@
     },
     {
       "value_en": "Next Chapter: Kings of War: Ambush",
-      "value_translated": "Next Chapter: Kings of War: Ambush",
+      "value_translated": "Chapitre suivant: Kings of War: Embuscade",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -8092,7 +8092,7 @@
     },
     {
       "value_en": "Next Chapter: Kings of War: Legendary",
-      "value_translated": "Next Chapter: Kings of War: Legendary",
+      "value_translated": "Chapitre suivant: Kings of War: Legendary",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -8100,7 +8100,7 @@
     },
     {
       "value_en": "Next Chapter: Kings of War: Siege",
-      "value_translated": "Next Chapter: Kings of War: Siege",
+      "value_translated": "Chapitre suivant: Kings of War: Siège",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -8108,7 +8108,7 @@
     },
     {
       "value_en": "Next Chapter: Magic",
-      "value_translated": "Next Chapter: Magic",
+      "value_translated": "Chapitre suivant: Magie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8116,7 +8116,7 @@
     },
     {
       "value_en": "Next Chapter: Magical Artefacts",
-      "value_translated": "Next Chapter: Magical Artefacts",
+      "value_translated": "Chapitre suivant: Artefacts magiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -8124,7 +8124,7 @@
     },
     {
       "value_en": "Next Chapter: Nerve",
-      "value_translated": "Next Chapter: Nerve",
+      "value_translated": "Chapitre suivant: Moral",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -8132,7 +8132,7 @@
     },
     {
       "value_en": "Next Chapter: Picking a Force",
-      "value_translated": "Next Chapter: Picking a Force",
+      "value_translated": "Chapitre suivant: Construire son armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -8140,7 +8140,7 @@
     },
     {
       "value_en": "Next Chapter: Playing a Game",
-      "value_translated": "Next Chapter: Playing a Game",
+      "value_translated": "Chapitre suivant: Jouer une partie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -8148,7 +8148,7 @@
     },
     {
       "value_en": "Next Chapter: Scenarios",
-      "value_translated": "Next Chapter: Scenarios",
+      "value_translated": "Chapitre suivant: Scénarios",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -8156,7 +8156,7 @@
     },
     {
       "value_en": "Next Chapter: Special Rules",
-      "value_translated": "Next Chapter: Special Rules",
+      "value_translated": "Chapitre suivant: Règles spéciales",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -8164,7 +8164,7 @@
     },
     {
       "value_en": "Next Chapter: The Turn: Charges",
-      "value_translated": "Next Chapter: The Turn: Charges",
+      "value_translated": "Chapitre suivant: Le Tour: Charges",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -8172,7 +8172,7 @@
     },
     {
       "value_en": "Next Chapter: The Turn: Melee Phase",
-      "value_translated": "Next Chapter: The Turn: Melee Phase",
+      "value_translated": "Chapitre suivant: Le Tour: Phase de Mêlée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -8180,7 +8180,7 @@
     },
     {
       "value_en": "Next Chapter: The Turn: Movement Phase",
-      "value_translated": "Next Chapter: The Turn: Movement Phase",
+      "value_translated": "Chapitre suivant: Le Tour: Phase de Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -8188,7 +8188,7 @@
     },
     {
       "value_en": "Next Chapter: The Turn: Ranged Phase",
-      "value_translated": "Next Chapter: The Turn: Ranged Phase",
+      "value_translated": "Chapitre suivant: Le Tour: Phase de Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8196,7 +8196,7 @@
     },
     {
       "value_en": "Next Chapter: The Turn: Terrain",
-      "value_translated": "Next Chapter: The Turn: Terrain",
+      "value_translated": "Chapitre suivant: Le Tour: Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -8204,7 +8204,7 @@
     },
     {
       "value_en": "Next Chapter: Units",
-      "value_translated": "Next Chapter: Units",
+      "value_translated": "Chapitre suivant: Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -8213,7 +8213,7 @@
     },
     {
       "value_en": "Next Chapter: War Engines",
-      "value_translated": "Next Chapter: War Engines",
+      "value_translated": "Chapitre suivant: Machines de Guerre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -8294,7 +8294,7 @@
     },
     {
       "value_en": "Normally in Kings of War, units have four facings: front, rear, left flank and right flank. Each of these facings has an ‘arc’, an area determined by drawing imaginary lines at 45 degree angles from each corner of the unit, as shown in Diagram A below.",
-      "value_translated": null,
+      "value_translated": "Dans Kings of War, les unités ont généralement quatre faces: le front, l'arrière, le flanc gauche et le flanc droit. Chacune de ces faces possède un « arc », une zone définie en traçant des lignes imaginaires à 45 degrés à partir de chaque coin de l'unité, comme le montre le Diagramme A ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -8374,7 +8374,7 @@
     },
     {
       "value_en": "Note that the LoS does not have to be the shortest line between your unit Leader Point and the target unit’s base; any line from your unit Leader Point to any part of the target unit’s base will do fine.",
-      "value_translated": null,
+      "value_translated": "Notez que la LdV n'a pas à être la ligne la plus courte entre le Point de Leader de votre unité et le socle de l'unité cible ; toute ligne partant du Point de Leader de votre unité vers n'importe quelle partie du socle de l'unité cible convient.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -9329,7 +9329,7 @@
     },
     {
       "value_en": "PMC",
-      "value_translated": null,
+      "value_translated": "NFR",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -9385,7 +9385,7 @@
     },
     {
       "value_en": "Picking a Force",
-      "value_translated": null,
+      "value_translated": "Construire son armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9394,7 +9394,7 @@
     },
     {
       "value_en": "Picking a Force.",
-      "value_translated": null,
+      "value_translated": "Construire son armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -9596,7 +9596,7 @@
     },
     {
       "value_en": "Points (Pts)",
-      "value_translated": null,
+      "value_translated": "Points (Pts)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -9767,7 +9767,7 @@
     },
     {
       "value_en": "Ranged (Ra)",
-      "value_translated": null,
+      "value_translated": "Tir (Ra)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -9867,7 +9867,7 @@
     },
     {
       "value_en": "Re-Rolls",
-      "value_translated": null,
+      "value_translated": "Relances",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9936,7 +9936,7 @@
     },
     {
       "value_en": "Regiment",
-      "value_translated": null,
+      "value_translated": "Régiment",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10056,7 +10056,7 @@
     },
     {
       "value_en": "Regiments",
-      "value_translated": null,
+      "value_translated": "Régiments",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10065,7 +10065,7 @@
     },
     {
       "value_en": "Regiments of 10 models, arranged five models wide in two ranks.",
-      "value_translated": null,
+      "value_translated": "Régiments de 10 figurines, disposées en cinq figurines de large sur deux rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10073,7 +10073,7 @@
     },
     {
       "value_en": "Regiments of 20 models, arranged five models wide in four ranks.",
-      "value_translated": null,
+      "value_translated": "Régiments de 20 figurines, disposées en cinq figurines de large sur quatre rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10081,7 +10081,7 @@
     },
     {
       "value_en": "Regiments of 3 models, arranged in a single rank.",
-      "value_translated": null,
+      "value_translated": "Régiments de 3 figurines, disposées en un seul rang.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10624,7 +10624,7 @@
     },
     {
       "value_en": "So a Hero could be a (Hero/Inf) or (Hero/Hvy Inf), a (Hero/Cav), a (Hero/Mon) or (Hero/Ttn), a (Hero/Lrg Inf), a (Hero/Lrg Cav), etc.",
-      "value_translated": null,
+      "value_translated": "Ainsi, un Héros pourrait être un (Hero/Inf), un (Hero/Hvy Inf), un (Hero/Cav), un (Hero/Mon) ou un (Hero/Ttn), un (Hero/Lrg Inf), un (Hero/Lrg Cav), etc.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10664,7 +10664,7 @@
     },
     {
       "value_en": "Some players select their armies based on the miniatures they like, particular tactics they want to use in battle, or Kings of War’s extensive background. If you aren’t sure which army to field, just choose the one you like the look of most.",
-      "value_translated": null,
+      "value_translated": "Certains joueurs choisissent leurs armées en fonction des figurines qu'ils préfèrent, des tactiques particulières qu'ils souhaitent utiliser en jeu, ou bien de l'univers de Kings of War. Si vous n'êtes pas sûr de l'armée à choisir, optez simplement pour celle qui vous plaît le plus visuellement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -10721,7 +10721,7 @@
     },
     {
       "value_en": "Sometimes Heroes have options that allow them to choose different mounts. If a mount is chosen, the Hero’s unit type will change to that of the relevant mount, as specified in the Hero’s entry.",
-      "value_translated": null,
+      "value_translated": "Parfois, les Héros ont des options qui leur permettent de choisir entre plusieurs montures. Si une monture est choisie, le type d’unité du Héros changera pour correspondre à celui de la monture concernée, comme spécifié dans la fiche du Héros.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10737,7 +10737,7 @@
     },
     {
       "value_en": "Sometimes, one or more modifiers will apply to a roll. If a modifier applies, add or subtract it from each of the dice scores, as appropriate, to find the final results.",
-      "value_translated": null,
+      "value_translated": "Parfois, un ou plusieurs modificateurs s'appliqueront à un jet. Si un modificateur s'applique, ajoutez-le ou soustrayez-le de chaque résultat de dé, selon le cas, pour obtenir les résultats finaux.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -10754,7 +10754,7 @@
     },
     {
       "value_en": "Special",
-      "value_translated": null,
+      "value_translated": "Spécial",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10788,7 +10788,7 @@
     },
     {
       "value_en": "Speed (Sp)",
-      "value_translated": null,
+      "value_translated": "Vitesse (Sp)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10895,7 +10895,7 @@
     },
     {
       "value_en": "Stats",
-      "value_translated": null,
+      "value_translated": "Stats",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -11147,7 +11147,7 @@
     },
     {
       "value_en": "Terrain and LoS are discussed in more the chapter: Terrain.",
-      "value_translated": null,
+      "value_translated": "Le terrain et la ligne de vue sont abordés plus en détail dans le chapitre: Terrain.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -11312,7 +11312,7 @@
     },
     {
       "value_en": "The Melee Phase",
-      "value_translated": null,
+      "value_translated": "La Phase de Mêlée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11320,7 +11320,7 @@
     },
     {
       "value_en": "The Movement Phase",
-      "value_translated": null,
+      "value_translated": "La Phase de Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11329,7 +11329,7 @@
     },
     {
       "value_en": "The Ranged Phase",
-      "value_translated": null,
+      "value_translated": "La Phase de Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11369,7 +11369,7 @@
     },
     {
       "value_en": "The Turn: Charges",
-      "value_translated": null,
+      "value_translated": "Le Tour: Charges",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3",
@@ -11386,7 +11386,7 @@
     },
     {
       "value_en": "The Turn: Movement Phase",
-      "value_translated": null,
+      "value_translated": "Le Tour: Phase de Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11523,7 +11523,7 @@
     },
     {
       "value_en": "The crew are ignored for all in-game purposes, such as checking ranges, movement, etc.",
-      "value_translated": null,
+      "value_translated": "L'équipage est ignoré pour toutes les fins de jeu, telles que la vérification des portées, des mouvements, etc.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -11579,7 +11579,7 @@
     },
     {
       "value_en": "The following rules regulate interpenetration when a unit moves directly forward, backward or sideways.",
-      "value_translated": null,
+      "value_translated": "Les règles suivantes encadrent le passage à travers d'autres unités lorsqu'une unité se déplace directement en avant, en arrière ou sur les côtés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11707,7 +11707,7 @@
     },
     {
       "value_en": "The unit Leader Point is the exact centre of the front edge of a unit’s base. The reason why we call it the ‘Leader Point’ is that some players like to place a suitably imposing model in the centre of the first rank to ‘lead’ the unit.",
-      "value_translated": null,
+      "value_translated": "Le Point de Leader de l'unité est le centre exact du bord avant du socle de l'unité. La raison pour laquelle on l'appelle le 'Point de Leader' est que certains joueurs aiment placer une figurine imposante au centre du premier rang pour 'diriger' l'unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -11747,7 +11747,7 @@
     },
     {
       "value_en": "The unit can advance straight forward up to double its Speed, in inches. See Diagram E.",
-      "value_translated": null,
+      "value_translated": "L'unité peut se déplacer tout droit sur une distance équivalente à deux fois sa Vitesse, en pouces. Voir le Diagramme E.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11755,7 +11755,7 @@
     },
     {
       "value_en": "The unit can advance straight forward up to its Speed stat, in inches. For example, a unit with a Speed of 6 can move forward up to 6 inches. At any point during this move (i.e. before or after advancing, or anywhere along its advance), the unit can also make a single pivot around its centre of up to 90 degrees from its original facing. See Diagram D.",
-      "value_translated": null,
+      "value_translated": "L'unité peut avancer tout droit jusqu'à sa valeur de Vitesse, en pouces. Par exemple, une unité avec une Vitesse de 6 peut avancer jusqu'à 6 pouces. À n'importe quel moment de ce mouvement (avant ou après s'être déplacé, ou n'importe où pendant son déplacement), l'unité peut également effectuer un seul pivot autour de son centre de jusqu'à 90 degrés par rapport à sa position initiale. Voir le diagramme D.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11795,7 +11795,7 @@
     },
     {
       "value_en": "The unit can move sideways straight to its left or straight to its right at up to half of its Speed, in inches. See Diagram E.",
-      "value_translated": null,
+      "value_translated": "L'unité peut se déplacer latéralement, soit à gauche, soit à droite, sur une distance équivalente à la moitié de sa Vitesse, en pouces. Voir le Diagramme E.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11803,7 +11803,7 @@
     },
     {
       "value_en": "The unit can move straight backward at up to half of its Speed stat value, in inches. See Diagram E.",
-      "value_translated": "L'unité peut se déplacer directement en arrière à une distance égale à la moitié de sa valeur de caractéristique de Vitesse, en pouces. Voir le Diagramme E.",
+      "value_translated": "L'unité peut reculer directement d'une distance égale à la moitié de sa valeur de caractéristique de Vitesse, en pouces. Voir le Diagramme E.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11851,7 +11851,7 @@
     },
     {
       "value_en": "The unit does not move at all. If a unit is not moved during the Movement Phase, it has received a Halt order by default.",
-      "value_translated": null,
+      "value_translated": "L'unité ne bouge pas du tout. Si une unité n'est pas déplacée pendant la phase de Mouvement, elle a reçu un ordre de Halte par défaut.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -12219,7 +12219,7 @@
     },
     {
       "value_en": "The unit remains stationary and can pivot around its centre to face any direction. See Diagram C.",
-      "value_translated": null,
+      "value_translated": "L'unité reste sur place et peut pivoter sur son axe central pour se tourner dans n'importe quelle direction. Voir le diagramme C.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -12341,7 +12341,7 @@
     },
     {
       "value_en": "These stats make up what is known as a unit ‘profile’ – a handy visual summary of the information for each unit. The army lists later in the book have all the unit profiles for the various troops, monsters, heroes and sorcerers at your disposal.",
-      "value_translated": null,
+      "value_translated": "Ces statistiques forment ce que l'on appelle le 'profil' d'une unité – un résumé visuel pratique des informations pour chaque unité. Les listes d'armées (plus loin dans le livre) contiennent tous les profils d'unités pour les différentes troupes, monstres, héros et sorciers à votre disposition.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12365,7 +12365,7 @@
     },
     {
       "value_en": "This book is your guide to Kings of War, from playing the game to the lore of the world of Pannithor and how to select an army of your own!",
-      "value_translated": null,
+      "value_translated": "Ce livre est votre guide pour Kings of War, allant des règles du jeu à l'histoire du monde de Pannithor, en passant par la sélection de votre propre armée!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -12406,7 +12406,7 @@
     },
     {
       "value_en": "This is by far the most exciting of orders. Your units are about to engage the enemy in hand-to-hand (or tooth-to-claw) combat. It is also the most complicated and so it is described in detail in",
-      "value_translated": null,
+      "value_translated": "Il s'agit sans doute de l'ordre le plus passionnant. Vos unités vont s'engager dans un combat au corps à corps (ou de crocs à griffes) contre l'ennemi. Cependant, c'est aussi l'ordre le plus complexe, c'est pourquoi il est détaillé dans",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -12422,7 +12422,7 @@
     },
     {
       "value_en": "This last way of mounting models directly onto the multi- base offers great modelling opportunities, as the multi-base can effectively be treated as a mini diorama in itself, creating great looking and very individual units and helping to tell story or give a theme to the army.",
-      "value_translated": null,
+      "value_translated": "Cette dernière façon de monter les figurines directement sur le multi-socle offre de belles opportunités de modélisme. Le multi-socle peut être traité comme un mini-diorama à part entière, permettant de créer des unités uniques et esthétiques, tout en racontant une histoire ou en renforçant le thème de l’armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12462,7 +12462,7 @@
     },
     {
       "value_en": "This regiment has a Speed Stat of 5” and it is ordered to Advance. First it is moved 4” straight forward, then it is pivoted around its centre, and finally it completes its advance by moving a further 1” straight forward.",
-      "value_translated": null,
+      "value_translated": "Ce régiment a une valeur de Vitesse de 5 pouces et reçoit l'ordre d'Avancer. Il se déplace d'abord de 4 pouces en ligne droite, puis pivote autour de son centre, avant de compléter son avancée avec un mouvement de 1 pouce supplémentaire tout droit.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -12470,7 +12470,7 @@
     },
     {
       "value_en": "This rulebook contains all the information you’ll need to get started with your very first games. You will need a few more things, however.",
-      "value_translated": null,
+      "value_translated": "Ce livre de règles contient toutes les informations dont vous aurez besoin pour commencer vos premières parties. Vous aurez cependant besoin de quelques autres éléments.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -12607,7 +12607,7 @@
     },
     {
       "value_en": "Time Out",
-      "value_translated": null,
+      "value_translated": "Temps écoulé",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12616,7 +12616,7 @@
     },
     {
       "value_en": "Timed Games",
-      "value_translated": null,
+      "value_translated": "Parties chronométrées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12625,7 +12625,7 @@
     },
     {
       "value_en": "Titan",
-      "value_translated": null,
+      "value_translated": "Titan",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12",
@@ -12634,7 +12634,7 @@
     },
     {
       "value_en": "Titan (Ttn)",
-      "value_translated": null,
+      "value_translated": "Titan (Ttn)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12795,7 +12795,7 @@
     },
     {
       "value_en": "Troop",
-      "value_translated": null,
+      "value_translated": "Troupe",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12803,7 +12803,7 @@
     },
     {
       "value_en": "Troops",
-      "value_translated": null,
+      "value_translated": "Troupes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12812,7 +12812,7 @@
     },
     {
       "value_en": "Troops and Regiments",
-      "value_translated": null,
+      "value_translated": "Troupes et Régiments",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12821,7 +12821,7 @@
     },
     {
       "value_en": "Troops of 10 models, arranged five models wide in two ranks.",
-      "value_translated": null,
+      "value_translated": "Troupes de 10 figurines, disposées sur cinq figurines de large et deux rangées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12829,7 +12829,7 @@
     },
     {
       "value_en": "Troops of 2 models, arranged in a single rank.",
-      "value_translated": null,
+      "value_translated": "Troupes de 2 figurines, disposées en un seul rang.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12837,7 +12837,7 @@
     },
     {
       "value_en": "Troops of 5 models, arranged in a single rank.",
-      "value_translated": null,
+      "value_translated": "Troupes de 5 figurines, disposées en un seul rang.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12893,7 +12893,7 @@
     },
     {
       "value_en": "Type",
-      "value_translated": null,
+      "value_translated": "Type",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12958,7 +12958,7 @@
     },
     {
       "value_en": "Unit A is trying to draw LoS to Unit C (See Diagram B1). The red lines represent the LoS trying to be drawn. If either Unit A or Unit C are taller than Unit B, then LoS is NOT blocked. If Unit B is the same height or taller than both Unit A and Unit C, then LoS is blocked.",
-      "value_translated": null,
+      "value_translated": "L'unité A essaie de tracer une ligne de vue vers l'unité C (voir Diagramme B1). Les lignes rouges représentent la ligne de vue tentée. Si l'unité A ou l'unité C est plus grande que l'unité B, alors la ligne de vue N'EST PAS bloquée. Si l'unité B est de la même taille ou plus grande que les deux unités A et C, alors la ligne de vue est bloquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -12998,7 +12998,7 @@
     },
     {
       "value_en": "Unit Characteristics",
-      "value_translated": null,
+      "value_translated": "Caractéristiques des Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13007,7 +13007,7 @@
     },
     {
       "value_en": "Unit Footprints, Movement Trays & Multi-bases",
-      "value_translated": null,
+      "value_translated": "Zones occupée des Unités, Plateaux de mouvement et 'Multi-socles'",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13016,7 +13016,7 @@
     },
     {
       "value_en": "Unit Interactions",
-      "value_translated": null,
+      "value_translated": "Interactions des Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13025,7 +13025,7 @@
     },
     {
       "value_en": "Unit Interpenetration",
-      "value_translated": null,
+      "value_translated": "Traversée des Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13034,7 +13034,7 @@
     },
     {
       "value_en": "Unit Leader Point",
-      "value_translated": null,
+      "value_translated": "Point de Leader d'Unité",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -13051,7 +13051,7 @@
     },
     {
       "value_en": "Unit Size",
-      "value_translated": null,
+      "value_translated": "Format de l'unité",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -13059,7 +13059,7 @@
     },
     {
       "value_en": "Unit Strength",
-      "value_translated": null,
+      "value_translated": "Puissance d'Unité",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13068,7 +13068,7 @@
     },
     {
       "value_en": "Unit Strength (US)",
-      "value_translated": null,
+      "value_translated": "Puissance d'Unité (US)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -13076,7 +13076,7 @@
     },
     {
       "value_en": "Unit Type",
-      "value_translated": null,
+      "value_translated": "Type de l'Unité",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -13084,7 +13084,7 @@
     },
     {
       "value_en": "Units",
-      "value_translated": null,
+      "value_translated": "Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2",
@@ -13205,7 +13205,7 @@
     },
     {
       "value_en": "Units will have one or more keywords listed in bold alongside their special rules. For example: Paladin. If a special rule includes a keyword, then it will affect any unit which also has that keyword. For example: Inspiring (Paladin only) affects any unit with the Paladin keyword.",
-      "value_translated": null,
+      "value_translated": "Les unités auront un ou plusieurs mots-clés listés en gras à côté de leurs règles spéciales. Par exemple : Paladin. Si une règle spéciale inclut un mot-clé, alors elle affectera toute unité qui possède également ce mot-clé. Par exemple : Motivant (réservé aux Paladins) affecte toute unité avec le mot-clé Paladin.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -13544,7 +13544,7 @@
     },
     {
       "value_en": "War Engine",
-      "value_translated": null,
+      "value_translated": "Machine de Guerre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12",
@@ -13553,7 +13553,7 @@
     },
     {
       "value_en": "War Engine (War Eng)",
-      "value_translated": null,
+      "value_translated": "Machines de Guerre (War Eng)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -13561,7 +13561,7 @@
     },
     {
       "value_en": "War Engine units cannot be given artefacts.",
-      "value_translated": null,
+      "value_translated": "Les unités de Machines de Guerre ne peuvent pas recevoir d'artefacts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -13569,7 +13569,7 @@
     },
     {
       "value_en": "War Engines",
-      "value_translated": null,
+      "value_translated": "Machines de Guerre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -13698,7 +13698,7 @@
     },
     {
       "value_en": "We will explore all these concepts in the pages that follow.",
-      "value_translated": null,
+      "value_translated": "Nous explorerons tous ces concepts dans les pages suivantes.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -13725,7 +13725,7 @@
     },
     {
       "value_en": "We’ll examine each of these phases in detail on the following pages. Once a player has moved and attacked with all their units and completed their three phases, it is then their opponent’s Turn.",
-      "value_translated": null,
+      "value_translated": "Nous examinerons chacune de ces phases en détail dans les pages suivantes. Une fois qu'un joueur a déplacé et attaqué avec toutes ses unités et terminé ses trois phases, c'est alors au tour de son adversaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -13741,7 +13741,7 @@
     },
     {
       "value_en": "What Do I Need to Get Started?",
-      "value_translated": null,
+      "value_translated": "De quoi ai-je besoin pour commencer?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13751,7 +13751,7 @@
     },
     {
       "value_en": "What’s It All About?",
-      "value_translated": null,
+      "value_translated": "De quoi s'agit-il?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -14018,7 +14018,7 @@
     },
     {
       "value_en": "When you are allowed a re-roll, simply pick up the number of dice you are allowed to re-roll and roll them again. The second result stands, even if it’s worse than the first. Regardless of the number of special rules that apply to a particular circumstance, you can never re-roll a re-roll; the second result always stands.",
-      "value_translated": null,
+      "value_translated": "Lorsque vous avez droit à une relance, prenez simplement les dés que vous êtes autorisé à relancer et jetez-les à nouveau. Le deuxième résultat prévaut, même si celui-ci est moins favorable que le premier. Quelle que soit le nombre de règles spéciales qui s'appliquent à une situation donnée, vous ne pouvez jamais relancer une relance ; le deuxième résultat prévaut toujours.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -14027,7 +14027,7 @@
     },
     {
       "value_en": "Whenever the rules say to take something ‘from the unit’s Leader Point’, such as a measurement or Line of Sight, it is taken from this point in the exact centre of the unit’s front edge. It’s a good idea to mark the unit’s Leader Point on the unit in some way as it may be difficult to easily locate the Leader Point on a movement tray or multi-base at a glance during gameplay.",
-      "value_translated": null,
+      "value_translated": "Chaque fois que les règles indiquent de prendre quelque chose 'à partir du Point de Leader de l'unité', comme une mesure ou une ligne de vue, cela doit être pris depuis ce point, qui se trouve exactement au centre du bord avant du socle de l'unité. Il est conseillé de marquer le Point de Leader de l'unité d'une manière ou d'une autre, car il peut être difficile de localiser facilement ce point sur un plateau de mouvement ou un multi-socle au premier coup d'oeil pendant la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -14294,7 +14294,7 @@
     },
     {
       "value_en": "You can measure any distance at any time you like. Unless otherwise specified, the distance between two units is the distance between the two nearest points of the units’ bases.",
-      "value_translated": null,
+      "value_translated": "Vous pouvez mesurer n'importe quelle distance à tout moment. À moins qu'il ne soit précisé autrement, la distance entre deux unités est la distance entre les deux points les plus proches des socles des unités.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -14350,7 +14350,7 @@
     },
     {
       "value_en": "You may need a wider or deeper base for exceptionally large Heroes, Monsters, Titans or War Engines – in such rare cases, use the smallest base that you can fit your model on.",
-      "value_translated": null,
+      "value_translated": "Il se peut que vous ayez besoin d'un socle plus large ou plus profond pour des Héros, Monstres, Titans ou Engins de guerre exceptionnellement grands. Dans de tels rares cas, utilisez le socle le plus petit sur lequel vous pouvez placer votre figurine.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -14374,7 +14374,7 @@
     },
     {
       "value_en": "You might even end up with a little more or less than the correct number of models on the multi-base – this is fine, but it must be reasonably close to the correct amount, so that there is no chance of misleading your opponents in regard to the real size of the unit. Below you will find a chart listing the base sizes for all the units as well as the ‘preferred model count’ (PMC), which is the amount of models you should aim to use for your multi-based units to maintain the spectacle of a big battle. Sometimes, the practicalities of model size and position will make this more difficult, or not possible, but in essence, you should plan to have 75% or more of the models being represented on the base.",
-      "value_translated": null,
+      "value_translated": "Vous pourriez même vous retrouver avec un peu plus ou un peu moins que le nombre exact de figurines sur le multi-socle – cela ne pose pas de problème, tant que le total reste raisonnablement proche de la quantité correcte, afin d’éviter toute confusion pour votre adversaire sur la véritable taille de l’unité. Vous trouverez ci-dessous un tableau indiquant les tailles de socles pour toutes les unités, ainsi que le « nombre de figurines recommandé » (NFR), qui correspond au nombre de figurines à viser pour vos unités en multi-soclage afin de préserver l’aspect spectaculaire d’une grande bataille. Parfois, la taille et la disposition des figurines rendent cela plus difficile, voire impossible, mais dans l’idéal, vous devriez représenter au moins 75 % des figurines sur le socle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -14382,7 +14382,7 @@
     },
     {
       "value_en": "You will need some six-sided dice, in two colours – about 15 of each colour is enough. These are for rolling in the game and are also useful for showing how much damage a unit takes over time, by placing the dice behind the unit. You will also need a ruler or tape measure that uses inches.",
-      "value_translated": null,
+      "value_translated": "Vous aurez besoin de dés à six faces, de deux couleurs – environ 15 de chaque couleur suffisent. Ces dés seront lancés pendant la partie, mais seront également utiles pour indiquer la quantité de dégâts subis par une unité au fil du temps, en plaçant les dés derrière l'unité. Vous aurez aussi besoin d'une règle ou d'un mètre ruban mesurant en pouces.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -14431,7 +14431,7 @@
     },
     {
       "value_en": "You’ll also need clippers, plastic glue and super glue to assemble your miniatures. Your army doesn’t need to be painted for your first games – however, a fully painted army looks amazing on the tabletop and is something to aspire to.",
-      "value_translated": null,
+      "value_translated": "Vous aurez également besoin de pinceaux, de colle plastique et de super glue pour assembler vos figurines. Il n'est pas nécessaire que votre armée soit peinte pour vos premières parties – cependant, une armée entièrement peinte est magnifique sur la table de jeu et c'est un objectif à atteindre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -14534,7 +14534,7 @@
     },
     {
       "value_en": "a. Footprints, Trays & Multi-bases",
-      "value_translated": null,
+      "value_translated": "a. Zones occupées, Plateaux et 'Multi-socles'",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -14558,7 +14558,7 @@
     },
     {
       "value_en": "a. Magical Artefacts List",
-      "value_translated": null,
+      "value_translated": "a. Liste des Artefacts magiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14630,7 +14630,7 @@
     },
     {
       "value_en": "a. The Movement Phase",
-      "value_translated": null,
+      "value_translated": "a. La Phase de Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -14646,7 +14646,7 @@
     },
     {
       "value_en": "a. Welcome to Kings of War!",
-      "value_translated": null,
+      "value_translated": "a. Bienvenue à Kings of War!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -14803,7 +14803,7 @@
     },
     {
       "value_en": "b. Unit Characteristics",
-      "value_translated": null,
+      "value_translated": "b. Caractéristiques des Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -14811,7 +14811,7 @@
     },
     {
       "value_en": "b. Unit Interpenetration",
-      "value_translated": null,
+      "value_translated": "b. Traversée des Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -14835,7 +14835,7 @@
     },
     {
       "value_en": "b. What’s It All About?",
-      "value_translated": null,
+      "value_translated": "b. De quoi s'agit-il?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -14964,7 +14964,7 @@
     },
     {
       "value_en": "c. Unit Interactions",
-      "value_translated": null,
+      "value_translated": "c. Interactions des Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -14972,7 +14972,7 @@
     },
     {
       "value_en": "c. What Do I Need to Get Started?",
-      "value_translated": null,
+      "value_translated": "c. De quoi ai-je besoin pour commencer?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -15043,7 +15043,7 @@
     },
     {
       "value_en": "d. Dice",
-      "value_translated": null,
+      "value_translated": "d. Les dés",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -15186,7 +15186,7 @@
     },
     {
       "value_en": "e. Modifiers",
-      "value_translated": null,
+      "value_translated": "e. Modificateurs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -15311,7 +15311,7 @@
     },
     {
       "value_en": "f. Re-Rolls",
-      "value_translated": null,
+      "value_translated": "f. Relances",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=1",
@@ -15567,7 +15567,7 @@
     },
     {
       "value_en": "i. Line of Sight (LoS)",
-      "value_translated": null,
+      "value_translated": "i. Line de Vue (LdV)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"

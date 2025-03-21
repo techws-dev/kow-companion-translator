@@ -9,7 +9,7 @@
           value_translated,
           locale,
           *urls`,
-    });
+    })
 
     let countRecords = await db.texts.count();
 
@@ -59,7 +59,9 @@
             
             await handleDevMode(devMode, url, element, item, valueToTranslate);
             if (item !== undefined && item.value_translated !== null) {
-                element.innerHTML = element.innerHTML.replace(valueToTranslate, item.value_translated);
+                element.innerHTML = element.innerHTML
+                    .replaceAll('&amp;', '&')
+                    .replaceAll(valueToTranslate, item.value_translated);
             }
         } else if (element.children.length > 0) {
             let child = element.firstChild
@@ -70,7 +72,9 @@
                     
                     await handleDevMode(devMode, url, element, item, valueToTranslate);
                     if (item !== undefined && item.value_translated !== null) {
-                        child.data = child.data.replace(valueToTranslate, item.value_translated);
+                        child.data = child.data
+                        .replaceAll('&amp;', '&')
+                        .replaceAll(valueToTranslate, item.value_translated);
                     }
                 }
                 child = child.nextSibling
