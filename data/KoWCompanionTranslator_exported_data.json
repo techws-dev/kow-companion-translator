@@ -235,7 +235,7 @@
     },
     {
       "value_en": "-1 Hindered. If a charging unit’s movement has gone through or ended over any portion of Difficult Terrain or an Obstacle, then it is Hindered in the following Melee phase. A unit can only be Hindered once in any given charge so will only ever suffer a single -1 modifer for the condition.",
-      "value_translated": "-1 Entravé. Si le mouvement d'une unité en charge a traversé ou s'est arrêté sur une portion de Terrain Difficile ou un Obstacle, alors elle est Entravée lors de la phase de Mêlée suivante. Une unité ne peut être Entravée qu'une seule fois par charge et ne subira donc qu’un unique modificateur de -1.",
+      "value_translated": "-1 Gênée. Si le mouvement d'une unité en charge a traversé ou s'est arrêté sur une portion de Terrain Difficile ou un Obstacle, alors elle est Gênée lors de la phase de Mêlée suivante. Une unité ne peut être Entravée qu'une seule fois par charge et ne subira donc qu’un unique modificateur de -1.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -1695,7 +1695,7 @@
     },
     {
       "value_en": "A Wavered unit that is engaged on a single flank may disengage by issuing a change facing order and may end the change facing order within 1” of enemy units.",
-      "value_translated": "Une unité déstabilisée engagée sur un seul flanc peut se désengager en donnant un ordre de changement de direction et peut terminer cet ordre de changement de direction à 1” des unités ennemies.",
+      "value_translated": "Une unité ébranlée engagée sur un seul flanc peut se désengager en donnant un ordre de changement de direction et peut terminer cet ordre de changement de direction à 1” des unités ennemies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -2074,7 +2074,7 @@
     },
     {
       "value_en": "Advance",
-      "value_translated": "Avancer",
+      "value_translated": "En Avant",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -2525,7 +2525,7 @@
     },
     {
       "value_en": "Any unit that makes a Withdraw move, will suffer a -1 to hit penalty if it attacks in the subsequent Melee phase in the same Turn.",
-      "value_translated": null,
+      "value_translated": "Toute unité qui effectue un mouvement de Retraite subira un malus de -1 pour toucher lorsqu'elle attaquera lors de la phase de Mêlée du même tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -2643,7 +2643,7 @@
     },
     {
       "value_en": "At the Double",
-      "value_translated": "Au pas de course",
+      "value_translated": "Marche Forcée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -2867,7 +2867,7 @@
     },
     {
       "value_en": "Back",
-      "value_translated": "Recul",
+      "value_translated": "En Arrière",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -3082,7 +3082,7 @@
     },
     {
       "value_en": "Blocking Terrain",
-      "value_translated": null,
+      "value_translated": "Terrain Bloquant",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3091,7 +3091,7 @@
     },
     {
       "value_en": "Blocking Terrain impacts LoS as described below.",
-      "value_translated": null,
+      "value_translated": "Le Terrain Bloquant impacte la Ligne de Vue comme décrit ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -3099,7 +3099,7 @@
     },
     {
       "value_en": "Blocking Terrain is any solid piece of terrain such as high walls, buildings or large rock formations. The edge of the table is also normally treated as Blocking Terrain. When setting up the table, it is recommended that players leave at least 12” between any two pieces of Blocking Terrain to ensure that all units in the game can fit between them. It impacts the game in the following ways:",
-      "value_translated": null,
+      "value_translated": "Le Terrain Bloquant désigne toute pièce de terrain solide, comme des murs hauts, des bâtiments ou de grandes formations rocheuses. Le bord de la table est également normalement traité comme un Terrain Bloquant. Lors de la mise en place de la table, il est recommandé que les joueurs laissent au moins 30 cm (12 pouces) entre deux pièces de Terrain Bloquant afin de s'assurer que toutes les unités du jeu peuvent se faufiler entre elles. Il impacte le jeu de la manière suivante:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -3433,7 +3433,7 @@
     },
     {
       "value_en": "Charge",
-      "value_translated": "Charger",
+      "value_translated": "Charge",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -3696,7 +3696,7 @@
     },
     {
       "value_en": "Counter Charge",
-      "value_translated": null,
+      "value_translated": "Contre-Charge",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4068,7 +4068,7 @@
     },
     {
       "value_en": "Diagram D: Advance",
-      "value_translated": "Diagramme D: Avancer",
+      "value_translated": "Diagramme D: En Avant",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4206,7 +4206,7 @@
     },
     {
       "value_en": "Difficult Terrain",
-      "value_translated": null,
+      "value_translated": "Terrain Difficile",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4224,7 +4224,7 @@
     },
     {
       "value_en": "Disengaging",
-      "value_translated": null,
+      "value_translated": "Désengagement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4233,7 +4233,7 @@
     },
     {
       "value_en": "Disengaging units may move within 1” of any Enemy unit they were Engaged with at the beginning of the Turn. They still must end their move at least 1” away from any Enemy units unless performing a Charge. If they cannot end their movement at least 1” away from enemy units, they cannot Disengage and must be given either a Halt or Counter Charge order instead.",
-      "value_translated": null,
+      "value_translated": "Les unités se désengageant peuvent se déplacer à moins de 1 pouce de toute unité ennemie avec laquelle elles étaient engagées au début du tour. Elles doivent cependant finir leur mouvement à au moins 1 pouce de toute unité ennemie, sauf si elles effectuent une charge. Si elles ne peuvent pas terminer leur mouvement à au moins 1 pouce des unités ennemies, elles ne peuvent pas se désengager et doivent recevoir un ordre de Halte ou de Contre-charge à la place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4354,7 +4354,7 @@
     },
     {
       "value_en": "Drawing Line of Sight",
-      "value_translated": null,
+      "value_translated": "Tracer la Ligne de Vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4404,7 +4404,7 @@
     },
     {
       "value_en": "During a game, units may begin their Turn Engaged with Enemy units (see above). When such units are given a Movement order, other than Halt or Counter Charge, they are said to be Disengaging.",
-      "value_translated": null,
+      "value_translated": "Pendant une partie, les unités peuvent commencer leur tour engagées avec des unités ennemies (voir ci-dessus). Lorsqu'une telle unité reçoit un ordre de Mouvement, autre que Halte ou Contre-charge, on dit qu'elle se désengage.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4766,7 +4766,7 @@
     },
     {
       "value_en": "Enemy units, on the other hand, block movement. Your units must remain at least 1” away from them, except when charging, disengaging or during a pivot.",
-      "value_translated": null,
+      "value_translated": "Les unités ennemies, quant à elles, bloquent le mouvement. Vos unités doivent rester à au moins 1 pouce d'elles, sauf lors d'une charge, d'un désengagement ou pendant un pivot.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -4782,7 +4782,7 @@
     },
     {
       "value_en": "Engaged",
-      "value_translated": null,
+      "value_translated": "Engagement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4800,7 +4800,7 @@
     },
     {
       "value_en": "Engaged units that charged or countercharged this turn are eligible to strike in combats as described on page 34.",
-      "value_translated": null,
+      "value_translated": "Les unités engagées qui ont chargé ou contre-chargé lors de ce tour sont éligibles pour attaquer lors des combats, comme décrit à la page 34.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -5054,7 +5054,7 @@
     },
     {
       "value_en": "Flat (usually Difficult) terrain does not have a height value and is treated the same as open ground for the purposes of Line of Sight and establishing if a unit is an Obscured Target. Flat Difficult terrain is counted as height 1 for the purposes of checking if a unit is a Concealed Target.",
-      "value_translated": null,
+      "value_translated": "Un terrain plat (généralement difficile) n’a pas de valeur de taille et est traité de la même manière que le terrain dégagé pour les besoins de la ligne de vue et pour déterminer si une unité est une cible dissimulée. Le terrain plat difficile est comptabilisé comme ayant une taille de 1 pour vérifier si une unité est une cible dissimulée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -5062,7 +5062,7 @@
     },
     {
       "value_en": "Flat Terrain",
-      "value_translated": null,
+      "value_translated": "Terrain Plat",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5351,7 +5351,7 @@
     },
     {
       "value_en": "For rules on how terrain impacts the Ranged phase, see the Cover section in the chapter The Turn: Ranged Phase",
-      "value_translated": null,
+      "value_translated": "Pour les règles sur la manière dont le terrain affecte la phase de Tir, consultez la section 'Couvert' dans le chapitre Le Tour: La Phase de Tir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -5426,7 +5426,7 @@
     },
     {
       "value_en": "Friendly units can be moved through (except when charging, see below), but you cannot end a unit’s move on top of another unit, so you’ll have to be sure that your units have enough movement to end up clear of their friends. Also, at the end of their move, your units must not be in base contact with other Friendly units. This ensures that both you and your opponent can clearly tell them apart.",
-      "value_translated": null,
+      "value_translated": "Les unités amies peuvent être traversées (excepté lors d'une charge, voir ci-dessous), mais vous ne pouvez pas terminer le mouvement d'une unité sur une autre unité. Vous devrez donc vous assurer que vos unités ont suffisamment de mouvement pour se dégager de leurs alliées. De plus, à la fin de leur mouvement, vos unités ne doivent pas être en contact socle à socle avec d'autres unités amies. Cela garantit que vous et votre adversaire pouvez clairement les distinguer.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -5703,7 +5703,7 @@
     },
     {
       "value_en": "Heights of all terrain features should be agreed upon before the game. As a rough guideline, a piece of terrain is Height 1 plus one level of Height for each inch of actual physical height, so a 2” high wall would be Height 3 for example.",
-      "value_translated": null,
+      "value_translated": "Les tailles de toutes les pièces de terrain doivent être convenues avant le début de la partie. À titre indicatif, une pièce de terrain a une taille de 1 plus un niveau de taille pour chaque pouce de hauteur physique réelle. Par exemple, un mur de 2 pouces de hauteur serait considéré comme ayant une taille de 3.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -5801,7 +5801,7 @@
     },
     {
       "value_en": "Hills",
-      "value_translated": null,
+      "value_translated": "Collines",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5811,7 +5811,7 @@
     },
     {
       "value_en": "Hills are elevated terrain pieces on which units can stand. Because of the tactical advantages granted by Hills, it is recommended that players avoid placing them in the Set-up Areas. Hills impact the game in the following ways:",
-      "value_translated": null,
+      "value_translated": "Les Collines sont des éléments de terrain surélevés sur lesquels les unités peuvent se placer. En raison des avantages tactiques offerts par les Collines, il est recommandé aux joueurs d'éviter de les placer dans les Zones de Déploiement. Les Collines ont les effets suivants sur le jeu:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -5819,7 +5819,7 @@
     },
     {
       "value_en": "Hills have no impact on movement.",
-      "value_translated": null,
+      "value_translated": "Les collines n'ont pas d'impact sur le mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -6000,7 +6000,7 @@
     },
     {
       "value_en": "If a charging unit’s move has gone through or ended over any portion of Difficult Terrain, then it is Hindered.",
-      "value_translated": null,
+      "value_translated": "Si le mouvement d'une unité chargeant a traversé ou s'est terminé au-dessus d'une portion de terrain difficile, alors elle est gênée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -6008,7 +6008,7 @@
     },
     {
       "value_en": "If a charging unit’s move has gone through or ended over any portion of an Obstacle, then it is Hindered.",
-      "value_translated": null,
+      "value_translated": "Si le mouvement d'une unité qui charge a traversé ou s'est terminé au-dessus d'une portion de terrain Obstacle, l'unité est gênée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -6120,7 +6120,7 @@
     },
     {
       "value_en": "If a unit that begins its turn on a hill makes a Charge that is not Hindered against a unit that is not on a hill, the charging unit gains the Thunderous Charge (+1) special rule. Units with the Fly special rule, including those who have temporarily lost the special rule due to being Disordered, do not gain this bonus.",
-      "value_translated": null,
+      "value_translated": "Si une unité qui commence son tour sur une colline effectue une Charge qui n'est pas Gênée contre une unité qui n'est pas sur une colline, l'unité chargeante obtient la règle spéciale Charge Fracassante (+1). Les unités ayant la règle spéciale Vol, y compris celles ayant temporairement perdu cette règle en raison d'un Désordre, ne bénéficient pas de ce bonus.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -6152,7 +6152,7 @@
     },
     {
       "value_en": "If a unit’s Leader Point is in a piece of Difficult Terrain, then that unit ignores that piece of Difficult Terrain when checking LoS. Otherwise Difficult Terrain impacts LoS as described below.",
-      "value_translated": null,
+      "value_translated": "Si le Point de Leader d'une unité se trouve dans un terrain difficile, cette unité ignore ce terrain difficile lorsqu'elle vérifie la ligne de vue. Sinon, le terrain difficile impacte la ligne de vue comme décrit ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -6168,7 +6168,7 @@
     },
     {
       "value_en": "If a unit’s Leader Point is on a hill, then that unit ignores that hill when checking LoS. Otherwise, hills impact LoS as described below.",
-      "value_translated": null,
+      "value_translated": "Si le point de leader d'une unité se trouve sur une colline, cette unité ignore cette colline lors de la vérification de la ligne de vue. Sinon, les collines influencent la ligne de vue comme décrit ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -6753,7 +6753,7 @@
     },
     {
       "value_en": "In order to be on a hill for game purposes, a unit must have at least half of its unit’s base on it. When a player intends for their unit to be on a hill, they should make this clear to their opponent.",
-      "value_translated": null,
+      "value_translated": "Pour être considérée comme étant sur une colline dans le cadre du jeu, une unité doit avoir au moins la moitié de sa surface d'unité dessus. Lorsqu'un joueur souhaite que son unité soit sur une colline, il doit le faire savoir clairement à son adversaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -6777,7 +6777,7 @@
     },
     {
       "value_en": "In reality, regimented units are more flexible in rearranging their ranks and files than our miniatures, so when a unit is pivoting around its centre, it can pivot through both friends and enemy units, and all types of terrain, including Blocking Terrain and the edge of the table. It must of course still end its pivot (and also its entire move) clear of Blocking Terrain (and completely on the table), not in base contact with Friendly units, and at least 1” away from Enemy units.",
-      "value_translated": null,
+      "value_translated": "Dans la réalité, les unités en formation sont plus flexibles pour réarranger leurs troupes que nos figurines. Ainsi, lorsqu'une unité pivote autour de son centre, elle peut pivoter à travers des unités amies et ennemies, ainsi que tout type de terrain, y compris le terrain Bloquant et le bord de la table. Elle doit cependant terminer son pivot (et également son mouvement complet) hors du terrain Bloquant (et entièrement sur la table), sans être en contact avec des unités Amies, et à au moins 1 pouce des unités Ennemies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -7147,7 +7147,7 @@
     },
     {
       "value_en": "Interpenetration When Pivoting",
-      "value_translated": null,
+      "value_translated": "Traverser une Unité lors d'un pivot",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -8350,7 +8350,7 @@
     },
     {
       "value_en": "Note that it is important to have some pieces of terrain that block LoS toward the centre of the board in order to break up LoS and provide cover from units with ranged attacks. Hills, forests and Blocking Terrain are great for this purpose.",
-      "value_translated": null,
+      "value_translated": "Il est important d'avoir quelques éléments de terrain qui bloquent la ligne de vue vers le centre du plateau afin de fragmenter la ligne de vue et offrir un couvert contre les unités possédant des attaques à distance. Les collines, les forêts et le terrain bloquant sont parfaits pour cela.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8406,7 +8406,7 @@
     },
     {
       "value_en": "Note: This means that some units may be able to leave a fight and move away to attack something else. Typically this will be large monsters and titans with square bases that can see over obstacles to other more juicy targets, and then turn and manoeuvre away. Quite cinematic, but new players should watch not to get caught out!",
-      "value_translated": null,
+      "value_translated": "Note : Cela signifie que certaines unités peuvent être capables de quitter un combat et de s'éloigner pour attaquer une autre cible. Typiquement, il s'agit de gros monstres et de titans avec des socles carrés qui peuvent voir par-dessus les obstacles pour attaquer d'autres cibles plus intéressantes, puis se tourner et manœuvrer pour s'éloigner. C'est assez cinématographique, mais les nouveaux joueurs devraient faire attention à ne pas se faire piéger!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -8464,7 +8464,7 @@
     },
     {
       "value_en": "Obstacles",
-      "value_translated": null,
+      "value_translated": "Obstacles",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8474,7 +8474,7 @@
     },
     {
       "value_en": "Obstacles are Height 2 for determining cover but never block LoS.",
-      "value_translated": null,
+      "value_translated": "Les Obstacles sont considérés de Taille 2 pour déterminer le couvert mais ne bloque pas la Ligne de Vue.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8482,7 +8482,7 @@
     },
     {
       "value_en": "Obstacles are long and narrow pieces of terrain, like a low wall, a fence, a hedge, etc. – something that a roughly man-sized creature could see over and clamber across easily. Obstacles should be no more than 1” high – any higher and they will be Blocking Terrain instead. They impact the game in the following ways:",
-      "value_translated": null,
+      "value_translated": "Les obstacles sont des éléments de terrain longs et étroits, comme un mur bas, une clôture, une haie, etc. – une créature de taille humaine pourrait facilement voir par-dessus et le franchir. Les obstacles ne doivent pas dépasser 1 pouce de hauteur ; au-delà, ils deviennent du terrain Bloquant. Ils ont les effets suivants sur le jeu:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8532,7 +8532,7 @@
     },
     {
       "value_en": "On a standard 6’x4’ table it is recommended that players use between eight and twelve pieces of terrain, making sure to use a few pieces of terrain from each of the five types listed below. Before the game, it’s always a good idea to agree with your opponent how you are going to treat each of the pieces of terrain on the table.",
-      "value_translated": null,
+      "value_translated": "Sur une table standard de 6’x4’, il est recommandé que les joueurs utilisent entre huit et douze éléments de terrain, en veillant à inclure quelques pièces de terrain parmi chacun des cinq types listés ci-dessous. Avant la partie, il est toujours judicieux de s'entendre avec votre adversaire sur la façon dont vous allez traiter chaque élément de terrain sur la table.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8548,7 +8548,7 @@
     },
     {
       "value_en": "Once Engaged, the units remain Engaged with one another until one of the units Routs, one of the units Disengages in its Move Phase, or one of the units Counter Charges a different unit with which it is Engaged. If an Engaged unit is given a Halt order, the unit and all units Engaged with it remain Engaged.",
-      "value_translated": null,
+      "value_translated": "Une fois engagées, les unités restent engagées entre elles jusqu'à ce que l'une des unités s'enfuie, qu'une des unités se désengage lors de sa phase de mouvement, ou qu'une des unités contre-charge une autre unité avec laquelle elle est engagée. Si une unité engagée reçoit un ordre de Halte, l'unité et toutes les unités engagées avec elle restent engagées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -8692,7 +8692,7 @@
     },
     {
       "value_en": "Open Terrain",
-      "value_translated": null,
+      "value_translated": "Terrain Dégagé",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8701,7 +8701,7 @@
     },
     {
       "value_en": "Open Terrain simply describes the normal battlefield and it is assumed that units and warriors can move, see and fight in areas of Open Terrain easily, following the normal rules. You don’t need to specify Open Terrain – we assume it covers all the areas of your table where you have not placed any of the other terrain types listed below.",
-      "value_translated": null,
+      "value_translated": "Le terrain dégagé décrit simplement le champ de bataille normal, et il est présumé que les unités et les guerriers peuvent se déplacer, voir et combattre dans les zones de terrain dégagé facilement, en suivant les règles normales. Il n'est pas nécessaire de spécifier le terrain dégagé – on suppose qu'il couvre toutes les zones de votre table où aucun autre type de terrain n’a été placé.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8709,7 +8709,7 @@
     },
     {
       "value_en": "Optional Rule - Withdraw",
-      "value_translated": null,
+      "value_translated": "Règle optionnelle - Retraite",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10519,7 +10519,7 @@
     },
     {
       "value_en": "Sidestep",
-      "value_translated": "Esquive latérale",
+      "value_translated": "Sur le Côté",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -11111,7 +11111,7 @@
     },
     {
       "value_en": "Terrain Height",
-      "value_translated": null,
+      "value_translated": "Taille du Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11120,7 +11120,7 @@
     },
     {
       "value_en": "Terrain Types",
-      "value_translated": null,
+      "value_translated": "Types de Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11129,7 +11129,7 @@
     },
     {
       "value_en": "Terrain and Cover",
-      "value_translated": null,
+      "value_translated": "Terrain et Couvert",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11138,7 +11138,7 @@
     },
     {
       "value_en": "Terrain and Line of Sight",
-      "value_translated": null,
+      "value_translated": "Terrain et Ligne de Vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11155,7 +11155,7 @@
     },
     {
       "value_en": "Terrain blocks LoS to any units behind it in the same way as a unit. For example, a Height 3 or higher building will block LoS between two Height 3 units. Some pieces of terrain, such as rivers and ponds, will be completely flat and never block LoS. As always, these should be agreed with your opponent before the game.",
-      "value_translated": null,
+      "value_translated": "Le terrain bloque la ligne de vue vers toutes les unités situées derrière lui de la même manière qu'une unité. Par exemple, un bâtiment de taille 3 ou plus bloquera la ligne de vue entre deux unités de taille 3. Certaines pièces de terrain, comme les rivières et les étangs, seront complètement plates et ne bloqueront jamais la ligne de vue. Comme toujours, ces règles doivent être convenues avec votre adversaire avant la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -11163,7 +11163,7 @@
     },
     {
       "value_en": "Terrain does not block LoS drawn to units that are at least partially inside the piece of terrain. If any part of a unit is in a forest, for instance, then other units outside of the forest may draw LoS to the unit in the forest.",
-      "value_translated": null,
+      "value_translated": "Le terrain ne bloque pas la ligne de vue vers les unités qui se trouvent partiellement à l'intérieur de la pièce de terrain. Par exemple, si une partie d'une unité est dans une forêt, les autres unités situées à l'extérieur de la forêt peuvent toujours tracer leur ligne de vue vers l'unité située à l'intérieur de la forêt.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -11171,7 +11171,7 @@
     },
     {
       "value_en": "Terrain plays a vital role in Kings of War, providing cover from gunlines, breaking up charging paths for cavalry and providing strategic advantages and disadvantages for both players. Because terrain can have an effect on unit activity in all phases of the game, as well as LoS (and thus shooting), we will discuss it in more depth here before moving on to the Ranged and Melee phases.",
-      "value_translated": null,
+      "value_translated": "Le terrain joue un rôle essentiel dans Kings of War, offrant un couvert contre les lignes de tir, perturbant les trajectoires de charge pour la cavalerie et apportant des avantages et des inconvénients stratégiques pour les deux joueurs. Étant donné que le terrain peut influencer l'activité des unités dans toutes les phases du jeu, ainsi que la ligne de vue (LdV) et donc les tirs, nous allons en discuter plus en détail ici avant de passer aux phases de Tir et de Mêlée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -11187,7 +11187,7 @@
     },
     {
       "value_en": "Testing Nerve",
-      "value_translated": null,
+      "value_translated": "Test de Moral",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11378,7 +11378,7 @@
     },
     {
       "value_en": "The Turn: Melee Phase",
-      "value_translated": null,
+      "value_translated": "Le Tour: Phase de Mêlée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -11394,7 +11394,7 @@
     },
     {
       "value_en": "The Turn: Ranged Phase",
-      "value_translated": null,
+      "value_translated": "Le Tour: Phase de Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -11402,7 +11402,7 @@
     },
     {
       "value_en": "The Turn: Terrain",
-      "value_translated": null,
+      "value_translated": "Le Tour: Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -12277,7 +12277,7 @@
     },
     {
       "value_en": "There are five types of terrain that impact gameplay in Kings of War:",
-      "value_translated": null,
+      "value_translated": "Il y a cinq types de terrain qui ont un impact sur le gameplay dans Kings of War:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -12495,7 +12495,7 @@
     },
     {
       "value_en": "This type of terrain consists of things like woods, crop fields, areas of rocky terrain or scree, ponds and so on. They are normally made by gluing a number of pieces of terrain onto a large base. This conveniently shows the area of the terrain – the entire area of this base counts as Difficult Terrain. It impacts the game in the following ways:",
-      "value_translated": null,
+      "value_translated": "Ce type de terrain comprend des éléments tels que des bois, des champs de culture, des zones rocheuses ou des éboulis, des étangs, etc. Il est généralement constitué en collant plusieurs éléments de terrain sur une grande base. Cela permet de délimiter clairement la zone de terrain – toute la surface de cette base compte comme terrain difficile. Il impacte le jeu de la manière suivante:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -13101,7 +13101,7 @@
     },
     {
       "value_en": "Units can move over Obstacles normally (even ending their move on top of them), but they cannot cross them while moving At the Double.",
-      "value_translated": null,
+      "value_translated": "Les unités peuvent se déplacer normalement sur les obstacles (même terminer leur mouvement dessus), mais elles ne peuvent pas les traverser lorsqu'elles se déplacent en marche forcée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -13109,7 +13109,7 @@
     },
     {
       "value_en": "Units can pivot through Blocking Terrain in the same way as other units.",
-      "value_translated": null,
+      "value_translated": "Les unités peuvent pivoter à travers le Terrain Bloquant de la même manière que les autres unités.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -13117,7 +13117,7 @@
     },
     {
       "value_en": "Units cannot move across Blocking Terrain and must go around it.",
-      "value_translated": null,
+      "value_translated": "Les unités ne peuvent pas traverser le Terrain Bloquant et doivent le contourner.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -13609,7 +13609,7 @@
     },
     {
       "value_en": "Wavered Flank",
-      "value_translated": null,
+      "value_translated": "Flanc ébranlé",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -14131,7 +14131,7 @@
     },
     {
       "value_en": "While moving At the Double, units treat Difficult Terrain as Blocking Terrain instead.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'unité se déplace en marche forcée, elle considère le terrain difficile comme du terrain bloquant à la place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -14139,7 +14139,7 @@
     },
     {
       "value_en": "While on a hill, a unit adds that hill’s Height to its own. For example, a Height 2 unit on a Height 2 hill would be Height 4, while a Height 3 unit would be Height 5 while it stood on the hill.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une unité se trouve sur une colline, elle ajoute la taille de cette colline à la sienne. Par exemple, une unité de Taille 2 sur une colline de Taille 2 aura une Taille de 4, tandis qu'une unité de Taille 3 aura une Taille de 5 lorsqu'elle sera sur la colline.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -14622,7 +14622,7 @@
     },
     {
       "value_en": "a. Terrain Types",
-      "value_translated": null,
+      "value_translated": "a. Types de Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -14795,7 +14795,7 @@
     },
     {
       "value_en": "b. Terrain and Line of Sight",
-      "value_translated": null,
+      "value_translated": "b. Terrain et Ligne de Vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -15100,7 +15100,7 @@
     },
     {
       "value_en": "d. Testing Nerve",
-      "value_translated": null,
+      "value_translated": "d. Test de Moral",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -15162,7 +15162,7 @@
     },
     {
       "value_en": "e. Counter Charge",
-      "value_translated": null,
+      "value_translated": "e. Contre-Charge",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -15449,7 +15449,7 @@
     },
     {
       "value_en": "h. Testing Nerve",
-      "value_translated": null,
+      "value_translated": "h. Test de Moral",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15543,7 +15543,7 @@
     },
     {
       "value_en": "i. Engaged",
-      "value_translated": null,
+      "value_translated": "i. Engagement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -15600,7 +15600,7 @@
     },
     {
       "value_en": "i. Open Terrain",
-      "value_translated": null,
+      "value_translated": "i. Terrain Dégagé",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -15657,7 +15657,7 @@
     },
     {
       "value_en": "i. Terrain Height",
-      "value_translated": null,
+      "value_translated": "i. Taille du Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -15717,7 +15717,7 @@
     },
     {
       "value_en": "ii. Blocking Terrain",
-      "value_translated": null,
+      "value_translated": "ii. Terrain Bloquant",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -15741,7 +15741,7 @@
     },
     {
       "value_en": "ii. Disengaging",
-      "value_translated": null,
+      "value_translated": "ii. Désengagement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -15749,7 +15749,7 @@
     },
     {
       "value_en": "ii. Drawing Line of Sight",
-      "value_translated": null,
+      "value_translated": "ii. Tracer la Ligne de Vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -15781,7 +15781,7 @@
     },
     {
       "value_en": "ii. Optional Rule - Withdraw",
-      "value_translated": null,
+      "value_translated": "ii. Règle optionnelle - Retraite",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -15857,7 +15857,7 @@
     },
     {
       "value_en": "iii. Flat Terrain",
-      "value_translated": null,
+      "value_translated": "iii. Terrain Plat",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -15905,7 +15905,7 @@
     },
     {
       "value_en": "iii. Terrain and Cover",
-      "value_translated": null,
+      "value_translated": "iii. Terrain et Couvert",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -15913,7 +15913,7 @@
     },
     {
       "value_en": "iii. Time Out",
-      "value_translated": null,
+      "value_translated": "iii. Temps écoulé",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15955,7 +15955,7 @@
     },
     {
       "value_en": "iv. Difficult Terrain",
-      "value_translated": null,
+      "value_translated": "iv. Terrain Difficile",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -16281,7 +16281,7 @@
     },
     {
       "value_en": "v. Obstacles",
-      "value_translated": null,
+      "value_translated": "v. Obstacles",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -16310,7 +16310,7 @@
     },
     {
       "value_en": "vi. Hills",
-      "value_translated": null,
+      "value_translated": "vi. Collines",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
