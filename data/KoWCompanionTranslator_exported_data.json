@@ -2412,7 +2412,7 @@
     },
     {
       "value_en": "Also note that if the new enemy is another Individual, which is then Routed, the charging unit can again advance D6” forward as above, and so on – it is possible to run over any number of meddling Individuals in a single Charge!",
-      "value_translated": null,
+      "value_translated": "Il est également important de noter que si la nouvelle unité ennemie est une autre Unité Indépendante, et qu'elle est ensuite mis en Déroute, l'unité qui charge peut à nouveau avancer de D6” en avant comme indiqué ci-dessus, et ainsi de suite – il est donc possible de passer sur n'importe quel nombre d'Indépendants en une seule Charge!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -2452,7 +2452,7 @@
     },
     {
       "value_en": "An Individual may move into base contact with a Friendly unit to protect a facing. While in base contact like this, the Individual may not be charged in any facing that is entirely in contact with the Friendly unit.",
-      "value_translated": null,
+      "value_translated": "Un Indépendant peut se déplacer en contact avec une unité Amie pour protéger un flanc. Tant qu'il est en contact de cette manière, l'Indépendant ne peut pas être chargé dans un flanc qui est entièrement en contact avec l'unité Amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -2460,7 +2460,7 @@
     },
     {
       "value_en": "An Individual that does not start the turn in Difficult Terrain or on a Hill that would otherwise block LoS (such as a Height 4 forest for a Height 2 Hero (Inf), model) may not pivot into the Difficult Terrain or Hill to see through it in order to declare a Charge.",
-      "value_translated": null,
+      "value_translated": "Un Indépendant qui ne commence pas le tour dans un Terrain Difficile ou sur une Colline qui bloquerait autrement la ligne de vue (comme une forêt de Taille 4 pour un Héros (Inf) de Taille 2) ne peut pas pivoter dans ce Terrain Difficile ou sur cette Colline pour voir à travers et déclarer une Charge.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -4725,7 +4725,7 @@
     },
     {
       "value_en": "Enemies never double/triple their Attacks in Melee combat against an Individual. Similarly, the Individual does not double/triple its own attacks when attacking an enemy in the flank/rear. Individuals do still triple their Attacks against War Engines however.",
-      "value_translated": null,
+      "value_translated": "Les ennemis ne doublent ni ne triplent jamais leurs Attaques lors des combats de mêlée avec un Indépendant. De même, l'Indépendant ne double ni ne triple ses propres attaques lorsqu'il attaque un ennemi sur le flanc ou à l'arrière. Malgré tout, les Indépendants triplent toujours leurs Attaques contre les Machines de Guerre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -4733,7 +4733,7 @@
     },
     {
       "value_en": "Enemies shooting against Individuals suffer an additional -1 to hit modifier.",
-      "value_translated": null,
+      "value_translated": "Les ennemis tirant sur des Indépendants subissent un modificateur supplémentaire de -1 pour toucher.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -6176,7 +6176,7 @@
     },
     {
       "value_en": "If an Individual suffers a Rout result, and the attacking unit(s) opts to advance D6” directly forward for its Regroup move, it may make contact with another enemy unit if the distance moved would allow it. This is treated as a successful Charge against the facing that has been contacted. If, and only if, the advancing unit contacts a corner of the enemy unit and not the edge, determine which arc of the enemy unit the Leader Point of the advancing unit is in before it moves and align to that facing. The charging unit is aligned and shuffled against the new enemy as normal and can immediately attack again, even if the unit contacted has already been attacked in Melee this Turn. This may result in more than one Nerve test on a single enemy unit in the Melee phase. If either the initial Charge move or the regroup move took the charging unit over an Obstacle or through Difficult Terrain, then it is Hindered during this additional combat.",
-      "value_translated": null,
+      "value_translated": "Si un Indépendant est mis en Déroute, et que l’unité attaquante (ou les unités attaquantes) choisit d’avancer de D6” en avant pour son mouvement de Regroupement, elle peut entrer en contact avec une autre unité ennemie si la distance parcourue le permet. Cela est considéré comme une Charge réussie contre le côté qui a été touché. Si, et seulement si, l’unité en mouvement entre en contact avec un coin de l’unité ennemie et non avec son bord, déterminez quel arc de l’unité ennemie le Point Leader de l’unité en mouvement se trouve avant qu’elle ne se déplace, puis alignez-le avec ce côté. L’unité qui charge est ensuite alignée et déplacée contre la nouvelle unité ennemie comme d’habitude et peut immédiatement attaquer à nouveau, même si l’unité touchée a déjà été attaquée en mêlée durant ce Tour. Cela peut entraîner plusieurs tests de Moral sur une même unité ennemie durant la phase de mêlée. Si le mouvement initial de Charge ou le mouvement de regroupement a amené l’unité chargée au-dessus d’un Obstacle ou à travers un Terrain Difficile, l’unité est Gênée lors de ce combat supplémentaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -6568,7 +6568,7 @@
     },
     {
       "value_en": "Immediately before being issued a Movement order, Individuals may pivot to face any direction before carrying out the rest of their order. If it is a Charge order, this pivot is allowed to end within 1” of enemy units.",
-      "value_translated": null,
+      "value_translated": "Immédiatement avant de recevoir un ordre de Mouvement, les Indépendants peuvent pivoter pour faire face à n'importe quelle direction avant d'exécuter le reste de leur ordre. Si c'est un ordre de Charge, ce pivot est autorisé à se terminer à moins de 1” des unités ennemies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -6664,7 +6664,7 @@
     },
     {
       "value_en": "In addition, units do not need to Disengage to carry out a ranged attack if they are only Engaged with Individuals that are Yielding.",
-      "value_translated": null,
+      "value_translated": "De plus, les unités n'ont pas besoin de se désengager pour effectuer une attaque à distance si elles ne sont engagées qu'avec des Indépendants qui Cèdent leur place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -6947,7 +6947,7 @@
     },
     {
       "value_en": "Individuals may pivot to face any direction for free before picking a target in the Ranged phase. They may do this every time they are required to choose a new target if they have the ability to use more than one attack in the Ranged Phase.",
-      "value_translated": null,
+      "value_translated": "Les Indépendants peuvent pivoter gratuitement pour faire face à n'importe quelle direction avant de choisir une cible pendant la phase de Tir. Ils peuvent le faire chaque fois qu'ils doivent choisir une nouvelle cible s'ils ont la capacité d'effectuer plus d'une attaque pendant la phase de Tir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -6955,7 +6955,7 @@
     },
     {
       "value_en": "Individuals never block LoS and also do not provide cover against ranged attacks.",
-      "value_translated": null,
+      "value_translated": "Les Indépendants ne bloquent jamais les lignes de vue et ne fournissent pas non plus de couvert contre les attaques à distance.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -7526,7 +7526,7 @@
     },
     {
       "value_en": "Line of Sight",
-      "value_translated": null,
+      "value_translated": "Ligne de Vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8783,7 +8783,7 @@
     },
     {
       "value_en": "Overrun",
-      "value_translated": null,
+      "value_translated": "Débordement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9775,7 +9775,7 @@
     },
     {
       "value_en": "Ranged Attacks",
-      "value_translated": null,
+      "value_translated": "Attaques à Distance",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12430,7 +12430,7 @@
     },
     {
       "value_en": "This means that Enemy and Friendly units that are not Disordered may move, Charge and pivot through them as long as they end their entire movement, or the Move step of any Charge, clear of the Individual.",
-      "value_translated": null,
+      "value_translated": "Cela signifie que les unités ennemies et alliées qui ne sont pas Désordonnées peuvent se déplacer, charger et pivoter à travers elles tant qu'elles terminent leur mouvement complet, ou l'étape de déplacement de toute charge, sans être en contact avec l'Indépendant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -13229,7 +13229,7 @@
     },
     {
       "value_en": "Units with the Individual special rule are Yielding.",
-      "value_translated": null,
+      "value_translated": "Une unité avec la règle spéciale Indépendant Cède la place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -13237,7 +13237,7 @@
     },
     {
       "value_en": "Units with the Individual special rule are normally made of a single model representing a roughly human-sized individual, on foot or horseback. These can obviously behave in a very different manner from regimented units or very large creatures. When the word Individual is used in the rules with a capital letter, it means a unit with the Individual special rule. A unit with the Individual special rule uses the normal rules with the following changes.",
-      "value_translated": null,
+      "value_translated": "Les unités avec la règle spéciale Indépendant sont généralement constituées d'une seule figurine représentant un individu de taille humaine approximative, à pied ou à cheval. Ces unités se comportent évidemment de manière très différente des unités en régiment ou des très grandes créatures. Lorsque le mot Indépendant est utilisé dans les règles avec une majuscule, il désigne une unité avec la règle spéciale Indépendant. Une unité avec la règle spéciale Indépendant utilise les règles normales avec les modifications suivantes.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -13841,7 +13841,7 @@
     },
     {
       "value_en": "When charging an Individual, a unit must make contact with the facing that they started in as normal. However, the Individual will align flush with the unit’s facing, rather than the unit aligning to the Individual’s facing. When aligning the individual to the charging unit, position it with the center of the flank that was charged as close as possible to the initial point of contact with the charging unit. The charging unit then shuffles to its final position as normal. If more than one Enemy unit is charging the Individual, declare all Charges as normal and move the first charging unit into contact. The Individual then aligns to that unit and the charging unit moves to its final position. The remaining charging units then make contact with the facing they would have charged when they declared the Charge and align to the Individual – assuming there is still room to fit.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une unité charge un Indépendant, elle doit entrer en contact avec la face de sa cible dans l'arc où elle a commencé son mouvement, comme d'habitude. Cependant, l'Indépendant s'alignera avec le côté de l'unité qui charge, plutôt que l'unité ne s'aligne avec le côté de l'Indépendant. Lors de l'alignement de l'Indépendant à l'unité qui charge, placez-le de manière à ce que le centre de la face chargée soit aussi proche que possible du point initial de contact avec l'unité qui charge. L'unité qui charge se déplace ensuite vers sa position finale comme habituellement. Si plusieurs unités ennemies chargent l'Indépendant, déclarez toutes les Charges comme d'habitude et déplacez la première unité chargeante au contact. L'Indépendant s'aligne ensuite à cette unité et l'unité qui charge se déplace vers sa position finale. Les unités restantes à charger font alors contact avec la face qu'elles auraient chargée lorsqu'elles ont déclaré la Charge et s'alignent à l'Indépendant, à condition qu'il y ait encore suffisamment de place pour les accueillir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -14269,7 +14269,7 @@
     },
     {
       "value_en": "Yielding",
-      "value_translated": null,
+      "value_translated": "Céder la place",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -14550,7 +14550,7 @@
     },
     {
       "value_en": "a. Line of Sight",
-      "value_translated": null,
+      "value_translated": "a. Ligne de Vue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -14763,7 +14763,7 @@
     },
     {
       "value_en": "b. Movement",
-      "value_translated": null,
+      "value_translated": "b. Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -14981,7 +14981,7 @@
     },
     {
       "value_en": "c. Yielding",
-      "value_translated": null,
+      "value_translated": "c. Céder la place",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -15076,7 +15076,7 @@
     },
     {
       "value_en": "d. Ranged Attacks",
-      "value_translated": null,
+      "value_translated": "d. Attaques à Distance",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -15178,7 +15178,7 @@
     },
     {
       "value_en": "e. Melee",
-      "value_translated": null,
+      "value_translated": "e. Mêlée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -15303,7 +15303,7 @@
     },
     {
       "value_en": "f. Overrun",
-      "value_translated": null,
+      "value_translated": "f. Débordement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
