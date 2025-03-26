@@ -219,7 +219,7 @@
     },
     {
       "value_en": "- A unit can drop any Loot Counters it is carrying at the start of any move (including regroup moves) – simply place the Counter(s) anywhere completely within the footprint of the unit and then move the unit as normal.",
-      "value_translated": "- Une unité peut déposer n'importe quel marqueur de butin qu'elle transporte au début de n'importe quel mouvement (y compris les mouvements de regroupement) - placez simplement le(s) marqueur(s) n'importe où complètement dans la zone occupée de l'unité, puis déplacez l'unité normalement.",
+      "value_translated": "- Une unité peut déposer n'importe quel marqueur de butin qu'elle transporte au début de n'importe quel mouvement (y compris les mouvements de regroupement) - placez simplement le(s) marqueur(s) n'importe où complètement dans la zone occupée par l'unité, puis déplacez l'unité normalement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -1776,7 +1776,7 @@
     },
     {
       "value_en": "A number of scenarios require you to place an Objective Marker or Loot Counter in the centre of the board. If you are unable to do so due to Blocking Terrain, it should be placed along the centre line of the table as close to the centre as possible, remaining at least 3” from Blocking Terrain.",
-      "value_translated": "Dans certains scénarios, vous devez placer un Marqueur d'Objectif ou un Jeton de Butin au centre du plateau. Si vous ne pouvez pas le faire en raison d'un Terrain Bloquant, il doit être placé le long de la ligne centrale de la table, aussi près du centre que possible, en restant à au moins 3 pouces du Terrain Bloquant.",
+      "value_translated": "Dans certains scénarios, vous devez placer un Marqueur d'Objectif ou un Jeton de Butin au centre de la table. Si vous ne pouvez pas le faire en raison d'un Terrain Bloquant, il doit être placé le long de la ligne centrale de la table, aussi près du centre que possible, en restant à au moins 3 pouces du Terrain Bloquant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -3131,7 +3131,7 @@
     },
     {
       "value_en": "Bluff Counters",
-      "value_translated": null,
+      "value_translated": "Jetons de Bluff",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3140,7 +3140,7 @@
     },
     {
       "value_en": "Bluff Counters are marked with a number on one side, leaving the other side blank, so that the players do not know the value of the counter their opponent placed until it is revealed.",
-      "value_translated": null,
+      "value_translated": "Les jetons de bluff possèdent un numéro sur une face, tandis que l’autre face reste vierge, afin que les joueurs ne connaissent pas la valeur du jeton placé par leur adversaire avant qu’il ne soit révélé.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -3148,7 +3148,7 @@
     },
     {
       "value_en": "Bluff Counters do not block LoS or movement.",
-      "value_translated": null,
+      "value_translated": "Les Jetons de Bluff ne bloquent ni la ligne de vue ni le mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -3358,7 +3358,7 @@
     },
     {
       "value_en": "Centre of the Board",
-      "value_translated": null,
+      "value_translated": "Centre de la Table",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4428,7 +4428,7 @@
     },
     {
       "value_en": "During the game, when one of your units ends a phase of its own Turn (excluding Scout moves) on top of or in contact with a Loot Counter, it can pick it up as long as there is no Enemy unit also in contact with the Loot Counter. That unit will then carry the Loot Counter.",
-      "value_translated": null,
+      "value_translated": "Pendant la partie, lorsqu'une de vos unités termine une phase de son propre tour (à l'exception des déplacements d'unité avec la règle Avant-coureur) sur ou en contact avec un jeton de butin, elle peut le ramasser tant qu'aucune unité ennemie n'est également en contact avec le jeton de butin. Cette unité portera alors le jeton de butin.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -4637,7 +4637,7 @@
     },
     {
       "value_en": "Each unit on the board will have a Unit Strength that is used in some scenarios to determine who controls different areas of the board. This is listed in the unit’s profile.",
-      "value_translated": null,
+      "value_translated": "Chaque unité en jeu a une Puissance d'Unité qui est utilisée dans certains scénarios pour déterminer qui contrôle différentes zones du terrain. Cela est indiqué dans le profil de l'unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -5119,7 +5119,7 @@
     },
     {
       "value_en": "For Bluff Counters you should use 25mm round bases or tokens.",
-      "value_translated": null,
+      "value_translated": "Pour les jetons de bluff, vous devez utiliser des socles ronds de 25mm ou des jetons.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -5127,7 +5127,7 @@
     },
     {
       "value_en": "For Loot Counters you should use 25mm round bases or tokens.",
-      "value_translated": null,
+      "value_translated": "Pour les jetons de butin, vous devez utiliser des socles ronds de 25mm ou des jetons.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -5135,7 +5135,7 @@
     },
     {
       "value_en": "For Objective Markers you should use 25mm round bases or tokens. You can have some fun by creating special themed Objective Markers too.",
-      "value_translated": null,
+      "value_translated": "Pour les marqueurs d'objectif, vous devez utiliser des socles ronds de 25mm ou des jetons. Vous pouvez aussi vous amuser en créant des marqueurs d'objectif thématiques spéciaux.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -5359,7 +5359,7 @@
     },
     {
       "value_en": "For scenarios that use Bluff Counters, each player is given the following:",
-      "value_translated": null,
+      "value_translated": "Pour les scénarios utilisant des jetons de bluff, chaque joueur reçoit les éléments suivants:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -6200,7 +6200,7 @@
     },
     {
       "value_en": "If at the end of the game you have a Scoring unit within at least 3” of an Objective and there are no enemy units within 3” of it, you control that Objective. A single unit can control any number of Objectives.",
-      "value_translated": null,
+      "value_translated": "Si, à la fin de la partie, vous avez une unité de prise d'objectif à moins de 3” d'un objectif et qu'il n'y a aucune unité ennemie à moins de 3” de celui-ci, vous contrôlez cet objectif. Une seule unité peut contrôler plusieurs objectifs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -6208,7 +6208,7 @@
     },
     {
       "value_en": "If both players have an equal total Unit Strength within 3” of an Objective, then it is contested and is worth 0 Victory Points for both players.",
-      "value_translated": null,
+      "value_translated": "Si les deux joueurs ont une Puissance d'Unité Totale égale à moins de 3” d'un objectif, celui-ci est contesté et ne rapporte aucun Point de Victoire à aucun des joueurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -6216,7 +6216,7 @@
     },
     {
       "value_en": "If both players have units that allow redeployment, roll off to decide which players goes first, and then alternate any units to be redeployed.",
-      "value_translated": null,
+      "value_translated": "Si les deux joueurs possèdent des unités permettant un redéploiement, lancez un dé pour déterminer lequel commence, puis alternez le redéploiement des unités.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -6256,7 +6256,7 @@
     },
     {
       "value_en": "If one of your units is Routed while carrying Loot, place the Counter(s) anywhere within its footprint before removing the unit. If the unit was destroyed in a Melee, your opponent automatically distributes the Loot Counters however they like among the units that are in contact with yours before your unit is removed.",
-      "value_translated": null,
+      "value_translated": "Si l'une de vos unités est en Déroute et qu'elle porte un butin, placez le(s) jeton(s) de butin n'importe où dans sa zone occupée avant de retirer l'unité. Si l'unité a été détruite lors d'un corps à corps, votre adversaire distribue automatiquement les jetons de butin comme il le souhaite parmi les unités en contact avec la vôtre avant que votre unité ne soit retirée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -6504,7 +6504,7 @@
     },
     {
       "value_en": "If your opponent also has a Scoring unit within 3” of an objective, then you can determine who controls it by adding up the total Unit Strength of both your and your opponents units within 3” of the Objective. Whichever army has the highest total is in control of that Objective Marker.",
-      "value_translated": null,
+      "value_translated": "Si votre adversaire a également une unité pouvant prendre un objectif à moins de 3” d'un objectif, vous pouvez déterminer qui le contrôle en additionnant la Puissance d'Unité Totale des unités de votre armée et de celle de votre adversaire présentes à moins de 3” de l'objectif. L'armée ayant la Puissance d'Unité Totale la plus élevée contrôle cet objectif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -6939,7 +6939,7 @@
     },
     {
       "value_en": "Individuals and War Engines are always ignored from the point of view of controlling Objectives (if it helps, remove them from the table before determining control of Objectives).",
-      "value_translated": null,
+      "value_translated": ":es Indépendants et Machines de Guerre sont toujours ignorés du point de vue du contrôle des objectifs (si cela peut aider, retirez-les de la table avant de déterminer le contrôle des objectifs).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -7560,7 +7560,7 @@
     },
     {
       "value_en": "Loot Counters",
-      "value_translated": null,
+      "value_translated": "Jetons de Butin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7569,7 +7569,7 @@
     },
     {
       "value_en": "Loot Counters do not block LoS or movement.",
-      "value_translated": null,
+      "value_translated": "Les jetons de butin ne bloquent pas la ligne de vue ni le mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -7577,7 +7577,7 @@
     },
     {
       "value_en": "Loot Counters should always be placed at least 12” apart from each other and at least 3” away from any Blocking Terrain, unless starting the game in a unit.",
-      "value_translated": null,
+      "value_translated": "Les jetons de butin doivent toujours être placés à au moins 12” l'un de l'autre et à au moins 3” de tout terrain bloquant, sauf lorsqu'ils commencent le jeu dans une unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -7916,7 +7916,7 @@
     },
     {
       "value_en": "Most scenarios award a certain number of Victory Points (VPs) for completing objectives. The player with the most VPs at the end of the game wins. If the players have an equal number of VPs, then the game is a draw.",
-      "value_translated": null,
+      "value_translated": "La plupart des scénarios attribuent un certain nombre de Points de Victoire (PV) pour la réalisation d'objectifs. Le joueur avec le plus de PV à la fin de la partie gagne. Si les joueurs ont un nombre égal de PV, la partie est un match nul.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -8269,7 +8269,7 @@
     },
     {
       "value_en": "Non-Scoring Units",
-      "value_translated": null,
+      "value_translated": "Unités sans Impact sur les Objectifs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8278,7 +8278,7 @@
     },
     {
       "value_en": "Non-Scoring Units cannot pick up nor carry the Loot Counters; the best they can do is stand on a Loot Counter to defend it. As long as a Non-Scoring Unit is standing on a Loot Counter, it cannot be picked up by the enemy.",
-      "value_translated": null,
+      "value_translated": "Les unités avec une Puissance d'Unité nulle ne peuvent pas ramasser ni porter les jetons de butin ; le mieux qu'elles puissent faire est de se tenir sur un jeton de butin pour le défendre. Tant qu'une unité avec une Puissance d'Unité nulle se tient sur un jeton de butin, elle ne peut pas être ramassée par l'ennemi.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -8286,7 +8286,7 @@
     },
     {
       "value_en": "Non-Scoring units are any units that have a Unit Strength of 0.",
-      "value_translated": null,
+      "value_translated": "Les Unités sans Impact sur les Objectifs ont une Puissance d'Unité de 0.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -8430,7 +8430,7 @@
     },
     {
       "value_en": "Objective Markers",
-      "value_translated": null,
+      "value_translated": "Marqueurs d'Objectifs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8439,7 +8439,7 @@
     },
     {
       "value_en": "Objective Markers do not block LoS or movement.",
-      "value_translated": null,
+      "value_translated": "Les marqueurs d'objectif ne bloquent pas la ligne de vue ni le mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -8447,7 +8447,7 @@
     },
     {
       "value_en": "Objective Markers should always be placed at least 12” apart from each other and at least 3” away from any Blocking Terrain.",
-      "value_translated": null,
+      "value_translated": "Les marqueurs d'objectif doivent toujours être placés à au moins 12” de distance les uns des autres et à au moins 3” de toute terrain bloquant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -8652,7 +8652,7 @@
     },
     {
       "value_en": "One Bluff Counter marked with a ‘2’",
-      "value_translated": null,
+      "value_translated": "Un jeton de bluff marqués d’un ‘2’",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -9540,7 +9540,7 @@
     },
     {
       "value_en": "Players may look at their own counters so they know what they are placing where, but are not allowed to see their opponent’s until they are revealed during the game.",
-      "value_translated": null,
+      "value_translated": "Les joueurs peuvent regarder leurs propres jetons afin de savoir lesquels ils placent et où, mais ils ne sont pas autorisés à voir ceux de leur adversaire avant qu’ils ne soient révélés pendant la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -9895,7 +9895,7 @@
     },
     {
       "value_en": "Redeployment",
-      "value_translated": null,
+      "value_translated": "Redéploiement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10196,7 +10196,7 @@
     },
     {
       "value_en": "Rolling Off",
-      "value_translated": null,
+      "value_translated": "Tirage aux dés",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10313,7 +10313,7 @@
     },
     {
       "value_en": "Scoring Units",
-      "value_translated": null,
+      "value_translated": "Unités de Prise d'Ojectifs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10322,7 +10322,7 @@
     },
     {
       "value_en": "Scoring units are any units that have a Unit Strength value greater than 0.",
-      "value_translated": null,
+      "value_translated": "Les Unités de Prise d'Objectifs ont une Puissance d'Unité supérieure à 0.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -10673,7 +10673,7 @@
     },
     {
       "value_en": "Some scenarios may instruct you to roll of to determine who places an objective, token or marker first. In these cases, whoever rolls the highest number places first.",
-      "value_translated": null,
+      "value_translated": "Certains scénarios peuvent vous demander de lancer un dé pour déterminer qui place un objectif, un jeton ou un marqueur en premier. Dans ces cas, celui qui obtient le plus haut résultat le place en premier.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -10697,7 +10697,7 @@
     },
     {
       "value_en": "Some units have special rules that allow units to be redeployed.",
-      "value_translated": null,
+      "value_translated": "Certaines unités possèdent des règles spéciales leur permettant d’être redéployées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -12877,7 +12877,7 @@
     },
     {
       "value_en": "Two Bluff Counters marked with a ‘0’",
-      "value_translated": null,
+      "value_translated": "Deux jetons de bluff marqués d’un ‘0’",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -12885,7 +12885,7 @@
     },
     {
       "value_en": "Two Bluff Counters marked with a ‘1’",
-      "value_translated": null,
+      "value_translated": "Deux jetons de bluff marqués d’un ‘1’",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -13245,7 +13245,7 @@
     },
     {
       "value_en": "Units with the Individual special rule cannot carry Loot Counters. However, Loot Counters may be placed under units with the Individual special rule if no other units are available to receive them. In this case, the Individual is not carrying the Loot Counter but is defending it. The Loot Counter must be placed before the Individual carries out its Regroup action. If the Individual chooses to move forward or backward as its Regroup action, the Loot Counter does not move with the Individual.",
-      "value_translated": null,
+      "value_translated": "Les unités avec la règle spéciale Indépendant ne peuvent pas porter de jetons de butin. Cependant, les jetons de butin peuvent être placés sous des unités avec la règle spéciale Indépendant si aucune autre unité n'est disponible pour les recevoir. Dans ce cas, l'Indépendant ne porte pas le jeton de butin mais le défend. Le jeton de butin doit être placé avant que l'Indépendant n'effectue son action de Regroupement. Si l'Indépendant choisit de se déplacer en avant ou en arrière lors de son action de Regroupement, le jeton de butin ne se déplace pas avec l'Indépendant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -13471,7 +13471,7 @@
     },
     {
       "value_en": "Victory Points",
-      "value_translated": null,
+      "value_translated": "Points de Victoire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -14123,7 +14123,7 @@
     },
     {
       "value_en": "While carrying a Loot Counter, a unit’s speed is reduced to 5 (unless it is less than 5) and it cannot be targeted by the Wind Blast, Enthral, or Surge spells. Additionally, while carrying a Loot Counter, a unit loses the Fly, Ordered March, Nimble, and Wild Charge special rules. If a unit has Wildcharge with a variable value (Such as Wild Charge (D3)) it may roll to determine the value of the rule but may not make use of it unless it drops the Loot Counter as normal.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une unité porte un jeton de butin, sa vitesse est réduite à 5 (à moins qu'elle ne soit déjà inférieure à 5) et elle ne peut pas être ciblée par les sorts Rafale de vent, Fascination ou Déferlement. De plus, lorsqu'une unité porte un jeton de butin, elle perd les règles spéciales Vol, Marche ordonnée, Agile et Charge féroce. Si une unité possède la règle Charge féroce avec une valeur variable (comme Charge féroce (D3)), elle peut lancer les dés pour déterminer la valeur de la règle, mais ne peut pas l'utiliser à moins de laisser tomber le jeton de butin comme prévu.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -14638,7 +14638,7 @@
     },
     {
       "value_en": "a. Victory Points",
-      "value_translated": null,
+      "value_translated": "a. Points de Victoire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -14884,7 +14884,7 @@
     },
     {
       "value_en": "c. Centre of the Board",
-      "value_translated": null,
+      "value_translated": "c. Centre de la Table",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -15092,7 +15092,7 @@
     },
     {
       "value_en": "d. Scoring Units",
-      "value_translated": null,
+      "value_translated": "d. Unités de Prise d'Ojectifs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -15195,7 +15195,7 @@
     },
     {
       "value_en": "e. Non-Scoring Units",
-      "value_translated": null,
+      "value_translated": "e. Unités sans Impact sur les Objectifs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -15320,7 +15320,7 @@
     },
     {
       "value_en": "f. Rolling Off",
-      "value_translated": null,
+      "value_translated": "f. Tirage aux dés",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -15397,7 +15397,7 @@
     },
     {
       "value_en": "g. Objective Markers",
-      "value_translated": null,
+      "value_translated": "g. Marqueurs d'Objectifs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -15441,7 +15441,7 @@
     },
     {
       "value_en": "h. Loot Counters",
-      "value_translated": null,
+      "value_translated": "h. Jetons de Butin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -15495,7 +15495,7 @@
     },
     {
       "value_en": "i. Bluff Counters",
-      "value_translated": null,
+      "value_translated": "i. Jetons de Bluff",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -15625,7 +15625,7 @@
     },
     {
       "value_en": "i. Redeployment",
-      "value_translated": null,
+      "value_translated": "i. Redéploiement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
