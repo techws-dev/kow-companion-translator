@@ -4148,7 +4148,7 @@
     },
     {
       "value_en": "Diagram L: War Engine Bases",
-      "value_translated": null,
+      "value_translated": "Diagramme L: Socles des Machines de Guerre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -5311,7 +5311,7 @@
     },
     {
       "value_en": "For example, the base in Diagram L has an 80mm width, but the front arc only extends from a 50mm width on the front of the base.",
-      "value_translated": null,
+      "value_translated": "Par exemple, le socle dans le Diagramme L a une largeur de 80 mm, mais l'arc frontal ne s'étend que sur une largeur de 50 mm sur l'avant du socle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -5458,7 +5458,7 @@
     },
     {
       "value_en": "Front Arc",
-      "value_translated": null,
+      "value_translated": "Arc Frontal",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5992,7 +5992,7 @@
     },
     {
       "value_en": "If a War Engine’s base is wider than 50mm, the front arc for making ranged attacks is not taken from the corners. Instead the 50mm wide base of the arc should be defined on the unit’s front base edge, centered on the unit Leader Point, such as by painting two vertical lines on the front or marking it with appropriate scenic decoration. It still has a front arc as normal, but when choosing a target for ranged attacks it may only choose one within the front arc determined by the 50mm marked on the base.",
-      "value_translated": null,
+      "value_translated": "Si le socle d'une Machine de guerre est plus large que 50mm, l'arc frontal pour effectuer des attaques à distance n'est pas pris depuis les coins. Au lieu de cela, l'arc de 50mm de large doit être défini sur le bord avant du socle de l'unité, centré sur le Point de Leader de l'unité, par exemple en peignant deux lignes verticales sur l'avant ou en le marquant avec un décors approprié. Il possède toujours un arc frontal comme d'habitude, mais lors du choix d'une cible pour les attaques à distance, il ne peut choisir qu'une cible à l'intérieur de l'arc frontal déterminé par les 50mm marqués sur le socle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -7747,7 +7747,7 @@
     },
     {
       "value_en": "Melee",
-      "value_translated": null,
+      "value_translated": "Mêlée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7956,7 +7956,7 @@
     },
     {
       "value_en": "Movement",
-      "value_translated": null,
+      "value_translated": "Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7967,7 +7967,7 @@
     },
     {
       "value_en": "Movement:",
-      "value_translated": null,
+      "value_translated": "Mouvement:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -13093,7 +13093,7 @@
     },
     {
       "value_en": "Units attacking a War Engine in Melee always triple their Attacks, regardless of the facing they are attacking.",
-      "value_translated": null,
+      "value_translated": "Les unités attaquant une Machine de guerre en mêlée tripleront toujours leurs Attaques, quel que soit le côté qu'elles attaquent.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -13301,7 +13301,7 @@
     },
     {
       "value_en": "Unless specified otherwise in a unit profile, the following rules apply to all War Engine units.",
-      "value_translated": null,
+      "value_translated": "À moins qu'il ne soit spécifié autrement dans le profil d'une unité, les règles suivantes s'appliquent à toutes les unités de Machines de guerre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -13577,7 +13577,7 @@
     },
     {
       "value_en": "War Engines cannot be ordered to move At the Double, nor to Charge. While moving, War Engines treat Obstacles as Blocking Terrain.",
-      "value_translated": null,
+      "value_translated": "Les Machines de guerre ne peuvent pas recevoir d'ordre de Marche Forcée, ni de Charge. Lors de leur déplacement, les Machines de guerre traitent les Obstacles comme du Terrain Bloquant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -13585,7 +13585,7 @@
     },
     {
       "value_en": "War Engines lucky enough to take damage but survive such an onslaught will be Disordered as normal.",
-      "value_translated": null,
+      "value_translated": "Les Machines de guerre réussissant par miracle à survivre après avoir subi des dégâts seront considérées comme Désorganisées comme habituellement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -13873,7 +13873,7 @@
     },
     {
       "value_en": "When multiple units charge the same facing, each unit must individually make contact, align and then shuffle to its final position before moving the next unit. A units final position is one which means that chargers share the space available as equally as possible. In the case of two units, each unit should, as much as possible, have roughly the same fraction of contact (e.g. if two units with 100mm fronts Charge a facing that is 100mm wide, each unit would have 50mm of their facing touching the target unit). In the case of more than two units, the central unit will of course be fully in contact.",
-      "value_translated": "Lorsque plusieurs unités chargent le même flanc, chaque unité doit individuellement entrer en contact, s'aligner, puis se déplacer jusqu'à sa position finale avant de déplacer l'unité suivante. La position finale d'une unité est celle qui permet aux chargeurs de partager l'espace disponible de manière aussi équitable que possible. Dans le cas de deux unités, chaque unité doit, autant que possible, avoir à peu près la même fraction de contact (par exemple, si deux unités avec des fronts de 100 mm chargent un flanc de 100 mm de large, chaque unité aurait 50 mm de leur front en contact avec l'unité cible). Dans le cas de plus de deux unités, l'unité centrale sera bien sûr totalement en contact.",
+      "value_translated": "Lorsque plusieurs unités chargent le même flanc, chaque unité doit individuellement entrer en contact, s'aligner, puis se déplacer jusqu'à sa position finale avant de déplacer l'unité suivante. La position finale d'une unité est celle qui permet aux chargeurs de partager l'espace disponible de manière aussi équitable que possible. Dans le cas de deux unités, chaque unité doit, autant que possible, avoir à peu près la même fraction de contact (par exemple, si deux unités avec des fronts de 100mm chargent un flanc de 100mm de large, chaque unité aurait 50mm de leur front en contact avec l'unité cible). Dans le cas de plus de deux unités, l'unité centrale sera bien sûr totalement en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -14391,7 +14391,7 @@
     },
     {
       "value_en": "You will notice how it is impossible for three units of exactly the same frontage (e.g. 100mm) to charge the facing of an enemy that has the same width (100mm). This is because corner-to-corner charges are not allowed – so only two such units can charge the same facing; the third will have to be given a different order.",
-      "value_translated": "Vous remarquerez qu'il est impossible pour trois unités ayant exactement la même largeur (par exemple 100 mm) de charger la face d'un ennemi qui a la même largeur (100 mm). Cela est dû au fait que les charges coin-à-coin ne sont pas autorisées – donc seulement deux de ces unités peuvent charger la même face ; la troisième devra recevoir un autre ordre.",
+      "value_translated": "Vous remarquerez qu'il est impossible pour trois unités ayant exactement la même largeur (par exemple 100mm) de charger la face d'un ennemi qui a la même largeur (100mm). Cela est dû au fait que les charges coin-à-coin ne sont pas autorisées – donc seulement deux de ces unités peuvent charger la même face ; la troisième devra recevoir un autre ordre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -14566,7 +14566,7 @@
     },
     {
       "value_en": "a. Movement",
-      "value_translated": null,
+      "value_translated": "a. Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -14747,7 +14747,7 @@
     },
     {
       "value_en": "b. Melee",
-      "value_translated": null,
+      "value_translated": "b. Mêlée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -14924,7 +14924,7 @@
     },
     {
       "value_en": "c. Front Arc",
-      "value_translated": null,
+      "value_translated": "c. Arc Frontal",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
