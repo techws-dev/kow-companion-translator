@@ -2155,7 +2155,7 @@
     },
     {
       "value_en": "After moving forwards, Regiment A makes contact with Horde C. It will then align as normal and then shuffle to its final position.",
-      "value_translated": null,
+      "value_translated": "Après avoir avancé, le Régiment A entre en contact avec la Horde C. Il s'alignera ensuite normalement avant de se décaler latéralement pour atteindre sa position finale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -2219,7 +2219,7 @@
     },
     {
       "value_en": "After the pivot, Regiment A is lined up, and advances until it makes contact with the correct facing. It then aligns against the target and then shuffles to its final position (See Diagram F).",
-      "value_translated": null,
+      "value_translated": "Après le pivot, le régiment A est dans la bonne direction et avance jusqu'à ce qu'il entre en contact avec le bon flanc. Il s'aligne ensuite contre la cible et se déplace pour atteindre sa position finale (voir Diagramme F).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -2315,7 +2315,7 @@
     },
     {
       "value_en": "All rules that apply in a Charge also apply in a Counter Charge, unless otherwise specified.",
-      "value_translated": null,
+      "value_translated": "Toutes les règles qui s'appliquent lors d'une Charge s'appliquent également lors d'une Contre-Charge, sauf indication contraire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -2339,7 +2339,7 @@
     },
     {
       "value_en": "All units must be able to fit the facing they are charging after all charging units have moved. If there isn’t enough space for all of the units to fit against the facing of the target they are charging, some of the units will not Charge and must be given a different order.",
-      "value_translated": null,
+      "value_translated": "Toutes les unités doivent pouvoir tenir sur la face qu'elles chargent après que toutes les unités qui chargent se soient déplacées. S'il n'y a pas assez d'espace pour que toutes les unités tiennent contre la face de la cible qu'elles chargent, certaines unités ne pourront pas charger et devront recevoir un autre ordre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -2420,7 +2420,7 @@
     },
     {
       "value_en": "Also note that, in multiple charges, units charging the same target facing cannot cross each other’s way in, i.e. they cannot swap places and must remain in the same relative positions to the target facing when they started their Charge. The Leader Point of each charging unit must stay in the same relative position to the Leader Points of all other units charging the same facing. In other words, the leftmost Leader Point before the Charge must still be the leftmost Leader Point after the Charge, etc. If it is particularly close and hard to determine, use a straight line perpendicular from the target, moving it left and right, and see which unit’s Leader Point the line touches first. In the event that multiple Leader Points are lined up exactly with each other, then the charging player may choose the final position. See Diagram K.",
-      "value_translated": null,
+      "value_translated": "Notez également que, lors de charges multiples, les unités chargeant le même côté de la cible ne peuvent pas se croiser, c'est-à-dire qu'elles ne peuvent pas échanger leurs places et doivent rester dans la même position relative par rapport à la cible que lorsqu'elles ont commencé leur charge. Le point de leader de chaque unité chargeante doit rester dans la même position relative par rapport aux points de leader de toutes les autres unités qui chargent le même côté. En d'autres termes, le point de leader le plus à gauche avant la charge doit toujours être le point de leader le plus à gauche après la charge, etc. Si cela est difficile à déterminer, tracez une ligne droite perpendiculaire à la face de la cible, en la déplaçant de gauche à droite, et voyez quel point de leader de l'unité la ligne touche en premier. Si plusieurs points de leader sont parfaitement alignés les uns avec les autres, alors c'est le joueur chargeant qui choisit la position finale. Voir le diagramme K.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -2619,7 +2619,7 @@
     },
     {
       "value_en": "As with any other charge, this pivot should be performed as early as possible and the smallest amount required so that Unit B can make contact.",
-      "value_translated": null,
+      "value_translated": "Comme pour toute autre charge, ce pivot doit être effectué le plus tôt possible et dans la plus petite mesure nécessaire pour que l'unité B puisse entrer en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -2819,7 +2819,7 @@
     },
     {
       "value_en": "At times you will want two or more of your units to Charge the same Enemy unit. This is allowed as long as each unit can fit against the correct facing of the target unit once all of the charges are completed, but the process for moving the units is a bit different.",
-      "value_translated": null,
+      "value_translated": "Parfois, vous voudrez que deux ou plusieurs de vos unités chargent la même unité ennemie. Cela est autorisé tant que chaque unité peut se placer contre la face correcte de l'unité cible une fois toutes les charges terminées, mais le processus pour déplacer les unités est un peu différent.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -3188,7 +3188,7 @@
     },
     {
       "value_en": "Both Unit A and B want to perform a Multi Charge against Horde C. Due to their starting positions, Unit A’s Final Position must be on the left and Unit B’s must be on the right.",
-      "value_translated": null,
+      "value_translated": "Les unités A et B souhaitent effectuer une charge multiple contre la Horde C. En raison de leurs positions de départ, la position finale de l’unité A doit être à gauche et celle de l’unité B doit être à droite.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -3679,7 +3679,7 @@
     },
     {
       "value_en": "Corner-to-Corner Charges",
-      "value_translated": null,
+      "value_translated": "Charges Coin-à-Coin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3705,7 +3705,7 @@
     },
     {
       "value_en": "Counter Charging to the flank or rear can sometimes prove slightly tricky in narrow confines. It is perfectly fine to slide the unit sideways to fit against the front of the enemy, as long as the final position does not overlap any other unit. If the unit cannot fit against the target, then it cannot Counter Charge that unit.",
-      "value_translated": null,
+      "value_translated": "Effectuer une Contre-Charge sur le flanc ou l'arrière peut parfois s'avérer un peu délicat dans des espaces étroits. Il est tout à fait acceptable de faire glisser l'unité latéralement pour la faire s'aligner contre la face de l'ennemi, tant que la position finale ne chevauche aucune autre unité. Si l'unité ne peut pas s'aligner correctement contre la cible, elle ne peut pas effectuer cette Contre-Charge.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4084,7 +4084,7 @@
     },
     {
       "value_en": "Diagram F1",
-      "value_translated": null,
+      "value_translated": "Diagramme F1",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4092,7 +4092,7 @@
     },
     {
       "value_en": "Diagram F2",
-      "value_translated": null,
+      "value_translated": "Diagramme F2",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4100,7 +4100,7 @@
     },
     {
       "value_en": "Diagram F3",
-      "value_translated": null,
+      "value_translated": "Diagramme F3",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4108,7 +4108,7 @@
     },
     {
       "value_en": "Diagram F4",
-      "value_translated": null,
+      "value_translated": "Diagramme F4",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4116,7 +4116,7 @@
     },
     {
       "value_en": "Diagram G: Illegal Charges",
-      "value_translated": null,
+      "value_translated": "Diagramme G: Charges illégales",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4124,7 +4124,7 @@
     },
     {
       "value_en": "Diagram H: Flank and Rear Charges",
-      "value_translated": null,
+      "value_translated": "Diagramme H: Charges de Flanc et Arrière",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4132,7 +4132,7 @@
     },
     {
       "value_en": "Diagram I: Corner Charges",
-      "value_translated": null,
+      "value_translated": "Diagramme I: Charges coin-à-coin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4140,7 +4140,7 @@
     },
     {
       "value_en": "Diagram K: Using Leader Points to Determine Final Positions after a Multiple Charge",
-      "value_translated": null,
+      "value_translated": "Diagramme K: Utilisation des points de leader pour déterminer les positions finales après une charge multiple.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4156,7 +4156,7 @@
     },
     {
       "value_en": "Diagram M: Charging & Pivots avoiding Blocking Terrain.",
-      "value_translated": null,
+      "value_translated": "Diagramme M: Charge et pivots pour éviter du Terrain Bloquant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4164,7 +4164,7 @@
     },
     {
       "value_en": "Diagram N: Charging & Pivots going through Difficult Terrain",
-      "value_translated": null,
+      "value_translated": "Diagramme N: Charge et pivots traversant un Terrain Difficile.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4172,7 +4172,7 @@
     },
     {
       "value_en": "Diagram O: Charging & Nimble Pivots",
-      "value_translated": null,
+      "value_translated": "Diagramme O: Charge et pivots avec la règle Agile.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4180,7 +4180,7 @@
     },
     {
       "value_en": "Diagram P: Pivoting so unit can reach final position",
-      "value_translated": null,
+      "value_translated": "Diagramme P: Pivoter pour que l'unité puisse atteindre sa position finale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4188,7 +4188,7 @@
     },
     {
       "value_en": "Diagram Q: Shuffling Multiple Charges 2",
-      "value_translated": null,
+      "value_translated": "Diagramme Q: Déplacement des charges multiples 2",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4290,7 +4290,7 @@
     },
     {
       "value_en": "Divide the remaining frontage evenly among the overhanging units. There is no need to micromanage this to the last millimetre; placing the units in roughly the correct position by eye is sufficient. See Diagram J.",
-      "value_translated": null,
+      "value_translated": "Divisez le reste de l'espace disponible de manière égale entre les unités qui dépassent. Il n'est pas nécessaire de gérer cela au millimètre près ; placer les unités à peu près à la bonne position suffit. Voir le Diagramme J.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4412,7 +4412,7 @@
     },
     {
       "value_en": "During a multi charge, the pivot may be necessary so that a charging unit can shuffle to its final position without going through another unit or piece of blocking terrain; this should, like above, be performed at the earliest possible point and be the minimum amount required. See Diagram P.",
-      "value_translated": null,
+      "value_translated": "Lors d'une charge multiple, le pivot peut être nécessaire afin qu'une unité chargeante puisse se déplacer vers sa position finale sans traverser une autre unité ou un terrain bloquant ; cela doit, comme indiqué ci-dessus, être effectué au moment le plus tôt possible et avec le minimum d'angle nécessaire. Voir le Diagramme P.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4597,7 +4597,7 @@
     },
     {
       "value_en": "Each unit has roughly 1/3 of its frontage in contact",
-      "value_translated": null,
+      "value_translated": "Chaque unité a environ 1/3 de sa largeur en contact",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4605,7 +4605,7 @@
     },
     {
       "value_en": "Each unit has roughly 5/6 of its frontage in contact",
-      "value_translated": null,
+      "value_translated": "Chaque unité a environ 5/6 de sa largeur en contact",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4629,7 +4629,7 @@
     },
     {
       "value_en": "Each unit is then moved one at a time in an order decided by the charging player. A charging unit moves and aligns in the same way as a single Charge described above.",
-      "value_translated": null,
+      "value_translated": "Chaque unité est ensuite déplacée une à une dans un ordre défini par le joueur qui charge. Une unité chargeante se déplace et s'aligne de la même manière que pour une Charge normale décrite ci-dessus.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4856,7 +4856,7 @@
     },
     {
       "value_en": "Even though there is Flat Difficult Terrain in the way, Unit A must still follow all the rules for a normal charge, taking the same route as if the terrain was not there, causing a hindered charge. After it makes contact, it aligns as normal and shuffles to its final position.",
-      "value_translated": null,
+      "value_translated": "Bien qu'il y ait du Terrain Difficile Plat sur le chemin, l'Unité A doit tout de même suivre toutes les règles d'une charge normale, en prenant le même itinéraire que si le terrain n'était pas là, ce qui rend la charge gênée. Après avoir effectué le contact, elle s'aligne normalement et se déplace jusqu'à sa position finale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4971,7 +4971,7 @@
     },
     {
       "value_en": "Finally, shuffle the charger sideways until their unit Leader Point is facing directly opposite the centre of the target unit, or as close as possible to it. See Diagram F4. During this shuffle the charging unit may not pass through other units or Blocking Terrain. In some cases this shuffle may take the charging unit into Difficult Terrain or onto an Obstacle. In such cases, the Charge is considered Hindered.",
-      "value_translated": null,
+      "value_translated": "Enfin, faites glisser l'unité chargeante sur le côté jusqu'à ce que son Point de Chef soit directement face au centre de l'unité cible, ou aussi près que possible de ce centre. Voir le Diagramme F4. Pendant ce déplacement, l'unité chargeante ne peut pas traverser d'autres unités ou des Terrains Bloquants. Dans certains cas, ce déplacement peut amener l'unité chargeante dans un Terrain Difficile ou sur un Obstacle. Dans de tels cas, la Charge est considérée comme gênée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -5037,7 +5037,7 @@
     },
     {
       "value_en": "First, all units charging a single target must be given a simultaneous order to Charge the target unit. This means that each of the units charging must meet the requirements for a Charge order before any of the charging units move. It also means that new units cannot be issued a Charge order against the same target later in the Movement phase.",
-      "value_translated": null,
+      "value_translated": "Tout d'abord, toutes les unités chargeant une cible unique doivent recevoir un ordre simultané de Charge sur cette unité cible. Cela signifie que chacune des unités chargantes doit remplir les conditions requises pour un ordre de Charge avant que l'une d'elles ne se déplace. Cela signifie également que de nouvelles unités ne peuvent pas recevoir un ordre de Charge contre la même cible plus tard dans la phase de Mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -5045,7 +5045,7 @@
     },
     {
       "value_en": "Flank and Rear Charges",
-      "value_translated": null,
+      "value_translated": "Charges de Flanc et Arrière",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5968,7 +5968,7 @@
     },
     {
       "value_en": "If Unit A charges first, it moves directly forwards and aligns against Horde C before moving to its final position on the left.",
-      "value_translated": null,
+      "value_translated": "Si l’unité A charge en premier, elle se déplace directement vers l’avant et s'aligne contre la Horde C avant de se déplacer vers sa position finale à gauche.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -5976,7 +5976,7 @@
     },
     {
       "value_en": "If a Charge can be completed without using any pivots, then the charging unit should not pivot and instead move directly forwards until contact is made with the facing of the enemy unit being charged. see Diagram F.",
-      "value_translated": null,
+      "value_translated": "Si une charge peut être effectuée sans pivot(s), l'unité qui charge ne doit pas pivoter et doit plutôt se déplacer directement vers l'avant jusqu'à ce que le contact soit établi avec le côté de l'unité ennemie chargée. Voir le Diagramme F.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6064,7 +6064,7 @@
     },
     {
       "value_en": "If a unit begins its turn Engaged with one or more Enemy units, it may elect to perform a Counter Charge instead of a regular Charge.",
-      "value_translated": null,
+      "value_translated": "Si une unité commence son tour engagée avec une ou plusieurs unités ennemies, elle peut choisir d'effectuer une Contre-Charge au lieu d'une Charge normale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6080,7 +6080,7 @@
     },
     {
       "value_en": "If a unit decides to Counter Charge, then it may only do so against an Enemy unit with which it is already Engaged. It does not need LoS and the Enemy unit does not need to be in the front arc, so it may Counter Charge against units Engaged on its flank or rear facings.",
-      "value_translated": null,
+      "value_translated": "Si une unité décide d'effectuer une Contre-Charge, elle ne peut le faire que contre une unité ennemie avec laquelle elle est déjà engagée. Il n'est pas nécessaire d'avoir une ligne de vue et l'unité ennemie n'a pas besoin d'être dans l'arc frontal, donc l'unité peut effectuer une Contre-Charge contre des unités engagées sur ses flancs ou ses arrières.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6248,7 +6248,7 @@
     },
     {
       "value_en": "If necessary, at any point during this move, the unit may perform a single pivot around their centre of up to 90º. This pivot should be performed at the earliest possible point during the move in order to make it a legal charge, while also pivoting the smallest amount required which will allow it to make contact with the correct enemy facing with the remaining movement. see Diagram M.",
-      "value_translated": null,
+      "value_translated": "Si nécessaire, à n'importe quel moment durant ce mouvement, l'unité peut effectuer un seul pivot autour de son centre d'un maximum de 90º. Ce pivot doit être effectué le plus tôt possible pendant le mouvement afin de rendre la charge légale, tout en effectuant le pivot du plus petit angle nécessaire qui permettra de faire le contact avec le bon côté de l'ennemi avec le mouvement restant. Voir le Diagramme M.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6312,7 +6312,7 @@
     },
     {
       "value_en": "If the Leader Point of the charging unit is in the target’s front arc when the order to Charge is given, the unit must charge the target’s front facing.",
-      "value_translated": null,
+      "value_translated": "Si le point de leader de l'unité qui charge se trouve dans l'arc frontal de la cible lorsque l'ordre de charge est donné, l'unité doit charger la face avant de la cible.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6320,7 +6320,7 @@
     },
     {
       "value_en": "If the Leader Point of the charging unit is in the target’s rear arc when the order to Charge is given, the unit must charge the target’s rear facing. See Diagram H.",
-      "value_translated": null,
+      "value_translated": "Si le point de leader de l'unité qui charge se trouve dans l'arc arrière de la cible lorsque l'ordre de charge est donné, l'unité doit charger l'arrière de la cible. Voir le Diagramme H.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6328,7 +6328,7 @@
     },
     {
       "value_en": "If the Leader Point of the charging unit is in the target’s right or left flank arc when the order to Charge is given, the unit must charge the target’s corresponding flank facing.",
-      "value_translated": null,
+      "value_translated": "Si le point de leader de l'unité qui charge se trouve dans l'arc de flanc droit ou gauche de la cible lorsque l'ordre de charge est donné, l'unité doit charger le flanc correspondant de la cible.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6336,7 +6336,7 @@
     },
     {
       "value_en": "If the attacking unit Counter Charges an enemy Engaged on its side or rear facing, simply pick up the Counter Charging unit, turn it to face the target and align it flush with the target’s front face. Shuffle it to the final position as normal. As noted above, the unit is now Disengaged from all other units it was previously Engaged with. Nudge them out of contact as above.",
-      "value_translated": null,
+      "value_translated": "Si l'unité attaquante effectue une Contre-Charge contre une unité ennemie engagée sur son flanc ou son arrière, il suffit de soulever l'unité effectuant la Contre-Charge, de la tourner pour faire face à la cible et de l'aligner contre la face avant de la cible. Déplacez-la ensuite jusqu'à sa position finale comme d'habitude. Comme mentionné ci-dessus, l'unité est désormais Dégagée de toutes les autres unités avec lesquelles elle était auparavant engagée. Écartez-les un peu pour montrer qu'elles ne sont plus engagées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6376,7 +6376,7 @@
     },
     {
       "value_en": "If the unit Counter Charges an enemy unit that is Engaged on its front facing, simply shuffle the attacking unit to its final position as normal. It is now considered Disengaged from all other units, so, if possible, any units it may still be touching should be nudged out of contact to show that they are no longer Engaged.",
-      "value_translated": null,
+      "value_translated": "Si l'unité effectue une Contre-Charge contre une unité ennemie engagée sur son face avant, il suffit de décaler l'unité attaquante jusqu'à sa position finale comme d'habitude. L'unité est désormais considérée comme Dégagée de toutes les autres unités, donc, si possible, toute unité qu'elle pourrait encore toucher devrait être légèrement écartée pour montrer qu'elle n'est plus engagée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6520,7 +6520,7 @@
     },
     {
       "value_en": "If your unit is not Engaged but begins its Turn within 1” of an Enemy unit, it may still move freely as long as it ends its Turn no closer to the Enemy unit than where it began.",
-      "value_translated": null,
+      "value_translated": "Si votre unité n'est pas engagée mais commence son tour à moins de 1” d'une unité ennemie, elle peut toujours se déplacer librement tant qu'elle ne termine pas son tour plus près de l'unité ennemie qu'elle ne l'était au début.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6704,7 +6704,7 @@
     },
     {
       "value_en": "In cases where multiple units charge one facing, but other units are charging a different facing, the units on each facing must still share the available frontage as evenly as possible, as described above, but if possible, they will still try to accommodate chargers on other facings. See Diagram Q.",
-      "value_translated": null,
+      "value_translated": "Dans les cas où plusieurs unités chargent une même face, mais que d'autres unités chargent une face différente, les unités sur chaque face doivent toujours partager la largeur disponible aussi uniformément que possible, comme décrit ci-dessus, mais si possible, elles essaieront toujours d'accommoder les unités chargeant d'autres faces. Voir le Diagramme Q.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -6785,7 +6785,7 @@
     },
     {
       "value_en": "In some rare cases, the only possible way for charging units to make physical contact with a target would be by literally having one corner of its frontage in contact with one corner of the target.",
-      "value_translated": null,
+      "value_translated": "Dans de rares cas, la seule façon pour les unités qui chargent d'entrer en contact avec une cible serait d'avoir seulement un coin de leur face avant en contact avec un coin de la cible.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -7221,7 +7221,7 @@
     },
     {
       "value_en": "It is of course perfectly fine to force an enemy unit to legally charge a unit of your choosing (e.g. screening a unit with a different one) or using terrain to cleverly shield units or protect flanks. However, forcing a situation where no legal charge is possible due to the angles of the multiple possible targets (total charge blocking by “gaming” the rules) is not permitted. The recommended way to resolve this is to allow the charging unit to select their target of choice (either of the two units to the front in the example given), move into contact and then align the target to the charger rather than the other way round.",
-      "value_translated": null,
+      "value_translated": "Il est bien sûr tout à fait acceptable de forcer une unité ennemie à charger une unité de votre choix (par exemple, en utilisant une unité comme écran pour une autre) ou d'utiliser le terrain pour protéger habilement vos unités ou flancs. Cependant, forcer une situation où aucune charge légale n'est possible en raison des angles des cibles potentielles (blocage total de charge par manipulation des règles) n'est pas autorisé. La manière recommandée de résoudre cela est de permettre à l'unité chargeante de sélectionner sa cible parmi les deux unités en question (par exemple, celles situées à l'avant) et de se déplacer pour entrer en contact, puis d'aligner la cible avec l'unité chargeante, plutôt que l'inverse.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -7975,7 +7975,7 @@
     },
     {
       "value_en": "Moving Chargers",
-      "value_translated": null,
+      "value_translated": "Déplacement des unités en charge",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -8001,7 +8001,7 @@
     },
     {
       "value_en": "Multiple Charges Against the Same Target",
-      "value_translated": null,
+      "value_translated": "Charges multiples sur la même cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8326,7 +8326,7 @@
     },
     {
       "value_en": "Note that a unit with no Me value cannot be issued a Charge order.",
-      "value_translated": null,
+      "value_translated": "Notez qu'une unité sans valeur de Me ne peut pas recevoir d'ordre de Charge.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -8382,7 +8382,7 @@
     },
     {
       "value_en": "Note that the charging unit must go through any area of Difficult Terrain or over any Obstacle that would normally slow down their movement. The pivot may not be used to avoid them. These elements of terrain do not slow down Charge moves, but they cause the Charge to be Hindered. see Diagram N.",
-      "value_translated": null,
+      "value_translated": "Notez que l'unité qui charge doit traverser toute zone de terrain difficile ou franchir tout obstacle qui ralentirait normalement son mouvement. Le pivot ne peut pas être utilisé pour les éviter. Ces éléments de terrain ne ralentissent pas les mouvements de charge, mais ils rendent la charge gênée. Voir le Diagramme N.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -8390,7 +8390,7 @@
     },
     {
       "value_en": "Note: Remember that if a unit wishes to Counter Charge an Enemy unit it is Engaged with, it must declare the Counter Charge in the Movement phase. Don’t forget to declare it!",
-      "value_translated": null,
+      "value_translated": "Note : Rappelez-vous que si une unité souhaite effectuer une Contre-Charge contre une unité ennemie avec laquelle elle est Engagée, elle doit déclarer la Contre-Charge pendant la phase de Mouvement. N'oubliez pas de la déclarer !",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -8414,7 +8414,7 @@
     },
     {
       "value_en": "Note: This rule is intended for experienced players and allows more units the opportunity to break away from a fight and move away, potentially engaging other units. Players must agree in advance whether the Withdraw rule is to be used, and event organisers should clearly state in their tournament packs if the rule will be used during their event.",
-      "value_translated": null,
+      "value_translated": "Note : Cette règle est destinée aux joueurs expérimentés et permet à plus d'unités de se dégager d'un combat et de s'éloigner, avec la possibilité d'engager d'autres unités. Les joueurs doivent s'entendre à l'avance sur l'utilisation de la règle de Retraite, et les organisateurs d'événements doivent indiquer clairement dans leurs documents de tournoi si cette règle sera appliquée pendant l'événement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -8498,7 +8498,7 @@
     },
     {
       "value_en": "Of the 100mm of frontage, the Individual takes up 20mm, which leaves 80mm for the other units to share equally. This means roughly 1/4 of the regiment and horde are in contact",
-      "value_translated": null,
+      "value_translated": "Sur les 100mm de largeur, l'indépendant occupe 20mm, ce qui laisse 80mm à se partager entre les autres unités. Cela signifie qu'environ 1/4 du régiment et de la horde sont en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -8628,7 +8628,7 @@
     },
     {
       "value_en": "Once the charging unit has shuffled to its final position, the charging unit(s) and the target are Engaged.",
-      "value_translated": null,
+      "value_translated": "Une fois que l'unité chargeante a été déplacée vers sa position finale, l'unité chargeante (ou les unités) et la cible sont Engagées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -9702,7 +9702,7 @@
     },
     {
       "value_en": "Proximity to Enemies",
-      "value_translated": null,
+      "value_translated": "Proximité des Ennemis",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9952,7 +9952,7 @@
     },
     {
       "value_en": "Regiment A is trying to Charge Horde B. It is in Horde B’s front arc, is able to draw line of sight to the unit and is in range. Blocking terrain is in the way, so it must pivot to make contact.",
-      "value_translated": null,
+      "value_translated": "Le régiment A tente de charger la horde B. Il se trouve dans l'arc frontal de la horde B, peut établir une ligne de vue vers l'unité et est à portée. Un terrain bloquant se trouve sur son chemin, il doit donc pivoter pour entrer en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -9960,7 +9960,7 @@
     },
     {
       "value_en": "Regiment A is trying to charge Horde C. It requires two pivots to get there. Luckily it has the Nimble special rule. It uses its first pivot immediately and moves forward to a position to carry out the second pivot.",
-      "value_translated": null,
+      "value_translated": "Le Régiment A essaie de charger la Horde C. Il nécessite deux pivots pour y parvenir. Heureusement, il possède la règle spéciale Agile. Il effectue son premier pivot immédiatement et avance pour se positionner de manière à réaliser le deuxième pivot.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -9968,7 +9968,7 @@
     },
     {
       "value_en": "Regiment A pivots at the earliest possible point at which the remainder of the move will allow it to make contact with Horde B. It only Pivots the minimum amount required.",
-      "value_translated": null,
+      "value_translated": "Le régiment A pivote au premier point possible à partir duquel le reste de son mouvement lui permettra d'entrer en contact avec la horde B. Il ne pivote que du minimum nécessaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -9976,7 +9976,7 @@
     },
     {
       "value_en": "Regiment A uses its second pivot, pivoting the smallest amount required so that with its remaining movement, it will be able to make contact with Horde C.",
-      "value_translated": null,
+      "value_translated": "Le Régiment A effectue son deuxième pivot, pivotant du minimum nécessaire afin qu'avec son mouvement restant, il puisse entrer en contact avec la Horde C.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -9984,7 +9984,7 @@
     },
     {
       "value_en": "Regiment A wants to Charge Regiment B and can contact the corner of Regiment B, but it cannot align due to the Troop",
-      "value_translated": null,
+      "value_translated": "Le régiment A souhaite charger le régiment B et peut entrer en contact avec le coin du régiment B, mais il ne peut pas s'aligner à cause de la Troupe.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -10097,7 +10097,7 @@
     },
     {
       "value_en": "Remember that when charging, units don’t have to stay 1” away from Enemies, and this means that sometimes a charging unit may end up in contact with both its target and one or more Enemy units it has not charged (e.g. when charging a unit that is part of a tight enemy battle line). In this case, if possible, nudge the enemy unit that is not being charged back just enough that it’s clear it is not Engaged with the charging unit.",
-      "value_translated": null,
+      "value_translated": "Rappelez-vous que lors d'une charge, les unités n'ont pas à rester à 1” des ennemis, ce qui signifie que parfois une unité qui charge peut se retrouver en contact à la fois avec sa cible et une ou plusieurs unités ennemies qu'elle n'a pas chargées (par exemple, lorsqu'elle charge une unité faisant partie d'une ligne de bataille ennemie serrée). Dans ce cas, si possible, déplacez légèrement l'unité ennemie qui n'est pas chargée, juste assez pour qu'il soit clair qu'elle n'est pas engagée avec l'unité chargée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -10354,7 +10354,7 @@
     },
     {
       "value_en": "Second, once the charging unit has made contact with the target, pick it up and align its front edge flush with the facing of the target in the arc being charged (see Flank and Rear Charges below). The charging unit must still be touching the initial point of contact with the target and clear of all other units. See Diagram F3.",
-      "value_translated": null,
+      "value_translated": "Deuxièmement, une fois que l'unité chargeante est au contact avec la cible, prenez la et alignez son bord avant avec la face de la cible dans l'arc chargé (voir Charges sur le flanc et l'arrière ci-dessous). L'unité qui charge doit toujours toucher le point de contact initial avec la cible et être dégagée de toute autre unité. Voir le Diagramme F3.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11296,7 +11296,7 @@
     },
     {
       "value_en": "The Horde makes contact with the charged unit.",
-      "value_translated": null,
+      "value_translated": "La horde entre en contact avec l'unité chargée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11304,7 +11304,7 @@
     },
     {
       "value_en": "The Horde then shuffles to accommodate the Regiment, which charges the flank.",
-      "value_translated": null,
+      "value_translated": "La horde se déplace ensuite pour s'ajuster au Régiment, qui charge le flanc.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11353,7 +11353,7 @@
     },
     {
       "value_en": "The Regiment and Individual want to charge the front, they try to share the frontage as evenly as possible while still accounting for the horde in the flank.",
-      "value_translated": null,
+      "value_translated": "Le Régiment et l'Indépendant veulent charger le front, ils essaient de partager la largeur de la cible aussi équitablement que possible tout en tenant compte de la horde sur le flanc.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11499,7 +11499,7 @@
     },
     {
       "value_en": "The charging unit moves forward to bring its front facing into contact with the facing of the enemy unit being charged. This is done without measuring how much distance they actually cover, going around any Blocking Terrain and any unit in their way (both Friendly and Enemy units). See Diagram F.",
-      "value_translated": null,
+      "value_translated": "L'unité qui charge se déplace en avant pour amener sa face frontale en contact avec la face de l'unité ennemie chargée. Cela se fait sans mesurer la distance réellement parcourue, en contournant tout Terrain Bloquant et toute unité se trouvant sur son chemin (unités amies et ennemies). Voir le Diagramme F.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11507,7 +11507,7 @@
     },
     {
       "value_en": "The charging unit must be able to align at the initial point of contact in order to carry out a legal charge and must physically have enough space to fit when aligned. A charging unit cannot make contact with an enemy unit at a point of contact and then ‘skip’ over units or terrain to align with a different part of the unit. See Diagram G.",
-      "value_translated": null,
+      "value_translated": "L'unité chargeante doit être capable de s'aligner au point de contact initial afin d'effectuer une charge légale et doit disposer de suffisamment d'espace pour s'installer correctement lorsqu'elle est alignée. Une unité chargeante ne peut pas entrer en contact avec une unité ennemie à un point de contact, puis 'sauter' par-dessus des unités ou du terrain pour s'aligner avec une autre partie de l'unité. Voir le Diagramme G.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11539,7 +11539,7 @@
     },
     {
       "value_en": "The distance between any point on your unit’s front facing and the closest point on the target unit’s base is less than or equal to double your unit’s Speed stat (this is sometimes called the Charge Range);",
-      "value_translated": null,
+      "value_translated": "La distance entre n'importe quel point de la face avant de votre unité et le point le plus proche de la base de l'unité cible est inférieure ou égale au double de la caractéristique de Vitesse de votre unité (ce qui est parfois appelé la Portée de Charge);",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11611,7 +11611,7 @@
     },
     {
       "value_en": "The individual and regiment charge the enemy in the front. The regiment charging the flank will fit against the target without the other chargers having to shuffle to accommodate it, so they centre and align as normal.",
-      "value_translated": null,
+      "value_translated": "L'Indépendant et le Régiment chargent l'ennemi par l'avant. Le régiment chargeant le flanc s'ajuste contre la cible sans que les autres unités n'aient à se déplacer pour s'ajuster, ils se centrent et s'alignent normalement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11699,7 +11699,7 @@
     },
     {
       "value_en": "The target is at least partially in your unit’s front arc;",
-      "value_translated": null,
+      "value_translated": "La cible se trouve au moins partiellement dans l'arc frontal de votre unité;",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11763,7 +11763,7 @@
     },
     {
       "value_en": "The unit can draw LoS to the target from its Leader Point as described in",
-      "value_translated": null,
+      "value_translated": "L'unité peut tracer une Ligne de Vue vers la cible depuis son Point de Leader, comme décrit dans",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12293,7 +12293,7 @@
     },
     {
       "value_en": "There is enough space for your unit to be physically placed into contact with the target by moving as described below.",
-      "value_translated": null,
+      "value_translated": "Il y a suffisamment d'espace pour que votre unité puisse être physiquement placée en contact avec la cible en se déplaçant comme décrit ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12317,7 +12317,7 @@
     },
     {
       "value_en": "These extreme cases are called ‘corner to-corner’ contact. One example of this is shown in Diagram I.",
-      "value_translated": null,
+      "value_translated": "Ces cas extrêmes sont appelés contact coin-à-coin. Un exemple est montré dans le Diagramme I.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12438,7 +12438,7 @@
     },
     {
       "value_en": "This nudge is for the sake of keeping engagements clear and is not enough by itself to expose an otherwise unexposed flank. In other words, players cannot use this nudge to create a Charge that was not possible without the nudge.",
-      "value_translated": null,
+      "value_translated": "Ce petit déplacement sert à clarifier les engagements et ne suffit pas en soi à exposer un flanc qui serait autrement protégé. En d'autres termes, les joueurs ne peuvent pas utiliser ce déplacement pour créer une charge qui n'aurait pas été possible sans ce mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12746,7 +12746,7 @@
     },
     {
       "value_en": "Total Charge Blocking",
-      "value_translated": null,
+      "value_translated": "Blocage total de charge",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12934,7 +12934,7 @@
     },
     {
       "value_en": "Unit A aligns with unit B at the point of contact",
-      "value_translated": null,
+      "value_translated": "L'unité A s'aligne avec l'unité B au point de contact",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12942,7 +12942,7 @@
     },
     {
       "value_en": "Unit A first pivots at the earliest possible point at which the remainder of the move will allow it to make contact with Horde B. It only pivots the minimum amount required.",
-      "value_translated": null,
+      "value_translated": "L'unité A effectue d'abord un pivot au point le plus tôt possible à partir duquel le reste de son mouvement lui permettra d'entrer en contact avec la Horde B. Elle ne pivote que du minimum nécessaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12950,7 +12950,7 @@
     },
     {
       "value_en": "Unit A is trying to Charge Horde B. It meets all the requirements for a charge, but it must pivot to make contact.",
-      "value_translated": null,
+      "value_translated": "L'unité A tente de charger la Horde B. Elle remplit toutes les conditions requises pour une charge, mais elle doit pivoter pour entrer en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12966,7 +12966,7 @@
     },
     {
       "value_en": "Unit A shuffles to the centre of unit B",
-      "value_translated": null,
+      "value_translated": "L'unité A se déplace latéralement jusqu'au centre de l'unité B",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12974,7 +12974,7 @@
     },
     {
       "value_en": "Unit A wishes to Charge unit B",
-      "value_translated": null,
+      "value_translated": "L'unité A souhaite charger l'unité B",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12982,7 +12982,7 @@
     },
     {
       "value_en": "Unit B now needs to perform its charge. It can make contact without pivoting, but it will not be able to reach its final position on the right without shuffling through Unit A. It is now permitted to use its pivot so that it will be able to contact Horde C and reach its final position.",
-      "value_translated": null,
+      "value_translated": "L'unité B doit maintenant effectuer sa charge. Elle peut entrer en contact sans pivoter, mais elle ne pourra pas atteindre sa position finale à droite sans se déplacer à travers l'unité A. Il lui est donc permis d'utiliser son pivot afin de pouvoir entrer en contact avec la Horde C et atteindre sa position finale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -12990,7 +12990,7 @@
     },
     {
       "value_en": "Unit B’s Leader Point is farther left than unit C’s so unit B will align to the left",
-      "value_translated": null,
+      "value_translated": "Le point de leader de l'unité B est plus à gauche que celui de l'unité C, donc l'unité B s'alignera à gauche.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -13626,7 +13626,7 @@
     },
     {
       "value_en": "We deem that this is not enough to warrant a sensible charge and combat, so we disallow these charges.",
-      "value_translated": null,
+      "value_translated": "Nous estimons que cela ne suffit pas à justifier une charge et un affrontement raisonnables, c'est pourquoi nous interdisons ces charges.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -13865,7 +13865,7 @@
     },
     {
       "value_en": "When multiple units charge different facings, charging units should center themselves against the target normally, and then shuffle the smallest amount possible to a final position which allows units charging other facings to align against the target. Note, shuffling in this manner may only occur when units charging a different facing would otherwise be unable to complete the charge during the align step. See Diagram Q.",
-      "value_translated": null,
+      "value_translated": "Lorsque plusieurs unités chargent des faces différentes, les unités qui chargent doivent d'abord se centrer normalement contre la cible, puis se déplacer latéralement du minimum nécessaire pour atteindre une position finale qui permettra aux unités chargeant d'autres faces de s'aligner contre la cible. Notez que ce déplacement ne peut avoir lieu que lorsque des unités chargeant une face différente ne pourraient autrement pas terminer la charge pendant l'étape d'alignement. Voir le Diagramme Q.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -13873,7 +13873,7 @@
     },
     {
       "value_en": "When multiple units charge the same facing, each unit must individually make contact, align and then shuffle to its final position before moving the next unit. A units final position is one which means that chargers share the space available as equally as possible. In the case of two units, each unit should, as much as possible, have roughly the same fraction of contact (e.g. if two units with 100mm fronts Charge a facing that is 100mm wide, each unit would have 50mm of their facing touching the target unit). In the case of more than two units, the central unit will of course be fully in contact.",
-      "value_translated": null,
+      "value_translated": "Lorsque plusieurs unités chargent le même flanc, chaque unité doit individuellement entrer en contact, s'aligner, puis se déplacer jusqu'à sa position finale avant de déplacer l'unité suivante. La position finale d'une unité est celle qui permet aux chargeurs de partager l'espace disponible de manière aussi équitable que possible. Dans le cas de deux unités, chaque unité doit, autant que possible, avoir à peu près la même fraction de contact (par exemple, si deux unités avec des fronts de 100 mm chargent un flanc de 100 mm de large, chaque unité aurait 50 mm de leur front en contact avec l'unité cible). Dans le cas de plus de deux unités, l'unité centrale sera bien sûr totalement en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -13994,7 +13994,7 @@
     },
     {
       "value_en": "When units with the Nimble special rule are charging and the Charge requires two pivots, then both pivots should be made at the earliest possible points during the move, while also pivoting the smallest amount required so that the final pivot will allow the unit to make contact with the correct enemy facing with the remaining movement. see Diagram O.",
-      "value_translated": null,
+      "value_translated": "Lorsque des unités avec la règle spéciale Agile chargent et que la charge nécessite deux pivots, ces deux pivots doivent être effectués le plus tôt possible pendant le mouvement, tout en pivotant du minimum nécessaire afin que le dernier pivot permette à l'unité de faire contact avec le bon côté de l'ennemi avec le mouvement restant. Voir le Diagramme O.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -14099,7 +14099,7 @@
     },
     {
       "value_en": "While Disengaging, if a unit begins its Turn Engaged with one or more Enemy units on a single facing only, it may make a free Withdraw move of 1”, directly away from the unit(s), before carrying out a Charge, Change Facing, Sidestep, Back, or Halt order. The Withdraw move cannot be used to come within 1” of any enemy units and the unit must travel the full 1”. If it is not possible to travel the full 1” or to maintain a 1” distance from all enemy units (including the unit(s) it was engaged with), then a unit may not make a Withdraw move.",
-      "value_translated": null,
+      "value_translated": "Lors d'une Retraite, si une unité commence son tour engagée avec une ou plusieurs unités ennemies sur un seul côté seulement, elle peut effectuer un mouvement gratuit de Retraite de 1”, directement loin des unités ennemies, avant d'exécuter un ordre de Charge, Changement de Direction, Sur de Côté, En Arrière ou Halte. Le mouvement de Retraite ne peut pas être utilisé pour se rapprocher à moins de 1” d'une unité ennemie et l'unité doit parcourir les 1” complets. Si il est impossible de parcourir les 1” complets ou de maintenir une distance de 1” avec toutes les unités ennemies (y compris celles avec lesquelles elle était engagée), alors l'unité ne peut pas effectuer un mouvement de Retraite.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -14391,7 +14391,7 @@
     },
     {
       "value_en": "You will notice how it is impossible for three units of exactly the same frontage (e.g. 100mm) to charge the facing of an enemy that has the same width (100mm). This is because corner-to-corner charges are not allowed – so only two such units can charge the same facing; the third will have to be given a different order.",
-      "value_translated": null,
+      "value_translated": "Vous remarquerez qu'il est impossible pour trois unités ayant exactement la même largeur (par exemple 100 mm) de charger la face d'un ennemi qui a la même largeur (100 mm). Cela est dû au fait que les charges coin-à-coin ne sont pas autorisées – donc seulement deux de ces unités peuvent charger la même face ; la troisième devra recevoir un autre ordre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -14526,7 +14526,7 @@
     },
     {
       "value_en": "a. Flank and Rear Charges",
-      "value_translated": null,
+      "value_translated": "a. Charges de Flanc et Arrière",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -14771,7 +14771,7 @@
     },
     {
       "value_en": "b. Proximity to Enemies",
-      "value_translated": null,
+      "value_translated": "b. Proximité des Ennemis",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -14892,7 +14892,7 @@
     },
     {
       "value_en": "c. Corner-to-Corner Charges",
-      "value_translated": null,
+      "value_translated": "c. Charges Coin-à-Coin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -15060,7 +15060,7 @@
     },
     {
       "value_en": "d. Multiple Charges Against the Same Target",
-      "value_translated": null,
+      "value_translated": "d. Charges multiples sur la même cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -15673,7 +15673,7 @@
     },
     {
       "value_en": "i. Total Charge Blocking",
-      "value_translated": null,
+      "value_translated": "i. Blocage total de charge",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
