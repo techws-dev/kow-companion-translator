@@ -2099,7 +2099,7 @@
     },
     {
       "value_en": "After a player has completed their Turn, they can choose to destroy any Objective Markers which they control (except for the Central Objective). Repeat this process at the end of each of the player’s Turns until the end of the game. Destroyed Objective Markers are removed from play and have no influence on the rest of the game.",
-      "value_translated": null,
+      "value_translated": "Après qu'un joueur ait terminé son tour, il peut choisir de détruire les marqueurs d'objectif qu'il contrôle (à l'exception de l'objectif central). Répétez ce processus à la fin de chaque tour d'un joueur jusqu'à la fin de la partie. Les marqueurs d'objectif détruits sont retirés du jeu et n'ont plus aucune influence sur le reste de la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2107,7 +2107,7 @@
     },
     {
       "value_en": "After both players have deployed their forces, each player places one Loot Counter within their deployment area, giving them to a unit to carry if they wish. Roll off to see who places their Loot Counter first. Victory Points can be accumulated from Round three onwards each player scores points at the end of their respective Turn:",
-      "value_translated": null,
+      "value_translated": "Après que les deux joueurs aient déployé leur armée, chaque joueur place un Marqueur de Butin dans sa zone de déploiement, en le donnant à une unité pour qu'elle le porte si elle le souhaite. Lancez un jet de dés pour déterminer qui place son Marqueur de Butin en premier. Des Points de Victoire peuvent être accumulés à partir du tour trois, chaque joueur marquant des points à la fin de son Tour respectif:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2115,7 +2115,7 @@
     },
     {
       "value_en": "After both players have set up their forces, roll a D3. Each player places that many Loot Counters within their set-up area, giving them to units to carry if they wish. Roll of to see who begins placing their Loot Counters frst, and the players take it in turns to place one Loot Counter each until they have placed them all.",
-      "value_translated": null,
+      "value_translated": "Une fois que les deux joueurs ont déployé leurs forces, lancez un D3. Chaque joueur place ce nombre de jetons de butin dans sa zone de déploiement, en les attribuant à des unités pour les transporter s’il le souhaite. Lancez un dé pour déterminer qui place son premier jeton de butin en premier, puis les joueurs alternent en plaçant un jeton chacun jusqu’à ce que tous les jetons aient été placés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2123,7 +2123,7 @@
     },
     {
       "value_en": "After deciding which player begins to set up, start that player’s clock. Once that player has set up their first unit, stop their clock, start their opponent’s clock and so on. Once setup is finished, stop both clocks and roll to see who has the first turn. Once the winner of the roll has made their choice, restart that player’s clock. That player plays a Turn, then stops their clock and activates the opponent’s clock, and so on.",
-      "value_translated": null,
+      "value_translated": "Une fois que le joueur qui commence sa mise en place a été décidé, démarrez son chronomètre. Lorsque ce joueur a placé sa première unité, arrêtez son chronomètre et lancez celui de l’adversaire, et ainsi de suite. Une fois la mise en place terminée, arrêtez les deux chronomètres et lancez un jet de dés pour déterminer qui aura le premier tour. Une fois que le gagnant du jet de dés a fait son choix, redémarrez le chronomètre de ce joueur. Ce joueur joue un tour, puis arrête son chronomètre et active celui de l’adversaire, et ainsi de suite.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2171,7 +2171,7 @@
     },
     {
       "value_en": "After rolling of to choose sides, place one Objective Marker in the exact centre of the board. The players then place three more Objective Markers 6” from the centre line on their opponent’s half of the board, rolling of to see who places theirs first. Take it in turns until all the Objective Markers have been placed.",
-      "value_translated": null,
+      "value_translated": "Après avoir lancé les dés pour choisir les zones de départ, placez un marqueur d'objectif exactement au centre du plateau. Les joueurs placent ensuite trois autres marqueurs d'objectif à 6” de la ligne centrale sur la moitié du plateau de l'adversaire, en lançant les dés pour déterminer qui place le premier. Les joueurs alternent ensuite jusqu'à ce que tous les marqueurs d'objectif aient été placés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2179,7 +2179,7 @@
     },
     {
       "value_en": "After rolling of to choose sides, roll of to see who places the first Bluff Counter. The players take it in turns to place one Bluff Counter of their choice (marked side down) fully on their opponent’s half of the board, following the same placement restrictions as Objective Markers.",
-      "value_translated": null,
+      "value_translated": "Après avoir lancé les dés pour choisir les zones de départ, lancez à nouveau pour déterminer qui place le premier jeton de bluff. Les joueurs placent à tour de rôle un jeton de bluff de leur choix (marqué face cachée) entièrement dans la moitié du terrain de l'adversaire, en respectant les mêmes restrictions de placement que pour les marqueurs d'objectifs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2187,7 +2187,7 @@
     },
     {
       "value_en": "After rolling off to choose sides, place one Objective Marker in the exact centre of the board. The players then place three (two for smaller games) more Objective Markers 6” from the centre line on their opponent’s half of the board, rolling off to see who places theirs first. Take it in turns until all the Objective Markers have been placed.",
-      "value_translated": null,
+      "value_translated": "Après avoir lancé les dés pour choisir les zones de départ, placez un Marqueur d'Objectif exactement au centre du plateau. Les joueurs placent ensuite trois autres Marqueurs d'Objectif (deux pour les parties plus petites) à 6” de la ligne centrale, dans la moitié du plateau de l'adversaire, en lançant à nouveau le dé pour déterminer qui place son Marqueur en premier. Ils placent les Marqueurs à tour de rôle jusqu'à ce que tous les Marqueurs d'Objectif soient placés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2468,7 +2468,7 @@
     },
     {
       "value_en": "An additional Loot Counter is placed in the exact centre of the board.",
-      "value_translated": null,
+      "value_translated": "Un jeton de butin supplémentaire est placé exactement au centre du champ de bataille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2595,7 +2595,7 @@
     },
     {
       "value_en": "As per the underlying scenario. None of the three Giants controlled by the scenario award Victory nor Kill points if killed.",
-      "value_translated": null,
+      "value_translated": "Pour le scénario sous-jacent, aucun des trois Géants ne rapporte de points de Victoire ni de points de Massacre s'il est tué.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2667,7 +2667,7 @@
     },
     {
       "value_en": "At the end of each Round, each player must fip one Bluff Counter on their side of the board, rolling off to decide who flips first. Repeat this process each round until all Bluff Counters are flipped and revealed.",
-      "value_translated": null,
+      "value_translated": "À la fin de chaque tour, chaque joueur doit retourner un jeton de bluff de son côté du terrain, en lançant un dé pour déterminer qui retourne le premier jeton. Répétez ce processus à chaque tour jusqu'à ce que tous les jetons de bluff aient été retournés et révélés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2723,7 +2723,7 @@
     },
     {
       "value_en": "At the end of the game, add up the Unit Strength of all of your units that have the majority of their footprint within 12” of the centre of the playing area. That is your Victory Point score. Your opponent does the same and you compare scores.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, additionnez la Puissance d’Unité de toutes vos unités dont la majorité du socle se trouve à moins de 12” du centre du champ de bataille. Ce total constitue votre score en points de victoire. Votre adversaire fait de même et vous comparez vos scores.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2731,7 +2731,7 @@
     },
     {
       "value_en": "At the end of the game, add up the points cost of all of the Enemy units you Routed. That is your score. Your opponent does the same and you compare scores. If the difference between the scores in favour of a player is at least 10% of the total cost of the armies, that player wins; otherwise the game is a draw. For example, in a game where armies are 2000 points, you need at least 200 points more than your opponent to win.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, additionnez le coût en points de toutes les unités ennemies que vous avez mises en Déroute. C'est votre score. Votre adversaire fait de même et vous comparez les scores. Si la différence entre les scores en faveur d'un joueur est d'au moins 10 % du coût total des armées, ce joueur gagne ; sinon, la partie se termine par un match nul. Par exemple, dans une partie où les armées font 2000 points, vous devez avoir au moins 200 points de plus que votre adversaire pour gagner.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2739,7 +2739,7 @@
     },
     {
       "value_en": "At the end of the game, add up the total Unit Strength of each player’s units that have the majority of their footprint on the opposing player’s half of the board. This is the total number of Victory Points that each player scores.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, chaque joueur additionne la Puissance d’Unité totale de ses unités dont la majorité du socle se trouve dans la moitié de table adverse. Ce total correspond au nombre de points de victoire marqués par chaque joueur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2771,7 +2771,7 @@
     },
     {
       "value_en": "At the end of the game, divide the board into six 2’x2’ squares and add up the total Unit Strength of each player’s units within a square. If a unit is straddling the line between two or more squares it is considered to be in whichever square is covered by the majority of its base. If there is no clear majority, the owning player must choose which square the unit is in after any move, movement order or regroup is completed.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, divisez le champ de bataille en six zones de 2’x2’. Additionnez la Puissance d’Unité totale des unités de chaque joueur présentes dans chaque zone. Si une unité chevauche la ligne entre deux (ou plusieurs) zones, elle est considérée comme étant dans la zone où se trouve la majorité de son socle. En cas d’égalité parfaite, c’est le joueur qui contrôle l’unité qui choisit dans quelle zone elle se trouve, après avoir terminé un mouvement, un ordre de mouvement ou une réorganisation.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2779,7 +2779,7 @@
     },
     {
       "value_en": "At the end of the game, draw an imaginary corridor across the table, 6” either side of the centre-line. Divide this corridor equally into three scoring zones.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, tracez un couloir imaginaire à travers la table, à 6” de chaque côté de la ligne centrale. Divisez ce couloir en trois zones de score égales.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2787,7 +2787,7 @@
     },
     {
       "value_en": "At the end of the game, total the Scenario Victory Points accumulated for both players to determine the winner.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, additionnez les Points de Victoire du scénario accumulés par les deux joueurs pour déterminer le vainqueur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2952,7 +2952,7 @@
     },
     {
       "value_en": "Be Nice!",
-      "value_translated": null,
+      "value_translated": "Soyez Sympa!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2961,7 +2961,7 @@
     },
     {
       "value_en": "Before rolling of to choose sides, place a total of D3+4 Objective Markers on the board. The players take it in turns to place one Objective each. Roll of to see who places the first objective.",
-      "value_translated": null,
+      "value_translated": "Avant de lancer les dés pour choisir les zones de départ, placez un total de D3+4 marqueurs d’objectif sur le champ de bataille. Les joueurs placent les objectifs à tour de rôle, un par un. Effectuez un jet pour déterminer qui place le premier objectif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2969,7 +2969,7 @@
     },
     {
       "value_en": "Before rolling of to choose sides, place fve Loot Counters on the centre line of the board. One must be placed in the exact centre of the board (or as close to it along the centre line as possible). The remaining four Counters are then placed along the centre line, 12” away from each other (or as close to this distance as possible). After choosing sides, starting with the player that chose their side first, each player nominates a (different) Loot Counter which will be worth 2 Victory Points. These two counters are referred to as Primary Loot Counters.",
-      "value_translated": null,
+      "value_translated": "Avant de lancer le dé pour choisir les zones de départ, placez cinq jetons de butin sur la ligne centrale du plateau. L'un doit être placé exactement au centre du plateau (ou aussi près que possible le long de la ligne centrale). Les quatre jetons restants sont ensuite placés le long de la ligne centrale, à 12” les uns des autres (ou aussi près que possible de cette distance). Après avoir choisi les côtés, en commençant par le joueur qui a choisi son côté en premier, chaque joueur désigne un (autre) jeton de butin qui vaudra 2 points de victoire. Ces deux jetons sont appelés les Jetons de Butin Primaires.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2977,7 +2977,7 @@
     },
     {
       "value_en": "Before rolling of to choose sides, place one Objective Marker in the exact centre of the board and then the players take it in turns placing Objective Markers until both players have each placed three Objective Markers. Roll of to see who places the first Objective.",
-      "value_translated": null,
+      "value_translated": "Avant de lancer le dé pour choisir les zones de départ, placez un marqueur d'objectif exactement au centre du plateau. Ensuite, les joueurs placent tour à tour les marqueurs d'objectif jusqu'à ce que chaque joueur ait placé trois marqueurs d'objectif. Faites un tirage au sort pour déterminer qui place le premier marqueur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2985,7 +2985,7 @@
     },
     {
       "value_en": "Before rolling of to choose sides, place three Loot Counters on the centre line of the board. One must be placed in the exact centre of the board (or as close to it along the centre line as possible), and then players place one more each, rolling of to see who places theirs first. Loot Counters cannot be placed within 12” of each other or within 3” of Blocking Terrain.",
-      "value_translated": null,
+      "value_translated": "Avant de lancer le dé pour choisir les zones de départ, placez trois jetons de butin sur la ligne centrale du champ de bataille. L’un d’eux doit être placé exactement au centre du champ de bataille (ou aussi près que possible de ce point, le long de la ligne centrale). Ensuite, chaque joueur place un jeton supplémentaire, en lançant un dé pour déterminer qui place le sien en premier. Les jetons de butin ne peuvent pas être placés à moins de 12” les uns des autres, ni à moins de 3” d’un terrain bloquant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2993,7 +2993,7 @@
     },
     {
       "value_en": "Before rolling off to choose sides, place three piles of Loot Counters (2 for smaller games) on the centre line of the board as follows.",
-      "value_translated": null,
+      "value_translated": "Avant de lancer le dé pour choisir les zones de départ, placez trois piles de jetons de butin (2 pour les jeux plus petits) sur la ligne centrale du plateau comme suit.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -3001,7 +3001,7 @@
     },
     {
       "value_en": "Before rolling off to choose sides:",
-      "value_translated": null,
+      "value_translated": "Avant de lancer le dé pour choisir les zones de départ:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -3156,7 +3156,7 @@
     },
     {
       "value_en": "Bluff Counters marked with a 0 are not worth any Victory Points.",
-      "value_translated": null,
+      "value_translated": "Les jetons de bluff marqués d'un 0 ne valent aucun point de victoire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -3285,7 +3285,7 @@
     },
     {
       "value_en": "By all means, you and your opponent can vary the amount of time you have for your game or your Turns according to your own taste, but if you’re like us, you are going to love the pressure created by timed games – after all, in real war one rarely has the luxury of time...",
-      "value_translated": null,
+      "value_translated": "Bien sûr, vous et votre adversaire pouvez ajuster la durée de la partie ou des Tours selon vos préférences, mais si vous êtes comme nous, vous allez adorer la pression créée par les parties chronométrées – après tout, dans la guerre réelle, on n'a que rarement le luxe du temps...",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -3582,7 +3582,7 @@
     },
     {
       "value_en": "Compass Points",
-      "value_translated": null,
+      "value_translated": "Points Cardinaux",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4444,7 +4444,7 @@
     },
     {
       "value_en": "During the remainder of the game, the player may not issue any orders or roll any dice, including for rules such as Regeneration.",
-      "value_translated": null,
+      "value_translated": "Pendant le reste de la partie, le joueur ne peut plus donner d'ordres ni lancer de dés, y compris pour des règles telles que Régénération.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -5004,7 +5004,7 @@
     },
     {
       "value_en": "First Player",
-      "value_translated": null,
+      "value_translated": "Premier Joueur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -5143,7 +5143,7 @@
     },
     {
       "value_en": "For each Giant roll a D8 close to it. The raised “point” the D8 is facing is the direction that Giant will turn and move this Round. Now add 8” to the result on the D8 and move it this far in a straight line in the direction indicated. If a Giant makes contact with and unit from either Player’s army, it will stop (and charge and attack!), that unit in the facing it makes contact with.",
-      "value_translated": null,
+      "value_translated": "Pour chaque Géant, lancez un D8 à proximité de celui-ci. La pointe du D8 au dessus du chiffre indiquera la direction dans laquelle le Géant tournera et se déplacera pendant ce Tour. Ajoutez ensuite 8” au résultat du D8 et déplacez-le de cette distance en ligne droite dans la direction indiquée. Si un Géant entre en contact avec une unité de l'une ou l'autre armée, il s'arrêtera (et chargera et attaquera !) l'unité dans la face avec laquelle il entre en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -5574,7 +5574,7 @@
     },
     {
       "value_en": "Giants",
-      "value_translated": null,
+      "value_translated": "Géants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -5582,7 +5582,7 @@
     },
     {
       "value_en": "Giants will walk through each other, extending their movement to end clear of other such units. Giants will walk around blocking terrain, but will walk through any other terrain. Each Giant will use the stats (ME, DE, ATT, Nerve and Special Rules) from the Goblin Giant unit entry, but with both Rampage and Slayer Rules.",
-      "value_translated": null,
+      "value_translated": "Les Géants traverseront les autres Géants, augmentant leur mouvement pour se retrouver dégagés de toute autre unité de ce type. Ils contourneront le terrain bloquant, mais traverseront tous les autres types de terrain. Chaque Géant utilisera les statistiques (Me, De, Att, Moral et Règles spéciales) provenant de l'entrée de l'unité Géant Gobelin, mais avec les règles Déchainement et Massacreur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -5844,7 +5844,7 @@
     },
     {
       "value_en": "Hold the Line!",
-      "value_translated": null,
+      "value_translated": "Tenez la Ligne",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -6016,7 +6016,7 @@
     },
     {
       "value_en": "If a player runs out of time, they must immediately put their dice down and make no further dice rolls for the rest of the game. If there are any unresolved combats, the units are simply left Engaged.",
-      "value_translated": null,
+      "value_translated": "Si un joueur dépasse son temps, il doit immédiatement poser ses dés et ne plus effectuer de jets de dés pour le reste de la partie. Si des combats restent non résolus, les unités sont simplement laissées au contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -6048,7 +6048,7 @@
     },
     {
       "value_en": "If a unit Routs an enemy unit that is carrying Loot in melee, they may elect to destroy the Loot and remove it from the table rather than picking it up.",
-      "value_translated": null,
+      "value_translated": "Si une unité met en Déroute une unité ennemie portant du Butin en mêlée, elle peut choisir de détruire le Butin et de l'enlever du jeu plutôt que de le ramasser.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -6240,7 +6240,7 @@
     },
     {
       "value_en": "If multiple units are touching a single pile then each unit may take a single token.",
-      "value_translated": null,
+      "value_translated": "Si plusieurs unités touchent une même pile, chaque unité peut prendre un seul jeton.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -6344,7 +6344,7 @@
     },
     {
       "value_en": "If the other player still has time remaining, then they may continue playing as normal.",
-      "value_translated": null,
+      "value_translated": "Si le joueur adverse dispose encore de temps, il peut continuer à jouer normalement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -6480,7 +6480,7 @@
     },
     {
       "value_en": "If you don’t have a chess clock at hand, don’t worry – the stopwatch in your phone or watch, or even an hourglass or egg timer will do fine. If you use one of these, then each player gets an agreed amount of time per Turn (agree first how many Rounds the game is going to last for). We suggest that each Turn should take around two minutes per 500 points in your game (say eight minutes in a 2000 point game).",
-      "value_translated": null,
+      "value_translated": "Si vous n'avez pas d'horloge d'échecs sous la main, pas de panique: le chronomètre de votre téléphone ou montre, ou même un sablier ou un minuteur de cuisine feront l'affaire. Si vous utilisez l'un de ces outils, chaque joueur dispose d'un temps convenu par tour (convenez d'abord du nombre de tours que durera la partie). Nous suggérons qu'un tour prenne environ deux minutes par 500 points dans votre partie (soit huit minutes pour une partie de 2000 points).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -7635,7 +7635,7 @@
     },
     {
       "value_en": "Make sure you set a time limit for setup (30 seconds per unit works fine).",
-      "value_translated": null,
+      "value_translated": "Assurez-vous de définir une limite de temps pour la mise en place (30 secondes par unité fonctionne bien).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -8035,7 +8035,7 @@
     },
     {
       "value_en": "Narrative Scenario: Awakened Giants",
-      "value_translated": null,
+      "value_translated": "Scénario Narratif: Le Réveil des Géants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8318,7 +8318,7 @@
     },
     {
       "value_en": "Note that a unit may only score up to half its Unit Strength in Loot Counters.",
-      "value_translated": null,
+      "value_translated": "Notez qu'une unité ne peut marquer qu'un maximum de la moitié de sa Puissance d'Unité en Jetons de Butin.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -8422,7 +8422,7 @@
     },
     {
       "value_en": "Now determine the scenario and its Victory Point conditions. At the end of each Round, roll for the Giants as they awaken from their slumber. Until they move at the end of the first Round, treat all Giants as blocking terrain.",
-      "value_translated": null,
+      "value_translated": "Maintenant, déterminez le scénario et ses conditions de points de victoire. À la fin de chaque Tour de jeu, lancez les dés pour les Géants qui se réveillent de leur profond sommeil. Jusqu'à ce qu'ils se déplacent à la fin du premier Tour, considérez tous les Géants comme des terrains bloquants.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -8490,7 +8490,7 @@
     },
     {
       "value_en": "Of course, it’s only fair to stop the chess clock or timer if one of the players is distracted from the game (by a phone call or the like), or if the players need to check a rule, an unclear LoS, etc.",
-      "value_translated": null,
+      "value_translated": "Bien entendu, il est plus honnête d'arrêter le chronomètre ou le minuteur si l'un des joueurs est distrait du jeu (par un appel téléphonique ou autre), ou si les joueurs doivent vérifier une règle, une ligne de vue, etc.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -8668,7 +8668,7 @@
     },
     {
       "value_en": "One pile of 3 Loot Counters must be placed in the exact centre of the board (or as close to it along the centre line as possible). Then players alternate placing a pile of 2 Loot Counters each along the centre line, rolling off to see who places their pile first. Loot Counter piles cannot be placed within 12” of each other or within 3” of Blocking Terrain.",
-      "value_translated": null,
+      "value_translated": "Une pile de 3 jetons de butin doit être placée exactement au centre du plateau (ou aussi près que possible le long de la ligne centrale). Ensuite, les joueurs alternent pour placer une pile de 2 jetons de butin chacun le long de la ligne centrale, en lançant un dé pour déterminer qui place sa pile en premier. Les piles de jetons de butin ne peuvent pas être placées à moins de 12” les unes des autres ou à moins de 3” d'un terrain bloquant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -8758,7 +8758,7 @@
     },
     {
       "value_en": "Other Timers",
-      "value_translated": null,
+      "value_translated": "Autres Minuteurs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9516,7 +9516,7 @@
     },
     {
       "value_en": "Place an Objective Marker in the exact middle of the centre line. There are two 12” scoring zones set 18” from the short table edges and 18” away from the centre Objective. At the end of Rounds three, four and five add up the Unit Strength of all your units that have the majority of their footprint within 12” of each circle.",
-      "value_translated": null,
+      "value_translated": "Placez un Marqueur d'Objectif exactement au centre de la ligne centrale. Il y a deux zones de score de 12” placées à 18” des bords courts de la table et à 18” du Marqueur d'Objectif central. À la fin des Rounds trois, quatre et cinq, additionnez la Puissance d'Unité de toutes vos unités dont la majeure partie de la base se trouve à moins de 12” de chaque cercle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -9524,7 +9524,7 @@
     },
     {
       "value_en": "Place seven (five for smaller games) Loot Counters on the board. The players take it in turns to place one Loot Counter each. Roll off to see who places the first Loot Counter.",
-      "value_translated": null,
+      "value_translated": "Placez sept (cinq pour les parties plus petites) Jetons de Butin sur le terrain. Les joueurs placent tour à tour un Jeton de Butin chacun. Lancez un dé pour déterminer qui place le premier Jeton de Butin.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -9532,7 +9532,7 @@
     },
     {
       "value_en": "Place two objective markers 12” from the table edge along the centre line. Each Score 1VP for controlling it. Place two objective markers 9” from Centre line from the exact centre of the board. Victory Points are awarded at the end of the game as follows:",
-      "value_translated": null,
+      "value_translated": "Placez deux marqueurs d'objectif à 12” du bord de la table, le long de la ligne centrale. Chacun rapporte 1 Point de Victiore pour le joueur qui le contrôle. Placez ensuite deux autres marqueurs d'objectif à 9” de la ligne centrale, à partir du centre exact du plateau. Les points de victoire sont attribués à la fin de la partie comme suit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -9693,7 +9693,7 @@
     },
     {
       "value_en": "Protect and Raze",
-      "value_translated": null,
+      "value_translated": "Protéger et Anéantir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10346,7 +10346,7 @@
     },
     {
       "value_en": "Second Player",
-      "value_translated": null,
+      "value_translated": "Second Joueur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -10378,7 +10378,7 @@
     },
     {
       "value_en": "Seek and Destroy",
-      "value_translated": null,
+      "value_translated": "Chercher et Détruire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10552,7 +10552,7 @@
     },
     {
       "value_en": "Simply agree a number of turns for the game and an amount of time per player and set the chess clock accordingly. For a 2000 points game, we suggest six turns each and fifty minutes per player, but it’s up you to find the pace you prefer for your games.",
-      "value_translated": null,
+      "value_translated": "Mettez vous d'accord sur le nombre de tours pour la partie et le temps par joueur, puis réglez l'horloge d'échecs en conséquence. Pour une partie de 2000 points, nous suggérons six tours et cinquante minutes par joueur, mais c'est à vous de déterminer le rythme qui vous convient pour vos parties.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -10600,7 +10600,7 @@
     },
     {
       "value_en": "Smaller Board",
-      "value_translated": null,
+      "value_translated": "Table réduite",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -10960,7 +10960,7 @@
     },
     {
       "value_en": "Stockpile",
-      "value_translated": null,
+      "value_translated": "Réserve",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11491,7 +11491,7 @@
     },
     {
       "value_en": "The best tool for timed games is a chess clock, a device that ensures time is equally divided among the players, thus creating the ultimate fair and balanced wargame.",
-      "value_translated": null,
+      "value_translated": "Le meilleur outil pour les parties chronométrées est une horloge d'échecs, un dispositif qui garantit que le temps est équitablement divisé entre les joueurs, créant ainsi le wargame ultime, à la fois juste et équilibré.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -11587,7 +11587,7 @@
     },
     {
       "value_en": "The game ends at the agreed number of Rounds and victory conditions are worked out as normal.",
-      "value_translated": null,
+      "value_translated": "La partie se termine après le nombre de Tours convenu, et les conditions de victoire sont calculées de la façon habituelle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -11659,7 +11659,7 @@
     },
     {
       "value_en": "The player who has the highest Unit Strength in each square controls it.",
-      "value_translated": null,
+      "value_translated": "Le joueur ayant la plus grande Puissance d'Unité totale dans chaque zone en prend le contrôle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -12285,7 +12285,7 @@
     },
     {
       "value_en": "There are only 4 2’x2’ squares on the board rather than six. The square that is on your right and on the opposite side of the board will give you the 2 Victory Points.",
-      "value_translated": null,
+      "value_translated": "Il y a seulement 4 carrés de 2' x 2' sur le terrain plutôt que six. Le carré qui est à votre droite et de l'autre côté du terrain vous rapportera 2 points de victoire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -12301,7 +12301,7 @@
     },
     {
       "value_en": "There should now be a total of 7 (5 for smaller games) Loot Counters on the table: a Centre pile of 3 (1 for smaller games) and two (or one) piles of 2 Loot Counters each.",
-      "value_translated": null,
+      "value_translated": "Il devrait maintenant y avoir un total de 7 (5 pour les parties plus petites) jetons de butin sur la table: une pile centrale de 3 jetons (1 pour les parties plus petites) et deux (ou une) pile de 2 jetons de butin chacune.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -12479,7 +12479,7 @@
     },
     {
       "value_en": "This scenario uses 10 Bluff Counters.",
-      "value_translated": null,
+      "value_translated": "Ce scénario utilise 10 jetons de bluff.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -12487,7 +12487,7 @@
     },
     {
       "value_en": "This scenario uses 10 Bluff Counters. After rolling of to choose sides, roll of to see who places the first Bluff Counter. The players take it in turns to place one Bluff Counter of their choice (marked side down) fully on their opponent’s half of the board, following the same placement restrictions as Objective Markers.",
-      "value_translated": null,
+      "value_translated": "Ce scénario utilise 10 jetons de bluff. Après avoir lancé les dés pour choisir les zones de départ, lancez à nouveau pour déterminer qui place le premier jeton de bluff. Les joueurs placent à tour de rôle un jeton de bluff de leur choix (marqué face cachée) entièrement dans la moitié du terrain de l'adversaire, en respectant les mêmes restrictions de placement que pour les marqueurs d'objectifs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -12869,7 +12869,7 @@
     },
     {
       "value_en": "Turn Order",
-      "value_translated": null,
+      "value_translated": "Ordre des Tours",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13463,7 +13463,7 @@
     },
     {
       "value_en": "Victory Conditions",
-      "value_translated": null,
+      "value_translated": "Conditions de Victoire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13480,7 +13480,7 @@
     },
     {
       "value_en": "Victory Points are awarded at the end of the game as follows:",
-      "value_translated": null,
+      "value_translated": "Les points de victoire sont attribués à la fin de la partie comme suit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13488,7 +13488,7 @@
     },
     {
       "value_en": "Victory Points can be accumulated from Round two onward and are as follows:",
-      "value_translated": null,
+      "value_translated": "Les points de victoire peuvent être accumulés à partir du deuxième tour comme suit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13642,7 +13642,7 @@
     },
     {
       "value_en": "We really enjoy playing Kings of War in a relaxed atmosphere, accompanied by epic music, beer, pizza and the unavoidable truculent banter. However, the game is designed so that you can also decide to introduce another dimension to the fight: time. This way you’ll be able to experience some of the pressure of real battle, when snap decisions make the difference between victory or defeat, life or death!",
-      "value_translated": null,
+      "value_translated": "Nous adorons jouer à Kings of War dans une atmosphère détendue, accompagnée de musique épique, de bière, de pizza et des incontournables plaisanteries. Cependant, le jeu est conçu de manière à ce que vous puissiez également ajouter une autre dimension au combat : le temps. Ainsi, vous pourrez ressentir une partie de la pression de la vraie bataille, où des décisions prises sur le vif font la différence entre la victoire ou la défaite, la vie ou la mort!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13650,7 +13650,7 @@
     },
     {
       "value_en": "We recommend each player only use one of each value of Bluff Counter on a 4’x4’ board.",
-      "value_translated": null,
+      "value_translated": "Nous recommandons que chaque joueur utilise un seul jeton de bluff de chaque valeur sur une table de 4’x4’.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13666,7 +13666,7 @@
     },
     {
       "value_en": "We recommend using 2 Objective Markers each on a 4’x4’ board.",
-      "value_translated": null,
+      "value_translated": "Nous recommandons d'utiliser 2 marqueurs d'objectif chacun sur une table de 4'x4'.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13674,7 +13674,7 @@
     },
     {
       "value_en": "We recommend using D3+2 Objective Markers on a 4’x4’ board.",
-      "value_translated": null,
+      "value_translated": "Nous recommandons d’utiliser D3+2 marqueurs d’objectif sur une table de 4’x4’.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13682,7 +13682,7 @@
     },
     {
       "value_en": "We recommend using three Loot Counters on a 4’x4’ board. Rather than players choosing, the central counter is the single Primary Loot Counter.",
-      "value_translated": null,
+      "value_translated": "Nous recommandons l'utilisation de trois jetons de butin sur un champ de bataille de 4'x4'. Plutôt que de laisser les joueurs choisir, le jeton central est le seul Jeton de Butin Primaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -13690,7 +13690,7 @@
     },
     {
       "value_en": "We recommend using two Objective Markers each on a 4’x4’ board.",
-      "value_translated": null,
+      "value_translated": "Nous recommandons d'utiliser deux marqueurs d'objectif pour chaque joueur sur une table de 4’x4’.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -14180,7 +14180,7 @@
     },
     {
       "value_en": "Whoever has the highest total Unit Strength in each scoring zone controls it.",
-      "value_translated": null,
+      "value_translated": "Celui qui a la plus grande Puissance d'Unité Totale dans chaque zone de score en prend le contrôle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -14260,7 +14260,7 @@
     },
     {
       "value_en": "Wrack and Ruin",
-      "value_translated": null,
+      "value_translated": "Destruction et Ruine",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -14278,7 +14278,7 @@
     },
     {
       "value_en": "You can contest, but not control, the Objective Marker on your own side of the table. You cannot remove the Central Objective, or Objective Markers on your own side of the table.",
-      "value_translated": null,
+      "value_translated": "Vous pouvez contester, mais pas contrôler, le marqueur d'objectif de votre côté du plateau. Vous ne pouvez pas retirer l'objectif central ni les marqueurs d'objectif de votre côté du plateau.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -14334,7 +14334,7 @@
     },
     {
       "value_en": "You cannot remove the Central Objective, or Objective Markers on your own side of the table. VP can be accumulated from Round two onward and are as follows:",
-      "value_translated": null,
+      "value_translated": "Vous ne pouvez pas retirer l'Objectif Central, ni les Marqueurs d'Objectif de votre propre côté de la table. Les Points de Victoire peuvent être accumulés à partir du deuxième tour et sont attribués comme suit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -14494,7 +14494,7 @@
     },
     {
       "value_en": "a. 1: Pillage",
-      "value_translated": null,
+      "value_translated": "a. 1: Pillage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -14691,7 +14691,7 @@
     },
     {
       "value_en": "b. 2: Loot",
-      "value_translated": null,
+      "value_translated": "b, 2: Butin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -14868,7 +14868,7 @@
     },
     {
       "value_en": "c. 3: Push",
-      "value_translated": null,
+      "value_translated": "c. 3: Percée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15011,7 +15011,7 @@
     },
     {
       "value_en": "d. 4: Dominate",
-      "value_translated": null,
+      "value_translated": "d. 4: Domination",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15138,7 +15138,7 @@
     },
     {
       "value_en": "e. 5: Invade",
-      "value_translated": null,
+      "value_translated": "e. 5: Invasion",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15271,7 +15271,7 @@
     },
     {
       "value_en": "f. 6: Control",
-      "value_translated": null,
+      "value_translated": "f. 6: Contrôle",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15373,7 +15373,7 @@
     },
     {
       "value_en": "g. 7: Kill",
-      "value_translated": null,
+      "value_translated": "g. 7: Massacre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15425,7 +15425,7 @@
     },
     {
       "value_en": "h. 8: Raze",
-      "value_translated": null,
+      "value_translated": "h. 8: Ravage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15479,7 +15479,7 @@
     },
     {
       "value_en": "i. 9: Plunder",
-      "value_translated": null,
+      "value_translated": "i. 9: Saccage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15511,7 +15511,7 @@
     },
     {
       "value_en": "i. Chess Clocks",
-      "value_translated": null,
+      "value_translated": "i. Horloges d'Échecs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15789,7 +15789,7 @@
     },
     {
       "value_en": "ii. Other Timers",
-      "value_translated": null,
+      "value_translated": "ii. Autres Minuteurs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -15939,7 +15939,7 @@
     },
     {
       "value_en": "iv. Be Nice!",
-      "value_translated": null,
+      "value_translated": "iv Soyez Sympa!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16022,7 +16022,7 @@
     },
     {
       "value_en": "j. 10: Fool’s Gold",
-      "value_translated": null,
+      "value_translated": "j. 10: L'Or du Fou",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16047,7 +16047,7 @@
     },
     {
       "value_en": "k. 11: Smoke & Mirrors",
-      "value_translated": null,
+      "value_translated": "k. 11: Fumée et Miroirs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16165,7 +16165,7 @@
     },
     {
       "value_en": "q. Seek and Destroy",
-      "value_translated": null,
+      "value_translated": "q. Chercher et Détruire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16182,7 +16182,7 @@
     },
     {
       "value_en": "r. Protect and Raze",
-      "value_translated": null,
+      "value_translated": "r. Protéger et Anéantir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16207,7 +16207,7 @@
     },
     {
       "value_en": "s. Compass Points",
-      "value_translated": null,
+      "value_translated": "s. Points Cardinaux",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16224,7 +16224,7 @@
     },
     {
       "value_en": "t. Narrative Scenario: Awakened Giants",
-      "value_translated": null,
+      "value_translated": "t. Scénario Narratif: Le Réveil des Géants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -16241,7 +16241,7 @@
     },
     {
       "value_en": "u. Timed Games",
-      "value_translated": null,
+      "value_translated": "u. Parties Chronométrées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
