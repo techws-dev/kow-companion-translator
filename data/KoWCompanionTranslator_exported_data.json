@@ -1719,7 +1719,7 @@
     },
     {
       "value_en": "A firing unit that is currently in base contact with an Obstacle, ignores it for determining whether an enemy unit is an Obscured Target, unless the enemy unit is also in contact with the same Obstacle.",
-      "value_translated": "Une unité effectuant un tir et étant actuellement en contact socle à socle avec un Obstacle l’ignore lorsqu’elle détermine si une unité ennemie est une Cible Obscurcie, sauf si l’unité ennemie est également en contact avec le même Obstacle.",
+      "value_translated": "Une unité effectuant un tir et étant actuellement en contact socle à socle avec un Obstacle l’ignore lorsqu’elle détermine si une unité ennemie est une Cible Masquée, sauf si l’unité ennemie est également en contact avec le même Obstacle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -1727,7 +1727,7 @@
     },
     {
       "value_en": "A firing unit that received a Halt order in its Movement phase ignores any piece of Difficult Terrain that it is currently within, or in base contact with, for determining whether an enemy unit is an Obscured Target, unless the enemy unit is also touching or within the same piece of Difficult Terrain.",
-      "value_translated": "Une unité effectuant un tir et ayant reçu un ordre Halte pendant sa phase de Mouvement ignore tout élément de Terrain Difficile dans lequel elle se trouve ou avec lequel elle est en contact socle à socle lorsqu’elle détermine si une unité ennemie est une Cible Obscurcie, sauf si l’unité ennemie touche ou se trouve également dans le même Terrain Difficile.",
+      "value_translated": "Une unité effectuant un tir et ayant reçu un ordre Halte pendant sa phase de Mouvement ignore tout élément de Terrain Difficile dans lequel elle se trouve ou avec lequel elle est en contact socle à socle lorsqu’elle détermine si une unité ennemie est une Cible Masquée, sauf si l’unité ennemie touche ou se trouve également dans le même Terrain Difficile.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -2147,7 +2147,7 @@
     },
     {
       "value_en": "After discarding any dice that missed, pick up the remaining dice that scored hits and roll them again to try and damage the enemy unit. The number your unit needs to damage the target is equal to or greater than the target’s Defence value. This roll can sometimes be modified by special rules, etc.",
-      "value_translated": null,
+      "value_translated": "Après avoir écarté les dés ayant raté, ramassez ceux qui ont touché et relancez-les pour tenter d’infliger des dégâts à l’unité ennemie. Chaque dé doit obtenir un résultat égal ou supérieur à la valeur de Défense (De) de la cible pour causer une blessure. Certains modificateurs, liés à des règles spéciales ou autres, peuvent s’appliquer à ce jet.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -2501,7 +2501,7 @@
     },
     {
       "value_en": "Any dice that naturally roll a 1 always miss, regardless of modifiers. However, if modifiers to the roll mean that the unit would need more than a 6 to hit, it may only roll a number of dice equal to half its Attacks (rounding down) and will only score hits on a 6.",
-      "value_translated": null,
+      "value_translated": "Un jet naturel de 1 est toujours un échec, quels que soient les modificateurs. De plus, si les malus sont tels qu’il faudrait plus de 6 pour toucher, l’unité ne lancera qu’un nombre de dés égal à la moitié de ses Attaques (arrondi à l’inférieur) et ne pourra toucher que sur un 6 naturel.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -2517,7 +2517,7 @@
     },
     {
       "value_en": "Any die that rolls a 1 always fails to damage, regardless of modifiers. If a modifier brings the score required to damage a target above 6, that target cannot be damaged.",
-      "value_translated": null,
+      "value_translated": "Tout résultat naturel de 1 échoue toujours à infliger des dégâts, quels que soient les modificateurs. Si, après modificateurs, le score nécessaire pour blesser la cible dépasse 6, celle-ci ne peut tout simplement pas être blessée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -2699,7 +2699,7 @@
     },
     {
       "value_en": "At the end of the Ranged phase, test the Nerve of any unit you inflicted damage on during that phase. This test will determine whether the damaged units are Steady, Wavered or Routed.",
-      "value_translated": null,
+      "value_translated": "À la fin de la phase de tir, effectuez un test de Moral pour toute unité que vous avez blessée durant cette phase. Ce test déterminera si les unités endommagées restent Stables, sont Ebranlées ou en Déroute.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -2707,7 +2707,7 @@
     },
     {
       "value_en": "At the end of the Ranged phase, you will test the Nerve of any enemy units that were damaged. We will cover Nerve in a following section.",
-      "value_translated": null,
+      "value_translated": "À la fin de la phase de tir, vous testerez le Moral de toutes les unités ennemies ayant subi des dégâts. Nous détaillerons le fonctionnement du Moral dans la section suivante.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -3621,7 +3621,7 @@
     },
     {
       "value_en": "Concealed Target",
-      "value_translated": null,
+      "value_translated": "Cible Dissimulée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3713,7 +3713,7 @@
     },
     {
       "value_en": "Cover",
-      "value_translated": null,
+      "value_translated": "Couvert",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3818,7 +3818,7 @@
     },
     {
       "value_en": "Damaging the Target",
-      "value_translated": null,
+      "value_translated": "Blesser la Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4216,7 +4216,7 @@
     },
     {
       "value_en": "Difficult Terrain that does not have a height value (flat terrain) is always treated as open ground for the purposes of determining an Obscured Target.",
-      "value_translated": null,
+      "value_translated": "Les terrains difficiles sans valeur de Taille (terrains plats) sont toujours considérés comme du terrain dégagé pour déterminer si une unité est une Cible Masquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -4791,7 +4791,7 @@
     },
     {
       "value_en": "Engaged Units and Shooting",
-      "value_translated": null,
+      "value_translated": "Unités Engagées et Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4889,7 +4889,7 @@
     },
     {
       "value_en": "Example: A unit has Att 10 and so shoots with 10 dice. Its Ra value is 5+. The dice are rolled. Any that score 4 or less are discarded – they have missed. Any that score 5 or 6 are successful hits.",
-      "value_translated": null,
+      "value_translated": "Exemple : Une unité a une valeur Att de 10, elle tire donc avec 10 dés. Sa valeur Tir est de 5+. Les dés sont lancés. Ceux qui obtiennent un résultat de 4 ou moins sont écartés – ils ont échoué. Ceux qui obtiennent un résultat de 5 ou 6 sont des touches réussies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -4897,7 +4897,7 @@
     },
     {
       "value_en": "Example: A unit has scored 6 hits on an enemy unit which has a De of 4+. The attacking player rolls the dice again. Any that score 3 or less have failed to cause any damage. Any that score 4 or more cause 1 damage each.",
-      "value_translated": null,
+      "value_translated": "Exemple : Une unité a infligé 6 touches à une unité ennemie ayant une Défense (De) de 4+. Le joueur attaquant relance alors ses 6 dés. Chaque dé qui obtient 3 ou moins échoue à infliger des dégâts. Chaque résultat de 4 ou plus inflige 1 point de dégât.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -5191,7 +5191,7 @@
     },
     {
       "value_en": "For each hit that scores damage, place a damage marker next to the unit. This represents physical damage and casualties as well as a decline in the unit’s morale, cohesion and will to fight on. As the unit accumulates damage markers, it might be more convenient to record this by placing a die (possibly an unusual one, of a different size or colour, to avoid rolling it by mistake) next to the unit, or by using some other suitable tokens to track the damage.",
-      "value_translated": null,
+      "value_translated": "Pour chaque touche qui inflige des dégâts, placez un marqueur de dégâts à côté de l'unité. Cela représente les dégâts physiques, les pertes ainsi qu'une diminution du moral, de la cohésion et de la volonté de combattre de l'unité. À mesure que l'unité accumule des marqueurs de dégâts, il peut être plus pratique de suivre cela en plaçant un dé (de préférence un dé spécial, d'une taille ou couleur différente pour éviter de le confondre) à côté de l'unité, ou en utilisant d'autres jetons appropriés pour suivre les dégâts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -5223,7 +5223,7 @@
     },
     {
       "value_en": "For each of these conditions that apply, deduct one from the score rolled on each of the dice.",
-      "value_translated": null,
+      "value_translated": "Pour chaque condition applicable, soustrayez un au résultat de chaque dé lancé.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -5271,7 +5271,7 @@
     },
     {
       "value_en": "For example, if your unit normally needs a 4 or more to hit, but it has moved, you will need 5 or more to hit instead, because all results will be one less than actually rolled – a 5 will become a 4 and thus meet the required Ra value, but a 4 will become a 3 and therefore miss. If the target was in cover as well, you would need 6s.",
-      "value_translated": null,
+      "value_translated": "Par exemple, si votre unité a normalement besoin d'un 4 ou plus pour toucher, mais qu'elle a bougé, vous aurez besoin de 5 ou plus pour toucher à la place, car chaque résultat sera réduit de 1 par rapport au résultat obtenu. Un 5 deviendra un 4 et atteindra donc la valeur de Tir requise, tandis qu'un 4 deviendra un 3 et manquera donc sa cible. Si la cible était également à couvert, vous aurez besoin de 6 pour toucher.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -5327,7 +5327,7 @@
     },
     {
       "value_en": "For example: (Bows – 24”), (Heavy Crossbows – 36”, Piercing (2), Reload) or (Flame Belcher – 12”, Att: 10, Piercing (1), Steady Aim)",
-      "value_translated": null,
+      "value_translated": "Par exemple : (Arcs – 24”), (Arbalètes lourdes – 36”, Perforant (2), Rechargement) ou (Lance-Flammes – 12”, Att : 10, Perforant (1), Tir stable)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -6024,7 +6024,7 @@
     },
     {
       "value_en": "If a ranged weapon profile does not explicitly list a number of Attacks for that weapon, or list an Ra stat value to be used for that weapon, the Att value and/or Ra value in the unit profile itself should be used.",
-      "value_translated": null,
+      "value_translated": "Si le profil d'une arme de tir ne précise pas explicitement un nombre d’Attaques pour cette arme, ou une valeur de Tir spécifique, utilisez la valeur d’Attaques et/ou de Tir indiquée directement sur le profil de l’unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -6040,7 +6040,7 @@
     },
     {
       "value_en": "If a target unit has at least half of its base within Difficult Terrain, it is considered to be a Concealed Target. A unit cannot become an Obscured Target from Difficult Terrain that has caused it to become a Concealed Target. However, that unit can still become an Obscured Target as a result of another unit or terrain piece. Units that are three or more Height levels taller than the Difficult Terrain they are within cannot benefit from being a Concealed Target. An ankle deep pond will provide little cover for a Giant!",
-      "value_translated": null,
+      "value_translated": "Si une unité cible a au moins la moitié de son socle à l’intérieur d’un terrain difficile, elle est considérée comme une Cible Dissimulée. Une unité ne peut pas être à la fois une Cible Dissimulée et une Cible Masquée à cause du même terrain difficile, mais peut tout de même devenir une Cible Masquée si une autre unité ou un autre élément de terrain est sur la route. Enfin, une unité qui dépasse d’au moins trois niveaux de Taille le terrain difficile dans lequel elle se trouve ne bénéficie pas du statut de Cible Dissimulée — un étang jusqu’aux chevilles n’abritera pas vraiment un Géant!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -6160,7 +6160,7 @@
     },
     {
       "value_en": "If a unit’s Leader Point is on a hill, but the unit itself is not on the hill (with more than half its base), LoS is not blocked, but the hill itself is taken into consideration when determining if a unit is an Obscured Target.",
-      "value_translated": null,
+      "value_translated": "Si le Point de Leader d’une unité est sur une colline, mais que l’unité elle-même n’y est pas (c’est-à-dire que moins de la moitié de son socle est sur la colline), la ligne de vue n’est pas bloquée, mais la colline est prise en compte pour déterminer si la cible est une Cible Masquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -6688,7 +6688,7 @@
     },
     {
       "value_en": "In cases when the target unit is partially visible behind another unit or terrain piece, they are considered to be an Obscured Target. An Obscured Target is classed as being in Cover.",
-      "value_translated": null,
+      "value_translated": "Dans les cas où l'unité cible est partiellement visible derrière une autre unité ou un élément de terrain, elle est considérée comme une Cible Masquée. Une Cible Masquée est considérée comme étant à Couvert.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -6696,7 +6696,7 @@
     },
     {
       "value_en": "In cases where a unit has sought shelter within terrain, a target unit is considered to be a Concealed Target. A Concealed Target is classed as being in Cover.",
-      "value_translated": null,
+      "value_translated": "Lorsqu’une unité s’abrite dans un élément de terrain, elle est alors considérée comme une Cible Dissimulée. Toute Cible Dissimulée bénéficie automatiquement d’un bonus de Couvert.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -6833,7 +6833,7 @@
     },
     {
       "value_en": "In the rare, marginal cases when you’re not sure whether your target is in cover or not, simply roll a die. On a 4+ it is not, on 3 or less it is.",
-      "value_translated": null,
+      "value_translated": "Dans les rares cas où vous n’êtes pas certain qu’une cible bénéficie d’un couvert ou non, lancez simplement un dé. Sur un résultat de 4+, elle n’en bénéficie pas; sur 3 ou moins, elle en bénéficie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -7155,7 +7155,7 @@
     },
     {
       "value_en": "Intervening units/terrain that are three Height levels smaller than either the firing unit or the target do not provide an Obscured Target. For example, LoS passing over a Height 1 units/terrain to a Height 4 unit would not provide an Obscured Target.",
-      "value_translated": null,
+      "value_translated": "Les unités ou terrains sur le chemin qui ont une Taille inférieure d'au moins trois niveaux par rapport à l'unité tireuse ou à l'unité cible ne bloquent pas la ligne de vue et ne créent pas de Cible Masquée. Par exemple, une ligne de vue passant au-dessus d'un terrain ou d'une unité de Taille 1 vers une unité de Taille 4 ne constitue pas une Cible Masquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -7790,7 +7790,7 @@
     },
     {
       "value_en": "Melee and Shooting",
-      "value_translated": null,
+      "value_translated": "Mêlée et Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7992,7 +7992,7 @@
     },
     {
       "value_en": "Moving and Shooting",
-      "value_translated": null,
+      "value_translated": "Mouvement et Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8302,7 +8302,7 @@
     },
     {
       "value_en": "Not Sure?",
-      "value_translated": null,
+      "value_translated": "Un Doute?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -8334,7 +8334,7 @@
     },
     {
       "value_en": "Note that if a unit suffers damage in the Ranged Phase, and is also Engaged at the end of the same Ranged Phase, it is not required to make a Nerve test for that damage.",
-      "value_translated": null,
+      "value_translated": "Notez que si une unité subit des dégâts durant la phase de tir et est également Engagée à la fin de cette même phase, elle n'est pas obligée de faire un test de Moral pour ces dégâts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -8455,7 +8455,7 @@
     },
     {
       "value_en": "Obscured Target",
-      "value_translated": null,
+      "value_translated": "Cible Masquée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8556,7 +8556,7 @@
     },
     {
       "value_en": "Once a valid target has been selected, roll a number of dice equal to the firing unit’s (or weapon’s) Att stat. Your unit’s dice rolls, with any modifiers that apply, must score a number equal to or higher than its Ra stat value in order to hit its target. Discard any dice that score less than that.",
-      "value_translated": null,
+      "value_translated": "Une fois qu'une cible valide a été choisie, lancez un nombre de dés égal à la valeur Att de l'unité (ou de l'arme). Les jets de dés de votre unité, avec les modificateurs applicables, doivent obtenir un résultat égal ou supérieur à la valeur Tir de l'arme pour toucher la cible. Retirez les dés dont le résultat est inférieur à cette valeur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -8644,7 +8644,7 @@
     },
     {
       "value_en": "Once you have finished moving all of your units, it’s time to make ranged attacks with those that can do so. Only units with a ranged weapon, such as a bow, or other ranged attack, such as a spell, can be chosen to make attacks in the Ranged phase. They are said to be firing, shooting or casting ranged attacks as appropriate.",
-      "value_translated": null,
+      "value_translated": "Une fois que vous avez terminé de déplacer toutes vos unités, il est temps d’effectuer les attaques à distance avec celles qui en sont capables. Seules les unités équipées d’une arme de tir, comme un arc, ou disposant d’une attaque à distance, comme un sort, peuvent être sélectionnées pour attaquer durant la phase de tir. On dit alors qu’elles tirent, font feu ou lancent un sort, selon le cas.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -9369,7 +9369,7 @@
     },
     {
       "value_en": "Pick a target and make sure it’s in range and there is LoS to it.",
-      "value_translated": null,
+      "value_translated": "Choisir une cible et s'assurer qu’elle est à portée et dans la ligne de vue.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -9377,7 +9377,7 @@
     },
     {
       "value_en": "Pick one of your units at a time, choose a target for them and let loose. As noted previously, any unit that did not receive an order in the Movement phase is considered to have had the default Halt order given to it. If a unit has two or more types of ranged attacks (including spells), it can only use one per Turn.",
-      "value_translated": null,
+      "value_translated": "Sélectionnez l’une de vos unités à la fois, choisissez une cible pour celle-ci et ouvrez le feu. Comme mentionné précédemment, toute unité n’ayant pas reçu d’ordre lors de la phase de Mouvement est considérée comme ayant reçu l’ordre par défaut Halte. Si une unité dispose de deux types ou plus d’attaques à distance (y compris les sorts), elle ne pourra en utiliser qu’un seul par tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -9402,7 +9402,7 @@
     },
     {
       "value_en": "Picking a Target",
-      "value_translated": null,
+      "value_translated": "Choisir une Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9800,7 +9800,7 @@
     },
     {
       "value_en": "Ranged Phase",
-      "value_translated": null,
+      "value_translated": "Phase de Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9809,7 +9809,7 @@
     },
     {
       "value_en": "Ranged Weapon",
-      "value_translated": null,
+      "value_translated": "Arme de Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9877,7 +9877,7 @@
     },
     {
       "value_en": "Recording Damage",
-      "value_translated": null,
+      "value_translated": "Enregistrer les Dommages",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9904,7 +9904,7 @@
     },
     {
       "value_en": "Regardless of how many different sources of Cover a target unit may have, the firing unit only ever receives a single -1 to hit Cover modifier.",
-      "value_translated": null,
+      "value_translated": "Peu importe le nombre de sources de Couvert dont dispose une unité cible, l'unité attaquante ne subit qu'un seul malus de -1 pour toucher en raison du Couvert.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -10178,7 +10178,7 @@
     },
     {
       "value_en": "Roll to damage.",
-      "value_translated": null,
+      "value_translated": "Faire un jet pour blesser.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6",
@@ -10187,7 +10187,7 @@
     },
     {
       "value_en": "Roll to hit.",
-      "value_translated": null,
+      "value_translated": "Faire un jet pour Toucher.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6",
@@ -11547,7 +11547,7 @@
     },
     {
       "value_en": "The distance between the unit’s Leader Point and its target is equal to or less than the weapon’s or spell’s range.",
-      "value_translated": null,
+      "value_translated": "La distance entre le Point de Leader de l’unité et sa cible est inférieure ou égale à la portée de l’arme ou du sort.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -11691,7 +11691,7 @@
     },
     {
       "value_en": "The target is at least partially in the unit’s front arc.",
-      "value_translated": null,
+      "value_translated": "La cible se trouve au moins partiellement dans l’arc frontal de l’unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -12139,7 +12139,7 @@
     },
     {
       "value_en": "The unit has LoS to the target.",
-      "value_translated": null,
+      "value_translated": "L’unité a une ligne de vue vers la cible.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -12666,7 +12666,7 @@
     },
     {
       "value_en": "To determine whether the target unit is an Obscured Target, draw LoS from the Leader Point of the firing unit to the facing and arc of the target unit that the firing unit is in (front, rear or either flank). If, when drawing this LoS, at least half of the target units facing is behind intervening units or terrain (including Difficult Terrain the target unit is in contact with), then the target unit is considered an Obscured Target.",
-      "value_translated": null,
+      "value_translated": "Pour déterminer si l'unité cible est une Cible Masquée, tracez la ligne de vue depuis le Point de Leaer de l'unité tireuse vers la face et l'arc de l'unité cible que l'unité tireuse touche (avant, arrière ou l'un des flancs). Si, lors de ce tracé, au moins la moitié de la face de l'unité cible est derrière des unités ou des terrains interposés (y compris les terrains difficiles avec lesquels l'unité cible est en contact), alors l'unité cible est considérée comme une Cible Masquée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -12682,7 +12682,7 @@
     },
     {
       "value_en": "To resolve a unit shooting (or casting) with a ranged attack, a player will:",
-      "value_translated": null,
+      "value_translated": "Pour résoudre un Tir (ou lancer un sort), un joueur doit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -13157,7 +13157,7 @@
     },
     {
       "value_en": "Units that are Engaged with enemies cannot use, or be targeted by, ranged attacks, unless specified otherwise.",
-      "value_translated": null,
+      "value_translated": "Les unités Engagées avec des ennemis ne peuvent ni effectuer ni être la cible d’attaques à distance, sauf indication contraire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -13165,7 +13165,7 @@
     },
     {
       "value_en": "Units that are only Engaged with enemy units that are Yielding do not have to disengage in order to shoot.",
-      "value_translated": null,
+      "value_translated": "Les Unités engagées uniquement avec des unités ennemies qui Cèdent la Place n'ont pas besoin de se désengager pour effectuer un tir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -13173,7 +13173,7 @@
     },
     {
       "value_en": "Units that begin their turn Engaged in combat must first Disengage during their Movement phase if they wish to shoot during their Ranged phase. If a unit is issued a Halt order immediately after Disengaging (including Disengaging that involves a Withdraw move), any normal penalties for movement, including those for Pot Shot or Reload, do not apply. With any other Movement order, any normal movement penalties apply.",
-      "value_translated": null,
+      "value_translated": "Les unités qui commencent leur tour Engagées au combat doivent d’abord se Désengager pendant leur phase de Mouvement si elles souhaitent tirer pendant leur phase de Tir. Si une unité reçoit un ordre de Halte immédiatement après s’être Désengagée (y compris un Désengagement impliquant une Retraite), elle ignore les pénalités de mouvement habituelles, y compris celles des règles Tir à la Volée ou Recharger. Avec tout autre ordre de Mouvement, les pénalités normales de mouvement s’appliquent.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -13181,7 +13181,7 @@
     },
     {
       "value_en": "Units that have received an At the Double order in their previous Movement phase may not make ranged attacks.",
-      "value_translated": null,
+      "value_translated": "Les unités ayant reçu un ordre de Marche Forcée lors de leur précédente phase de Mouvement ne peuvent pas effectuer d’attaques à distance.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -13197,7 +13197,7 @@
     },
     {
       "value_en": "Units that possess a ranged weapon will display it in the special rules section of their unit profile.",
-      "value_translated": null,
+      "value_translated": "Les unités possédant une arme de tir le verront indiqué dans la section des règles spéciales de leur profil d’unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -13937,7 +13937,7 @@
     },
     {
       "value_en": "When targeting an enemy unit that is in Cover, the firing unit receives a -1 to hit modifier to their Ranged Attack. The two most common ways a unit may be in Cover are explained below, but a unit could also be granted Cover from other sources (e.g., a special rule or spell).",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une unité ennemie à Couvert est ciblée, l'unité attaquante subit un malus de -1 pour toucher lors de son attaque à distance. Les deux situations les plus courantes pour une unité d'être à Couvert sont expliquées ci-dessous, mais une unité peut également bénéficier d'un Couvert par d'autres moyens (par exemple, une règle spéciale ou un sort).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -14574,7 +14574,7 @@
     },
     {
       "value_en": "a. Moving and Shooting",
-      "value_translated": null,
+      "value_translated": "a. Mouvement et Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -14755,7 +14755,7 @@
     },
     {
       "value_en": "b. Melee and Shooting",
-      "value_translated": null,
+      "value_translated": "b. Mêlée et Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -14900,7 +14900,7 @@
     },
     {
       "value_en": "c. Damaging the Target",
-      "value_translated": null,
+      "value_translated": "c. Blesser la Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -14916,7 +14916,7 @@
     },
     {
       "value_en": "c. Engaged Units and Shooting",
-      "value_translated": null,
+      "value_translated": "c. Unités Engagées et Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15084,7 +15084,7 @@
     },
     {
       "value_en": "d. Ranged Weapon",
-      "value_translated": null,
+      "value_translated": "d. Arme de Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15211,7 +15211,7 @@
     },
     {
       "value_en": "e. Picking a Target",
-      "value_translated": null,
+      "value_translated": "e. Choisir une Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15381,7 +15381,7 @@
     },
     {
       "value_en": "g. Damaging the Target",
-      "value_translated": null,
+      "value_translated": "g. Blesser la Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15527,7 +15527,7 @@
     },
     {
       "value_en": "i. Cover",
-      "value_translated": null,
+      "value_translated": "i. Couvert",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15592,7 +15592,7 @@
     },
     {
       "value_en": "i. Obscured Target",
-      "value_translated": null,
+      "value_translated": "i. Cible Masquée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15608,7 +15608,7 @@
     },
     {
       "value_en": "i. Ranged Phase",
-      "value_translated": null,
+      "value_translated": "i. Phase de Tir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15616,7 +15616,7 @@
     },
     {
       "value_en": "i. Recording Damage",
-      "value_translated": null,
+      "value_translated": "i. Enregistrer les Dommages",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6",
@@ -15733,7 +15733,7 @@
     },
     {
       "value_en": "ii. Concealed Target",
-      "value_translated": null,
+      "value_translated": "ii. Cible Dissimulée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
