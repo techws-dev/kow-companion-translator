@@ -5695,7 +5695,7 @@
     },
     {
       "value_en": "Height (Ht)",
-      "value_translated": "Taille (Ht)",
+      "value_translated": "Taille (T)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -8052,7 +8052,7 @@
     },
     {
       "value_en": "Nerve (Ne)",
-      "value_translated": "Moral (Ne)",
+      "value_translated": "Moral (Mo)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -9767,7 +9767,7 @@
     },
     {
       "value_en": "Ranged (Ra)",
-      "value_translated": "Tir (Ra)",
+      "value_translated": "Tir (Tir)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -10788,7 +10788,7 @@
     },
     {
       "value_en": "Speed (Sp)",
-      "value_translated": "Vitesse (Sp)",
+      "value_translated": "Vitesse (Vit)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
@@ -13068,7 +13068,7 @@
     },
     {
       "value_en": "Unit Strength (US)",
-      "value_translated": "Puissance d'Unité (US)",
+      "value_translated": "Puissance d'Unité (PU)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=2"
