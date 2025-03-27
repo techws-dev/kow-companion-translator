@@ -2509,7 +2509,7 @@
     },
     {
       "value_en": "Any die that naturally rolls a 1 is always a miss, regardless of modifiers. However, if modifiers to the roll mean that the unit would need more than a 6 to hit, it may only roll a number of dice equal to half its Attacks (rounding down) and will only score hits on a 6.",
-      "value_translated": null,
+      "value_translated": "Tout résultat de 1 sur le dé est toujours un échec, quel que soit les modificateurs. Cependant, si les modificateurs font qu'il faudrait un score supérieur à 6 pour toucher, l’unité ne pourra lancer qu’un nombre de dés égal à la moitié de ses Attaques (arrondi à l'inférieur) et ne touchera que sur un 6.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -2675,7 +2675,7 @@
     },
     {
       "value_en": "At the end of each combat, if your Charging or Counter Charging unit(s) managed to Rout the Enemy unit, it can do one of the following:",
-      "value_translated": null,
+      "value_translated": "À la fin de chaque combat, si vos unités ayant Chargé ou Contre-Chargé ont réussi à mettre l'unité ennemie en Déroute, elles peuvent choisir l'une des options suivantes:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -2683,7 +2683,7 @@
     },
     {
       "value_en": "At the end of each combat, if your attacking unit(s) have managed to score at least one point of damage on the target, test the target’s Nerve. This test will determine whether the damaged units are Steady, Wavered or Routed. Note this is different to the Ranged phase, where you test enemy Nerve at the end of that phase.",
-      "value_translated": null,
+      "value_translated": "À la fin de chaque combat, si vos unités attaquantes ont réussi à infliger au moins un point de dommage à la cible, testez le Moral de la cible. Ce test déterminera si les unités endommagées sont Stables, Ébranlées ou en Déroute. Notez que cela diffère de la phase de Tir, où vous testez le Moral de l'ennemi à la fin de cette phase.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -2803,7 +2803,7 @@
     },
     {
       "value_en": "At this stage, there may be a number of units that were charged or counter charged. We refer to these as combats. The player whose Turn it is picks one of these combats and resolves it completely before moving to the next, and so on until all combats have been resolved.",
-      "value_translated": null,
+      "value_translated": "À ce stade, il peut y avoir plusieurs unités qui ont été chargées ou contre-chargées. Nous appelons cela des combats. Le joueur dont c'est le tour choisit l'un de ces combats et le résout entièrement avant de passer au suivant, et ainsi de suite jusqu'à ce que tous les combats aient été résolus.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -4241,7 +4241,7 @@
     },
     {
       "value_en": "Disordered",
-      "value_translated": null,
+      "value_translated": "Désorganisation",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4250,7 +4250,7 @@
     },
     {
       "value_en": "Disordered Flying Units",
-      "value_translated": null,
+      "value_translated": "Unités Volantes Désorganisées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -4258,7 +4258,7 @@
     },
     {
       "value_en": "Disordered units cannot use any form of ranged attack (including spells). This is because they have been disrupted by the melee or are busy fighting back in close quarters.",
-      "value_translated": null,
+      "value_translated": "Les unités Désorganisées ne peuvent utiliser aucune forme d'attaque à distance (y compris les sorts). Cela est dû au fait qu'elles ont été perturbées par le combat rapproché ou qu'elles sont occupées à riposter au corps à corps.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -4266,7 +4266,7 @@
     },
     {
       "value_en": "Disordered units lose all Thunderous Charge bonuses during Melee combat until no longer Disordered.",
-      "value_translated": null,
+      "value_translated": "Les unités Désorganisées perdent tous les bonus de Charge Fracassante lors du combat de Mêlée tant qu'elles restent Désorganisées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -4274,7 +4274,7 @@
     },
     {
       "value_en": "Disordered units treat Yielding units as Blocking instead.",
-      "value_translated": null,
+      "value_translated": "Les Unités Désorganisées ne Cèdent plus la Place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -4282,7 +4282,7 @@
     },
     {
       "value_en": "Disordered units with the Fly special rule lose the use of the Fly special rule whilst Disordered. If the unit is also Nimble, they lose the use of the Nimble special rule whilst Disordered.",
-      "value_translated": null,
+      "value_translated": "Les unités Désorganisées possédant la règle spéciale Vol perdent l’utilisation de cette règle tant qu’elles sont Désorganisées. Si l’unité possède également la règle spéciale Agile, elle perd l’utilisation de cette règle tant qu’elle est Désorganisée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -5835,7 +5835,7 @@
     },
     {
       "value_en": "Hitting the Target",
-      "value_translated": null,
+      "value_translated": "Atteindre la Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -6232,7 +6232,7 @@
     },
     {
       "value_en": "If more than one unit is attacking the same target, resolve steps 1 and 2 for each unit in the order chosen by the attacking player before moving on to step 3. Regardless of the number of attacking units, the target’s nerve is only tested once in a given combat.",
-      "value_translated": null,
+      "value_translated": "Si plusieurs unités attaquent la même cible, résolvez les étapes 1 et 2 pour chaque unité dans l'ordre choisi par le joueur attaquant avant de passer à l'étape 3. Quelle que soit le nombre d'unités attaquantes, le Moral de la cible est testée une seule fois durant un combat donné.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -6512,7 +6512,7 @@
     },
     {
       "value_en": "If your unit is attacking an enemy to its flank, it doubles its Attacks. If your unit is attacking an enemy to its rear, it triples its Attacks.",
-      "value_translated": null,
+      "value_translated": "Si votre unité attaque un ennemi sur son flanc, elle double ses Attaques. Si votre unité attaque un ennemi sur l'arrière, elle triple ses Attaques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -6536,7 +6536,7 @@
     },
     {
       "value_en": "If, on the other hand, your unit(s) failed to Rout the Enemy unit, it remains Engaged. Engaged units remain in base contact with one another and do not move.",
-      "value_translated": null,
+      "value_translated": "En revanche, si votre unité n'a pas réussi à mettre l'unité ennemie en Déroute, elle reste Engagée. Les unités Engagées restent en contact l'une avec l'autre et ne se déplacent pas.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -6544,7 +6544,7 @@
     },
     {
       "value_en": "Ignores Concealed",
-      "value_translated": "Suppression du couvert",
+      "value_translated": "Suppression Dissimulé",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6552,7 +6552,7 @@
     },
     {
       "value_en": "Ignores Obscured",
-      "value_translated": "Suppression du couvert partiel",
+      "value_translated": "Suppression Masqué",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -7932,7 +7932,7 @@
     },
     {
       "value_en": "Move directly backward D3” (as above).",
-      "value_translated": null,
+      "value_translated": "Se déplacer en arrière de D3” (comme ci-dessus).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -7940,7 +7940,7 @@
     },
     {
       "value_en": "Move directly forward D6”. The unit must move the full distance rolled. This move is not affected by Diffcult Terrain or Obstacles.",
-      "value_translated": null,
+      "value_translated": "Se déplacer directement en avant de D6”. L'unité doit parcourir toute la distance obtenue sur le dé. Ce mouvement n'est pas affecté par le Terrain Difficile ou les Obstacles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -7948,7 +7948,7 @@
     },
     {
       "value_en": "Move directly sideways either left or right D3” (as above).",
-      "value_translated": null,
+      "value_translated": "Se déplacer latéralement, soit à gauche, soit à droite, de D3” (comme ci-dessus).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -8237,7 +8237,7 @@
     },
     {
       "value_en": "No Ranged Attacks",
-      "value_translated": null,
+      "value_translated": "Pas d'Attaques à Distance",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -8245,7 +8245,7 @@
     },
     {
       "value_en": "No Thunderous Charge",
-      "value_translated": null,
+      "value_translated": "Pas de Charge Fracassante",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -8253,7 +8253,7 @@
     },
     {
       "value_en": "No Yielding",
-      "value_translated": null,
+      "value_translated": "Ne Cède plus la Place",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -8636,7 +8636,7 @@
     },
     {
       "value_en": "Once you have finished any Ranged attacks with your units and made any Nerve tests for the enemy, it’s time for your warriors to strike against the enemies that they Charged, or Counter Charged, in your Movement phase. We imagine that in your Turn the impetus of the Charge means that your warriors will be doing most of the hacking and slashing, while the enemy mostly defend themselves.",
-      "value_translated": null,
+      "value_translated": "Une fois que vous avez terminé les attaques à distance avec vos unités et effectué les tests de Moral pour l'ennemi, il est temps pour vos guerriers de frapper les ennemis qu'ils ont Chargés ou Contre-Chargés lors de votre phase de Mouvement. Nous imaginons que, durant votre tour, l'élan de la Charge signifie que ce sont principalement vos guerriers qui s'occuperont des coups d'épée et des taillades, tandis que l'ennemi se défendra principalement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -10746,7 +10746,7 @@
     },
     {
       "value_en": "Sometimes, units will receive a variable number of extra attacks from special rules or attack profiles. In these cases, roll for the number of Attacks every time you resolve a Melee with the unit.",
-      "value_translated": null,
+      "value_translated": "Parfois, des unités reçoivent un nombre variable d'attaques supplémentaires en raison de règles spéciales ou de profils d'attaque. Dans ce cas, lancez les dés pour déterminer le nombre d'Attaques chaque fois que vous résolvez un combat en Mêlée avec l’unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -10903,7 +10903,7 @@
     },
     {
       "value_en": "Stay where it is and pivot around its centre to face any direction (as per a Change Facing order).",
-      "value_translated": null,
+      "value_translated": "Rester sur place et pivoter autour de son centre pour faire face à n'importe quelle direction (comme pour un ordre Changer de Direction).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -10993,7 +10993,7 @@
     },
     {
       "value_en": "Striking",
-      "value_translated": null,
+      "value_translated": "Attaquer",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11076,7 +11076,7 @@
     },
     {
       "value_en": "Target Routed – Chargers Regroup",
-      "value_translated": null,
+      "value_translated": "Cible en Déroute – Les chargeurs se Regroupent",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11085,7 +11085,7 @@
     },
     {
       "value_en": "Target Steady or Wavering – Remain Engaged",
-      "value_translated": null,
+      "value_translated": "Cible Stable ou Ébranlée – Restez Engagés",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11179,7 +11179,7 @@
     },
     {
       "value_en": "Test the enemy unit’s Nerve.",
-      "value_translated": null,
+      "value_translated": "Tester le Moral de l'unité ennemie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -12446,7 +12446,7 @@
     },
     {
       "value_en": "This process is exactly the same as described for Ranged attacks.",
-      "value_translated": null,
+      "value_translated": "La procédure est exactement la même que celle décrite pour les attaques à distance.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -12454,7 +12454,7 @@
     },
     {
       "value_en": "This process is exactly the same as described for ranged attacks, except that it uses the unit’s Me stat rather than Ra and the modifiers below rather than the ones for Ranged attacks.",
-      "value_translated": null,
+      "value_translated": "La procédure est exactement la même que celle décrite pour les attaques à distance, excepté que l'on utilise la statistique de Mêlée (Me) de l'unité plutôt que le Tir, et que les modificateurs sont ceux décrits en dessous à la place de ceux des attaques à distance.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -12658,7 +12658,7 @@
     },
     {
       "value_en": "To attack the unit you charged, roll a number of dice equal to the charging unit’s Att stat.",
-      "value_translated": null,
+      "value_translated": "Pour attaquer l'unité que vous avez chargée, lancez un nombre de dés égal à la statistique Att de l'unité qui a chargé.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -12690,7 +12690,7 @@
     },
     {
       "value_en": "To resolve each Melee combat a player will:",
-      "value_translated": null,
+      "value_translated": "Pour résoudre chaque combat de Mêlée, un joueur doit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -13189,7 +13189,7 @@
     },
     {
       "value_en": "Units that have suffered at least one point of damage in the melee phase are Disordered – mark them with an appropriate counter.",
-      "value_translated": null,
+      "value_translated": "Les unités ayant subi au moins un point de dommage lors de la phase de mêlée sont Désorganisées – marquez-les avec un jeton approprié.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -13213,7 +13213,7 @@
     },
     {
       "value_en": "Units will remain Disordered until the end of their following Turn, when the Disordered counter is removed.",
-      "value_translated": null,
+      "value_translated": "Les unités restent Désorganisées jusqu'à la fin de leur prochain tour, moment où le jeton Désorganisé sera retiré.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -13817,7 +13817,7 @@
     },
     {
       "value_en": "When attacking in the flank or rear of a unit, calculate the total number of attacks gained from any spells, special rules or variable attacks first, and then double/ triple the total number of attacks as appropriate.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une unité attaque sur le flanc ou à l'arrière d'une unité, calculez d'abord le nombre total d'attaques obtenues grâce aux sorts, règles spéciales ou attaques variables, puis doublez ou triplez ce total en fonction de la situation.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -14606,7 +14606,7 @@
     },
     {
       "value_en": "a. Striking",
-      "value_translated": null,
+      "value_translated": "a. Attaquer",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -14731,7 +14731,7 @@
     },
     {
       "value_en": "b. Hitting the Target",
-      "value_translated": null,
+      "value_translated": "b. Atteindre la Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -15146,7 +15146,7 @@
     },
     {
       "value_en": "e. After Combat",
-      "value_translated": null,
+      "value_translated": "e. Après le Combat",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -15279,7 +15279,7 @@
     },
     {
       "value_en": "f. Disordered",
-      "value_translated": null,
+      "value_translated": "f. Désorganisation",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -15328,7 +15328,7 @@
     },
     {
       "value_en": "f. Shooting & Hitting the Target",
-      "value_translated": null,
+      "value_translated": "f. Tirer et Atteindre la Cible",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6"
@@ -15487,7 +15487,7 @@
     },
     {
       "value_en": "i. Additional Attacks",
-      "value_translated": null,
+      "value_translated": "i. Attaques Supplémentaires",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -15575,7 +15575,7 @@
     },
     {
       "value_en": "i. Modifiers",
-      "value_translated": null,
+      "value_translated": "i. Modificateurs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=6",
@@ -15649,7 +15649,7 @@
     },
     {
       "value_en": "i. Target Routed – Chargers Regroup",
-      "value_translated": null,
+      "value_translated": "i. Cible en Déroute – Les chargeurs se Regroupent",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
@@ -15805,7 +15805,7 @@
     },
     {
       "value_en": "ii. Target Steady or Wavering – Remain Engaged",
-      "value_translated": null,
+      "value_translated": "ii. Cible Stable ou Ébranlée – Restez Engagés",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=7"
