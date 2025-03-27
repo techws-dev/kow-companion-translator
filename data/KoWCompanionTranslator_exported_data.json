@@ -2587,7 +2587,7 @@
     },
     {
       "value_en": "As a unit accumulates damage, it will become more and more likely to lose cohesion, stamina or even willpower, until eventually it will turn tail and run from the field, never to return.",
-      "value_translated": null,
+      "value_translated": "Au fur et à mesure qu'une unité accumule des dégâts, elle deviendra de plus en plus susceptible de perdre sa cohésion, son endurance ou même sa volonté, jusqu'à ce qu'elle finisse par tourner les talons et fuir du champ de bataille, pour ne jamais revenir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -4019,7 +4019,7 @@
     },
     {
       "value_en": "Devastated",
-      "value_translated": null,
+      "value_translated": "Dévastation",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4314,7 +4314,7 @@
     },
     {
       "value_en": "Double One – Hold Your Ground!",
-      "value_translated": null,
+      "value_translated": "Double Un – Tenez bon!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -4322,7 +4322,7 @@
     },
     {
       "value_en": "Double Six – We Are Doomed!",
-      "value_translated": null,
+      "value_translated": "Double Six – C'est la fin!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -4613,7 +4613,7 @@
     },
     {
       "value_en": "Each unit has two numbers under its Ne stat. The first number is the unit’s Wavering limit, the second number is its Routing limit.",
-      "value_translated": null,
+      "value_translated": "Chaque unité possède deux chiffres sous sa statistique de Moral (Mo). Le premier chiffre représente la limite de l'unité pour être Ébranlée, et le second chiffre correspond à sa limite pour la mise en Déroute.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -4921,7 +4921,7 @@
     },
     {
       "value_en": "Exceptional Morale Results",
-      "value_translated": null,
+      "value_translated": "Résultats de Moral Exceptionnels",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5935,7 +5935,7 @@
     },
     {
       "value_en": "How to Test",
-      "value_translated": null,
+      "value_translated": "Effectuer un Test",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -6352,7 +6352,7 @@
     },
     {
       "value_en": "If the total is equal to or higher than the unit’s Routing limit, the unit suffers a Rout result (see below).",
-      "value_translated": null,
+      "value_translated": "Si le total est égal ou supérieur à la limite de Déroute de l'unité, celle-ci subit un résultat de Déroute (voir ci-dessous).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -6360,7 +6360,7 @@
     },
     {
       "value_en": "If the total is lower than the Routing limit, but equal to or higher than the Wavering limit, the unit suffers a Wavering result (see below).",
-      "value_translated": null,
+      "value_translated": "Si le total est inférieur à la limite de Déroute, mais égal ou supérieur à la limite d'Ebranlement, l'unité est Ebranlée (voir ci-dessous).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -6368,7 +6368,7 @@
     },
     {
       "value_en": "If the total is lower than the unit’s Wavering limit, then the unit is said to be Steady, which means it is completely unaffected and continues to fight on as normal.",
-      "value_translated": null,
+      "value_translated": "Si le total est inférieur à la limite d'Ebranlement de l'unité, celle-ci est considérée comme Stable, ce qui signifie qu'elle n'est pas affectée et continue à se battre normalement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -6488,7 +6488,7 @@
     },
     {
       "value_en": "If you roll double six when testing Nerve and the enemy unit is not Routed, it will still suffer from a result of Wavering, as insidious news of defeat starts to spread through the ranks.",
-      "value_translated": null,
+      "value_translated": "Si vous obtenez un double six lors du test de Moral et que l’unité ennemie n’est pas en Déroute, elle sera tout de même Ébranlée, car la nouvelle insidieuse de la défaite commence à se répandre parmi ses rangs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -6496,7 +6496,7 @@
     },
     {
       "value_en": "If you roll snake eyes (double one) when testing Nerve, the enemy unit is filled with implacable resolve and will always be Steady and fight on, regardless of any modifier. Note, if the Enemy unit has suffered enough damage, this may still result in it being Devastated.",
-      "value_translated": null,
+      "value_translated": "Si vous obtenez un double un (snake eyes) lors du test de Moral, l’unité ennemie est remplie d’une détermination implacable et sera toujours Stable, continuant à se battre, quel que soit le modificateur. Notez que si l’unité ennemie a subi suffisamment de dégâts, cela peut tout de même la conduire à être Dévastée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -6801,7 +6801,7 @@
     },
     {
       "value_en": "In the Melee phase, however, a Nerve test is made for any enemy unit that suffered damage in the phase at the end of each combat, before moving on to the next. In a combat where more than two units are attacking, resolve all of the attacks and damage first from all the attacking units, and then make the Nerve test.",
-      "value_translated": null,
+      "value_translated": "Cependant, pendant la phase de Mêlée, un test de Moral est effectué pour chaque unité ennemie ayant subi des dégâts dans la phase, à la fin de chaque combat, avant de passer au suivant. Dans un combat où plus de deux unités attaquent, résolvez d'abord toutes les attaques et les dégâts de toutes les unités attaquantes, puis effectuez le test de Moral.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -8044,7 +8044,7 @@
     },
     {
       "value_en": "Nerve",
-      "value_translated": null,
+      "value_translated": "Moral",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -8342,7 +8342,7 @@
     },
     {
       "value_en": "Note that if one of your own units receives damage during your own Turn, a Nerve test is not required.",
-      "value_translated": null,
+      "value_translated": "Notez que si l'une de vos unités subit des dégâts pendant votre propre tour, un test de Moral n'est pas requis.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -10705,7 +10705,7 @@
     },
     {
       "value_en": "Some units in the game have a value of “-” for their Wavering limit. For example, it could be -/14. These units are normally composed of fanatical, frenzied warriors or mindless supernatural creatures – in any case, they cannot Waver, and will therefore remain Steady until they eventually Rout. Of course a Rout result for such troops represents them being utterly annihilated, or collapsing as their magical life force abandons them.",
-      "value_translated": null,
+      "value_translated": "Certaines unités dans le jeu ont une valeur de « - » pour leur limite d'Ebranlement. Par exemple, cela pourrait être -/14. Ces unités sont généralement composées de guerriers fanatiques et frénétiques ou de créatures surnaturelles dépourvues de conscience – dans tous les cas, elles ne peuvent pas être Ébranlées et resteront donc Stables jusqu'à ce qu'elles finissent en Déroute. Bien entendu, un résultat de Déroute pour de telles troupes représente leur anéantissement total ou leur effondrement lorsque leur force vitale magique les abandonne.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -10919,7 +10919,7 @@
     },
     {
       "value_en": "Steady",
-      "value_translated": null,
+      "value_translated": "Stable",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11835,7 +11835,7 @@
     },
     {
       "value_en": "The unit continues to fight normally and does not suffer any negative effects. Remember, however, that units capable of ranged attacks that have been Disordered will not be able to use their ranged attacks in their next Turn.",
-      "value_translated": null,
+      "value_translated": "L'unité continue à se battre normalement et ne subit aucun effet négatif. N'oubliez pas, cependant, que les unités capables d'attaques à distance qui ont été Désorganisées ne pourront pas utiliser leurs attaques à distance lors de leur prochain tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -11843,7 +11843,7 @@
     },
     {
       "value_en": "The unit does not Rout, but it is severely shaken during its next Turn. Place a suitable counter by the unit as a reminder. In its next Movement phase, it can only be given one of the following orders: Halt, Change Facing or Back. In addition, the unit is Disordered (so it will not be able to use its ranged attacks in its next Ranged phase). The unit will remain Wavering until the end of its following turn, when the Wavering counter is removed.",
-      "value_translated": null,
+      "value_translated": "L'unité n'est pas en Déroute, mais elle sera gravement secouée pendant son prochain tour. Placez un jeton approprié à côté de l'unité en guise de rappel. Lors de sa prochaine phase de Mouvement, elle ne pourra recevoir qu'un des ordres suivants : Halte, Changement de Direction ou En Arrière. De plus, l'unité est Désorganisée (ce qui signifie qu'elle ne pourra pas utiliser ses attaques à distance lors de sa prochaine phase de Tir). L'unité restera Ébranlée jusqu'à la fin de son tour suivant, moment où le jeton d'Ébranlement sera retiré.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -12171,7 +12171,7 @@
     },
     {
       "value_en": "The unit is no longer capable of participating in the battle and any few remaining survivors (if any!) have routed. Remove the unit from the table. It can take no further part in this game and is considered destroyed.",
-      "value_translated": null,
+      "value_translated": "L'unité n'est plus capable de participer à la bataille et les rares survivants restants (s'il y en a !) ont pris la fuite. Retirez l'unité du terrain. Elle ne pourra plus prendre part à cette partie et est considérée comme détruite.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -12722,7 +12722,7 @@
     },
     {
       "value_en": "To test the Nerve of an Enemy unit, roll 2D6 and add any damage currently on the unit to the score, plus any other modifiers that apply (such as those granted by some special rules). The final total is then compared to the Ne stat values of the Enemy unit.",
-      "value_translated": null,
+      "value_translated": "Pour tester le Moral d'une unité ennemie, lancez 2D6 et ajoutez les dégâts actuellement subis par l'unité, ainsi que tous les autres modificateurs qui s'appliquent (comme ceux octroyés par certaines règles spéciales). Le total final est ensuite comparé aux valeurs de la statistique de Moral (Mo) de l'unité ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -13617,7 +13617,7 @@
     },
     {
       "value_en": "Wavering",
-      "value_translated": null,
+      "value_translated": "Ebranlement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13985,7 +13985,7 @@
     },
     {
       "value_en": "When to Test",
-      "value_translated": null,
+      "value_translated": "Quand effectuer un Test",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -14155,7 +14155,7 @@
     },
     {
       "value_en": "While the amount of damage on a unit exceeds its current Routing limit (taking into account any modifiers, such as Rallying or Dread) and the unit has not suffered a Rout result, the unit is said to be Devastated. Devastated units halve their Attacks, Unit Strength and spell (n) stat values, rounding down. Mark the unit with an appropriate token. For example, if a unit that normally had an Att stat of 12 was Devastated, it would continue to play using an Att stat of 6 instead",
-      "value_translated": null,
+      "value_translated": "Quand la quantité de dégâts subis par une unité dépasse sa limite de Déroute actuelle (en tenant compte de tous les modificateurs, comme les effets de Ralliement ou de Terreur), et que l'unité n'a pas subi un résultat de Déroute, l'unité est considérée comme Dévastée. Les unités Dévastées divisent par deux leurs Attaques, leur Puissance d'Unité et leurs valeurs de sorts (n), en arrondissant à l'inférieur. Marquez l'unité avec un jeton approprié. Par exemple, si une unité qui avait normalement une statistique d'Att de 12 est Dévastée, elle continuera à jouer avec une statistique d'Att de 6.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -14655,7 +14655,7 @@
     },
     {
       "value_en": "a. When to Test",
-      "value_translated": null,
+      "value_translated": "a. Quand effectuer un Test",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -14739,7 +14739,7 @@
     },
     {
       "value_en": "b. How to Test",
-      "value_translated": null,
+      "value_translated": "b. Effectuer un Test",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -15641,7 +15641,7 @@
     },
     {
       "value_en": "i. Steady",
-      "value_translated": null,
+      "value_translated": "i. Stable",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -15821,7 +15821,7 @@
     },
     {
       "value_en": "ii. Wavering",
-      "value_translated": null,
+      "value_translated": "ii. Ebranlement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -15947,7 +15947,7 @@
     },
     {
       "value_en": "iv. Devastated",
-      "value_translated": null,
+      "value_translated": "iv. Dévastation",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
@@ -16273,7 +16273,7 @@
     },
     {
       "value_en": "v. Exceptional Morale Results",
-      "value_translated": null,
+      "value_translated": "v. Résultats de Moral Exceptionnels",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=8"
