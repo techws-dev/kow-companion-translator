@@ -2347,7 +2347,7 @@
     },
     {
       "value_en": "Alliances between races that are hated enemies in the Kings of War background are not very ‘realistic’, so we have given a specific Alignment to each army – either Good, Evil or Neutral. Good races should never ally with Evil races, but anybody can ally with Neutral races. So please don’t mix Evil and Good units in the same army, unless your opponent agrees, of course. You can also join forces with your friends and play with several allied armies on either or both sides, as long as the points values are balanced.",
-      "value_translated": null,
+      "value_translated": "Les alliances entre peuples qui sont des ennemis jurés dans l'univers de Kings of War ne sont pas très 'réalistes', c'est pourquoi chaque armée possède un Alignement spécifique : Bon, Mauvais ou Neutre. Les peuples Bons ne doivent jamais s'allier avec des peuples Mauvais, mais n'importe quelle armée peut s'associer avec des peuples Neutres. Par conséquent, évitez de mélanger des alignements Bon et Mauvais dans la même armée, sauf si votre adversaire y consent bien sûr. Vous pouvez aussi vous unir à vos amis pour jouer avec plusieurs armées alliées des deux côtés, tant que les valeurs en points sont équilibrées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -2355,7 +2355,7 @@
     },
     {
       "value_en": "Allied Core units are those you chose from your allied army list (if you have one).",
-      "value_translated": null,
+      "value_translated": "Les unités de base alliées sont celles que vous avez choisies dans votre liste d'armée alliée (si vous en avez une).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -2363,7 +2363,7 @@
     },
     {
       "value_en": "Allied units may never take unique or limited upgrades.",
-      "value_translated": null,
+      "value_translated": "Les unités alliées ne peuvent jamais prendre d'améliorations uniques ou limitées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -2379,7 +2379,7 @@
     },
     {
       "value_en": "Allies and Alignments",
-      "value_translated": null,
+      "value_translated": "Alliés et Alignements",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2396,7 +2396,7 @@
     },
     {
       "value_en": "Allies are not recommended for competitive play, and using allies may not necessarily provide balanced games. Players must agree in advance whether the Allies rules will be used, and event organisers should clearly state in their tournament packs if the rules will be used during their event.",
-      "value_translated": null,
+      "value_translated": "Les alliés ne sont pas recommandés pour le jeu compétitif, et leur utilisation ne garantit pas nécessairement des parties équilibrées. Les joueurs doivent s’entendre à l’avance sur l’utilisation des règles d'alliés, et les organisateurs d’événements doivent clairement indiquer dans leur règlement de tournoi si ces règles seront appliquées pendant l'événement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -2404,7 +2404,7 @@
     },
     {
       "value_en": "Allies may never take unique spells and may not be given magical artefacts.",
-      "value_translated": null,
+      "value_translated": "Les alliés ne peuvent jamais prendre de sorts uniques et ne peuvent pas recevoir d'artefacts magiques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -2635,7 +2635,7 @@
     },
     {
       "value_en": "As you pick units and include them in your army, keep adding their cost, including any upgrade options you select for them, or extras like magical artefacts, until you have reached the total you agreed upon. You can of course spend less than the agreed total, but you cannot spend even a single point more. However, an army is still considered to be the size of the maximum total the players agreed on (e.g. an army that comes to 1995 points would still be considered a 2000 point army).",
-      "value_translated": null,
+      "value_translated": "Au fur et à mesure que vous sélectionnez des unités pour votre armée, additionnez leur coût, en incluant les options d’amélioration choisies ainsi que tout ajout comme des artefacts magiques, jusqu’à atteindre le total convenu. Vous pouvez bien sûr dépenser moins que la limite fixée, mais vous ne pouvez pas la dépasser ne serait-ce que d’un seul point. Cependant, l’armée est toujours considérée comme ayant la taille du total maximum convenu entre les joueurs (par exemple, une armée totalisant 1995 points sera tout de même considérée comme une armée à 2000 points).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -2811,7 +2811,7 @@
     },
     {
       "value_en": "At times these upgrades have variable costs based on unit size (i.e. Troop/Regiment/Horde options).",
-      "value_translated": null,
+      "value_translated": "Parfois, ces améliorations ont des coûts variables en fonction du format de l'unité (c'est-à-dire les formats Troupe/Régiment/Horde).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -3670,7 +3670,7 @@
     },
     {
       "value_en": "Core and Allied Units",
-      "value_translated": null,
+      "value_translated": "Unités de Base et Alliées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4484,7 +4484,7 @@
     },
     {
       "value_en": "Each Formation is unique and so may not be taken more than once in an army.",
-      "value_translated": null,
+      "value_translated": "Chaque Formation est unique et ne peut donc être incluse qu'une seule fois dans une armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -4540,7 +4540,7 @@
     },
     {
       "value_en": "Each Theme List will be a variation of a specific Master List that is found in this book or in future supplements. The Theme List will draw many of its units from the original Master List, while also granting access to new special rules and units unique to the Theme List itself, allowing players to control rarer factions or specific local powers scattered throughout Pannithor. So, for instance, while the Elf list in this book allows players to broadly feild elves of all types, the Sylvan Kin Theme List that will be included in a future publication will allow players to feild the more enigmatic and fey elves found in ancient forests, like Galahir.",
-      "value_translated": null,
+      "value_translated": "Chaque Liste Thématique est une déclinaison d’une Liste Principale existante, que l’on trouve dans ce livre ou dans de futurs suppléments. Elle reprend une grande partie des unités de la Liste Principale correspondante, tout en introduisant de nouvelles règles spéciales et unités propres à la thématique choisie. Cela permet aux joueurs d’incarner des factions plus rares ou des puissances locales disséminées à travers Pannithor. Par exemple, la liste des Elfes présentée dans ce livre permet de jouer une large gamme d’elfes, tandis que la Liste Thématique de la Lignée Sylvestre, qui apparaîtra dans une future publication, offrira la possibilité de commander des elfes plus mystérieux et féériques vivant dans les forêts ancestrales, comme celles de Galahir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -4548,7 +4548,7 @@
     },
     {
       "value_en": "Each Theme List will indicate its parent Master List. It will then list a series of units from the Master List that may be taken as part of the Theme List in the army building process. Not all units from the Master List will be available to Theme Lists, however. Finally, any new units and rules unique to the Theme List will be presented as full unit entries. All the units from the Master List available to a given Theme List, and the new units unique to that Theme List, when taken together, comprise the Primary Core units for the army.",
-      "value_translated": null,
+      "value_translated": "Chaque Liste Thématique indiquera sa Liste Principale d’origine. Elle précisera ensuite quelles unités de cette Liste Principale peuvent être incluses dans la construction d’armée de la Liste Thématique. Toutefois, toutes les unités de la Liste Principale ne seront pas forcément disponibles. Enfin, les nouvelles unités et règles spécifiques à la Liste Thématique seront présentées sous forme d’entrées complètes. L’ensemble des unités issues de la Liste Principale et accessibles à une Liste Thématique, ainsi que les nouvelles unités propres à cette dernière, constitueront les unités de base principales de l’armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -4572,7 +4572,7 @@
     },
     {
       "value_en": "Each additional 1000 points",
-      "value_translated": null,
+      "value_translated": "Par tranche de 1000 points supplémentaire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -4905,7 +4905,7 @@
     },
     {
       "value_en": "Example: if you chose to play an Ogre army with Orc allies, your Primary Core units will be the ones selected from the Ogre Army List, and your Allied Core units will be the ones selected from the Orcs Army List.",
-      "value_translated": null,
+      "value_translated": "Exemple : si vous choisissez de jouer une armée d'Ogres avec des alliés Orcs, vos unités de base principales seront celles sélectionnées dans la liste d'armée des Ogres, et vos unités de base alliées seront celles sélectionnées dans la liste d'armée des Orcs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5029,7 +5029,7 @@
     },
     {
       "value_en": "First, agree with your opponent how many points you will each have to spend on your armies. For example, you may agree that you both have 1500 or 2000 points to spend. Then, select your Core units (Friendly units from the same Army List) from a single Army List of your choice. Thus if you want to play with a Dwarf army, you would start selecting units only from the Dwarf Army List.",
-      "value_translated": null,
+      "value_translated": "Commencez par vous mettre d’accord avec votre adversaire sur le nombre de points dont vous disposerez pour vos armées. Par exemple, vous pouvez convenir d’un total de 1500 ou 2000 points. Ensuite, sélectionnez vos unités de Base (unités Alliées issues de la même Liste d’Armée) à partir d’une seule Liste d’Armée de votre choix. Ainsi, si vous souhaitez jouer une armée de Nains, vous commencerez par choisir uniquement des unités de la Liste d’Armée des Nains.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5151,7 +5151,7 @@
     },
     {
       "value_en": "For each Large Infantry, Monstrous Infantry, Large Cavalry or Swarms Horde in the army, you can also include up to two of the following units:",
-      "value_translated": null,
+      "value_translated": "Pour chaque Horde d'Infanterie de Grande Taille, d'Infanterie Monstrueuse, de Cavalerie de Grande Taille ou de Nuée dans l'armée, vous pouvez également inclure jusqu'à deux des unités suivantes:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5279,7 +5279,7 @@
     },
     {
       "value_en": "For example, including three Infantry, Heavy Infantry, Chariot or Cavalry Hordes allows you to select up to three Heroes AND three Monsters (or Titans) AND three War Engines.",
-      "value_translated": null,
+      "value_translated": "Par exemple, inclure trois Hordes d'Infanterie, d'Infanterie Lourde, de Chars ou de Cavalerie vous permet de sélectionner jusqu'à trois Héros ET trois Monstres (ou Titans) ET trois Machines de Guerre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5287,7 +5287,7 @@
     },
     {
       "value_en": "For example, including three Regiments allows you to select up to three additional units chosen from Heroes, Monsters, Titans and War Engines.",
-      "value_translated": null,
+      "value_translated": "Par exemple, inclure trois Régiments vous permet de sélectionner jusqu'à trois unités supplémentaires parmi les Héros, Monstres, Titans et Machines de Guerre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5343,7 +5343,7 @@
     },
     {
       "value_en": "For other game sizes, please consult the table below.",
-      "value_translated": null,
+      "value_translated": "Pour les autres formats de jeu, veuillez consulter le tableau ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5367,7 +5367,7 @@
     },
     {
       "value_en": "Formations",
-      "value_translated": null,
+      "value_translated": "Formations",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5376,7 +5376,7 @@
     },
     {
       "value_en": "Formations may not be taken as Allies.",
-      "value_translated": null,
+      "value_translated": "Les Formations ne peuvent pas être prises en tant qu'Alliés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5727,7 +5727,7 @@
     },
     {
       "value_en": "Hero",
-      "value_translated": null,
+      "value_translated": "Héros",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12",
@@ -5744,7 +5744,7 @@
     },
     {
       "value_en": "Hero (all types)",
-      "value_translated": null,
+      "value_translated": "Héros (tout type)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -5752,7 +5752,7 @@
     },
     {
       "value_en": "Heroes (Monsters, etc.)",
-      "value_translated": null,
+      "value_translated": "Héros (Monstres, etc.)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5769,7 +5769,7 @@
     },
     {
       "value_en": "Heroes that belong to the Monster, Titan or even War Engine unit type (e.g Hero (Mon)) simply count as a Hero from the point of view of force selection. So if you have a Horde, you can field a Hero (Mon) as well as a Monster.",
-      "value_translated": null,
+      "value_translated": "Les Héros avec le type Monstre, Titan ou même Machine de guerre (par exemple, Héros (Mon)) comptent simplement comme un Héros du point de vue de la sélection de force. Ainsi, si vous avez une Horde, vous pouvez déployer un Héros (Mon) en plus d'un Monstre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6088,7 +6088,7 @@
     },
     {
       "value_en": "If a unit has [n] after its name in the list, it is only available in limited numbers and may only be taken in quantities up to its [n] value. Often these are named heroes of great fame or units of renown and so have a [1] against their name as they are unique. Such units are often known as “Living Legends”.",
-      "value_translated": null,
+      "value_translated": "Si une unité a [n] après son nom dans la liste d'armée, cela signifie qu'elle est disponible en nombre limité et ne peut être choisie que [n] fois dans la composition de l'armée. Il s'agit souvent de héros célèbres ou d'unités de renom, et elles ont donc un [1] à côté de leur nom, car elles sont uniques. Ces unités sont souvent appelées 'Légendes Vivantes'.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6136,7 +6136,7 @@
     },
     {
       "value_en": "If a unit with a [n] value has more than one unit size available (e.g. Troop and Regiment), each unit taken, regardless of size, counts toward the [n] total. For instance, a unit with both Troops and Regiments that is [3] may not take 3 Troops and 3 Regiments.",
-      "value_translated": null,
+      "value_translated": "Si une unité avec une valeur [n] a plusieurs formats disponibles (par exemple, Troupe et Régiment), chaque unité choisie, quelle que soit son format, compte pour le total [n]. Par exemple, pour une unité disponible en Troupe et Régiment et avec une valeur [3], on ne peut pas prendre 3 Troupes et 3 Régiments.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6448,7 +6448,7 @@
     },
     {
       "value_en": "If you are using a Theme List, you may only select the specified units from the Master List indicated. Other units from the Master List may not be taken. Likewise, any army upgrades available to the Master List are only available to the Theme List if explicitly mentioned in the Theme List itself.",
-      "value_translated": null,
+      "value_translated": "Si vous utilisez une Liste Thématique, vous ne pouvez sélectionner que les unités spécifiées de la Liste Principale indiquée. Les autres unités de la Liste Principale ne peuvent pas être choisies. De même, les améliorations d'armée disponibles pour la Liste Principale ne sont accessibles à la Liste Thématique que si elles y sont explicitement mentionnées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6464,7 +6464,7 @@
     },
     {
       "value_en": "If you are using allies, then you may only choose up to 25% of your army total points limit from the allied list. You may not take Irregular or Limited units as allies and you cannot select the same allied unit entry of each of the following types more than once:",
-      "value_translated": null,
+      "value_translated": "Si vous utilisez des alliés, vous ne pouvez choisir que jusqu'à 25 % du total des points de votre armée à partir de la liste alliée. Vous ne pouvez pas prendre d'unités Irrégulières ou Limitées en tant qu'alliés et vous ne pouvez pas sélectionner la même entrée d'unité alliée des types suivants plus d'une fois:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6472,7 +6472,7 @@
     },
     {
       "value_en": "If you do choose to include allies in your army, we recommend that the following restrictions apply.",
-      "value_translated": null,
+      "value_translated": "Si vous choisissez d'inclure des alliés dans votre armée, nous vous recommandons que les restrictions suivantes s'appliquent.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6624,7 +6624,7 @@
     },
     {
       "value_en": "In a standard 2000 point game, players may only take the same Hero, Monster, Titan or War Engine unit a maximum of three times. Elves could take a maximum of three Bolt Thrower units in 2000 points for example. This limit includes units with artefacts or other upgrades, so an Undead army could only have a maximum of 3 Necromancers, regardless of what options or upgrades they take.",
-      "value_translated": null,
+      "value_translated": "Dans une partie standard de 2000 points, chaque joueur ne peut inclure la même unité de Héros, Monstre, Titan ou Machine de guerre plus de trois fois. Par exemple, une armée d'Elfes pourrait inclure un maximum de trois unités de 'Bolt Thrower' dans une partie de 2000 points. Cette limite inclut les unités avec des artefacts ou d'autres améliorations, donc une armée de Morts-vivants ne pourrait inclure au maximum que 3 Nécromanciens, peu importe les options ou améliorations qu'ils choisissent.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6632,7 +6632,7 @@
     },
     {
       "value_en": "In a standard game, players will pick from a single Army List. However, sometimes players wish to play an army with a particular story or theme and so may wish to add allies from another list to their army.",
-      "value_translated": null,
+      "value_translated": "Dans une partie standard, les joueurs choisiront leurs unités dans une seule liste d'armées. Cependant, il arrive que les joueurs souhaitent jouer une armée ayant une histoire ou un thème particulier et souhaitent alors ajouter des alliés provenant d'une autre liste à leur armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6737,7 +6737,7 @@
     },
     {
       "value_en": "In order to achieve this, you and your opponent must pick an army before the game. Armies are selected from the Army Lists (sometimes called Force Lists) presented later in this book. Units within an army each have a Points Value assigned to them, which represents their value on the battlefield. Bigger units and those that can deal more damage will typically have a higher Points Value than smaller or weaker units. Players will select the units for their army by ‘spending’ points up to an agreed limit.",
-      "value_translated": null,
+      "value_translated": "Pour garantir cet équilibre, vous et votre adversaire devez choisir une armée avant la partie. Les armées sont sélectionnées à partir des Listes d’Armée présentées plus loin dans ce livre. Chaque unité d’une armée possède une Valeur en Points, représentant son importance sur le champ de bataille. Les unités plus imposantes ou plus puissantes ont généralement une Valeur en Points plus élevée que les unités plus petites ou plus faibles. Les joueurs composent leur armée en dépensant des points jusqu’à une limite convenue",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6761,7 +6761,7 @@
     },
     {
       "value_en": "In order to keep these forces fair and balanced, there are a few restrictions on how you can field Theme Lists.",
-      "value_translated": null,
+      "value_translated": "Pour garantir que ces armées restent justes et équilibrées, quelques restrictions s'appliquent sur la manière dont vous pouvez utiliser les Listes Thématiques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6769,7 +6769,7 @@
     },
     {
       "value_en": "In order to restrict the possible (nasty) combinations that can be fielded and to make sure armies have a semblance of ‘realism’ about them, we introduce the following limitations to the unit types that can make up your army.",
-      "value_translated": null,
+      "value_translated": "Afin de limiter les combinaisons potentiellement abusives et de garantir une certaine cohérence thématique aux armées, les restrictions suivantes s’appliquent aux types d’unités pouvant composer votre force.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -6841,7 +6841,7 @@
     },
     {
       "value_en": "In these instances the upgrade cost for each size is listed in square brackets. For instance, in the example below the cost to upgrade with a Veteran Command is +5 pts for a Troop, +10 pts for a Regiment, and +15 pts for a Horde.",
-      "value_translated": null,
+      "value_translated": "Dans ces cas, le coût de l'amélioration pour chaque format est indiqué entre crochets. Par exemple, dans l'exemple ci-dessous, le coût pour améliorer en Commandement Vétéran est de +5 pts pour une Troupe, +10 pts pour un Régiment et +15 pts pour une Horde.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -7195,7 +7195,7 @@
     },
     {
       "value_en": "Irregular Units",
-      "value_translated": null,
+      "value_translated": "Unités Irrégulières",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7501,7 +7501,7 @@
     },
     {
       "value_en": "Limited Units",
-      "value_translated": null,
+      "value_translated": "Unités Limitées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7518,7 +7518,7 @@
     },
     {
       "value_en": "Limited Upgrades",
-      "value_translated": null,
+      "value_translated": "Améliorations Limitées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -8366,7 +8366,7 @@
     },
     {
       "value_en": "Note that some units have an asterisk next to their name (for example: Gargoyles*). We call these Irregular units, because they are not representative of the mainstay force of their army. This means that the unit is treated as a Troop from the point of view of Army Selection, even if it is a Regiment or Horde – i.e. it does not ‘unlock’ any optional Troops, Heroes, Monsters or War Engines, and it needs to be unlocked itself by a Regiment, Horde or Legion of ‘regular’ troops.",
-      "value_translated": null,
+      "value_translated": "Notez que certaines unités ont un astérisque à côté de leur nom (par exemple : Gargouilles*). Nous appelons ces unités 'Irégulières', car elles ne représentent pas la force principale de leur armée. Cela signifie que l'unité est considérée comme une Troupe du point de vue de la Sélection d'Armée, même si c'est un Régiment ou une Horde. En d'autres termes, elle ne 'déverrouille' pas d'unités optionnelles de Troupes, Héros, Monstres ou Machines de guerre, et elle doit elle-même être déverrouillée par un Régiment, une Horde ou une Légion de troupes 'régulières'.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -8660,7 +8660,7 @@
     },
     {
       "value_en": "One of the things we always intended to reintroduce to the game was the concept of Formations. We know many players will be excited for this! Formations are thematic groups of units that, when taken and used together, gain certain bonuses during a game. This represents the units being especially effective in combination, or having years of training and experience working and fighting together. They are also a great excuse for modelling and naming your units, and building stories around them.",
-      "value_translated": null,
+      "value_translated": "L’une des choses que nous souhaitions réintroduire dans le jeu était le concept de Formations, et nous savons que beaucoup de joueurs seront ravis de cela ! Les Formations sont des groupes d’unités thématiques qui, lorsqu’elles sont choisies et utilisées ensemble, bénéficient de certains bonus pendant la partie. Cela reflète le fait que ces unités sont particulièrement efficaces en combinaison, ou qu’elles ont acquis des années d’entraînement et d’expérience en combattant ensemble. C’est aussi une excellente occasion de modéliser et de nommer vos unités, tout en créant des histoires autour d’elles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -9685,7 +9685,7 @@
     },
     {
       "value_en": "Primary Core units are those you chose from your primary army list.",
-      "value_translated": null,
+      "value_translated": "Les unités de base principales sont celles que vous avez choisies dans votre liste d'armée principale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -10113,7 +10113,7 @@
     },
     {
       "value_en": "Restrictions on Theme Lists",
-      "value_translated": null,
+      "value_translated": "Restrictions des Listes Thématiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10632,7 +10632,7 @@
     },
     {
       "value_en": "Some Upgrades will be listed with a [1], [2], or [3] after the option to take them. These upgrades are only available in limited numbers and may only be taken up to the [n] value in your entire list. In some cases where the upgrade is listed as a [1], we refer to these as Unique Upgrades. Units that take a Limited Upgrade may still take a Magical Artefact unless otherwise noted. Taking a Limited Upgrade does not change what the unit is for the purpose of Max Duplicates.",
-      "value_translated": null,
+      "value_translated": "Certaines améliorations seront listées avec un [1], [2] ou [3] indiqué après l'option. Ces améliorations sont disponibles en nombre limité et ne peuvent être prises qu'un nombre de fois égal à la valeur indiquée par [n] dans toute votre liste. Dans certains cas où l'amélioration est listée avec un [1], nous les appelons des Améliorations Uniques. Les unités qui prennent une Amélioration Limitée peuvent toujours prendre un Artefact Magique, sauf indication contraire. Prendre une Amélioration Limitée ne modifie pas la catégorie de l'unité dans le cadre de la règle du nombre maximum d'exemplaires.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -10689,7 +10689,7 @@
     },
     {
       "value_en": "Some units have optional upgrades available, in which case the cost for the upgrade is listed beside the option in the unit profile. The total cost for a unit includes any upgrades selected for it. So if you chose a 15 point upgrade for a 100 point unit, the total cost of the unit would be 115 points.",
-      "value_translated": null,
+      "value_translated": "Certaines unités disposent d'améliorations optionnelles, dont le coût est indiqué à côté de l'option dans le profil de l'unité. Le coût total de l'unité comprend toutes les améliorations sélectionnées. Par exemple, si vous choisissez une amélioration de 15 points pour une unité coûtant 100 points, le coût total de l'unité sera de 115 points.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -11197,7 +11197,7 @@
     },
     {
       "value_en": "The Army Lists included in this book represent many of the primary races and dominate political powers in the world of Pannithor. They are all considered to be ‘Master Lists’. In future supplements we will be introducing many of the smaller military powers or ‘favours’ of the primary ones. The Army Lists for all these sub-factions are known as ‘Theme Lists’ and will be identified as such.",
-      "value_translated": null,
+      "value_translated": "Les Listes d’Armée présentées dans ce livre regroupent les principales factions et puissances dominantes du monde de Pannithor. Elles constituent ce que l’on appelle les 'Listes Principales'. Dans de futurs suppléments, nous introduirons d’autres forces militaires plus modestes, souvent rattachées à ces grandes puissances. Ces listes d’armées secondaires sont appelées 'Listes Thématiques' et seront clairement identifiées comme telles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -11619,7 +11619,7 @@
     },
     {
       "value_en": "The number in brackets listed for units in Formations represents the number of additional points they cost, in addition to their initial value.",
-      "value_translated": null,
+      "value_translated": "Le nombre entre crochets indiqué pour les unités dans les Formations représente le nombre de points supplémentaires qu'elles coûtent, en plus de leur valeur initiale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -12260,7 +12260,7 @@
     },
     {
       "value_en": "Theme Lists",
-      "value_translated": null,
+      "value_translated": "Listes Thématiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12269,7 +12269,7 @@
     },
     {
       "value_en": "Theme lists may never choose units from their Master List as Allies. Furthermore, units from a Theme list may never be taken as Allies.",
-      "value_translated": null,
+      "value_translated": "Les Listes Thématiques ne peuvent jamais sélectionner des unités de leur Liste Principale en tant qu’Alliés. De plus, les unités d’une Liste Thématique ne peuvent jamais être prises comme Alliés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -12349,7 +12349,7 @@
     },
     {
       "value_en": "These units are not considered Limited Units (unless indicated with the [1]) and count against the Max Duplicates allowed within a list.",
-      "value_translated": null,
+      "value_translated": "Ces unités ne sont pas considérées comme des Unités Limitées (à moins qu'elles ne portent la mention [1]) et comptent dans le nombre maximal d'exemplaires autorisés dans une liste.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13133,7 +13133,7 @@
     },
     {
       "value_en": "Units may not count towards more than one Formation at a time.",
-      "value_translated": null,
+      "value_translated": "Les unités ne peuvent pas compter pour plus d'une Formation à la fois.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13285,7 +13285,7 @@
     },
     {
       "value_en": "Unless indicated otherwise, units in Formations may take magical artefacts, following the usual rules for doing so.",
-      "value_translated": null,
+      "value_translated": "Sauf indication contraire, les unités dans les Formations peuvent prendre des artefacts magiques, en suivant les règles habituelles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13293,7 +13293,7 @@
     },
     {
       "value_en": "Unless otherwise stated, Legions are Hordes for the purposes of army selection.",
-      "value_translated": null,
+      "value_translated": "Sauf indication contraire, les Légions sont considérées comme des Hordes pour la sélection de l'armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13325,7 +13325,7 @@
     },
     {
       "value_en": "Up to one Hero",
-      "value_translated": null,
+      "value_translated": "Jusqu'à un Héros",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13341,7 +13341,7 @@
     },
     {
       "value_en": "Up to one Monster",
-      "value_translated": null,
+      "value_translated": "Jusqu'à un Monstre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13349,7 +13349,7 @@
     },
     {
       "value_en": "Up to one Monster or Titan",
-      "value_translated": null,
+      "value_translated": "Jusqu'à un Monstre ou un Titan",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13357,7 +13357,7 @@
     },
     {
       "value_en": "Up to one Titan",
-      "value_translated": null,
+      "value_translated": "Jusqu'à un Titan",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13365,7 +13365,7 @@
     },
     {
       "value_en": "Up to one War Engine",
-      "value_translated": null,
+      "value_translated": "Jusqu'à une Machine de Guerre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13373,7 +13373,7 @@
     },
     {
       "value_en": "Upgrades",
-      "value_translated": null,
+      "value_translated": "Améliorations",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13769,7 +13769,7 @@
     },
     {
       "value_en": "When a Limited Unit is listed as part of a formation, it cannot also be taken separately outside of the formation.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une Unité Limitée est incluse dans une formation, elle ne peut pas être prise en plus séparément en dehors de la formation.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13777,7 +13777,7 @@
     },
     {
       "value_en": "When a rule refers to Friendly Core units, it means units from the same list as the unit with the rule. Thus if a unit from the Allied part of your army had a rule that affected Friendly Core units, it would only apply to other units in the Allied part of your army.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une règle fait référence aux unités de base amies, cela signifie les unités provenant de la même liste que l'unité avec la règle. Ainsi, si une unité de la partie alliée de votre armée a une règle qui affecte les unités de base amies, elle ne s'appliquera qu'aux autres unités de la partie alliée de votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13921,7 +13921,7 @@
     },
     {
       "value_en": "When taking a Formation, all units in the Formation must be taken to gain any listed upgrades (you cannot partially field a Formation!).",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une Formation est choisie, toutes les unités de la Formation doivent être incluses pour bénéficier des améliorations indiquées (il n'est pas possible de sélectionner que quelques unités d'une Formation !).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -13929,7 +13929,7 @@
     },
     {
       "value_en": "When taking allies, your list will have two sets of Core units, the Primary Core units from your Primary force list and the Allied Core units from the Allied list. Special rules affecting Core units will only affect one type rather than both, even if they are all Friendly and on the same side.",
-      "value_translated": null,
+      "value_translated": "Lorsque vous incluez des alliés, votre liste comportera deux ensembles d'unités de base: les unités de base principales issues de votre liste principale et les unités de base alliées issues de la liste des alliés. Les règles spéciales affectant les unités de base ne s'appliqueront qu'à un seul type d'unités, et non aux deux, même si elles sont toutes amies et du même côté.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14002,7 +14002,7 @@
     },
     {
       "value_en": "When using Formations in an army, the following rules apply:",
-      "value_translated": null,
+      "value_translated": "Lorsque vous utilisez des Formations dans une armée, les règles suivantes s'appliquent:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14010,7 +14010,7 @@
     },
     {
       "value_en": "When using allies, you may only choose from one other Army List. You select units from the allied list in a similar way, so you still need Regiments/Hordes to then include Troops, War Engines, Heroes, Monsters or Titans from that list.",
-      "value_translated": null,
+      "value_translated": "Lorsque vous sélectionnez vos alliés, vous ne pouvez le faire que depuis une seule autre liste d'armée. Vous sélectionnez les unités de la liste alliée de la même manière qu'habituellement, ce qui signifie que vous devez toujours avoir des Régiments/Hordes pour inclure des Troupes, Machines de guerre, Héros, Monstres ou Titans de cette liste.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14310,7 +14310,7 @@
     },
     {
       "value_en": "You can only use one Theme List at a time, even if multiple Theme Lists exist for the Master List you are using.",
-      "value_translated": null,
+      "value_translated": "Vous ne pouvez utiliser qu’une seule Liste Thématique à la fois, même si plusieurs Listes Thématiques existent pour la Liste Principale que vous utilisez.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14318,7 +14318,7 @@
     },
     {
       "value_en": "You can play Kings of War with just a few units per side, without worrying about the two armies being equally matched. This is great for learning the game, but after you’ve become familiar with the rules and have amassed a large collection of models, you will want to play games where the forces facing one another across the battlefield are balanced, so that both players have an equal chance of winning the game.",
-      "value_translated": null,
+      "value_translated": "Vous pouvez jouer à Kings of War avec seulement quelques unités de chaque côté, sans vous soucier de l’équilibre entre les deux armées. C’est idéal pour apprendre le jeu. Cependant, une fois que vous maîtrisez les règles et que vous avez rassemblé une grande collection de figurines, vous voudrez jouer des parties où les forces en présence sont équilibrées, afin que chaque joueur ait une chance de l’emporter.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14342,7 +14342,7 @@
     },
     {
       "value_en": "You may also include up to four Troop units for each Large Infantry, Monstrous Infantry, Large Cavalry or Swarms Legion in your army.",
-      "value_translated": null,
+      "value_translated": "Vous pouvez également inclure jusqu’à quatre unités de Troupe pour chaque Légion d’Infanterie de Grande Taille, d’Infanterie Monstrueuse, de Cavalerie de Grande Taille ou de Nuée présente dans votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14358,7 +14358,7 @@
     },
     {
       "value_en": "You may not choose the same option twice. For example, including an Infantry Horde would allow you to select up to one Hero and one Monster, but NOT two Heroes.",
-      "value_translated": null,
+      "value_translated": "Vous ne pouvez pas choisir la même option deux fois. Par exemple, inclure une Horde d'Infanterie vous permettrait de sélectionner jusqu'à un Héros et un Monstre, mais PAS deux Héros.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14399,7 +14399,7 @@
     },
     {
       "value_en": "Your army can also include up to four Troop units for each Infantry, Heavy Infantry, Chariot or Cavalry Horde or Legion in your army.",
-      "value_translated": null,
+      "value_translated": "Votre armée peut également inclure jusqu’à quatre unités de Troupe pour chaque Horde ou Légion d’Infanterie, d’Infanterie Lourde, de Chars ou de Cavalerie présente dans votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14407,7 +14407,7 @@
     },
     {
       "value_en": "Your army can include as many Hordes as you like. For each Infantry, Heavy Infantry, Chariot or Cavalry Horde in the army, you can also include all of the following units:",
-      "value_translated": null,
+      "value_translated": "Votre armée peut inclure autant de Hordes que vous le souhaitez. Pour chaque Horde d'Infanterie, d'Infanterie Lourde, de Chars ou de Cavalerie dans l'armée, vous pouvez également inclure chacune des unités suivantes:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14415,7 +14415,7 @@
     },
     {
       "value_en": "Your army can include as many Regiments as you like. For each Infantry, Heavy Infantry, Chariot or Cavalry Regiment in the army, you can also include one of the following units:",
-      "value_translated": null,
+      "value_translated": "Votre armée peut inclure autant de Régiments que vous le souhaitez. Pour chaque Régiment d'Infanterie, d'Infanterie Lourde, de Chars ou de Cavalerie dans l'armée, vous pouvez également inclure une des unités suivantes:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14423,7 +14423,7 @@
     },
     {
       "value_en": "Your army can include up to two Troop units for each Infantry, Heavy Infantry, Chariot or Cavalry Regiment in the army. You may also include up to two Troop units for each Large Infantry, Monstrous Infantry, Large Cavalry or Swarms Horde in your army.",
-      "value_translated": null,
+      "value_translated": "Votre armée peut inclure jusqu’à deux unités de Troupe pour chaque Régiment d’Infanterie, d’Infanterie Lourde, de Chars ou de Cavalerie présent dans l’armée. Vous pouvez aussi inclure jusqu’à deux unités de Troupe pour chaque Horde d’Infanterie de Grande Taille, d’Infanterie Monstrueuse, de Cavalerie de Grande Taille ou de Nuée dans votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14510,7 +14510,7 @@
     },
     {
       "value_en": "a. Army Selection",
-      "value_translated": null,
+      "value_translated": "a. Sélection des Unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14699,7 +14699,7 @@
     },
     {
       "value_en": "b. Army Composition",
-      "value_translated": null,
+      "value_translated": "b. Composition de l'Armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -14876,7 +14876,7 @@
     },
     {
       "value_en": "c. Allies and Alignments",
-      "value_translated": null,
+      "value_translated": "c. Alliés et Alignements",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15027,7 +15027,7 @@
     },
     {
       "value_en": "d. Core and Allied Units",
-      "value_translated": null,
+      "value_translated": "d. Unités de Base et Alliées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15235,7 +15235,7 @@
     },
     {
       "value_en": "e. Theme Lists",
-      "value_translated": null,
+      "value_translated": "e. Listes Thématiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15295,7 +15295,7 @@
     },
     {
       "value_en": "f. Formations",
-      "value_translated": null,
+      "value_translated": "f. Formations",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15559,7 +15559,7 @@
     },
     {
       "value_en": "i. Irregular Units",
-      "value_translated": null,
+      "value_translated": "i. Unités Irrégulières",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15633,7 +15633,7 @@
     },
     {
       "value_en": "i. Restrictions on Theme Lists",
-      "value_translated": null,
+      "value_translated": "i. Restrictions des Listes Thématiques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15681,7 +15681,7 @@
     },
     {
       "value_en": "i. Troops",
-      "value_translated": null,
+      "value_translated": "i. Troupes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15689,7 +15689,7 @@
     },
     {
       "value_en": "i. Troops and Regiments",
-      "value_translated": null,
+      "value_translated": "i. Troupes et Régiments",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -15757,7 +15757,7 @@
     },
     {
       "value_en": "ii. Heroes (Monsters, etc.)",
-      "value_translated": null,
+      "value_translated": "ii. Héros (Monstres, etc.)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15765,7 +15765,7 @@
     },
     {
       "value_en": "ii. Hordes and Legions",
-      "value_translated": null,
+      "value_translated": "ii. Hordes et Légions",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -15797,7 +15797,7 @@
     },
     {
       "value_en": "ii. Regiments",
-      "value_translated": null,
+      "value_translated": "ii. Régiments",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15865,7 +15865,7 @@
     },
     {
       "value_en": "iii. Hordes",
-      "value_translated": null,
+      "value_translated": "iii. Hordes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15873,7 +15873,7 @@
     },
     {
       "value_en": "iii. Limited Units",
-      "value_translated": null,
+      "value_translated": "iii. Unités Limitées",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15979,7 +15979,7 @@
     },
     {
       "value_en": "iv. Legions",
-      "value_translated": null,
+      "value_translated": "iv. Légions",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
@@ -15995,7 +15995,7 @@
     },
     {
       "value_en": "iv. Upgrades",
-      "value_translated": null,
+      "value_translated": "iv. Améliorations",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=12"
