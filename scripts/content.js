@@ -90,6 +90,10 @@
         // Reorder special rules table
         const table = document.querySelector('.rules_chapter table');
         sortTable(table, 0);
+    } else if (url === 'https://companion.manticgames.com/kings-of-war-rules/?chapter=13') {
+        // Reorder magical artifacts table
+        const table = document.querySelector('.rules_chapter table');
+        sortTable(table, 0);
     }
 })();
 

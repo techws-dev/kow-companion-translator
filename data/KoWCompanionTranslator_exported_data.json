@@ -2371,7 +2371,7 @@
     },
     {
       "value_en": "Allied units may not take magical artefacts.",
-      "value_translated": null,
+      "value_translated": "Les unités alliées ne peuvent pas recevoir d'artefacts magiques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -2444,7 +2444,7 @@
     },
     {
       "value_en": "Amulet of the Fireheart",
-      "value_translated": null,
+      "value_translated": "Amulette du coeur enflammé",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -2579,7 +2579,7 @@
     },
     {
       "value_en": "Artefacts are magical in nature (some of them might even be sentient!), and all of them have the magical power of changing their shape. This allows them to morph into a weapon, piece of armour, jewel or other implement that is more akin to the race of the warrior carrying it. For example, a Blade of Slashing could be an elegant sword in the hands of an elf, but it will turn into a crude meat cleaver in the hands of an orc. This magical property is of course very convenient from the point of view of the average wargamer!",
-      "value_translated": null,
+      "value_translated": "Les artefacts sont d'essence magique (certains peuvent même être doués de conscience !) et possèdent tous le pouvoir de changer de forme. Ainsi, ils peuvent se métamorphoser en arme, armure, bijou ou tout autre objet correspondant à la culture du guerrier qui les porte. Par exemple, une Lame de lacération pourra apparaître comme une épée élégante entre les mains d’un elfe, tandis qu’elle prendra l’apparence d’un lourd couperet de boucher entre celles d’un orc. Cette propriété magique s’avère d’ailleurs très pratique pour le joueur de wargame moyen !",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -2603,7 +2603,7 @@
     },
     {
       "value_en": "As the presence of these items is not obvious, players must tell their opponent which artefact any of their units is carrying as they deploy them on the battlefield. If both players agree before deployment, you may want to play with ‘hidden artefacts’. This is somewhat less fair, but can be considerably more fun…",
-      "value_translated": null,
+      "value_translated": "Étant donné que la présence de ces artefacts n'est pas évidente, les joueurs doivent indiquer à leur adversaire quel artefact chaque unité porte au moment de son déploiement sur le champ de bataille. Si les deux joueurs sont d'accord avant le déploiement, il est possible de jouer avec des 'artefacts cachés'. C'est sans doute un peu moins équilibré, mais peut être beaucoup plus amusant...",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -2912,7 +2912,7 @@
     },
     {
       "value_en": "Banner of Eternal Darkness",
-      "value_translated": null,
+      "value_translated": "Bannière des ténèbres éternelles",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3042,7 +3042,7 @@
     },
     {
       "value_en": "Blade of Slashing",
-      "value_translated": null,
+      "value_translated": "Lame de lacération",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3050,7 +3050,7 @@
     },
     {
       "value_en": "Blade of the Beast Slayer",
-      "value_translated": null,
+      "value_translated": "Lame du tueur de bête",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3115,7 +3115,7 @@
     },
     {
       "value_en": "Blood of the Old King",
-      "value_translated": null,
+      "value_translated": "Sang de l'ancien roi",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3172,7 +3172,7 @@
     },
     {
       "value_en": "Boots of Levitation",
-      "value_translated": null,
+      "value_translated": "Bottes de lévitation",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3180,7 +3180,7 @@
     },
     {
       "value_en": "Boots of the Seven Leagues",
-      "value_translated": null,
+      "value_translated": "Bottes de sept lieues",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3212,7 +3212,7 @@
     },
     {
       "value_en": "Brew of Haste",
-      "value_translated": null,
+      "value_translated": "Potion de célérité",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3220,7 +3220,7 @@
     },
     {
       "value_en": "Brew of Sharpness",
-      "value_translated": null,
+      "value_translated": "Potion d'adresse",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3228,7 +3228,7 @@
     },
     {
       "value_en": "Brew of Strength",
-      "value_translated": null,
+      "value_translated": "Potion de force",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3375,7 +3375,7 @@
     },
     {
       "value_en": "Chalice of Wrath",
-      "value_translated": null,
+      "value_translated": "Calice du courroux",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3417,7 +3417,7 @@
     },
     {
       "value_en": "Chant of Hate",
-      "value_translated": null,
+      "value_translated": "Litanie de haine",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3638,7 +3638,7 @@
     },
     {
       "value_en": "Conjurer's Staff",
-      "value_translated": null,
+      "value_translated": "Bâton d'invocateur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3730,7 +3730,7 @@
     },
     {
       "value_en": "Crown of the Wizard King",
-      "value_translated": null,
+      "value_translated": "Couronne du roi sorcier",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3786,7 +3786,7 @@
     },
     {
       "value_en": "Crystal Pendent of Retribution",
-      "value_translated": null,
+      "value_translated": "Pendentif cristallin du châtiment",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -3836,7 +3836,7 @@
     },
     {
       "value_en": "Darklord's Onyx Ring",
-      "value_translated": null,
+      "value_translated": "Bague d'onyx du seigneur noir",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -4028,7 +4028,7 @@
     },
     {
       "value_en": "Diadem of Dragonkind",
-      "value_translated": null,
+      "value_translated": "Diadème du dragon",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -4338,7 +4338,7 @@
     },
     {
       "value_en": "Dragonshard Shield",
-      "value_translated": null,
+      "value_translated":  "Bouclier en écailles de dragon",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -4460,7 +4460,7 @@
     },
     {
       "value_en": "Dwarven Ale",
-      "value_translated": null,
+      "value_translated": "Bière naine",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -4580,7 +4580,7 @@
     },
     {
       "value_en": "Each artefact is unique and therefore can only be chosen once per army.",
-      "value_translated": null,
+      "value_translated": "Chaque artefact est unique et ne peut donc être choisi qu'une seule fois par armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -4653,7 +4653,7 @@
     },
     {
       "value_en": "Ej Periscope",
-      "value_translated": null,
+      "value_translated": "Periscode de Ej",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -4988,7 +4988,7 @@
     },
     {
       "value_en": "Fire-Oil",
-      "value_translated": null,
+      "value_translated": "Huile enflammée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -5590,7 +5590,7 @@
     },
     {
       "value_en": "Gnome-Glass Shield",
-      "value_translated": null,
+      "value_translated":  "Bouclier de verre gnome",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -5623,7 +5623,7 @@
     },
     {
       "value_en": "Hammer of Measured Force",
-      "value_translated": null,
+      "value_translated": "Marteau de la force constante",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -5631,7 +5631,7 @@
     },
     {
       "value_en": "Hann's Sanguinary Scripture",
-      "value_translated": null,
+      "value_translated": "Versets sanguinaires de Hann",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -5679,7 +5679,7 @@
     },
     {
       "value_en": "Healing Brew",
-      "value_translated": null,
+      "value_translated": "Nectar de soin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -5711,7 +5711,7 @@
     },
     {
       "value_en": "Helm of Confidence",
-      "value_translated": null,
+      "value_translated": "Heaume d'aplomb",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -5719,7 +5719,7 @@
     },
     {
       "value_en": "Helm of the Drunken Ram",
-      "value_translated": null,
+      "value_translated": "Heaume du bélier ivre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6560,7 +6560,7 @@
     },
     {
       "value_en": "Immediately after casting a spell, the unit may cast a different spell, but must choose a different target unit. After resolving the second spell casting, this unit may not cast any spells during its following Turn.",
-      "value_translated": null,
+      "value_translated": "Immédiatement après avoir lancé un Sort, l'unité peut lancer un sort différent, mais il doit cibler une autre unité. Après avoir résolu le second Sort lancé, cette unité ne peut lancer aucun sort pendant son prochain tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6600,7 +6600,7 @@
     },
     {
       "value_en": "In Melee, this unit will always damage the enemy on a 4+ regardless of any other modifiers.",
-      "value_translated": null,
+      "value_translated": "En mêlée, l'unité blesse toujours ses adversaires sur un 4+, quels que soient les modificateurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6963,7 +6963,7 @@
     },
     {
       "value_en": "Individuals only. Once per game, the unit gains the Regeneration (4+) special rule. This must be used the first time the unit has any damage on it at the beginning of the unit’s Turn.",
-      "value_translated": null,
+      "value_translated": "Indépendants seulement. Une fois par partie, l'unité gagne la règle spéciale Régénération (4+). Ceci doit être utilisé la première fois que l'unité a n'importe quel nombre de blessures sur elle au début de son tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6971,7 +6971,7 @@
     },
     {
       "value_en": "Individuals only. The unit gains the Duelist special rule.",
-      "value_translated": null,
+      "value_translated": "Indépendants seulement. L'unité gagne la règle spéciale Duelliste.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6979,7 +6979,7 @@
     },
     {
       "value_en": "Individuals only. The unit gains the Fly special rule and increases its Speed stat to 10, but decreases its Defence stat by -1 to a minimum of 2.",
-      "value_translated": null,
+      "value_translated": "Indépendants uniquement. Le héros gagne la règle spéciale Vol et sa Vitesse passe à 10. Cependant, sa Défense diminue de -1, jusqu'à un minimum de 2.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6987,7 +6987,7 @@
     },
     {
       "value_en": "Individuals only. The unit gains the Rampage (D3) special rule.",
-      "value_translated": null,
+      "value_translated": "Indépendants seulement. L'unité gagne la règle spéciale Déchainement (D3).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6995,7 +6995,7 @@
     },
     {
       "value_en": "Individuals only. The unit gains the Scout special rule.",
-      "value_translated": null,
+      "value_translated": "Indépendants uniquement. L'unité gagne la règle spéciale Avant-coureur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7003,7 +7003,7 @@
     },
     {
       "value_en": "Individuals only. The unit gains the Slayer (D3) special rule.",
-      "value_translated": null,
+      "value_translated": "Indépendants seulement. L'unité gagne la règle spéciale Massacreur (D3).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7011,7 +7011,7 @@
     },
     {
       "value_en": "Individuals only. The unit’s Defence is increased by 2 to a maximum of 6. Immediately after the unit suffers damage for the first time (from any source) the Gnome-Glass Shield shatters and its Defence returns to normal for the rest of the game.",
-      "value_translated": null,
+      "value_translated": "Indépendants seulement. La défense de l'unité est augmentée de 2 jusqu'à un maximum de 6. Immédiatement après avoir subi des blessures pour la première fois (de n'importe quelle source), le Bouclier de verre gnome explose et sa Défense revient à la normale pour le reste de la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7043,7 +7043,7 @@
     },
     {
       "value_en": "Infantry and Heavy Infantry only. This unit increases its Height by 1 when it draws Line of Sight.",
-      "value_translated": null,
+      "value_translated": "Infanterie et Infanterie lourde uniquement. Cette unité augmente sa Taille de 1 quand elle trace des lignes de vue.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7099,7 +7099,7 @@
     },
     {
       "value_en": "Inspiring Talisman",
-      "value_translated": null,
+      "value_translated": "Talisman de motivation",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7493,7 +7493,7 @@
     },
     {
       "value_en": "Liliana's Tear",
-      "value_translated": null,
+      "value_translated": "Larme de Liliana",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7585,7 +7585,7 @@
     },
     {
       "value_en": "Lute of Insatiable Darkness",
-      "value_translated": null,
+      "value_translated": "Luth des ténèbres insatiables",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7593,7 +7593,7 @@
     },
     {
       "value_en": "Mace of Crushing",
-      "value_translated": null,
+      "value_translated": "Masse de fracas",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7627,7 +7627,7 @@
     },
     {
       "value_en": "Magical artefacts bestow bonuses to the unit they are given to. Each unit can have a single artefact chosen from the lists below, which is presumed to be carried by the unit’s leader. The cost of the artefact is added to that of the unit.",
-      "value_translated": null,
+      "value_translated": "Les artefacts magiques confèrent des bonus à l'unité qui les reçoit. Chaque unité peut posséder un seul artefact, choisi dans les listes ci-dessous, et que l'on suppose porté par le chef de l’unité. Le coût de l'artefact s'ajoute à celui de l'unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7667,7 +7667,7 @@
     },
     {
       "value_en": "May not be taken by units with the Individual or Fly special rules. Increases the unit's Unit Strength by one, to a maximum of four.",
-      "value_translated": null,
+      "value_translated": "Ne peut pas être pris par des unités avec les règles spéciales Indépendant ou Vol. Augmentez la Puissance d'Unité de l'unité de 1, jusqu'à un maximum de 4.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7731,7 +7731,7 @@
     },
     {
       "value_en": "Mead of Madness",
-      "value_translated": null,
+      "value_translated": "Hydromel de folie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -7924,7 +7924,7 @@
     },
     {
       "value_en": "Mournful Blade",
-      "value_translated": null,
+      "value_translated": "Lame funèbre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8310,7 +8310,7 @@
     },
     {
       "value_en": "Note that Ranged attacks and Spells granted to a unit by an artefact do not gain any of the unit’s inherent special rules. For example, if a unit itself has the Elite (Ranged) special rule and was given the War-Bow of Kaba, any ranged attack made with the War-Bow would not benefit from the unit’s Elite (Ranged) special rule.",
-      "value_translated": null,
+      "value_translated": "Notez que les attaques à distance et les sorts conférés à une unité par un artefact ne bénéficient pas des règles spéciales inhérentes à cette unité. Par exemple, si une unité possède la règle spéciale Élite (Tir) et reçoit l'Arc de Guerre de Kaba, toute attaque à distance effectuée avec cet arc ne profitera pas de la règle spéciale Élite (Tir) de l'unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8572,7 +8572,7 @@
     },
     {
       "value_en": "Once per game, at the start of your Ranged phase, choose an enemy unit with a spellcaster tier within 12”. Choose one of the spells known to that unit. During the enemy player’s following Turn, the unit may not use the chosen spell.",
-      "value_translated": null,
+      "value_translated": "Une fois par partie, au début de l'une de vos phases de Tir, choisissez une unité ennemie avec un Rang d'incantation dans les 12”. Choisissez un des Sorts connu de l'unité. Pendant le prochain tour de l'adversaire, l'unité ne peut pas utiliser le Sort choisi.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8580,7 +8580,7 @@
     },
     {
       "value_en": "Once per game, immediately after casting a spell, the unit may cast a second, different spell. The unit cannot use this artefact to cast more than two spells in a single turn.",
-      "value_translated": null,
+      "value_translated": "Une fois par partie, immédiatement après avoir lancé un Sort; l'unité peut lancer un second Sort, différent du premier. Cette unité ne peut pas utiliser cet artefact pour lancer plus de deux sorts dans un même tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8588,7 +8588,7 @@
     },
     {
       "value_en": "Once per game, the unit gains Elite (Melee) and Vicious (Melee) for one Turn. This must be declared before the unit rolls any attacks.",
-      "value_translated": null,
+      "value_translated": "Une fois par partie, l'unité gagne les règles spéciales Élite (mêlée) et Vicieux (mêlée) pendant un tour. L'utilisation doit être déclarée avant de lancer le jet d'attaque.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8596,7 +8596,7 @@
     },
     {
       "value_en": "Once per game, this unit gains both the Pathfinder & Strider special rules until the end of the Turn.",
-      "value_translated": null,
+      "value_translated": "Une fois par partie, l'unité gagne les règles spéciales Tout-terrain et Éclaireur jusqu'à la fin du tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8604,7 +8604,7 @@
     },
     {
       "value_en": "Once per game, when given a Movement order, the unit may roll a single die. On a 1-3 it regains one point of damage it previously suffered. On a result of 4-6 it regains two points of damage it previously suffered.",
-      "value_translated": null,
+      "value_translated": "Une fois par partie, lorsqu'elle reçoit un ordre de mouvement, l'unité lance un dé. Sur un résultat de 1-3, elle retire une blessure subie préalablement. Sur un résultat de 4-6, elle retire deux blessures subies préalablement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8612,7 +8612,7 @@
     },
     {
       "value_en": "Once per game, when this unit carries out a Halt or Charge Facing order, it may choose to increase its Defence by +2 to a maximum of 6+ until the start of its next Turn.",
-      "value_translated": null,
+      "value_translated": "Une fois par partie, quand l'unité reçoit l'ordre Halte ou Pivot, elle peut décider d'augmenter sa Défense de +2 jusqu'à un maximum de 6+, jusqu'au début de son prochain tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -8726,7 +8726,7 @@
     },
     {
       "value_en": "Orb of Towering Presence",
-      "value_translated": null,
+      "value_translated": "Orbe de présence imposante",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -9491,7 +9491,7 @@
     },
     {
       "value_en": "Pipes of Terror",
-      "value_translated": null,
+      "value_translated": "Cornemuse de la terreur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10246,7 +10246,7 @@
     },
     {
       "value_en": "Sacred Horn",
-      "value_translated": "Corne Sacrée",
+      "value_translated": "Cor sacré",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10338,7 +10338,7 @@
     },
     {
       "value_en": "Scythe of the Harvester",
-      "value_translated": null,
+      "value_translated": "Faux du moissonneur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10503,7 +10503,7 @@
     },
     {
       "value_en": "Shroud of the Saint",
-      "value_translated": "Voile du Saint",
+      "value_translated": "Linceul du Saint",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10568,7 +10568,7 @@
     },
     {
       "value_en": "Sir Jesse's Boots of Striding",
-      "value_translated": null,
+      "value_translated": "Bottes de marche de sire Jesse",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10584,7 +10584,7 @@
     },
     {
       "value_en": "Skirmisher's Boots",
-      "value_translated": null,
+      "value_translated": "Bottes d'éclaireur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -10911,7 +10911,7 @@
     },
     {
       "value_en": "Staying Stone",
-      "value_translated": null,
+      "value_translated": "Pierre de calme",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11068,7 +11068,7 @@
     },
     {
       "value_en": "Talisman of Silence",
-      "value_translated": null,
+      "value_translated": "Talisman du silence",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11221,7 +11221,7 @@
     },
     {
       "value_en": "The Boomstick",
-      "value_translated": null,
+      "value_translated": "Le bâton-tonnerre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11361,7 +11361,7 @@
     },
     {
       "value_en": "The Scrying Gem",
-      "value_translated": null,
+      "value_translated": "Gemme de vision",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11434,7 +11434,7 @@
     },
     {
       "value_en": "The artefacts below are presented in two sections. The first section lists Common items that can be taken by any unit, with the exceptions noted above. The second section lists Heroic artefacts which can only be taken by Heroes of all subtypes, e.g. Hero (Inf), Hero (Cav), Hero (Titan) etc.",
-      "value_translated": null,
+      "value_translated": "Les artefacts ci-dessous sont présentés en deux sections. La première liste les objets communs, qui peuvent être pris par n'importe quelle unité, sous réserve des exceptions mentionnées précédemment. La seconde section répertorie les artefacts héroïques, qui ne peuvent être pris que par des Héros, quel que soit leur sous-type, comme Héros (Inf), Héros (Cav), Héros (Titan), etc.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11867,7 +11867,7 @@
     },
     {
       "value_en": "The unit gains +1 to its Wavering stat value.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne +1 sur sa valeur d'Ébranlement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11875,7 +11875,7 @@
     },
     {
       "value_en": "The unit gains an additional 6inches range on all of its spells that target Friendly units.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne une portée additionnelle de 6” sur tous ses sorts qui ciblent des unités amies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11883,7 +11883,7 @@
     },
     {
       "value_en": "The unit gains as additional 3inch range to all of its Auras.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne une portée supplémentaire de 3” sur toutes ses Auras.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11891,7 +11891,7 @@
     },
     {
       "value_en": "The unit gains both the Crushing Strength special rule (+1 - vs. units with Regeneration and the Piercing special rule (+1 - vs. units with Regeneration).",
-      "value_translated": null,
+      "value_translated": "L'unité gagne les règles spéciales Force dévastatrice (+1 contre les unités possédant Régénération) et Perforant (+1 contre les unités possédant Régénération).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11915,7 +11915,7 @@
     },
     {
       "value_en": "The unit gains the Bane Chant (2) spell.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le sort Mélopée du fléau (2).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11931,7 +11931,7 @@
     },
     {
       "value_en": "The unit gains the Crushing Strength (+1) special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Force dévastatrice (+1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11939,7 +11939,7 @@
     },
     {
       "value_en": "The unit gains the Crushing Strength (+2 - vs. Large Infantry, Monstrous Infantry, Large Cavalry, Monsters and Titans) special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Force dévastatrice (+2) contre l'Infanterie de grande taille, l'Infanterie monstrueuse, la Cavalerie de grande taille, les Monstres et les Titans.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11947,7 +11947,7 @@
     },
     {
       "value_en": "The unit gains the Elite special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Élite.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11955,7 +11955,7 @@
     },
     {
       "value_en": "The unit gains the Ensnare special rule against units with the Fly special rule. This artefact may not be given to units with the Fly special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Entraves contre les unités avec la règle spéciale Vol. Cet Objet Magique ne peut pas être donné aux unités avec la règle spéciale Vol.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11963,7 +11963,7 @@
     },
     {
       "value_en": "The unit gains the Fireball (8) spell, or if the unit already has a Fireball spell, its value is increased by 6.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le Sort Boule de feu (8), ou si l'unité possède déjà le Sort Boule de feu, sa valeur est augmentée de 6.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11971,7 +11971,7 @@
     },
     {
       "value_en": "The unit gains the Fury special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Furie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11979,7 +11979,7 @@
     },
     {
       "value_en": "The unit gains the Headstrong special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Acharné.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11987,7 +11987,7 @@
     },
     {
       "value_en": "The unit gains the Heal (3) spell, or if the unit already has a Heal spell, its value is increased by 2.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le Sort Soin (3), ou si l'unité possède déjà le sort Soin, sa valeur est augmentée de 2.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -11995,7 +11995,7 @@
     },
     {
       "value_en": "The unit gains the Hex (2) spell. If this unit scores a hit with its Hex against an enemy Hero also carrying a Trickster's Wand, the enemy's Hex spell, granted by its Trickster's Wand, cannot be used for the remainder of the game.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le sort Maléfice (2). Si elle obtient une touche sur son Maléfice contre un héros ennemi qui possède lui aussi une Baguette du mystificateur, le sort Maléfice de l'ennemi accordé par cet objet magique ne peut plus être utilisé jusqu'à la fin de la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12003,7 +12003,7 @@
     },
     {
       "value_en": "The unit gains the Inspiring (Self) special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Motivant (Soi-même).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12011,7 +12011,7 @@
     },
     {
       "value_en": "The unit gains the Inspiring special rule. If a unit already has the Inspiring Special Rule, replace it with the Very Inspiring Special Rule. Units with the Very Inspiring Special Rule gain no additional effect.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Motivant. Si l'unité a déjà la règle spéciale Motivant, elle gagne Très Motivant à la place. Les unités qui ont déjà la règle spéciale Très Motivant n'ont pas d'effet supplémentaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12019,7 +12019,7 @@
     },
     {
       "value_en": "The unit gains the Iron Resolve (+1) Special Rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Volonté de fer (+1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12027,7 +12027,7 @@
     },
     {
       "value_en": "The unit gains the Lifeleech (+1) special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Drain de vie (+1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12043,7 +12043,7 @@
     },
     {
       "value_en": "The unit gains the Lightning Bolt (3) spell, or if the unit already has a Lightning Bolt spell, its value is increased by 2.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le Sort Éclair (3), ou si l'unité possède déjà le Sort Éclair, sa valeur est augmentée de 2.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12051,7 +12051,7 @@
     },
     {
       "value_en": "The unit gains the Mindfog (2) spell.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le Sort Brouillard (2).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12059,7 +12059,7 @@
     },
     {
       "value_en": "The unit gains the Mindthirst special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Soif mentale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12067,7 +12067,7 @@
     },
     {
       "value_en": "The unit gains the Nimble special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Agile.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12083,7 +12083,7 @@
     },
     {
       "value_en": "The unit gains the Surge (5) spell, or if the unit already has a Surge spell, its value is increased by 3.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le Sort Déferlement (5), ou si l'unité possède déjà le Sort Déferlement, sa valeur est augmentée de 3.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12091,7 +12091,7 @@
     },
     {
       "value_en": "The unit gains the Thunderous Charge (+1) special rule, but may not benefit from either the Strider or Pathfinder special rules when carrying out a Charge.",
-      "value_translated": null,
+      "value_translated": "Cette unité gagne la règle spéciale Charge fracassante (+1), mais elle ne peut pas bénéficier des règles spéciales Tout-terrain et Éclaireur quand elle effectue une Charge.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12107,7 +12107,7 @@
     },
     {
       "value_en": "The unit gains the Vicious special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Vicieux.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12115,7 +12115,7 @@
     },
     {
       "value_en": "The unit gains the Wild Charge (+1) special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Charge féroce (+1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12123,7 +12123,7 @@
     },
     {
       "value_en": "The unit gains the Wind Blast (5) spell, or if the unit already has a Wind Blast spell, its value is increased by 3.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne le sort Rafale de vent (5), ou si l'unité possède déjà le Sort Rafale de vent, sa valeur est augmentée de 3.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12131,7 +12131,7 @@
     },
     {
       "value_en": "The unit gains the following Ranged attack: War-Bow of Kaba: 24inches, Att: 1, Ra: 4+, Piercing (1), Steady Aim.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne l'attaque de tir suivante : Arc de guerre de Kaba - 24”, Att 1, Tir 4+, Perforant (1), Tir stable.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12147,7 +12147,7 @@
     },
     {
       "value_en": "The unit has a +1 to hit modifier with Melee attacks.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne un bonus de +1 sur ses jets d'attaque de mêlée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12179,7 +12179,7 @@
     },
     {
       "value_en": "The unit is not affected by the Dread, Shattering or Brutal special rules on enemy units.",
-      "value_translated": null,
+      "value_translated": "L'unité n'est pas affectée par les règles spéciales Brutal, Dispersion ou Terreur des unités ennemies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12195,7 +12195,7 @@
     },
     {
       "value_en": "The unit may still make Ranged attacks even after receiving an At the Double Movement order. Infantry and Heavy Infantry Only",
-      "value_translated": null,
+      "value_translated": "Infanterie et Infanterie Lourde seulement. L'unité peut effectuer une attaque de tir même après avoir reçu l'ordre de mouvement Marche forcée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12511,7 +12511,7 @@
     },
     {
       "value_en": "This unit gains the Brutal special rule.",
-      "value_translated": null,
+      "value_translated": "L'unité gagne la règle spéciale Brutal.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12519,7 +12519,7 @@
     },
     {
       "value_en": "This unit increases its Speed stat by +1.",
-      "value_translated": null,
+      "value_translated": "La valeur de Vitesse de l'unité augmente de +1.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12730,7 +12730,7 @@
     },
     {
       "value_en": "Tome of Darkness",
-      "value_translated": null,
+      "value_translated": "Grimoire des ténèbres",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12738,7 +12738,7 @@
     },
     {
       "value_en": "Torc of Dissonance",
-      "value_translated": null,
+      "value_translated": "Torque de dissonance",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12787,7 +12787,7 @@
     },
     {
       "value_en": "Trickster's Wand",
-      "value_translated": null,
+      "value_translated": "Baguette du mystificateur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12845,7 +12845,7 @@
     },
     {
       "value_en": "Troops only. The unit gains the Nimble special rule.",
-      "value_translated": null,
+      "value_translated": "Troupes seulement. L'unité gagne la règle spéciale Agile.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -12926,7 +12926,7 @@
     },
     {
       "value_en": "Unique units (i.e. units with a [1] limit) cannot choose artefacts.",
-      "value_translated": null,
+      "value_translated": "Les unités uniques (c'est-à-dire les unités avec une limite de [1]) ne peuvent pas choisir d'artefacts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -13309,7 +13309,7 @@
     },
     {
       "value_en": "Unless the artefact specifies otherwise, the following limits also apply:",
-      "value_translated": null,
+      "value_translated": "Sauf indication contraire dans la description de l’artefact, les restrictions suivantes s’appliquent également:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -13536,7 +13536,7 @@
     },
     {
       "value_en": "Wand of Borrowed Time",
-      "value_translated": null,
+      "value_translated": "Baguette de temps emprunté",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -13593,7 +13593,7 @@
     },
     {
       "value_en": "War-Bow of Kaba",
-      "value_translated": null,
+      "value_translated": "Arc de Guerre de Kaba",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -13793,7 +13793,7 @@
     },
     {
       "value_en": "When an item refers to ‘normal’ ranged attacks, it cannot be used with any Spells.",
-      "value_translated": null,
+      "value_translated": "Lorsqu’un objet fait référence aux attaques à distance 'normales', il ne peut pas être utilisé avec des sorts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -13913,7 +13913,7 @@
     },
     {
       "value_en": "When starting to deploy their units, your opponent must deploy D3+1 units instead of a single one.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'il commence son déploiement, votre adversaire doit déployer D3+1 unités au lieu d'une seule.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -13969,7 +13969,7 @@
     },
     {
       "value_en": "When the unit suffers a Rout result, all units in base contact with it suffer 2D6 hits at Piercing (3). These hits are resolved by the player that Routed the unit with the Crystal, which now has to resolve the hits against their own unit(s). After the damage has been resolved, no Nerve test is taken by the damaged units - they proceed to Regroup, but cannot move directly forward D6inches for their Regroup action, because they are deterred by the huge explosion.",
-      "value_translated": null,
+      "value_translated": "Lorsque l'unité est mise en Déroute, toutes les unités à son contact subissent 2D6 touches avec Perforant (3). Ces touches sont résolues par le joueur qui a mis en Déroute l'unité qui porte le pendentif. Celui-ci doit à présent (sûrement à contrecoeur) résoudre les touches contre ses propres unités. Après la résolution des blessures, aucun test de Moral n'est effectué pour les unités blessées. Elles se réorganisent, mais ne peuvent pas avancer de D6” droit devant, car elles sont gênées par l'énorme explosion.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14035,7 +14035,7 @@
     },
     {
       "value_en": "Whenever the unit roll to damage in Melee, it can re-roll one of the dice that failed to damage.",
-      "value_translated": null,
+      "value_translated": "Lorsque l'unité effectue son jet de blessure lors d'une mêlée, elle peut relancer l'un des dés qui a obtenu un échec.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14043,7 +14043,7 @@
     },
     {
       "value_en": "Whenever the unit rolls to damage with a Ranged attack, it can re-roll one of the dice that failed to damage.",
-      "value_translated": null,
+      "value_translated": "Lorsque l'unité effectue son jet de blessure lors d'un tir, elle peut relancer l'un des dés qui a obtenu un échec.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14059,7 +14059,7 @@
     },
     {
       "value_en": "Whenever the unit rolls to hit in Melee, it can re-roll one of the dice that failed to hit.",
-      "value_translated": null,
+      "value_translated": "Lorsque l'unité effectue son jet d'attaque lors d'une mêlée, elle peut relancer l'un des dés qui a obtenu un échec.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14067,7 +14067,7 @@
     },
     {
       "value_en": "Whenever the unit rolls to hit with non-unique spells, it can re-roll one of the dice that failed to hit.",
-      "value_translated": null,
+      "value_translated": "Lorsque l'unité effectue son jet d'attaque lors du lancement d'un sort non unique, elle peut relancer l'un des dés qui a obtenu un échec.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14083,7 +14083,7 @@
     },
     {
       "value_en": "Where a Common artefact has two different points values (e.g. [20/30] points), the first is the standard cost for most units. The second value is the cost when taking the artefact with a Horde or Legion sized unit – these pay a higher price due to the greater impact the artefact may have when used by larger and more powerful units.",
-      "value_translated": null,
+      "value_translated": "Lorsqu’un artefact commun affiche deux valeurs de coût différentes (par ex. [20/30] points), la première correspond au coût standard pour la plupart des unités. La seconde valeur est appliquée lorsqu’il est pris par une unité de taille Horde ou Légion, ces dernières payant un coût plus élevé en raison de l’impact accru que l’artefact peut avoir entre les mains d’unités plus grandes et plus puissantes.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14228,7 +14228,7 @@
     },
     {
       "value_en": "Wine of Elvenkind",
-      "value_translated": null,
+      "value_translated": "Vin des elfes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14236,7 +14236,7 @@
     },
     {
       "value_en": "Wingbane Cloak",
-      "value_translated": null,
+      "value_translated": "Cape du fléau des ailes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14244,7 +14244,7 @@
     },
     {
       "value_en": "Wings of Honeymaze",
-      "value_translated": null,
+      "value_translated": "Ailes de honeymaze",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -14448,7 +14448,7 @@
     },
     {
       "value_en": "Zephyr Crown",
-      "value_translated": null,
+      "value_translated": "Couronne du zéphyr",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
