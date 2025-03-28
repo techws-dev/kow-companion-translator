@@ -2131,7 +2131,7 @@
     },
     {
       "value_en": "After deployment and all Scout moves have been completed by both players, but before rolling for the first Turn, this unit may be picked up and redeployed anywhere in the controlling player’s deployment zone. If more than one unit shares this rule then pick up all units first, then deploy them. If units on both sides share this rule, both players remove all units with this rule from the board and then take turns deploying them starting with the player who finished their normal deployment first.",
-      "value_translated": null,
+      "value_translated": "Après le déploiement et une fois que tous les déplacements d'Avant-coureur ont été effectués par les deux joueurs, mais avant de lancer le dé pour déterminer le premier tour, cette unité peut être redéployée n'importe où dans la zone de déploiement du joueur qui la contrôle. Si plusieurs unités partagent cette règle, enlevez toutes les unités d'abord, puis déployez-les. Si des unités des deux camps partagent cette règle, les deux joueurs retirent toutes les unités avec cette règle de la table, puis les déploient à tour de rôle, en commençant par le joueur ayant terminé son déploiement normal en premier.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -2251,7 +2251,7 @@
     },
     {
       "value_en": "All Melee hits inflicted by this unit have a +(n) modifier when rolling to damage. This bonus is in addition to the unit's Crushing Strength (if any). However, the unit loses this bonus when Disordered and reduces this bonus by one when Hindered (to a minimum of zero).",
-      "value_translated": null,
+      "value_translated": "Tous les coups en mêlée infligés par cette unité bénéficient d'un modificateur +(n) lors du jet de dégâts. Ce bonus s'ajoute à la Force dévastatrice (s'il y en a une) de l'unité. Cependant, l'unité perd ce bonus lorsqu'elle est Désorganisée et réduit ce bonus de un lorsqu'elle est Gênée (avec un minimum de zéro).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -2299,7 +2299,7 @@
     },
     {
       "value_en": "All hits caused by Melee attacks from this unit have a +(n) modifier when rolling to damage.",
-      "value_translated": null,
+      "value_translated": "Toutes les touches d'attaques de Mêlée de cette unité bénéficient d'un modificateur +(n) lors du jet pour blesser.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -2307,7 +2307,7 @@
     },
     {
       "value_en": "All hits caused by Ranged attacks with this rule from this unit have a +(n) modifier when rolling to damage.",
-      "value_translated": null,
+      "value_translated": "Toutes les touches infligées par les attaques à distance d'une unité ayant cette règle bénéficient d'un modificateur +(n) lors du jet pour les dégâts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -2331,7 +2331,7 @@
     },
     {
       "value_en": "All spells, both Friendly and Enemy, targeting this unit suffer a -1 to hit modifier. Note that rolls of natural unmodified 6s still always hit.",
-      "value_translated": null,
+      "value_translated": "Tous les sorts, qu'ils proviennent d'unités amies ou ennemies, et visant cette unité subissent un malus de -1 pour toucher. Notez que les jets de 6 naturels non modifiés touchent toujours, quelle que soit la situation.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -4758,7 +4758,7 @@
     },
     {
       "value_en": "Enemy units making Ranged attacks against this unit suffer an additional -1 to hit modifier.",
-      "value_translated": null,
+      "value_translated": "Les unités ennemies effectuant des attaques à distance contre cette unité subissent un malus supplémentaire de -1 pour toucher.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -4872,7 +4872,7 @@
     },
     {
       "value_en": "Every time this unit receives a Movement order (including Halt), before doing anything else, roll a number of dice equal to the amount of damage currently on the unit. For every result of (n) or higher, the unit recovers one point of damage previously suffered.",
-      "value_translated": null,
+      "value_translated": "Chaque fois que cette unité reçoit un ordre de Mouvement (y compris Halte), avant de faire quoi que ce soit, lancez un nombre de dés égal à la quantité de dégâts actuellement subis par l'unité. Pour chaque résultat de (n) ou plus, l'unité retire un point de dégâts précédemment subis.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -5401,7 +5401,7 @@
     },
     {
       "value_en": "Friendly Core units within 6” of this unit have +n to their Wavering and Rout nerve value to a maximum of +2. This is cumulative if multiple units with Rallying are in range. For example, if a unit with a Ne stat of 13/15 is within 6” of a unit with Rallying (1), its Nerve stat is 14/16. If it moves out of the 6” range, its Nerve stat is 13/15 again. Only the Rout value of a Fearless unit is affected by Rallying.",
-      "value_translated": null,
+      "value_translated": "Les unités de base amies à moins de 6” de cette unité bénéficient de +n à leur valeur de Moral (Ebranlement et Déroute), jusqu'à un maximum de +2. Cet effet est cumulatif si plusieurs unités avec la règle Ralliement sont à portée. Par exemple, si une unité avec une stat de Moral de 13/15 se trouve à moins de 6” d'une unité avec Ralliement (1), sa stat de Moral devient 14/16. Si elle sort de la portée de 6”, sa stat de Moral revient à 13/15. Seule la valeur de Déroute d'une unité Sans Peur est affectée par Ralliement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -5777,7 +5777,7 @@
     },
     {
       "value_en": "Heroic",
-      "value_translated": null,
+      "value_translated": "Héroïque",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -5785,7 +5785,7 @@
     },
     {
       "value_en": "Heroic?",
-      "value_translated": null,
+      "value_translated": "Héroïque?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13"
@@ -6112,7 +6112,7 @@
     },
     {
       "value_en": "If a unit is damaged by the ranged attacks of one or more units with this rule, add one to the subsequent Nerve test at the end of the Ranged phase. If an enemy unit is subject to both the Shattering and Dread special rules, the attacking player must choose to use either the Shattering or the Dread modifiers. Both cannot be applied against the same unit.",
-      "value_translated": null,
+      "value_translated": "Si une unité est endommagée par les attaques à distance d'une ou plusieurs unités possédant cette règle, ajoutez un au test de Moral suivant à la fin de la phase de tir. Si une unité ennemie est soumise à la fois aux règles spéciales Dispersion et Terreur, le joueur attaquant doit choisir d'utiliser soit le modificateur de Dispersion, soit le modificateur de Terreur. Les deux ne peuvent pas être appliqués à la même unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6144,7 +6144,7 @@
     },
     {
       "value_en": "If a unit with this rule begins its turn Wavering, roll a die before declaring a Movement order (including Halt) for this unit. On a 3+ it shrugs off the effects of Wavering and is Disordered instead. Adjust any counters on the unit as required.",
-      "value_translated": null,
+      "value_translated": "Si une unité avec cette règle commence son tour en étant Ebranlée, lancez un dé avant de déclarer un ordre de Mouvement (y compris Halte) pour cette unité. Sur un résultat de 3 ou plus, elle se débarrasse des effets de l'Ebranlement et devient Désorganisée à la place. Ajustez les marqueurs de l'unité si nécessaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6304,7 +6304,7 @@
     },
     {
       "value_en": "If one or more points of damage are scored with this unit’s attack, the damaged enemy unit is given the Frozen Special Rule.",
-      "value_translated": null,
+      "value_translated": "Si cette unité inflige au moins un point de dégâts avec son attaque, l'unité ennemie endommagée reçoit la règle spéciale Gelé.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6384,7 +6384,7 @@
     },
     {
       "value_en": "If the unit’s attack hits the target, the target suffers a number of hits equal to the number in brackets, rather than a single hit. Once this is done, roll damage as normal for all of this hits caused.",
-      "value_translated": null,
+      "value_translated": "Si l'attaque de l'unité touche la cible, celle-ci subit un nombre de touches égal au nombre entre crochets, plutôt qu'une seule touche. Une fois cela fait, effectuez les jets de dégâts normalement pour toutes les touches infligées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6400,7 +6400,7 @@
     },
     {
       "value_en": "If this unit is Steady as a result of a Nerve test, it regains (n) points of damage previously suffered to a maximum of 3. If no value is specified, the unit has Iron Resolve (1).",
-      "value_translated": null,
+      "value_translated": "Si cette unité est Stable à la suite d'un test de Moral, elle regagne (n) points de dégâts précédemment subis, avec un maximum de 3. Si aucune valeur n'est spécifiée, l'unité possède Volonté de Fer (1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6408,7 +6408,7 @@
     },
     {
       "value_en": "If this unit is within 12” of an enemy unit with the Inspiring or Very Inspiring special rule and it is Routed, the opponent must re-roll that Nerve test. The second result stands.",
-      "value_translated": null,
+      "value_translated": "Si cette unité se trouve à moins de 12” d'une unité ennemie avec la règle spéciale Motivant ou Très Motivant et qu'elle est mise en Déroute, l'adversaire doit relancer son test de Moral. Le second résultat prévaut.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6416,7 +6416,7 @@
     },
     {
       "value_en": "If this unit, or any Friendly Core unit within 6inches of this unit, suffers a Rout result, the opponent must re-roll that Nerve test. The second result stands. Note that a unit may also have a qualifier for its Inspiring rule. In this case the unit will only Inspire itself and the unit(s) specified.",
-      "value_translated": null,
+      "value_translated": "Si cette unité, ou toute unité de base amie à moins de 6 pouces de cette unité, subit un résultat de Déroute, l'adversaire doit relancer le test de Moral. Le deuxième résultat est celui qui s'applique. Notez qu'une unité peut également avoir une condition pour sa règle Motivant. Dans ce cas, l'unité ne Motivera qu'elle-même et les unités spécifiées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6809,7 +6809,7 @@
     },
     {
       "value_en": "In the Movement phase, after this unit has completed its order, all Enemy units within 6” of this unit take an immediate point of damage. Units can only be damaged by a single source of Cloak of Death per Turn. No Nerve test is required for damage taken from a Cloak of Death.",
-      "value_translated": null,
+      "value_translated": "Lors de la phase de Mouvement, après que cette unité ait réalisé son ordre, toutes les unités ennemies situées à moins de 6” de cette unité subissent immédiatement un point de dégâts. Une unité ne peut être endommagée que par une seule source de Linceul de mort par tour. Aucun test de Moral n'est requis pour les dégâts infligés par le Linceul de mort.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -6817,7 +6817,7 @@
     },
     {
       "value_en": "In the Movement phase, after this unit has completed its order, this unit and all Friendly Core units within 6” of this unit immediately remove one point of damage previously suffered. Units can only be affected by a single source of Radiance of Life per Turn. Note that Radiance of Life may have a further qualifier, in which case Radiance of Life will only remove damage from units with that name or Keyword in addition to the unit with the Radiance of Life Special Rule itself.",
-      "value_translated": null,
+      "value_translated": "Lors de la phase de Mouvement, après que cette unité ait terminé son ordre, cette unité et toutes les unités de base amies à moins de 6” de cette unité retirent immédiatement un point de dégât précédemment subi. Les unités ne peuvent être affectées que par une seule source de Radiance de Vie par tour. Notez que la Radiance de Vie peut comporter un qualificatif supplémentaire, auquel cas la Radiance de Vie ne retirera des dégâts que des unités portant ce nom ou mot-clé, en plus de l'unité possédant la règle spéciale Radiance de Vie elle-même.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -7019,7 +7019,7 @@
     },
     {
       "value_en": "Individuals with the Mighty special rule are no longer Yielding.",
-      "value_translated": null,
+      "value_translated": "Les Indépendants avec la règle spéciale Puissant ne Cèdent plus la Place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -7799,7 +7799,7 @@
     },
     {
       "value_en": "Melee attacks against the target unit’s front suffer an additional -1 to hit.",
-      "value_translated": null,
+      "value_translated": "Les attaques de mêlée contre la face avant de cette unité subissent un malus supplémentaire de -1 pour toucher.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -7855,7 +7855,7 @@
     },
     {
       "value_en": "Models with this special rule may add (n) to their charge range. This is added after Sp is doubled. For instance, a unit with a Sp stat of 4 and Wild Charge (2) can Charge units up to 10” away. - In some instances, the (n) value may be a variable die roll (e.g. Wild Charge (D3)). In these cases, at the start of the controlling player's turn, roll a separate D3 for each unit that has a variable wild charge before issuing any movement orders.",
-      "value_translated": null,
+      "value_translated": "Les figurines avec cette règle spéciale peuvent ajouter (n) à leur portée de Charge. Cette valeur est ajoutée après que la caractéristique de Vitesse ait été doublée. Par exemple, une unité avec une caractéristique de Vitesse de 4 et Charge féroce (2) peut charger des unités jusqu'à 10” de distance. Dans certains cas, la valeur (n) peut être un lancer de dé variable (par exemple, Charge féroce (D3)). Dans ce cas, au début du tour du joueur contrôlant l'unité, lancez un D3 distinct pour chaque unité ayant une Charge féroce variable avant de donner des ordres de mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -8026,7 +8026,7 @@
     },
     {
       "value_en": "Name",
-      "value_translated": null,
+      "value_translated": "Nom",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13",
@@ -9826,7 +9826,7 @@
     },
     {
       "value_en": "Ranged attacks made by this unit do not suffer the -1 to hit modifier from Cover that is granted by targeting a Concealed Target (although the target unit may still benefit from Cover from another source (e.g. by being Obscured)).",
-      "value_translated": null,
+      "value_translated": "Les attaques à distance effectuées par cette unité ne subissent pas le modificateur de -1 pour toucher provenant du Couvert d'une Cible Dissimulée (bien que l'unité cible puisse toujours bénéficier d'une Couvert provenant d'une autre source, par exemple en étant Masquée)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -9834,7 +9834,7 @@
     },
     {
       "value_en": "Ranged attacks made by this unit do not suffer the -1 to hit modifier from Cover that is granted by targeting an Obscured Target (although the unit may still benefit from Cover from another source (e.g. by being Concealed)).",
-      "value_translated": null,
+      "value_translated": "Les attaques à distance effectuées par cette unité ne subissent pas le modificateur de -1 pour toucher provenant du Couvert d'une Cible Masquée (bien que l'unité cible puisse toujours bénéficier d'une Couvert provenant d'une autre source, par exemple en étant Dissimulée)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -10370,7 +10370,7 @@
     },
     {
       "value_en": "See the Rules Chapter for Individuals",
-      "value_translated": null,
+      "value_translated": "Voir le Chapitre des règles pour les Indépendants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -11771,7 +11771,7 @@
     },
     {
       "value_en": "The unit can make a single At the Double or Advance order after set-up is finished but before the first Turn of the first Round begins. If moving At the Double as part of this order, the unit treats Obstacles and Difficult Terrain as Open Terrain during the Scout movement. If both armies have units with this rule, both players roll a single die each. The highest scorer decides who begins to move one of their Scout units first, then the players alternate until all Scout units have been moved. Players then roll to determine who takes the first Turn in Round one as normal.",
-      "value_translated": null,
+      "value_translated": "L'unité peut effectuer un ordre de Marche Forcée ou En Avant après la phase de déploiement, mais avant que le premier tour ne commence. Si elle se déplace en Marche Forcée, l'unité considère les Obstacles et les Terrains Difficiles comme des Terrains Dégagés pendant le mouvement d'Avant-coureur. Si les deux armées ont des unités avec cette règle, chaque joueur lance un dé. Le joueur ayant obtenu le score le plus élevé décide qui commence à déplacer l'une de ses unités d'Avant-coureur en premier, puis les joueurs alternent jusqu'à ce que toutes les unités d'Avant-coureur aient été déplacées. Les joueurs lancent ensuite un dé pour déterminer qui prend le premier tour, comme habituellement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -11779,7 +11779,7 @@
     },
     {
       "value_en": "The unit can make a single extra pivot of up to 90 degrees around its centre while executing any Movement order, including a Charge. It cannot make this extra pivot when ordered to Halt. When Disordered by a unit in Melee with either the Phalanx or Ensnare special rule, this unit loses the Nimble special rule until the end of its following Turn.",
-      "value_translated": null,
+      "value_translated": "L'unité peut effectuer un pivot supplémentaire allant jusqu'à 90 degrés autour de son centre lorsqu'elle exécute un ordre de Mouvement, y compris une Charge. Elle ne peut pas effectuer ce pivot supplémentaire lorsqu'elle sur un ordre de Halte. Lorsqu'elle est Désorganisée par une unité en Mélée avec les règles spéciales Phalange ou Entraves, cette unité perd la règle spéciale Agile jusqu'à la fin de son tour suivant.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -11787,7 +11787,7 @@
     },
     {
       "value_en": "The unit can move over anything and may pivot while above anything, as long as the flying unit's entire move ends clear of any units or Blocking Terrain. This includes Difficult Terrain the unit started in. The unit does not suffer Hindered charges for moving over Difficult Terrain or Obstacles, unless it ends the move within or touching them. While Disordered, this unit cannot use the Fly special rule. In addition, if a unit with Fly also has the Nimble special rule, then the Nimble special rule is also lost while the unit is Disordered.",
-      "value_translated": null,
+      "value_translated": "L'unité peut se déplacer au-dessus de tout élément et peut pivoter en plein vol, à condition que l’ensemble de son mouvement se termine sans chevaucher une autre unité ou un terrain bloquant. Cela inclut les terrains difficiles dans lesquels l'unité aurait pu commencer son mouvement. Elle ne subit pas de malus aux charges gênées en traversant des terrains difficiles ou des obstacles, sauf si elle termine son mouvement dedans ou en contact avec eux. Lorsqu’elle est Désorganisée, cette unité ne peut pas utiliser la règle spéciale Vol. De plus, si une unité avec Vol possède également la règle spéciale Agile, elle perd également Agile tant qu'elle est Désorganisée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -11811,7 +11811,7 @@
     },
     {
       "value_en": "The unit can only make ranged attacks if it received a Halt order in its previous Movement phase.",
-      "value_translated": null,
+      "value_translated": "L'unité ne peut effectuer d'attaque à distance que si elle a reçu un ordre de Halte lors de sa précédente phase de Mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -11819,7 +11819,7 @@
     },
     {
       "value_en": "The unit cannot be given an At the Double Movement order, except when carrying out a Scout move.",
-      "value_translated": null,
+      "value_translated": "L'unité ne peut pas recevoir d'ordre de Mouvement de Marche Forcée, sauf lorsqu'elle effectue un mouvement d'Avant-coureur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -11827,7 +11827,7 @@
     },
     {
       "value_en": "The unit cannot make Ranged attacks on targets that are within 12”.",
-      "value_translated": null,
+      "value_translated": "L'unité ne peut pas effectuer d'attaques à distance contre des cibles situées à moins de 12”.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -11859,7 +11859,7 @@
     },
     {
       "value_en": "The unit does not suffer from the -1 Moving modifier when making Ranged attacks.",
-      "value_translated": null,
+      "value_translated": "L'unité ne subit pas le malus de -1 lorsqu'elle effectue des attaques à distance après s'être déplacée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -12187,7 +12187,7 @@
     },
     {
       "value_en": "The unit may move At The Double through Difficult Terrain as though it were Open Terrain. Pathfinder units are not Hindered when making a Charge through, or ending over, Difficult Terrain.",
-      "value_translated": null,
+      "value_translated": "L'unité peut se déplacer en Marche Forcée à travers un Terrain Difficile comme s'il s'agissait d'un Terrain Dégagé. Les unités avec Eclaireur ne sont pas Gênées lorsqu'elles effectuent une Charge à travers, ou terminent leur mouvement au-dessus, d'un Terrain Difficile.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -12414,7 +12414,7 @@
     },
     {
       "value_en": "This is the same as the Inspiring special rule, except that it has a range of 9”. Any rule that affects Inspiring also affects Very Inspiring. Ignore this modifier for the purposes of Inspiring - this special rule affects all units, except Inspiring (Self).",
-      "value_translated": null,
+      "value_translated": "C'est la même règle que Motivant, sauf qu'elle a une portée de 9”. Toute règle qui affecte Motivant affecte également Très Motivant. Ignorez ce modificateur pour les effets de Motivant - cette règle spéciale affecte toutes les unités, à l'exception de Motivant (Soi-même).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -12527,7 +12527,7 @@
     },
     {
       "value_en": "This unit is considered a Scoring Unit with a Unit Strength of 0. Units with this rule add +1 to their US so long as they are outside of 6” of enemy units.",
-      "value_translated": null,
+      "value_translated": "Cette unité est considérée comme une Unités de Prise d'Ojectifs avec une Puissance d'Unité de 0. Les unités avec cette règle ajoutent +1 à leur PU tant qu'elles se trouvent à plus de 6” des unités ennemies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -12535,7 +12535,7 @@
     },
     {
       "value_en": "This unit treats its height as 3 (modified by terrain as normal) when drawing Line of Sight.",
-      "value_translated": null,
+      "value_translated": "Cette unité considère sa Taille comme étant de 3 (modifiée par le terrain comme d'habitude) lorsqu'elle trace sa ligne de vue.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -12543,7 +12543,7 @@
     },
     {
       "value_en": "This unit’s Charge is not Hindered when charging through, or ending its Charge on, Difficult Terrain or Obstacles.",
-      "value_translated": null,
+      "value_translated": "La Charge de cette unité n'est pas Gênée lorsqu'elle charge à travers, ou termine sa Charge sur du Terrain Difficile ou des Obstacles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13149,7 +13149,7 @@
     },
     {
       "value_en": "Units that Charge this unit's front cannot use the Thunderous Charge special rule. In addition, Cavalry, Large Cavalry and units with the Fly special rule that make an unhindered Charge against this unit's front suffer a -1 to hit modifier in the subsequent Melee.",
-      "value_translated": null,
+      "value_translated": "Les unités qui chargent l'avant de cette unité ne peuvent pas utiliser la règle spéciale Charge fracassante. De plus, les unités de Cavalerie, Cavalerie de Grande Taille et unités avec la règle spéciale Vol qui effectuent une Charge non Gênée contre l'avant de cette unité subissent un modificateur de -1 pour toucher lors du combat de mêlée qui suit.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13253,7 +13253,7 @@
     },
     {
       "value_en": "Units with this Special Rule add a number of dice when creating a Command Pool. For example, a unit with the Command (Red (1)) rule would add one Red Command Dice when rolling to create a Command Pool as long as they have not been routed.",
-      "value_translated": null,
+      "value_translated": "Les unités avec cette règle spéciale ajoutent un certain nombre de dés lorsqu'elles créent une Réserve de Commandement. Par exemple, une unité avec la règle Commandement (Rouge (1)) ajouterait un dé de Commandement Rouge lorsqu'elle lance les dés pour créer une Réserve de Commandement, tant qu'elle n'est pas en Déroute.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13269,7 +13269,7 @@
     },
     {
       "value_en": "Unless Disordered, on a Turn in which this unit makes an Unhindered Charge it receives a +1 To Hit modifier in combat. This unit may not benefit from the effects of Pathfinder or Strider.",
-      "value_translated": null,
+      "value_translated": "À moins d'être Désorganisée, lors d'un tour où cette unité effectue une Charge non Gênée, elle bénéficie d'un modificateur de +1 pour toucher au combat. Cette unité ne peut pas bénéficier des effets d'Eclaireur ou de Tout-terrain.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13761,7 +13761,7 @@
     },
     {
       "value_en": "When Issuing an At The Double order, this unit can make a single pivot around its centre of up to 90 degrees from its current facing at any point during the order.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'elle recoit un ordre de Marche Forcée, cette unité peut effectuer un pivot unique de 90 degrés autour de son centre à n'importe quel moment pendant le mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13801,7 +13801,7 @@
     },
     {
       "value_en": "When attacking an enemy unit with the Infantry, Heavy Infantry, Swarm or Cavalry unit type, a unit with this Special Rule gains (n) additional attacks on its profile until the end of the Turn.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'une unité avec cette règle spéciale attaque une unité ennemie de type Infanterie, Infanterie Lourde, Nuée ou Cavalerie, cette unité gagne (n) attaques supplémentaires sur son profil jusqu'à la fin du tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13809,7 +13809,7 @@
     },
     {
       "value_en": "When attacking an enemy unit with the Large Infantry, Monstrous Infantry, Large Cavalry, Monster or Titan unit types, a unit with this Special Rule gains (n) additional attacks on its profile until the end of the Turn.",
-      "value_translated": null,
+      "value_translated": "Lorsqu'elle attaque une unité ennemie de type Infanterie de Grande Taille, Infanterie Monstrueuse, Cavalerie de Grande Taille, Monstre ou Titan, une unité avec cette Règle Spéciale gagne (n) attaques supplémentaires sur son profil jusqu'à la fin du Tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13945,7 +13945,7 @@
     },
     {
       "value_en": "When testing the Nerve of an enemy unit in Melee with one or more of your units with this rule, add the highest Brutal (n) value to the total rolled. If no value is specified, the unit has Brutal (1). If an enemy unit is subject to both the Brutal and Dread special rules, the attacking player must choose which to use.",
-      "value_translated": null,
+      "value_translated": "Lors du test de Moral d'une unité ennemie en mêlée avec une ou plusieurs de vos unités possédant cette règle, ajoutez la valeur la plus élevée de Brutal (n) au total du résultat. Si aucune valeur n'est spécifiée, l'unité a Brutal (1). Si une unité ennemie est soumise à la fois aux règles spéciales Brutal et Terreur, le joueur attaquant doit choisir laquelle utiliser.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -13977,7 +13977,7 @@
     },
     {
       "value_en": "When this unit completes its to-hit and to-damage rolls in Melee combat, it regains one point of damage it has previously suffered for every point of damage it causes on the enemy unit, up to a maximum of n. Lifeleech has a maximum total of 3.",
-      "value_translated": null,
+      "value_translated": "Lorsque cette unité effectue ses jets pour toucher et pour infliger des dégâts en Mêlée, elle regagne un point de dommage qu'elle a subi pour chaque point de dommage qu'elle inflige à l'unité ennemie, jusqu'à un maximum de n. Drain de vie a un maximum de 3.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -14051,7 +14051,7 @@
     },
     {
       "value_en": "Whenever the unit rolls to damage, it must reroll all dice that score a natural, unmodified 1.",
-      "value_translated": null,
+      "value_translated": "Chaque fois que l'unité lance des dés pour infliger des dommages, elle doit relancer tous les dés avec un 1 naturel non modifié.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -14075,7 +14075,7 @@
     },
     {
       "value_en": "Whenever the unit rolls to hit, it must re-roll all dice that score a natural, unmodified 1.",
-      "value_translated": null,
+      "value_translated": "Chaque fois que l'unité lance un dé pour toucher, elle doit relancer tous les dés qui obtiennent un 1 naturel non modifié.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -14107,7 +14107,7 @@
     },
     {
       "value_en": "While Wavering, this unit may still declare a Counter Charge.",
-      "value_translated": null,
+      "value_translated": "Bien qu'elle soit Ebranlée, cette unité peut tout de même déclarer une contre-charge.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -14115,7 +14115,7 @@
     },
     {
       "value_en": "While attacking enemy Individuals in Melee, this unit triples its number of Attacks.",
-      "value_translated": null,
+      "value_translated": "Cette unité triple son nombre d'attaques lorsqu'elle attaque des Indépendants en Mêlée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -14163,7 +14163,7 @@
     },
     {
       "value_en": "While within 6” of this unit, Enemy units have -1 to their Wavering and Rout Nerve values, in addition to any other modifiers that may apply. A unit can only be affected by a single source of Dread – multiple sources are not cumulative. If an Enemy unit is subject to both the Brutal and Dread special rules or the Shattering and Dread special rules, the attacking player must choose to use either the Brutal/Shattering or the Dread modifiers. Both cannot be applied against the same unit.",
-      "value_translated": null,
+      "value_translated": "Tant qu'une unité ennemie se trouve à 6” de cette unité, ses valeurs de Moral (Ebranlement et Déroute) subissent un malus de -1, en plus de tout autre modificateur pouvant s'appliquer. Une unité ne peut être affectée que par une seule source de Terreur - les effets de plusieurs sources ne sont pas cumulables. Si une unité ennemie est soumise à la fois aux règles spéciales Brutal et Terreur, ou Dispersion et Terreur, le joueur attaquant doit choisir d'appliquer soit les modificateurs Brutal/Dispersion, soit Terreur. Les deux ne peuvent pas être appliqués à la même unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"

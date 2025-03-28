@@ -61,6 +61,7 @@
             if (item !== undefined && item.value_translated !== null) {
                 element.innerHTML = element.innerHTML
                     .replaceAll('&amp;', '&')
+                    .replaceAll(/\s\s+/g, ' ')
                     .replaceAll(valueToTranslate, item.value_translated);
                 element.setAttribute('title', valueToTranslate);
             }
@@ -75,6 +76,7 @@
                     if (item !== undefined && item.value_translated !== null) {
                         child.data = child.data
                             .replaceAll('&amp;', '&')
+                            .replaceAll(/\s\s+/g, ' ')
                             .replaceAll(valueToTranslate, item.value_translated);
                         element.setAttribute('title', valueToTranslate);
                     }
@@ -83,7 +85,44 @@
             }
         }
     }
+
+    if (url === 'https://companion.manticgames.com/kings-of-war-rules/?chapter=11') {
+        // Reorder special rules table
+        const table = document.querySelector('.rules_chapter table');
+        sortTable(table, 0);
+    }
 })();
+
+
+// --------------------- //
+// -- UTILS FUNCTIONS -- //
+// --------------------- //
+
+function sortTable(table, index) {
+    var rows, switching, i, x, y, x_val, y_val, shouldSwitch;
+    switching = true;
+    while (switching) {
+      switching = false;
+      rows = table.rows;
+      for (i = 1; i < (rows.length - 1); i++) {
+        shouldSwitch = false;
+        x = rows[i].querySelectorAll("TH,TD").item(index);
+        y = rows[i + 1].querySelectorAll("TH,TD").item(index);
+        x_val = x.innerText.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        y_val = y.innerText.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        if (x_val > y_val) {
+          shouldSwitch = true;
+          break;
+        }
+      }
+      if (shouldSwitch) {
+        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+        switching = true;
+      }
+    }
+  }
+  
+
 
 // ------------------------ //
 // -- DEV MODE FUNCTIONS -- //
