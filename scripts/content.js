@@ -62,6 +62,7 @@
                 element.innerHTML = element.innerHTML
                     .replaceAll('&amp;', '&')
                     .replaceAll(valueToTranslate, item.value_translated);
+                element.setAttribute('title', valueToTranslate);
             }
         } else if (element.children.length > 0) {
             let child = element.firstChild
@@ -73,8 +74,9 @@
                     await handleDevMode(devMode, url, element, item, valueToTranslate);
                     if (item !== undefined && item.value_translated !== null) {
                         child.data = child.data
-                        .replaceAll('&amp;', '&')
-                        .replaceAll(valueToTranslate, item.value_translated);
+                            .replaceAll('&amp;', '&')
+                            .replaceAll(valueToTranslate, item.value_translated);
+                        element.setAttribute('title', valueToTranslate);
                     }
                 }
                 child = child.nextSibling
