@@ -8,6 +8,9 @@
     },
     "content_scripts": [
         {
+            "css": [
+                "styles/main.css"
+            ],
             "js": [
                 "scripts/dexie.js",
                 "scripts/content.js"

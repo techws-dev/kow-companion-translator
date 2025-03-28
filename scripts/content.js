@@ -1,4 +1,4 @@
-
+const container = document.getElementsByClassName('rules_container').item(0);
 
 (async function() {
     var db = new Dexie('KoWCompanionTranslator');
@@ -95,6 +95,8 @@
         const table = document.querySelector('.rules_chapter table');
         sortTable(table, 0);
     }
+
+    container.style.opacity = 1;
 })();
 
 
