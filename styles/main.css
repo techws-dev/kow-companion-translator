@@ -1,3 +1,18 @@
 .rules_container {
     opacity: 0;
 }
+
+@media print {
+    body > div:first-child,
+    .breadcrumb,
+    .rules_search,
+    .mobile-hide,
+    .main_footer,
+    a[title^="Next Chapter"] {
+        display: none !important;
+    }
+
+    .units-row {
+        width: 100%;
+    }
+}
