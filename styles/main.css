@@ -8,7 +8,11 @@
     .rules_search,
     .mobile-hide,
     .main_footer,
-    a[title^="Next Chapter"] {
+    a[title^="Next Chapter"],
+    a::after,
+    a::before,
+    a[href*="kings-of-war-errata"],
+    a[href*="kings-of-war-change-log"] {
         display: none !important;
     }
 
