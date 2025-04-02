@@ -1711,7 +1711,7 @@
     },
     {
       "value_en": "A diverse abundance of terrain becomes more important in smaller games where small imbalances in lists can have a big impact. Perhaps representing a small hamlet, or a farm with outbuildings. As such, it’s recommended that Ambush! games be played on a more terrain-crowded table than would be the case in traditional games. Players should make sure there are few, if any, clear lanes where LoS can be drawn across the entire table, to keep spells and other ranged attacks from dominating the game. Furthermore, blocking terrain and obstacles should be utilized to keep units with the Pathfinder special rule from dominating the playing area.",
-      "value_translated": "Une abondance variée de décors devient plus importante dans les petites parties, où de légers déséquilibres dans les listes peuvent avoir un impact significatif. Cela peut représenter un petit hameau ou une ferme avec des dépendances. Ainsi, il est recommandé que les parties de Kings of War: Embuscade! se jouent sur une table plus densément couverte de décors que dans les parties traditionnelles. Les joueurs doivent veiller à ce qu'il y ait peu, voire aucune, ligne dégagée permettant de tracer une ligne de vue (LoS) à travers toute la table, afin d'éviter que les sorts et autres attaques à distance ne dominent la partie. De plus, les terrains bloquants et les obstacles doivent être utilisés pour empêcher les unités dotées de la règle spéciale Éclaireur de dominer le champ de bataille.",
+      "value_translated": "Une abondance variée de décors devient plus importante dans les petites parties, où de légers déséquilibres dans les listes peuvent avoir un impact significatif. Cela peut représenter un petit hameau ou une ferme avec des dépendances. Ainsi, il est recommandé que les parties de Kings of War: Embuscade! se jouent sur une table plus densément couverte de décors que dans les parties traditionnelles. Les joueurs doivent veiller à ce qu'il y ait peu, voire aucune, ligne dégagée permettant de tracer une ligne de vue (LoS) à travers toute la table, afin d'éviter que les sorts et autres attaques à distance ne dominent la partie. De plus, les terrains infranchissables et les obstacles doivent être utilisés pour empêcher les unités dotées de la règle spéciale Éclaireur de dominer le champ de bataille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -1776,7 +1776,7 @@
     },
     {
       "value_en": "A number of scenarios require you to place an Objective Marker or Loot Counter in the centre of the board. If you are unable to do so due to Blocking Terrain, it should be placed along the centre line of the table as close to the centre as possible, remaining at least 3” from Blocking Terrain.",
-      "value_translated": "Dans certains scénarios, vous devez placer un Marqueur d'Objectif ou un Jeton de Butin au centre de la table. Si vous ne pouvez pas le faire en raison d'un Terrain Bloquant, il doit être placé le long de la ligne centrale de la table, aussi près du centre que possible, en restant à au moins 3 pouces du Terrain Bloquant.",
+      "value_translated": "Dans certains scénarios, vous devez placer un Marqueur d'Objectif ou un Jeton de Butin au centre de la table. Si vous ne pouvez pas le faire en raison d'un Terrain infranchissable, il doit être placé le long de la ligne centrale de la table, aussi près du centre que possible, en restant à au moins 3 pouces du Terrain infranchissable.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -2163,7 +2163,7 @@
     },
     {
       "value_en": "After rolling for the type of game and setting up the objectives/loot, if any, both players roll a die. The person scoring highest chooses one long edge of the battlefield as their own and then places one of their units on that side of the battlefield, more than 12” from the middle line. Their opponent then does the same on the opposite side of the table. The players continue to alternate placing units until they have placed all of their units onto the table in their Set-up areas.",
-      "value_translated": null,
+      "value_translated": "Après avoir déterminé le scénario et installé les objectifs/butins, le cas échéant, chaque joueur lance un dé. Le joueur obtenant le meilleur résultat choisit un des bords longs du champ de bataille comme étant le sien, puis place une de ses unités de ce côté du champ de bataille, à plus de 12” de la ligne médiane. Son adversaire fait ensuite de même de l'autre côté de la table. Les joueurs continuent à alterner pour placer leurs unités jusqu'à ce que toutes leurs unités soient mises en place dans leurs zones de déploiement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -2428,7 +2428,7 @@
     },
     {
       "value_en": "Alternatively, if you do not have a D12, roll a D6. On a 1-3 you will play scenarios 1-6, and on a 4-6 you will play scenarios 7-12. Roll another D6 to fnd out which of those you will play.",
-      "value_translated": null,
+      "value_translated": "Sinon, si vous n'avez pas de D12, lancez un D6. Sur un résultat de 1 à 3, vous jouerez les scénarios 1 à 6, et sur un résultat de 4 à 6, vous jouerez les scénarios 7 à 12. Lancez ensuite un autre D6 pour déterminer lequel de ces scénarios vous allez jouer.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -2533,7 +2533,7 @@
     },
     {
       "value_en": "Arcane Abilities",
-      "value_translated": null,
+      "value_translated": "Capacités des Arcanes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -2904,7 +2904,7 @@
     },
     {
       "value_en": "Bane Chant",
-      "value_translated": null,
+      "value_translated": "Mélopée du fléau",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -2920,7 +2920,7 @@
     },
     {
       "value_en": "Barkskin",
-      "value_translated": null,
+      "value_translated": "Peau d'écorce",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -2928,7 +2928,7 @@
     },
     {
       "value_en": "Bastion[1]",
-      "value_translated": null,
+      "value_translated": "Rempart[1]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -2985,7 +2985,7 @@
     },
     {
       "value_en": "Before rolling of to choose sides, place three Loot Counters on the centre line of the board. One must be placed in the exact centre of the board (or as close to it along the centre line as possible), and then players place one more each, rolling of to see who places theirs first. Loot Counters cannot be placed within 12” of each other or within 3” of Blocking Terrain.",
-      "value_translated": "Avant de lancer le dé pour choisir les zones de départ, placez trois jetons de butin sur la ligne centrale du champ de bataille. L’un d’eux doit être placé exactement au centre du champ de bataille (ou aussi près que possible de ce point, le long de la ligne centrale). Ensuite, chaque joueur place un jeton supplémentaire, en lançant un dé pour déterminer qui place le sien en premier. Les jetons de butin ne peuvent pas être placés à moins de 12” les uns des autres, ni à moins de 3” d’un terrain bloquant.",
+      "value_translated": "Avant de lancer le dé pour choisir les zones de départ, placez trois jetons de butin sur la ligne centrale du champ de bataille. L’un d’eux doit être placé exactement au centre du champ de bataille (ou aussi près que possible de ce point, le long de la ligne centrale). Ensuite, chaque joueur place un jeton supplémentaire, en lançant un dé pour déterminer qui place le sien en premier. Les jetons de butin ne peuvent pas être placés à moins de 12” les uns des autres, ni à moins de 3” d’un terrain infranchissable.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -3009,7 +3009,7 @@
     },
     {
       "value_en": "Before the game, it’s a good idea if you and your opponent put some terrain on the battlefield. Arrange it in a sensible manner, trying to recreate a plausible landscape of the fantastic world your armies are battling in. Alternatively, find a third and neutral person to lay out the terrain for you.",
-      "value_translated": null,
+      "value_translated": "Avant la partie, il est conseillé que vous et votre adversaire disposiez quelques éléments de terrain sur le champ de bataille. Organisez-les de manière logique, en essayant de recréer un paysage plausible du monde fantastique dans lequel vos armées se battent. Vous pouvez également trouver une troisième personne neutre pour disposer le terrain à votre place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -3074,7 +3074,7 @@
     },
     {
       "value_en": "Blizzard[1]",
-      "value_translated": null,
+      "value_translated": "Blizzard[1]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -3082,7 +3082,7 @@
     },
     {
       "value_en": "Blocking Terrain",
-      "value_translated": "Terrain Bloquant",
+      "value_translated": "Terrain infranchissable",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3091,7 +3091,7 @@
     },
     {
       "value_en": "Blocking Terrain impacts LoS as described below.",
-      "value_translated": "Le Terrain Bloquant impacte la Ligne de Vue comme décrit ci-dessous.",
+      "value_translated": "Le Terrain infranchissable impacte la Ligne de Vue comme décrit ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -3099,7 +3099,7 @@
     },
     {
       "value_en": "Blocking Terrain is any solid piece of terrain such as high walls, buildings or large rock formations. The edge of the table is also normally treated as Blocking Terrain. When setting up the table, it is recommended that players leave at least 12” between any two pieces of Blocking Terrain to ensure that all units in the game can fit between them. It impacts the game in the following ways:",
-      "value_translated": "Le Terrain Bloquant désigne toute pièce de terrain solide, comme des murs hauts, des bâtiments ou de grandes formations rocheuses. Le bord de la table est également normalement traité comme un Terrain Bloquant. Lors de la mise en place de la table, il est recommandé que les joueurs laissent au moins 30 cm (12 pouces) entre deux pièces de Terrain Bloquant afin de s'assurer que toutes les unités du jeu peuvent se faufiler entre elles. Il impacte le jeu de la manière suivante:",
+      "value_translated": "Le Terrain infranchissable désigne toute pièce de terrain solide, comme des murs hauts, des bâtiments ou de grandes formations rocheuses. Le bord de la table est également normalement traité comme un Terrain infranchissable. Lors de la mise en place de la table, il est recommandé que les joueurs laissent au moins 30 cm (12 pouces) entre deux pièces de Terrain infranchissable afin de s'assurer que toutes les unités du jeu peuvent se faufiler entre elles. Il impacte le jeu de la manière suivante:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -3123,7 +3123,7 @@
     },
     {
       "value_en": "Bloodboil[1]",
-      "value_translated": null,
+      "value_translated": "Ebullition sanguine[1]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -3196,7 +3196,7 @@
     },
     {
       "value_en": "Both you and your opponent roll a die. The highest scorer chooses whether they are going to have the first Turn or give the first Turn to their opponent instead. Game on!",
-      "value_translated": null,
+      "value_translated": "Chaque joueur lance un dé. Celui ayant obtenu le meilleur résultat choisit s'il veut commencer le premier Tour ou s'il préfère laisser le premier Tour à son adversaire. C'est parti !",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -3350,7 +3350,7 @@
     },
     {
       "value_en": "Celestial Restoration",
-      "value_translated": null,
+      "value_translated": "Restauration céleste",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -3498,7 +3498,7 @@
     },
     {
       "value_en": "Choose a Gaming Area",
-      "value_translated": null,
+      "value_translated": "Définir la Zone de Jeu",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3646,7 +3646,7 @@
     },
     {
       "value_en": "Control",
-      "value_translated": null,
+      "value_translated": "Contrôle",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -3959,7 +3959,7 @@
     },
     {
       "value_en": "Description",
-      "value_translated": null,
+      "value_translated": "Description",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=13",
@@ -3978,7 +3978,7 @@
     },
     {
       "value_en": "Determine a Scenario",
-      "value_translated": null,
+      "value_translated": "Choisir un Scénario",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4156,7 +4156,7 @@
     },
     {
       "value_en": "Diagram M: Charging & Pivots avoiding Blocking Terrain.",
-      "value_translated": "Diagramme M: Charge et pivots pour éviter du Terrain Bloquant.",
+      "value_translated": "Diagramme M: Charge et pivots pour éviter du Terrain infranchissable.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4298,7 +4298,7 @@
     },
     {
       "value_en": "Dominate",
-      "value_translated": null,
+      "value_translated": "Domination",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -4346,7 +4346,7 @@
     },
     {
       "value_en": "Drain Life",
-      "value_translated": null,
+      "value_translated": "Absorption vitale",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -4387,7 +4387,7 @@
     },
     {
       "value_en": "Duration",
-      "value_translated": null,
+      "value_translated": "Durée de la partie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -4412,7 +4412,7 @@
     },
     {
       "value_en": "During a multi charge, the pivot may be necessary so that a charging unit can shuffle to its final position without going through another unit or piece of blocking terrain; this should, like above, be performed at the earliest possible point and be the minimum amount required. See Diagram P.",
-      "value_translated": "Lors d'une charge multiple, le pivot peut être nécessaire afin qu'une unité chargeante puisse se déplacer vers sa position finale sans traverser une autre unité ou un terrain bloquant ; cela doit, comme indiqué ci-dessus, être effectué au moment le plus tôt possible et avec le minimum d'angle nécessaire. Voir le Diagramme P.",
+      "value_translated": "Lors d'une charge multiple, le pivot peut être nécessaire afin qu'une unité chargeante puisse se déplacer vers sa position finale sans traverser une autre unité ou un terrain infranchissable ; cela doit, comme indiqué ci-dessus, être effectué au moment le plus tôt possible et avec le minimum d'angle nécessaire. Voir le Diagramme P.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4452,7 +4452,7 @@
     },
     {
       "value_en": "During this stage it’s vital that you agree what each piece of terrain is going to count as during the game – what is the Height of each piece of terrain? Is it Blocking Terrain, an Obstacle or an area of Difficult Terrain?",
-      "value_translated": null,
+      "value_translated": "À cette étape, il est essentiel que vous vous mettiez d'accord sur ce que chaque élément de terrain représentera pendant la partie : quelle est la hauteur de chaque élément de terrain ? S'agit-il de terrain infranchissable, d'un obstacle ou d'une zone de terrain difficile ?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -4645,7 +4645,7 @@
     },
     {
       "value_en": "Either pick one of the below scenarios to play or choose a random scenario by rolling a D12 and consulting the table below.",
-      "value_translated": null,
+      "value_translated": "Soit vous choisissez un des scénarios ci-dessous pour jouer, soit vous déterminez un scénario au hasard en lançant un D12 et en consultant le tableau ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -4741,7 +4741,7 @@
     },
     {
       "value_en": "Enemy",
-      "value_translated": null,
+      "value_translated": "Ennemis",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -4774,7 +4774,7 @@
     },
     {
       "value_en": "Enemy, CC",
-      "value_translated": null,
+      "value_translated": "Ennemis, LC",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -4832,7 +4832,7 @@
     },
     {
       "value_en": "Enthral",
-      "value_translated": null,
+      "value_translated": "Fascination",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -4971,7 +4971,7 @@
     },
     {
       "value_en": "Finally, shuffle the charger sideways until their unit Leader Point is facing directly opposite the centre of the target unit, or as close as possible to it. See Diagram F4. During this shuffle the charging unit may not pass through other units or Blocking Terrain. In some cases this shuffle may take the charging unit into Difficult Terrain or onto an Obstacle. In such cases, the Charge is considered Hindered.",
-      "value_translated": "Enfin, faites glisser l'unité chargeante sur le côté jusqu'à ce que son Point de Chef soit directement face au centre de l'unité cible, ou aussi près que possible de ce centre. Voir le Diagramme F4. Pendant ce déplacement, l'unité chargeante ne peut pas traverser d'autres unités ou des Terrains Bloquants. Dans certains cas, ce déplacement peut amener l'unité chargeante dans un Terrain Difficile ou sur un Obstacle. Dans de tels cas, la Charge est considérée comme gênée.",
+      "value_translated": "Enfin, faites glisser l'unité chargeante sur le côté jusqu'à ce que son Point de Chef soit directement face au centre de l'unité cible, ou aussi près que possible de ce centre. Voir le Diagramme F4. Pendant ce déplacement, l'unité chargeante ne peut pas traverser d'autres unités ou des Terrains infranchissables. Dans certains cas, ce déplacement peut amener l'unité chargeante dans un Terrain Difficile ou sur un Obstacle. Dans de tels cas, la Charge est considérée comme gênée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -4996,7 +4996,7 @@
     },
     {
       "value_en": "Fireball",
-      "value_translated": null,
+      "value_translated": "Boule de feu",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5021,7 +5021,7 @@
     },
     {
       "value_en": "First of all you and your opponent need to pick armies to an agreed total of points, using the process described in",
-      "value_translated": null,
+      "value_translated": "Tout d'abord, vous et votre adversaire devez choisir des armées en fonction d'un total de points convenu, en suivant le processus décrit dans",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -5103,7 +5103,7 @@
     },
     {
       "value_en": "Fool's Gold",
-      "value_translated": null,
+      "value_translated": "L’Or du Fou",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -5159,7 +5159,7 @@
     },
     {
       "value_en": "For each hit scored roll a single D3 and total the results. The unit regains this many points of damage that it has previously suffered. Dice rolled to hit with Celestial Restoration may not be re-rolled by any means.",
-      "value_translated": null,
+      "value_translated": "Pour chaque touche, lancez un D3 et comptabilisez le total. L'unité retire ce total de blessures subies préalablement. Les dés lancés pour toucher avec la Restauration céleste ne peuvent jamais être relancés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5167,7 +5167,7 @@
     },
     {
       "value_en": "For each hit scored, remove one point of damage that has been previously taken by the target and transfer it to the spellcaster. The spellcaster will not take a Nerve test for damagetaken in this way.",
-      "value_translated": null,
+      "value_translated": "Pour chaque touche obtenue, retirez une blessure subie préalablement par la cible, et transférez-la au lanceur de sort. Le lanceur n'effectue jamais de test de Moral pour les blessures reçues de cette façon.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5175,7 +5175,7 @@
     },
     {
       "value_en": "For each hit scored, roll a single D3. The combined total is the amount of attacks to roll for damage. Hits with this spell are resolved with the Frostbite Special Rule.",
-      "value_translated": null,
+      "value_translated": "Pour chaque touche obtenue, lancez un D3. Le total des résultats est le nombre de dés à lancer pour le jet de blessure. Si une ou plusieurs blessures sont infligées, la cible subit la règle spéciale Gelé.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5183,7 +5183,7 @@
     },
     {
       "value_en": "For each hit scored, the target Enemy unit is pulled 1inch directly forward if the spellcaster is in the target unit’s front arc, directly sideways and toward the spellcaster if the spellcaster is in either of the target unit’s flank arcs, or directly backward if the spellcaster is in the target unit’s rear arc. The target stops 1\" away from enemy units or just out of contact with Blocking Terrain and Friendly units. This spell has no effect on units with Speed 0.",
-      "value_translated": null,
+      "value_translated": "Chaque touche infligée attire la cible de 1” en ligne droite vers le lanceur de sort, vers l'avant si ce dernier se trouve dans l'arc avant de la cible, vers le côté s'il se trouve dans un arc de flanc, ou en arrière s'il se trouve dans son arc arrière. La cible s'arrête à 1” des ennemis, ou juste avant d'entrer au contact d'un terrain infranchissable ou d'un ami. Le Sort n'a aucun effet sur les unités ayant une Vitesse de 0.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5199,7 +5199,7 @@
     },
     {
       "value_en": "For each hit the target enemy unit is pushed 1inch directly backward if the spellcaster is in the target unit’s front arc, directly sideways and away from the spellcaster if the spellcaster is in either of the target unit’s flank arcs, or directly forward if the spellcaster is in the target unit’s rear arc. The target stops 1inch away from enemy units or just out of contact with blocking terrain and friends. This spell has no effect on Speed 0 units.",
-      "value_translated": null,
+      "value_translated": "Chaque touche infligée repousse l'ennemi ciblé de 1” en ligne droite, vers l'arrière si le lanceur de sort se trouve dans son arc avant, vers le côté s'il se trouve dans un arc de flanc, ou en avant s'il se trouve dans son arc arrière. La cible s'arrête à 1” de toute unité ennemie ou juste avant d'entrer en contact avec un terrain infranchissable ou une unité amie. Le Sort n'a aucun effet sur les unités ayant une Vitesse 0.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5207,7 +5207,7 @@
     },
     {
       "value_en": "For each hit, the target friendly Shambling unit moves straight forward a full inch (stopping just out of contact from Friendly units and Blocking Terrain). If applicable, the Fly special rule is not in effect for this movement. This Movement may bring a Surged unit within 1” of enemy units. If this movement brings it into contact with an Enemy unit, treat this as a successful Charge against the enemy facing that has been contacted. However, the charged unit will not take any Nerve tests for any damage it might have taken in the previous Ranged phase. If, and only if, the surged unit contacts a corner of the Enemy unit and not the edge, determine which arc of the target unit the Leader Point of the surging unit is in before it moves and align to that side to attack. If two Enemy units are contacted at the same time,the attacking player may choose which unit is being charged.If the Surge move took the unit over an Obstacle or through Difficult Terrain, then it will be Hindered in the ensuing combat as normal.This spell has no effect on units with Speed 0.",
-      "value_translated": null,
+      "value_translated": "Pour chaque touche obtenue, la cible Lente amie se déplace droit devant elle d'1” entier (en s'arrêtant juste avant d'entrer en contact avec une unité amie ou un terrain infranchissable). Si applicable, la règle spéciale Vol n'est pas en effet durant ce mouvement. Si ce mouvement amène l'unité au contact d'un ennemi, considérez-la comme une Charge réussie contre la face du socle ennemie avec laquelle elle est entrée en contact. Cependant, l'unité chargée ne fera pas de test de Moral pour les blessures subies durant la phase de tir. Si, et seulement si, l'unité qui a déferlé entre au contact d'un ennemi par un coin au lieu d'une face, déterminez quel arc de la cible est chargé en utilisant la position du chef de l'unité qui a déferlé avant le mouvement, puis alignez-là sur cette face pour l'attaque. Si l'unité entre au contact de deux ennemies en même temps, le joueur attaque choisit la cible de la Charge. Si le mouvement de Déferlement fait traverser à l'unité un obstacle ou un terrain difficile, celle-ci est Gênée durant le combat qui s'engage. Ce Sort n'a aucun effet sur les unités ayant une Vitesse de 0.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5215,7 +5215,7 @@
     },
     {
       "value_en": "For each hit, the target unit regains a point of damage that it has previously suffered.",
-      "value_translated": null,
+      "value_translated": "Chaque touche obtenue retire à l'unité ciblée une blessure subie préalablement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5255,7 +5255,7 @@
     },
     {
       "value_en": "For example, a tier 2 spellcaster can purchase Mindfog (2) for 10 points, or Mindfog (3) for 15 points, but not Mindfog (4).",
-      "value_translated": null,
+      "value_translated": "Par exemple, un lanceur de sorts de niveau 2 peut acheter Brouillard Mental (2) pour 10 points, ou Brouillard Mental (3) pour 15 points, mais pas Brouillard Mental (4).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5303,7 +5303,7 @@
     },
     {
       "value_en": "For example, spellcasters of tiers 2 and 3 can purchase Barkskin [1] (5) for 25 points, but as this is the only version of this spell, it is not available for spellcaster with a lower tier.",
-      "value_translated": null,
+      "value_translated": "Par exemple, les lanceurs de sorts de niveaux 2 et 3 peuvent acheter Peau d'écorce [1] (5) pour 25 points, mais comme c'est la seule version de ce sort, il n'est pas disponible pour les lanceurs de sorts de niveau inférieur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5392,7 +5392,7 @@
     },
     {
       "value_en": "Free Rules: What to Read Next?",
-      "value_translated": null,
+      "value_translated": "Règles gratuites: Que lire ensuite?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5409,7 +5409,7 @@
     },
     {
       "value_en": "Friendly Individuals or Self (individuals only), CC",
-      "value_translated": null,
+      "value_translated": "Amis Indépendants ou Soi-même (indépendants uniquement), LC",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5434,7 +5434,7 @@
     },
     {
       "value_en": "Friendly – Shambling Only",
-      "value_translated": null,
+      "value_translated": "Amis – Lent uniquement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5442,7 +5442,7 @@
     },
     {
       "value_en": "Friendly, CC",
-      "value_translated": null,
+      "value_translated": "Amis, LC",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5450,7 +5450,7 @@
     },
     {
       "value_en": "Friendly, Self, CC",
-      "value_translated": null,
+      "value_translated": "Amis, Soi-même, LC",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5582,7 +5582,7 @@
     },
     {
       "value_en": "Giants will walk through each other, extending their movement to end clear of other such units. Giants will walk around blocking terrain, but will walk through any other terrain. Each Giant will use the stats (ME, DE, ATT, Nerve and Special Rules) from the Goblin Giant unit entry, but with both Rampage and Slayer Rules.",
-      "value_translated": "Les Géants traverseront les autres Géants, augmentant leur mouvement pour se retrouver dégagés de toute autre unité de ce type. Ils contourneront le terrain bloquant, mais traverseront tous les autres types de terrain. Chaque Géant utilisera les statistiques (Me, De, Att, Moral et Règles spéciales) provenant de l'entrée de l'unité Géant Gobelin, mais avec les règles Déchainement et Massacreur.",
+      "value_translated": "Les Géants traverseront les autres Géants, augmentant leur mouvement pour se retrouver dégagés de toute autre unité de ce type. Ils contourneront le terrain infranchissable, mais traverseront tous les autres types de terrain. Chaque Géant utilisera les statistiques (Me, De, Att, Moral et Règles spéciales) provenant de l'entrée de l'unité Géant Gobelin, mais avec les règles Déchainement et Massacreur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -5671,7 +5671,7 @@
     },
     {
       "value_en": "Heal",
-      "value_translated": null,
+      "value_translated": "Soin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5793,7 +5793,7 @@
     },
     {
       "value_en": "Hex",
-      "value_translated": null,
+      "value_translated": "Maléfice",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5827,7 +5827,7 @@
     },
     {
       "value_en": "Hits on a 5+ against units in Cover.",
-      "value_translated": null,
+      "value_translated": "Touche sur un 5+ contre les unités à couvert.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5927,7 +5927,7 @@
     },
     {
       "value_en": "Host Shadowbeast",
-      "value_translated": null,
+      "value_translated": "Hôte de la bête de l'ombre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -5960,7 +5960,7 @@
     },
     {
       "value_en": "Icy Breath",
-      "value_translated": null,
+      "value_translated": "Souffle glacial",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6184,7 +6184,7 @@
     },
     {
       "value_en": "If any successes are rolled, until the start of your following Turn, when attacking in melee, the target may make a number of additional attacks equal to the casters Spellcaster tier plus 2. These attacks are rolled separately to their normal attacks and always hit on a 3+, with the Crushing Strength (3)Special Rule. These attacks are never doubled, tripled or affected by artefacts, spells or any other special rules. A spellcaster may cast host shadowbeast onto themselves and can do so even when engaged with an enemy unit. Multiple castings on the same target have no additional effect.",
-      "value_translated": null,
+      "value_translated": "Si au moins un touche est obtenue, jusqu’à la fin de votre prochain tour l’unité ciblée peut faire un nombre d’attaques additionnelles en mêlée égale à 2 + le Rang d’incantation du lanceur de sort. Ces attaques sont lancées séparément des attaques normales, elles touchent toujours sur 3+ avec la règle Force Dévastatrice (3). Ces attaques ne sont jamais doublées ou triplées et ne sont pas modifiées par les objets magiques, les sorts ou tout autre effet. Un lanceur de sort peut lancer Hôte de la bête des ombres sur lui-même, même s’il est engagé au corps à corps.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6264,7 +6264,7 @@
     },
     {
       "value_en": "If one or more hits are scored, for the rest of the turn the unit gains Crushing Strength (+1). This effect only applies once – multiple castings on the same target have no additional effect.",
-      "value_translated": null,
+      "value_translated": "Si une ou plusieurs touches sont obtenues, l'unité gagne Force dévastatrice (+1) jusqu'à la fin du tour. Cet effet ne s'applique qu'une seule fois, lancer plusieurs fois ce sort sur la même unité n'a pas d'effet cumulatif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6272,7 +6272,7 @@
     },
     {
       "value_en": "If one or more hits are scored, the spellcaster gains the Aura (Stealthy) special rule until the start of the player’s next Turn.",
-      "value_translated": null,
+      "value_translated": "Si une ou plusieurs touches sont obtenues, le lanceur de sort gagne la règle spéciale Aura (Furtif) jusqu'au début du prochain tour du joueur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6280,7 +6280,7 @@
     },
     {
       "value_en": "If one or more hits are scored, the target unit has a -1 modifier when rolling to damage enemy units during their next Turn (any rolls the unit makes of a natural 6 will still cause damage, however). Multiple castings of this spell, or combining it with Weakness, do not cause additional modifiers. Additionally, for each hit scored, roll a single D3 and total the results. This total is the amount of attacks to roll for damaging the target.",
-      "value_translated": null,
+      "value_translated": "Si une ou plusieurs touches sont obtenues, l'unité ciblée a un modificateur de -1 quand elle effectuera ses jets de blessures pendant le prochain tour (cependant tout résultat de 6 naturel causera une blessure). Lancer plusieurs fois ce sort sur la même unité ou en combinaison avec Faiblesse n'a pas d'effet cumulatif. En plus, pour chaque touche obtenue, lancez un D3 et faites le total. Ce total est le nombre de dés à lancer pour le jet de blessures à l'unité ciblée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6288,7 +6288,7 @@
     },
     {
       "value_en": "If one or more hits are scored, until the start of its next Turn, the target increases its Waver and Rout stat values by 1 and gains the Rallying (+1) special rule, to a maximum of 2.",
-      "value_translated": null,
+      "value_translated": "Si une ou plusieurs touches sont obtenues, la cible augmente de 1 ses valeurs d'Ébranlement et de Déroute, et gagne la règle spéciale Ralliement (+1), jusqu'à un maximum de 2. L'effet dure jusqu'à la fin de son prochain tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6296,7 +6296,7 @@
     },
     {
       "value_en": "If one or more hits are successfully scored, during the following Turn any charges made by the target unit will be Hindered. In addition, the target unit cannot use the Strider and Pathfinder special rules for the duration of its next Turn.",
-      "value_translated": null,
+      "value_translated": "Si une ou plusieurs touches sont obtenues, n'importe quelle charge effectuée par l'unité ciblée sera une Charge Gênée. En plus, l'unité ciblée perd les règles spéciales Tout-terrain et Éclaireur pour la durée de son prochain tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6432,7 +6432,7 @@
     },
     {
       "value_en": "If you are enjoying these rules as part of a free subscription, we recommend you read",
-      "value_translated": null,
+      "value_translated": "Si vous appréciez ces règles dans le cadre d'un abonnement gratuit, nous vous recommandons de lire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -6440,7 +6440,7 @@
     },
     {
       "value_en": "If you are playing on a size other than 6’x4’, then you may need to adjust the scenario. Usually this will mean reducing the number of objectives. We have detailed the recommended changes for a 4’x4’ board within the applicable scenarios. Please ensure that both players are aware of the changes being used for each scenario when necessary.",
-      "value_translated": null,
+      "value_translated": "Si vous jouez sur une table de taille différente de 6' x 4', il vous faudra probablement ajuster le scénario. Cela signifie généralement réduire le nombre d'objectifs. Nous avons indiqué les modifications recommandées pour une table de 4' x 4' dans les scénarios concernés. Veuillez vous assurer que les deux joueurs sont informés des ajustements apportés à chaque scénario lorsque cela est nécessaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -6640,7 +6640,7 @@
     },
     {
       "value_en": "In addition to the spells listed on their profile, a non-Living Legend (limited) unit with a spellcaster tier of 1 or more may purchase spells from the Library of Arcane Knowledge below. Any army may purchase each spell listed in the library once, and for a unit in addition to any artefacts or other selections on that unit’s profile (including optional upgrades) that are available.",
-      "value_translated": null,
+      "value_translated": "En plus des sorts listés sur leur profil, une unité mort-vivante légendaire (limitée) avec un niveau de lanceur de sorts de 1 ou plus peut acheter des sorts dans la Bibliothèque des Arcanes ci-dessous. Chaque armée peut acheter chaque sort listé dans la bibliothèque une seule fois, et pour une unité en plus de tous les artefacts ou autres sélections sur le profil de cette unité (y compris les améliorations optionnelles) qui sont disponibles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -6777,7 +6777,7 @@
     },
     {
       "value_en": "In reality, regimented units are more flexible in rearranging their ranks and files than our miniatures, so when a unit is pivoting around its centre, it can pivot through both friends and enemy units, and all types of terrain, including Blocking Terrain and the edge of the table. It must of course still end its pivot (and also its entire move) clear of Blocking Terrain (and completely on the table), not in base contact with Friendly units, and at least 1” away from Enemy units.",
-      "value_translated": "Dans la réalité, les unités en formation sont plus flexibles pour réarranger leurs troupes que nos figurines. Ainsi, lorsqu'une unité pivote autour de son centre, elle peut pivoter à travers des unités amies et ennemies, ainsi que tout type de terrain, y compris le terrain Bloquant et le bord de la table. Elle doit cependant terminer son pivot (et également son mouvement complet) hors du terrain Bloquant (et entièrement sur la table), sans être en contact avec des unités Amies, et à au moins 1 pouce des unités Ennemies.",
+      "value_translated": "Dans la réalité, les unités en formation sont plus flexibles pour réarranger leurs troupes que nos figurines. Ainsi, lorsqu'une unité pivote autour de son centre, elle peut pivoter à travers des unités amies et ennemies, ainsi que tout type de terrain, y compris le terrain infranchissable et le bord de la table. Elle doit cependant terminer son pivot (et également son mouvement complet) hors du terrain infranchissable (et entièrement sur la table), sans être en contact avec des unités Amies, et à au moins 1 pouce des unités Ennemies.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=3"
@@ -6866,7 +6866,7 @@
     },
     {
       "value_en": "Incantation of the Tempest [1]",
-      "value_translated": null,
+      "value_translated": "Incantation de la Tempête [1]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7115,7 +7115,7 @@
     },
     {
       "value_en": "Instead of causing damage, if one or more hits are scored, make a Nerve test for the target at the end of the Ranged phase as though damage had been caused.",
-      "value_translated": null,
+      "value_translated": "Au lieu d'infliger des blessures, si une ou plusieurs touches sont obtenues, effectuez un test de Moral pour la cible à la fin de la phase de tir, comme si elle avait été blessée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7123,7 +7123,7 @@
     },
     {
       "value_en": "Instead of causing damage, if one or more hits are scored, the target enemy unit is Hexed and receives two points of damage each time it scores a hit with a spell until the end of its next Turn. A Nerve test is not required for damage caused by this spell. While a unit is Hexed, it may not cast spells unless it received a Halt or Change Facing order in the Movement Phase.",
-      "value_translated": null,
+      "value_translated": "Au lieu d'infliger des blessures, si une ou plusieurs touches sont obtenues, la cible ennemie est Maléficiée et reçoit deux blessures à chaque fois qu'elle obtient une touche avec un sortilège, jusqu'à la fin de son prochain tour. Un test de Moral n'est pas nécessaire si des blessures sont infligées par ce sort. Tant que l'unité est Maléficiée, elle ne peut pas lancer de sorts sauf si elle a reçu l'ordre Halte ou Pivot pendant la phase de mouvement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7131,7 +7131,7 @@
     },
     {
       "value_en": "Instead of causing damage, if one or more hits are scored, the target unit has a -1 modifier when rolling to damage enemy units during their next turn (any rolls the unit makes of natural six will still cause damage, however). This effect only applies once – multiple castings on the same target have no effect.",
-      "value_translated": null,
+      "value_translated": "Si une ou plusieurs touches sont obtenues, la cible ne subit pas de blessure mais une pénalité de -1 sur son jet de blessure durant son prochain tour (mais les 6 naturels infligent quand même des blessures). Cet effet ne s'applique qu'une seule fois. Lancer plusieurs fois ce sort sur la même unité n'a pas d'effet cumulatif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7163,7 +7163,7 @@
     },
     {
       "value_en": "Invade",
-      "value_translated": null,
+      "value_translated": "Invasion",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -7261,7 +7261,7 @@
     },
     {
       "value_en": "Kill",
-      "value_translated": null,
+      "value_translated": "Massacre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -7286,7 +7286,7 @@
     },
     {
       "value_en": "Kings of War is usually played on a 6’x4’ board; however, sometimes you will be playing on a different size. If playing with fewer than 1500 points, you might choose a 4’x4’ board for example.",
-      "value_translated": null,
+      "value_translated": "Kings of War se joue généralement sur une table de 6' x 4' (1,80m x 1,20 m) ; cependant, il arrive que vous jouiez sur une table de taille différente. Par exemple, si vous jouez avec moins de 1500 points, vous pouvez opter pour une table de 4' x 4' (1,20m x 1,20m).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -7321,7 +7321,7 @@
     },
     {
       "value_en": "Knowledgeable [1]",
-      "value_translated": null,
+      "value_translated": "Savant [1]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7444,7 +7444,7 @@
     },
     {
       "value_en": "Library of Arcane Knowledge",
-      "value_translated": null,
+      "value_translated": "Bibliothèque des Arcanes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7453,7 +7453,7 @@
     },
     {
       "value_en": "Library of Arcane Knowledge Spells",
-      "value_translated": null,
+      "value_translated": "Sorts de la Bibliothèque des Arcanes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7477,7 +7477,7 @@
     },
     {
       "value_en": "Lightning Bolt",
-      "value_translated": null,
+      "value_translated": "Foudre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7485,7 +7485,7 @@
     },
     {
       "value_en": "Like other ranged attacks, most spells are not allowed to target units that are in Melee combat or Engaged. Spells that have ‘CC’ in the Targets section of their profile, meaning Combat Casting, are exceptions. They may target units in Melee or who are Engaged.",
-      "value_translated": null,
+      "value_translated": "Comme pour les autres attaques à distance, la plupart des sorts ne peuvent pas cibler des unités en mêlée ou engagées. Les sorts qui ont 'LC' dans la section Cibles de leur profil, ce qui signifie 'Lancer en Combat', font exception. Ceux-ci peuvent cibler des unités en mêlée ou engagées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7552,7 +7552,7 @@
     },
     {
       "value_en": "Loot",
-      "value_translated": null,
+      "value_translated": "Butin",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -7577,7 +7577,7 @@
     },
     {
       "value_en": "Loot Counters should always be placed at least 12” apart from each other and at least 3” away from any Blocking Terrain, unless starting the game in a unit.",
-      "value_translated": "Les jetons de butin doivent toujours être placés à au moins 12” l'un de l'autre et à au moins 3” de tout terrain bloquant, sauf lorsqu'ils commencent le jeu dans une unité.",
+      "value_translated": "Les jetons de butin doivent toujours être placés à au moins 12” l'un de l'autre et à au moins 3” de tout terrain infranchissable, sauf lorsqu'ils commencent le jeu dans une unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -7643,7 +7643,7 @@
     },
     {
       "value_en": "Martyr's Prayer[1]",
-      "value_translated": null,
+      "value_translated": "Prière du martyr[1]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7815,7 +7815,7 @@
     },
     {
       "value_en": "Mind Fog",
-      "value_translated": null,
+      "value_translated": "Brouillard mental",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -7831,7 +7831,7 @@
     },
     {
       "value_en": "Mindfog",
-      "value_translated": null,
+      "value_translated": "Brouillard mental",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -8261,7 +8261,7 @@
     },
     {
       "value_en": "Non-Living Legend heroes with a spellcaster tier of 1 or more may purchase any of the following upgrades:",
-      "value_translated": null,
+      "value_translated": "Les héros morts-vivants légendaires avec un niveau de lanceur de sorts de 1 ou plus peuvent acheter l'une des améliorations suivantes:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -8350,7 +8350,7 @@
     },
     {
       "value_en": "Note that it is important to have some pieces of terrain that block LoS toward the centre of the board in order to break up LoS and provide cover from units with ranged attacks. Hills, forests and Blocking Terrain are great for this purpose.",
-      "value_translated": "Il est important d'avoir quelques éléments de terrain qui bloquent la ligne de vue vers le centre du plateau afin de fragmenter la ligne de vue et offrir un couvert contre les unités possédant des attaques à distance. Les collines, les forêts et le terrain bloquant sont parfaits pour cela.",
+      "value_translated": "Il est important d'avoir quelques éléments de terrain qui bloquent la ligne de vue vers le centre du plateau afin de fragmenter la ligne de vue et offrir un couvert contre les unités possédant des attaques à distance. Les collines, les forêts et le terrain infranchissable sont parfaits pour cela.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8422,7 +8422,7 @@
     },
     {
       "value_en": "Now determine the scenario and its Victory Point conditions. At the end of each Round, roll for the Giants as they awaken from their slumber. Until they move at the end of the first Round, treat all Giants as blocking terrain.",
-      "value_translated": "Maintenant, déterminez le scénario et ses conditions de points de victoire. À la fin de chaque Tour de jeu, lancez les dés pour les Géants qui se réveillent de leur profond sommeil. Jusqu'à ce qu'ils se déplacent à la fin du premier Tour, considérez tous les Géants comme des terrains bloquants.",
+      "value_translated": "Maintenant, déterminez le scénario et ses conditions de points de victoire. À la fin de chaque Tour de jeu, lancez les dés pour les Géants qui se réveillent de leur profond sommeil. Jusqu'à ce qu'ils se déplacent à la fin du premier Tour, considérez tous les Géants comme des terrains infranchissables.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -8447,7 +8447,7 @@
     },
     {
       "value_en": "Objective Markers should always be placed at least 12” apart from each other and at least 3” away from any Blocking Terrain.",
-      "value_translated": "Les marqueurs d'objectif doivent toujours être placés à au moins 12” de distance les uns des autres et à au moins 3” de toute terrain bloquant.",
+      "value_translated": "Les marqueurs d'objectif doivent toujours être placés à au moins 12” de distance les uns des autres et à au moins 3” de toute terrain infranchissable.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=16"
@@ -8482,7 +8482,7 @@
     },
     {
       "value_en": "Obstacles are long and narrow pieces of terrain, like a low wall, a fence, a hedge, etc. – something that a roughly man-sized creature could see over and clamber across easily. Obstacles should be no more than 1” high – any higher and they will be Blocking Terrain instead. They impact the game in the following ways:",
-      "value_translated": "Les obstacles sont des éléments de terrain longs et étroits, comme un mur bas, une clôture, une haie, etc. – une créature de taille humaine pourrait facilement voir par-dessus et le franchir. Les obstacles ne doivent pas dépasser 1 pouce de hauteur ; au-delà, ils deviennent du terrain Bloquant. Ils ont les effets suivants sur le jeu:",
+      "value_translated": "Les obstacles sont des éléments de terrain longs et étroits, comme un mur bas, une clôture, une haie, etc. – une créature de taille humaine pourrait facilement voir par-dessus et le franchir. Les obstacles ne doivent pas dépasser 1 pouce de hauteur ; au-delà, ils deviennent du terrain infranchissable. Ils ont les effets suivants sur le jeu:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -8668,7 +8668,7 @@
     },
     {
       "value_en": "One pile of 3 Loot Counters must be placed in the exact centre of the board (or as close to it along the centre line as possible). Then players alternate placing a pile of 2 Loot Counters each along the centre line, rolling off to see who places their pile first. Loot Counter piles cannot be placed within 12” of each other or within 3” of Blocking Terrain.",
-      "value_translated": "Une pile de 3 jetons de butin doit être placée exactement au centre du plateau (ou aussi près que possible le long de la ligne centrale). Ensuite, les joueurs alternent pour placer une pile de 2 jetons de butin chacun le long de la ligne centrale, en lançant un dé pour déterminer qui place sa pile en premier. Les piles de jetons de butin ne peuvent pas être placées à moins de 12” les unes des autres ou à moins de 3” d'un terrain bloquant.",
+      "value_translated": "Une pile de 3 jetons de butin doit être placée exactement au centre du plateau (ou aussi près que possible le long de la ligne centrale). Ensuite, les joueurs alternent pour placer une pile de 2 jetons de butin chacun le long de la ligne centrale, en lançant un dé pour déterminer qui place sa pile en premier. Les piles de jetons de butin ne peuvent pas être placées à moins de 12” les unes des autres ou à moins de 3” d'un terrain infranchissable.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -9451,7 +9451,7 @@
     },
     {
       "value_en": "Piercing(1), Hits on a 5+ against units in Cover or with Stealthy.",
-      "value_translated": null,
+      "value_translated": "Perforant(1), Touche sur un 5+ contre les unités à couvert ou avec Furtif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -9459,7 +9459,7 @@
     },
     {
       "value_en": "Piercing(1), Hits on a 5+ against units in Cover.",
-      "value_translated": null,
+      "value_translated": "Perforant(1), Touche sur un 5+ contre les unités à couvert.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -9467,7 +9467,7 @@
     },
     {
       "value_en": "Piercing(4), Hits on a 5+ against units in Cover",
-      "value_translated": null,
+      "value_translated": "Perforant(4), Touche sur un 5+ contre les unités à couvert.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -9475,7 +9475,7 @@
     },
     {
       "value_en": "Pillage",
-      "value_translated": null,
+      "value_translated": "Pillage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -9499,7 +9499,7 @@
     },
     {
       "value_en": "Place Terrain",
-      "value_translated": null,
+      "value_translated": "Placer le Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9556,7 +9556,7 @@
     },
     {
       "value_en": "Playing a Game",
-      "value_translated": null,
+      "value_translated": "Jouer une Partie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -9564,7 +9564,7 @@
     },
     {
       "value_en": "Plunder",
-      "value_translated": null,
+      "value_translated": "Saccage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -9628,7 +9628,7 @@
     },
     {
       "value_en": "Prepare Your Forces",
-      "value_translated": null,
+      "value_translated": "Préparer votre Armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9711,7 +9711,7 @@
     },
     {
       "value_en": "Push",
-      "value_translated": null,
+      "value_translated": "Percée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -9759,7 +9759,7 @@
     },
     {
       "value_en": "Range",
-      "value_translated": null,
+      "value_translated": "Portée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -9851,7 +9851,7 @@
     },
     {
       "value_en": "Raze",
-      "value_translated": null,
+      "value_translated": "Ravage",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -9952,7 +9952,7 @@
     },
     {
       "value_en": "Regiment A is trying to Charge Horde B. It is in Horde B’s front arc, is able to draw line of sight to the unit and is in range. Blocking terrain is in the way, so it must pivot to make contact.",
-      "value_translated": "Le régiment A tente de charger la horde B. Il se trouve dans l'arc frontal de la horde B, peut établir une ligne de vue vers l'unité et est à portée. Un terrain bloquant se trouve sur son chemin, il doit donc pivoter pour entrer en contact.",
+      "value_translated": "Le régiment A tente de charger la horde B. Il se trouve dans l'arc frontal de la horde B, peut établir une ligne de vue vers l'unité et est à portée. Un terrain infranchissable se trouve sur son chemin, il doit donc pivoter pour entrer en contact.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -10122,7 +10122,7 @@
     },
     {
       "value_en": "Result",
-      "value_translated": null,
+      "value_translated": "Résultat",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -10154,7 +10154,7 @@
     },
     {
       "value_en": "Roll to damage as normal. If one or more points of damage are scored, choose either the caster or a single Friendly Core unit within 6” of the caster. Remove one point of damage from the chosen unit for each point of damage dealt to the target. If this is cast into Melee, the target will not take a Nerve test at the end of the Ranged phase.",
-      "value_translated": null,
+      "value_translated": "Lancez le jet de blessure normalement. Si une ou plusieurs blessures sont infligées, le lanceur ou une unité primaire amie de votre choix situés dans les 6” retire une blessure pour chaque blessure infligée à la cible. Si le sort est lancé sur une unité impliquée dans une mêlée, la cible n'effectue pas de test de Moral à la fin de la phase de tir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10162,7 +10162,7 @@
     },
     {
       "value_en": "Roll to damage the Enemy unit as normal. Hits with this spell are resolved with the Frostbite Special Rule.",
-      "value_translated": null,
+      "value_translated": "Lancez le jet de blessure normalement. Si une ou plusieurs blessures sont infligées, la cible subit la règle spéciale Gelé.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10170,7 +10170,7 @@
     },
     {
       "value_en": "Roll to damage the enemy as normal.",
-      "value_translated": null,
+      "value_translated": "Lancez le jet de blessure normalement.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10262,7 +10262,7 @@
     },
     {
       "value_en": "Salt the Earth",
-      "value_translated": null,
+      "value_translated": "Saler la Terre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -10297,7 +10297,7 @@
     },
     {
       "value_en": "Scenarios are an important part of balanced and varied play in Kings of War. To that end we have a total of 12 different and exciting scenarios in this book for you to use. Each scenario will explain how to set up your games and what the victory conditions and special rules will be for each player. For tournament organisers, to encourage players to bring well balanced armies, we strongly recommend playing a variety of these scenarios at your events.",
-      "value_translated": null,
+      "value_translated": "Les scénarios jouent un rôle important dans l équilibrage et la diversité des parties de Kings of War. C'est pourquoi nous vous proposons un total de 12 scénarios différents et passionnants dans ce livre. Chaque scénario explique comment configurer vos parties et quels seront les objectifs de victoire ainsi que les règles spéciales pour chaque joueur. Pour les organisateurs de tournois, afin d'encourager les joueurs à amener des armées bien équilibrées, nous recommandons vivement de jouer une variété de ces scénarios lors de vos événements.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -10305,7 +10305,7 @@
     },
     {
       "value_en": "Scorched Earth",
-      "value_translated": null,
+      "value_translated": "Terre brûlée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10387,7 +10387,7 @@
     },
     {
       "value_en": "Self",
-      "value_translated": null,
+      "value_translated": "Soi-même",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10403,7 +10403,7 @@
     },
     {
       "value_en": "Set-up",
-      "value_translated": null,
+      "value_translated": "Mise en place",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10681,7 +10681,7 @@
     },
     {
       "value_en": "Some spells have the target marked as ‘Friendly’. Such spells can only target Friendly units taken from the same list as the spellcaster with the spell. In other words, a spellcaster Primary Core unit may only target other Friendly Primary Core units, not Friendly Allied units and vice-versa: a spellcaster Allied Core unit can only target other Friendly Allied Core, not Friendly Primary Core units. Such spells can only target the spellcaster itself if ‘Self’ is listed in in the Targets section of the spell’s profile.",
-      "value_translated": null,
+      "value_translated": "Certains sorts ont de noté comme cibles 'Amis'. Ces sorts ne peuvent cibler que des unités amies issues de la même liste que le lanceur de sorts. En d'autres termes, une unité de base principale du lanceur de sorts ne peut cibler que d'autres unités de base principale amies, et non des unités alliées amies, et vice-versa: une unité de base alliée du lanceur de sorts ne peut cibler que d'autres unités de base alliés amies, et non des unités de base principale amies. Ces sorts ne peuvent cibler le lanceur de sorts lui-même que si 'Soi-même' est indiqué dans la section cibles du profil du sort.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10828,7 +10828,7 @@
     },
     {
       "value_en": "Spell",
-      "value_translated": null,
+      "value_translated": "Sort",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10836,7 +10836,7 @@
     },
     {
       "value_en": "Spell List",
-      "value_translated": null,
+      "value_translated": "Liste des sorts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10853,7 +10853,7 @@
     },
     {
       "value_en": "Spellcasting Tiers",
-      "value_translated": null,
+      "value_translated": "Niveaux de lancement de sorts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10862,7 +10862,7 @@
     },
     {
       "value_en": "Spells",
-      "value_translated": null,
+      "value_translated": "Sorts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -10871,7 +10871,7 @@
     },
     {
       "value_en": "Spells are Ranged attacks and thus follow the normal rules for these (e.g. a model that moves At the Double cannot use spells in the same Turn), with the exceptions listed below. For spells, you always roll the number of dice indicated in the (n) value in the spellcaster’s entry for that spell, rather than the Att value of the spellcaster itself. The Att value of the spellcaster is only used when the model is using a Melee or non-magical Ranged attack, like a bow, instead of its spells. Spells always hit on 4+ and ignore all the normal to hit modifiers for Ranged attacks, including any modifiers from special rules, unless otherwise stated.",
-      "value_translated": null,
+      "value_translated": "Les sorts sont des attaques à distance et suivent donc les règles normales pour ces attaques (par exemple, un personnage ou une unité qui effectue un ordre de Marche Forcée ne peut pas lancer de sorts durant le même tour), à l'exception des règles spécifiées ci-dessous. Pour les sorts, vous lancez toujours le nombre de dés indiqué dans la valeur (n) du profil du lanceur de sorts pour ce sort, plutôt que la valeur d'Att de ce dernier. La valeur d'Att du lanceur de sorts n'est utilisée que lorsqu'il effectue une attaque au corps à corps ou une attaque à distance non-magique, comme avec un arc, au lieu de lancer un sort. Les sorts touchent toujours sur un 4+ et ignorent tous les modificateurs habituels pour toucher des attaques à distance, y compris ceux des règles spéciales, sauf indication contraire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -10887,7 +10887,7 @@
     },
     {
       "value_en": "Standard Spells",
-      "value_translated": null,
+      "value_translated": "Sorts communs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -11026,7 +11026,7 @@
     },
     {
       "value_en": "Surge",
-      "value_translated": null,
+      "value_translated": "Déferlement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -11094,7 +11094,7 @@
     },
     {
       "value_en": "Targets",
-      "value_translated": null,
+      "value_translated": "Cibles",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -11102,7 +11102,7 @@
     },
     {
       "value_en": "Terrain",
-      "value_translated": null,
+      "value_translated": "Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -11499,7 +11499,7 @@
     },
     {
       "value_en": "The charging unit moves forward to bring its front facing into contact with the facing of the enemy unit being charged. This is done without measuring how much distance they actually cover, going around any Blocking Terrain and any unit in their way (both Friendly and Enemy units). See Diagram F.",
-      "value_translated": "L'unité qui charge se déplace en avant pour amener sa face frontale en contact avec la face de l'unité ennemie chargée. Cela se fait sans mesurer la distance réellement parcourue, en contournant tout Terrain Bloquant et toute unité se trouvant sur son chemin (unités amies et ennemies). Voir le Diagramme F.",
+      "value_translated": "L'unité qui charge se déplace en avant pour amener sa face frontale en contact avec la face de l'unité ennemie chargée. Cela se fait sans mesurer la distance réellement parcourue, en contournant tout Terrain infranchissable et toute unité se trouvant sur son chemin (unités amies et ennemies). Voir le Diagramme F.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=4"
@@ -11595,7 +11595,7 @@
     },
     {
       "value_en": "The game lasts until each player has taken six Turns. At the end of Round 6, the player who went second rolls a die. On a 1-3 the game ends. On a 4-6 there is a Round 7. Both players play an extra turn and then the game ends – work out the winner as described in the scenario conditions.",
-      "value_translated": null,
+      "value_translated": "La partie dure jusqu'à ce que chaque joueur ait joué six Tours. À la fin du tour 6, le joueur qui a joué en second lance un dé. Sur un résultat de 1 à 3, la partie se termine. Sur un résultat de 4 à 6, un septième Tour est ajouté. Les deux joueurs jouent un tour supplémentaire, puis la partie se termine. Déterminez le vainqueur en fonction des conditions de victoire du scénario.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -11683,7 +11683,7 @@
     },
     {
       "value_en": "The spells listed in this section summarise the wealth of subtly different magical powers wielded in Kings of War by spellcasters – whether they are warlocks, witches, vile necromancers or holy priests. A spellcaster’s unit profile lists the spells already included in the cost of that spellcaster. In addition it will list any extra spells that can be purchased for the unit in the same way as other optional upgrades, along with their cost. This allows you to customise your magic users to a degree. Keep in mind, however, that a unit can make only a single Ranged attack per Turn, so while having more than one spell gives your spellcasters flexibility, it does not allow them to cast more than one at a time.",
-      "value_translated": null,
+      "value_translated": "Les sorts présentés dans cette section résument la diversité des pouvoirs magiques que peuvent déployer les lanceurs de sorts dans Kings of War – qu’il s’agisse de sorciers, de sorcières, de nécromanciens ou de prêtres sacrés. Le profil d’un lanceur de sorts indique les sorts inclus dans son coût de base. En plus, il mentionne les sorts supplémentaires que l’unité peut acquérir, de la même manière que d’autres améliorations optionnelles, avec leur coût respectif. Cela vous permet de personnaliser vos magiciens selon vos préférences. Cependant, gardez à l’esprit qu’une unité ne peut effectuer qu’une seule attaque à distance par tour. Ainsi, bien que disposer de plusieurs sorts offre une plus grande flexibilité à vos lanceurs de sorts, cela ne leur permet pas de lancer plus d’un sort par tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -11787,7 +11787,7 @@
     },
     {
       "value_en": "The unit can move over anything and may pivot while above anything, as long as the flying unit's entire move ends clear of any units or Blocking Terrain. This includes Difficult Terrain the unit started in. The unit does not suffer Hindered charges for moving over Difficult Terrain or Obstacles, unless it ends the move within or touching them. While Disordered, this unit cannot use the Fly special rule. In addition, if a unit with Fly also has the Nimble special rule, then the Nimble special rule is also lost while the unit is Disordered.",
-      "value_translated": "L'unité peut se déplacer au-dessus de tout élément et peut pivoter en plein vol, à condition que l’ensemble de son mouvement se termine sans chevaucher une autre unité ou un terrain bloquant. Cela inclut les terrains difficiles dans lesquels l'unité aurait pu commencer son mouvement. Elle ne subit pas de malus aux charges gênées en traversant des terrains difficiles ou des obstacles, sauf si elle termine son mouvement dedans ou en contact avec eux. Lorsqu’elle est Désorganisée, cette unité ne peut pas utiliser la règle spéciale Vol. De plus, si une unité avec Vol possède également la règle spéciale Agile, elle perd également Agile tant qu'elle est Désorganisée.",
+      "value_translated": "L'unité peut se déplacer au-dessus de tout élément et peut pivoter en plein vol, à condition que l’ensemble de son mouvement se termine sans chevaucher une autre unité ou un terrain infranchissable. Cela inclut les terrains difficiles dans lesquels l'unité aurait pu commencer son mouvement. Elle ne subit pas de malus aux charges gênées en traversant des terrains difficiles ou des obstacles, sauf si elle termine son mouvement dedans ou en contact avec eux. Lorsqu’elle est Désorganisée, cette unité ne peut pas utiliser la règle spéciale Vol. De plus, si une unité avec Vol possède également la règle spéciale Agile, elle perd également Agile tant qu'elle est Désorganisée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=11"
@@ -12909,7 +12909,7 @@
     },
     {
       "value_en": "Unique Spells",
-      "value_translated": null,
+      "value_translated": "Sorts uniques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -12918,7 +12918,7 @@
     },
     {
       "value_en": "Unique spells may only ever be taken once in an army. If a unit in the army has it by default on its profile, and another unit has it as an option, that other unit may not take it as an upgrade option. If two units have the option to take the spell, only one of the units may take the upgrade. Unique spells may never be taken by Allies.",
-      "value_translated": null,
+      "value_translated": "Les sorts uniques ne peuvent être choisis qu'une seule fois par armée. Si une unité de l'armée possède ce sort par défaut sur son profil, une autre unité ne pourra pas le prendre en tant qu'option d'amélioration. Si deux unités ont la possibilité de prendre ce sort, une seule d'entre elles pourra bénéficier de cette amélioration. Les sorts uniques ne peuvent jamais être pris par des alliés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -13109,7 +13109,7 @@
     },
     {
       "value_en": "Units can pivot through Blocking Terrain in the same way as other units.",
-      "value_translated": "Les unités peuvent pivoter à travers le Terrain Bloquant de la même manière que les autres unités.",
+      "value_translated": "Les unités peuvent pivoter à travers le Terrain infranchissable de la même manière que les autres unités.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -13117,7 +13117,7 @@
     },
     {
       "value_en": "Units cannot move across Blocking Terrain and must go around it.",
-      "value_translated": "Les unités ne peuvent pas traverser le Terrain Bloquant et doivent le contourner.",
+      "value_translated": "Les unités ne peuvent pas traverser le Terrain infranchissable et doivent le contourner.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -13317,7 +13317,7 @@
     },
     {
       "value_en": "Unlike most spells that always hit on a 4+, this spell rolls to hit on a result equal to the target’s Defence value (e.g. when targeting a Defence 5 unit, the spell will hit on a 5+ before any other modifiers are applied). For each hit scored, place a Barkskin token on the target unit (use a different coloured die or suitable markers). Whenever a unit with one or more Barkskin tokens would suffer damage, it instead removes one Barkskin token per point of damage taken. Once all Barkskin tokens have been removed, excess damage is suffered by the unit as normal. Removing a Barkskin token does not count as taking damage for the purposes of requiring a Nerve test or other special rules, but will still Disorder the target if the token was removed in Melee. At the start of the caster’s following Turn, all remaining Barkskin tokens on the target unit are removed from play.",
-      "value_translated": null,
+      "value_translated": "Contrairement à la plupart des Sorts qui touchent toujours sur un 4+, ce sort touche sur un score égal à la valeur de Défense de la cible (exemple : quand vous ciblez une unité avec une Défense de 5+, le sort touchera sur un 5+ avant l'application de n'importe quel autre modificateur). Pour chaque touche, placez un jeton Peau d'écorce sur l'unité ciblée. Lorsqu'une unité avec un ou plusieurs marqueurs Peau d'écorce devrait subir des blessures, à la place retirez un marqueur Peau d'écorce par blessure subie. Une fois que tous les marqueurs Peau d'écorce ont été retiré, les blessures excédentaires sont subies normalement par l'unité. Retirer un marqueur Peau d'écorce ne compte pas comme prendre une blessure pour savoir si un test de Moral est nécessaire ou si cela impacte une autre règle spéciale, mais cela inflige toujours l'état Désorganisée à l'unité si le marqueur a été retiré en Mêlée. Au début du prochain tour du lanceur de sort, tous les marqueurs Peau d'écorce restant sur l'unité ciblée sont retirés de la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -13391,7 +13391,7 @@
     },
     {
       "value_en": "Veil of Shadows",
-      "value_translated": null,
+      "value_translated": "Voile des ombres",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -13399,7 +13399,7 @@
     },
     {
       "value_en": "Veil of Shadows[1]",
-      "value_translated": null,
+      "value_translated": "Voile des ombres[1]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -13577,7 +13577,7 @@
     },
     {
       "value_en": "War Engines cannot be ordered to move At the Double, nor to Charge. While moving, War Engines treat Obstacles as Blocking Terrain.",
-      "value_translated": "Les Machines de guerre ne peuvent pas recevoir d'ordre de Marche Forcée, ni de Charge. Lors de leur déplacement, les Machines de guerre traitent les Obstacles comme du Terrain Bloquant.",
+      "value_translated": "Les Machines de guerre ne peuvent pas recevoir d'ordre de Marche Forcée, ni de Charge. Lors de leur déplacement, les Machines de guerre traitent les Obstacles comme du Terrain infranchissable.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=9"
@@ -13707,7 +13707,7 @@
     },
     {
       "value_en": "Weakness",
-      "value_translated": null,
+      "value_translated": "Faiblesse",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -13905,7 +13905,7 @@
     },
     {
       "value_en": "When rolling to hit, roll a number of dice equal to the amount of damage on the target unit.",
-      "value_translated": null,
+      "value_translated": "Pour le jet d'attaque, lancez un nombre de dés égal au nombre de blessures actuel de la cible.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -14131,7 +14131,7 @@
     },
     {
       "value_en": "While moving At the Double, units treat Difficult Terrain as Blocking Terrain instead.",
-      "value_translated": "Lorsqu'unité se déplace en marche forcée, elle considère le terrain difficile comme du terrain bloquant à la place.",
+      "value_translated": "Lorsqu'unité se déplace en marche forcée, elle considère le terrain difficile comme du terrain infranchissable à la place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -14171,7 +14171,7 @@
     },
     {
       "value_en": "Who Goes First?",
-      "value_translated": null,
+      "value_translated": "Qui commence?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -14220,7 +14220,7 @@
     },
     {
       "value_en": "Wind Blast",
-      "value_translated": null,
+      "value_translated": "Rafale de vent",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -14252,7 +14252,7 @@
     },
     {
       "value_en": "Wither and Perish",
-      "value_translated": null,
+      "value_translated": "Fane et pourri",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -14326,7 +14326,7 @@
     },
     {
       "value_en": "You can, of course, vary the number of Turns you want to play for, or decide to play for a set amount of time instead (e.g. two hours), after which the game continues until each player has had the same number of Turns. Alternatively, you could also play a Timed Game, as explained in the Timed Games section .",
-      "value_translated": null,
+      "value_translated": "Vous pouvez bien sûr varier le nombre de Tours que vous souhaitez jouer, ou décider de jouer pendant une période déterminée (par exemple, deux heures), après quoi la partie continue jusqu'à ce que chaque joueur ait joué le même nombre de Tours. Alternativement, vous pouvez également jouer une Partie Chronométrée, comme expliqué dans la section des Parties Chronométrées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -14582,7 +14582,7 @@
     },
     {
       "value_en": "a. Prepare Your Forces",
-      "value_translated": null,
+      "value_translated": "a. Préparer votre Armée",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -14598,7 +14598,7 @@
     },
     {
       "value_en": "a. Spells",
-      "value_translated": null,
+      "value_translated": "a. Sorts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -14715,7 +14715,7 @@
     },
     {
       "value_en": "b. Choose a Gaming Area",
-      "value_translated": null,
+      "value_translated": "b. Définir la Zone de Jeu",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -14787,7 +14787,7 @@
     },
     {
       "value_en": "b. Spellcasting Tiers",
-      "value_translated": null,
+      "value_translated": "b. Niveaux de lancement de sorts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -14908,7 +14908,7 @@
     },
     {
       "value_en": "c. Determine a Scenario",
-      "value_translated": null,
+      "value_translated": "c. Choisir un Scénario",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -14956,7 +14956,7 @@
     },
     {
       "value_en": "c. Unique Spells",
-      "value_translated": null,
+      "value_translated": "c. Sorts uniques",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -15019,7 +15019,7 @@
     },
     {
       "value_en": "d. Arcane Abilities",
-      "value_translated": null,
+      "value_translated": "d. Capacités des Arcanes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -15068,7 +15068,7 @@
     },
     {
       "value_en": "d. Place Terrain",
-      "value_translated": null,
+      "value_translated": "d. Placer le Terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -15170,7 +15170,7 @@
     },
     {
       "value_en": "e. Library of Arcane Knowledge",
-      "value_translated": null,
+      "value_translated": "e. Bibliothèque des Arcanes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -15227,7 +15227,7 @@
     },
     {
       "value_en": "e. Set-up",
-      "value_translated": null,
+      "value_translated": "e. Mise en place",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -15336,7 +15336,7 @@
     },
     {
       "value_en": "f. Spell List",
-      "value_translated": null,
+      "value_translated": "f. Liste des sorts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=14"
@@ -15344,7 +15344,7 @@
     },
     {
       "value_en": "f. Who Goes First?",
-      "value_translated": null,
+      "value_translated": "f. Qui commence?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -15389,7 +15389,7 @@
     },
     {
       "value_en": "g. Duration",
-      "value_translated": null,
+      "value_translated": "g. Durée de la partie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -15551,7 +15551,7 @@
     },
     {
       "value_en": "i. Free Rules: What to Read Next?",
-      "value_translated": null,
+      "value_translated": "i. Règles gratuites: Que lire ensuite?",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"
@@ -15717,7 +15717,7 @@
     },
     {
       "value_en": "ii. Blocking Terrain",
-      "value_translated": "ii. Terrain Bloquant",
+      "value_translated": "ii. Terrain infranchissable",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=5"
@@ -16190,7 +16190,7 @@
     },
     {
       "value_en": "rules to be able to play your first Kings of War games with any faction army box, or 2 Player Starter boxes.",
-      "value_translated": null,
+      "value_translated": "pour pouvoir jouer vos premières parties de Kings of War avec n'importe quelle boîte d'armée de faction ou les boîtes de démarrage à 2 joueurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=15"

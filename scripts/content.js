@@ -94,6 +94,12 @@ const container = document.getElementsByClassName('rules_container').item(0);
         // Reorder magical artifacts table
         const table = document.querySelector('.rules_chapter table');
         sortTable(table, 0);
+    } else if (url === 'https://companion.manticgames.com/kings-of-war-rules/?chapter=14') {
+        // Reorder magic tables
+        const tables = document.querySelectorAll('.rules_chapter table');
+        tables.forEach((table) => {
+            sortTable(table, 0);
+        });
     }
 
     container.style.opacity = 1;
