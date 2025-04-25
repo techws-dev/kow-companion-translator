@@ -100,6 +100,12 @@ const container = document.getElementsByClassName('rules_container').item(0);
         tables.forEach((table) => {
             sortTable(table, 0);
         });
+    } else if (url === 'https://companion.manticgames.com/kings-of-war-rules/?chapter=21') {
+        // Reorder command orders table
+        const tables = document.querySelectorAll('.rules_chapter table');
+        tables.forEach((table) => {
+            sortTable(table, 0);
+        });
     }
 
     container.style.opacity = 1;
