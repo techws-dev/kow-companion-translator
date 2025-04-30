@@ -60,6 +60,8 @@ const container = document.getElementsByClassName('rules_container').item(0);
             await handleDevMode(devMode, url, element, item, valueToTranslate);
             if (item !== undefined && item.value_translated !== null) {
                 element.innerHTML = element.innerHTML
+                    .replaceAll('&lt;', '<')
+                    .replaceAll('&gt;', '>')
                     .replaceAll('&amp;', '&')
                     .replaceAll(/\s\s+/g, ' ')
                     .replaceAll(valueToTranslate, item.value_translated);
@@ -75,6 +77,8 @@ const container = document.getElementsByClassName('rules_container').item(0);
                     await handleDevMode(devMode, url, element, item, valueToTranslate);
                     if (item !== undefined && item.value_translated !== null) {
                         child.data = child.data
+                            .replaceAll('&lt;', '<')
+                            .replaceAll('&gt;', '>')
                             .replaceAll('&amp;', '&')
                             .replaceAll(/\s\s+/g, ' ')
                             .replaceAll(valueToTranslate, item.value_translated);

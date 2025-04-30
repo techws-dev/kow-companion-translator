@@ -2227,7 +2227,7 @@
     },
     {
       "value_en": "Agile Rift-Spells",
-      "value_translated": null,
+      "value_translated": "Sort de la Faille Agile",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3033,7 +3033,7 @@
     },
     {
       "value_en": "Bigger Unit Sizes",
-      "value_translated": null,
+      "value_translated": "Tailles d'Unités plus grandes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3204,7 +3204,7 @@
     },
     {
       "value_en": "Brawny Rift-Spells",
-      "value_translated": null,
+      "value_translated": "Sort de la Faille Puissant",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3408,7 +3408,7 @@
     },
     {
       "value_en": "Channelling Tables in Larger Games",
-      "value_translated": null,
+      "value_translated": "Tables de Canalisation pour les grandes batailles",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3425,7 +3425,7 @@
     },
     {
       "value_en": "Chaotic Rift-Spells",
-      "value_translated": null,
+      "value_translated": "Sort de la Faille Chaotique",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3540,7 +3540,7 @@
     },
     {
       "value_en": "Colossal Titans",
-      "value_translated": null,
+      "value_translated": "Titans colossaux",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3802,7 +3802,7 @@
     },
     {
       "value_en": "D6",
-      "value_translated": null,
+      "value_translated": "D6",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3933,7 +3933,7 @@
     },
     {
       "value_en": "Depending on the number of attacks the base Regiment has, increase the attacks of the new Horde to the following:",
-      "value_translated": null,
+      "value_translated": "En fonction du nombre d'attaques du Régiment de base, augmentez les attaques de la nouvelle Horde comme suit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3941,7 +3941,7 @@
     },
     {
       "value_en": "Depending on the number of attacks the base Regiment has, increase the attacks of the new Legion to the following:",
-      "value_translated": null,
+      "value_translated": "En fonction du nombre d'attaques du Régiment de base, augmentez les attaques de la nouvelle Légion comme suit:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4330,7 +4330,7 @@
     },
     {
       "value_en": "Double the number of attacks.",
-      "value_translated": null,
+      "value_translated": "Doublez le nombre d'attaques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4532,7 +4532,7 @@
     },
     {
       "value_en": "Each Rift-Spell on the Channelling Table specifies whether it affects a Friendly or Enemy unit.",
-      "value_translated": null,
+      "value_translated": "Chaque Sort de la Faille présent sur la Table de Canalisation précise s’il affecte une unité amie ou ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4717,7 +4717,7 @@
     },
     {
       "value_en": "Enduring Rift-Spells",
-      "value_translated": null,
+      "value_translated": "Sort de la Faille Endurant",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4880,7 +4880,7 @@
     },
     {
       "value_en": "Example profile:",
-      "value_translated": null,
+      "value_translated": "Exemple de profil:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -5508,7 +5508,7 @@
     },
     {
       "value_en": "Games of Kings of War look spectacular. Often, players may want to get all their models together to play even larger, epic games, maybe on a weekend or over a whole evening with plenty of drinks and snacks on hand. We call these experiences Legendary games. They are the sort of thing you and your friends will be talking about for years afterwards and they look incredible!",
-      "value_translated": null,
+      "value_translated": "Les parties de Kings of War sont toujours spectaculaires. Il arrive souvent que les joueurs souhaitent rassembler toutes leurs figurines pour disputer des batailles encore plus grandes et épiques — pourquoi pas pendant un week-end ou une longue soirée, avec boissons et en-cas à portée de main. Nous appelons ces moments des parties légendaires. Ce sont des expériences dont vous et vos amis parlerez encore pendant des années... et elles sont visuellement impressionnantes!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5598,7 +5598,7 @@
     },
     {
       "value_en": "Grand Alliances",
-      "value_translated": null,
+      "value_translated": "Grandes Alliances",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7369,7 +7369,7 @@
     },
     {
       "value_en": "Larger Tables",
-      "value_translated": null,
+      "value_translated": "Grandes tables de jeu",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7386,7 +7386,7 @@
     },
     {
       "value_en": "Legendary Foes",
-      "value_translated": null,
+      "value_translated": "Ennemis Légendaires",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -7395,7 +7395,7 @@
     },
     {
       "value_en": "Legendary games involve at least 3000 points of units on each side, and more options are available to players. These rules detail how wizards can make use of the powers of the Rift in Legendary games, and how mighty creatures and units can be summoned to fight alongside your forces on the battlefield.",
-      "value_translated": null,
+      "value_translated": "Les parties légendaires impliquent au minimum 3000 points d’unités de chaque côté, et offrent davantage d’options aux joueurs. Ces règles expliquent comment les sorciers peuvent exploiter les pouvoirs de la Faille lors de ces parties, et comment d’imposantes créatures et unités peuvent être invoquées pour combattre aux côtés de vos forces sur le champ de bataille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7774,7 +7774,7 @@
     },
     {
       "value_en": "Melee Infantry/Heavy Infantry Hordes:",
-      "value_translated": null,
+      "value_translated": "Hordes d'Infanterie/Infanterie Lourde de Mêlée:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7782,7 +7782,7 @@
     },
     {
       "value_en": "Melee Infantry/Heavy Infantry Legions:",
-      "value_translated": null,
+      "value_translated": "Légions d'Infanterie/Infanterie Lourde de Mêlée:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9637,7 +9637,7 @@
     },
     {
       "value_en": "Price: 145% the points cost of a Regiment, rounding up to the nearest 5 pts.",
-      "value_translated": null,
+      "value_translated": "Coût: 145% du coût en points d'un Régiment, arrondi aux 5 points supérieurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9645,7 +9645,7 @@
     },
     {
       "value_en": "Price: 165% the points cost of a Regiment, rounding up to the nearest 5 pts.",
-      "value_translated": null,
+      "value_translated": "Coût: 165% du coût en points d'un Régiment, arrondi aux 5 points supérieurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9653,7 +9653,7 @@
     },
     {
       "value_en": "Price: 170% the points cost of a Regiment, rounding up to the nearest 5 pts.",
-      "value_translated": null,
+      "value_translated": "Coût: 170% du coût en points d'un Régiment, arrondi aux 5 points supérieurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9661,7 +9661,7 @@
     },
     {
       "value_en": "Price: 175% the points cost of a Horde, rounding up to the nearest 5 pts.",
-      "value_translated": null,
+      "value_translated": "Coût: 170% du coût en points d'une Horde, arrondi aux 5 points supérieurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9669,7 +9669,7 @@
     },
     {
       "value_en": "Price: 175% the points cost of a Regiment, rounding up to the nearest 5 pts.",
-      "value_translated": null,
+      "value_translated": "Coût: 175% du coût en points d'un Régiment, arrondi aux 5 points supérieurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9677,7 +9677,7 @@
     },
     {
       "value_en": "Price: 240% the points cost of a Regiment, rounding up to the nearest 5 pts.",
-      "value_translated": null,
+      "value_translated": "Coût: 240% du coût en points d'un Régiment, arrondi aux 5 points supérieurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9792,7 +9792,7 @@
     },
     {
       "value_en": "Ranged Infantry/Heavy Infantry Hordes:",
-      "value_translated": null,
+      "value_translated": "Hordes d'Infanterie/Infanterie Lourde de Tir:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9842,7 +9842,7 @@
     },
     {
       "value_en": "Rare Monsters",
-      "value_translated": null,
+      "value_translated": "Monstres rares",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -9992,7 +9992,7 @@
     },
     {
       "value_en": "Regiment: 12 > Horde: 25",
-      "value_translated": null,
+      "value_translated": "Régiment: 12 > Horde: 25",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10000,7 +10000,7 @@
     },
     {
       "value_en": "Regiment: 12 > Legion: 30",
-      "value_translated": null,
+      "value_translated": "Régiment: 12 > Légion: 30",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10008,7 +10008,7 @@
     },
     {
       "value_en": "Regiment: 15 > Horde: 30",
-      "value_translated": null,
+      "value_translated": "Régiment: 15 > Horde: 30",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10016,7 +10016,7 @@
     },
     {
       "value_en": "Regiment: 15 > Legion: 40",
-      "value_translated": null,
+      "value_translated": "Régiment: 15 > Légion: 40",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10024,7 +10024,7 @@
     },
     {
       "value_en": "Regiment: 20 > Horde: 40",
-      "value_translated": null,
+      "value_translated": "Régiment: 20 > Horde: 40",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10032,7 +10032,7 @@
     },
     {
       "value_en": "Regiment: 20 > Legion: 50",
-      "value_translated": null,
+      "value_translated": "Régiment: 20 > Légion: 50",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10040,7 +10040,7 @@
     },
     {
       "value_en": "Regiment: 25 > Horde: 50",
-      "value_translated": null,
+      "value_translated": "Régiment: 25 > Horde: 50",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10048,7 +10048,7 @@
     },
     {
       "value_en": "Regiment: 25 > Legion: 60",
-      "value_translated": null,
+      "value_translated": "Régiment: 25 > Légion: 60",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10130,7 +10130,7 @@
     },
     {
       "value_en": "Roll",
-      "value_translated": null,
+      "value_translated": "Jet",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10648,7 +10648,7 @@
     },
     {
       "value_en": "Some monsters are so rare as to be almost unknown in Pannithor. Sometimes in Legendary games, you will want to build your own monster to fit your miniature just right. In such cases use the following base profile, and pick any of the following options. This unit will count as a Titan for unlocking purposes.",
-      "value_translated": null,
+      "value_translated": "Certains monstres sont si rares qu'ils sont presque inconnus sur Pannithor. Parfois, lors des parties légendaires, vous souhaiterez créer votre propre monstre pour l'adapter parfaitement à votre figurine. Dans ce cas, utilisez le profil de base suivant et choisissez l'une des options suivantes. Cette unité sera considérée comme un Titan pour les conditions de déblocage.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11043,7 +11043,7 @@
     },
     {
       "value_en": "Swarms, Large Infantry, Monstrous Infantry or Large Cavalry Legions",
-      "value_translated": null,
+      "value_translated": "Légions de Nuées, Infanterie de Grande Taille, Infanterie Monstrueuse ou Cavalerie de Grande Taille",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11482,7 +11482,7 @@
     },
     {
       "value_en": "The base is how big!?",
-      "value_translated": null,
+      "value_translated": "C'est censé tenir sur un socle ?!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -13825,7 +13825,7 @@
     },
     {
       "value_en": "When building a Channelling Table, each player may choose one type of Rift-Spell (Agile, Brawny, Chaotic or Enduring) for each row (1 to 6) on the table below. A player does not have to pick a Rift-Spell for every row if they do not wish to. For every Rift-Spell a player chooses, they pay the indicated points cost as part of their army total.",
-      "value_translated": null,
+      "value_translated": "Lors de la création d’une Table de Canalisation, chaque joueur peut choisir un type de Sort de la Faille (Agile, Puissant, Chaotique ou Endurant) pour chaque rangée (de 1 à 6) du tableau ci-dessous. Il n’est pas obligatoire de sélectionner un Sort de la Faille pour chaque rangée si vous ne le souhaitez pas. Pour chaque sort choisi, vous devez en payer le coût en points indiqué, qui sera comptabilisé dans le total de votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -13833,7 +13833,7 @@
     },
     {
       "value_en": "When building an army list for a Legendary game, a player may also construct a “Channelling Table” to give their spellcasters the potential to harness the powers of the Rift and unleash them on the battlefield.",
-      "value_translated": null,
+      "value_translated": "Lors de la création d'une liste d’armée pour une partie légendaire, un joueur peut également concevoir une “Table de Canalisation” afin de permettre à ses lanceurs de sorts de puiser dans les pouvoirs de la Faille et de les déchaîner sur le champ de bataille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -14188,7 +14188,7 @@
     },
     {
       "value_en": "Why should Monsters and Titans have all the fun? Have you ever wanted a Horde of Mummies? A Legion of Palace Guard? In Legendary games you may apply the following formula to field larger sized units than normally allowed.",
-      "value_translated": null,
+      "value_translated": "Pourquoi seuls les Monstres et les Titans devraient-ils s'amuser? Avez-vous déjà rêvé d'une Horde de momies? D'une légion de Gardes du Palais? Dans les parties légendaires, vous pouvez appliquer la formule suivante pour déployer des unités de taille plus grande que celles normalement autorisées.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -14440,7 +14440,7 @@
     },
     {
       "value_en": "You’ll notice that recreating the Salamander Fire Drake comes out a little pricier than buying a stock fire drake. Like most things in life, things are a little more expensive à la carte than in a bundle.",
-      "value_translated": null,
+      "value_translated": "Vous remarquerez que recréer un Salamander Fire Drake revient un peu plus cher que d'acheter un Fire Drake standard. Comme dans beaucoup de choses dans la vie, c'est toujours un peu plus cher à l'unité qu'en lot.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -14932,7 +14932,7 @@
     },
     {
       "value_en": "c. Grand Alliances",
-      "value_translated": null,
+      "value_translated": "c. Grandes Alliances",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15052,7 +15052,7 @@
     },
     {
       "value_en": "d. Legendary Foes",
-      "value_translated": null,
+      "value_translated": "d. Ennemis Légendaires",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15154,7 +15154,7 @@
     },
     {
       "value_en": "e. Bigger Unit Sizes",
-      "value_translated": null,
+      "value_translated": "e. Tailles d'Unités plus grandes",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15503,7 +15503,7 @@
     },
     {
       "value_en": "i. Channelling Tables in Larger Games",
-      "value_translated": null,
+      "value_translated": "i. Tables de Canalisation pour les grandes batailles",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15519,7 +15519,7 @@
     },
     {
       "value_en": "i. Colossal Titans",
-      "value_translated": null,
+      "value_translated": "i. Titans colossaux",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15773,7 +15773,7 @@
     },
     {
       "value_en": "ii. Larger Tables",
-      "value_translated": null,
+      "value_translated": "ii. Grandes tables de jeu",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15813,7 +15813,7 @@
     },
     {
       "value_en": "ii. The base is how big!?",
-      "value_translated": null,
+      "value_translated": "ii. C'est censé tenir sur un socle ?!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15881,7 +15881,7 @@
     },
     {
       "value_en": "iii. Rare Monsters",
-      "value_translated": null,
+      "value_translated": "iii. Monstres rares",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -15963,7 +15963,7 @@
     },
     {
       "value_en": "iv. Example profile:",
-      "value_translated": null,
+      "value_translated": "iv. Exemple de profil:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
