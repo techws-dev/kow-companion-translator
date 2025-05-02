@@ -2388,7 +2388,7 @@
     },
     {
       "value_en": "Allies are never allowed in games of Ambush!",
-      "value_translated": null,
+      "value_translated": "Les Alliés ne sont pas autorisés dans les parties d'Embuscade!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -2436,7 +2436,7 @@
     },
     {
       "value_en": "Ambush! games present the opportunity for experienced Tournament Organisers and Clubs to try out a special tournament format known as Clocks of War. In a Clocks of War tournament, the time allotted for each game decreases as rounds progress, ramping up the pressure. When coupled with Ambush! games, a three-round Clocks of War tournament can be completed in just a couple of hours using the following guidelines to structure each round (all times are per player):",
-      "value_translated": null,
+      "value_translated": "Les parties d'Embuscade! offrent l’opportunité aux organisateurs de tournois expérimentés et aux clubs de tester un format spécial de tournoi appelé Chrono-Guerre. Dans un tournoi Chrono-Guerre, le temps alloué à chaque partie diminue à mesure que les manches avancent, augmentant ainsi la pression. Combiné aux parties d'Embuscade!, un tournoi Chrono-Guerre en trois manches peut être mené à bien en seulement quelques heures grâce aux directives suivantes pour structurer chaque manche (tous les temps indiqués sont par joueur):",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -2627,7 +2627,7 @@
     },
     {
       "value_en": "As with larger games, players set up their forces at the beginning of the game more than 12” from the centre line. On a 3’ x 3’ playing surface this means that the deployment zone is of course shallower than in larger games. Because of this it’s suggested that players abstain from placing blocking terrain within the deployment zones themselves as doing so makes it difficult to set up the entire army.",
-      "value_translated": null,
+      "value_translated": "Comme dans les parties de plus grande envergure, les joueurs déploient leurs forces au début de la partie à plus de 12” de la ligne centrale. Sur une surface de jeu de 3’ x 3’, cela signifie naturellement que la zone de déploiement est plus restreinte que dans les grandes parties. Pour cette raison, il est recommandé aux joueurs de s’abstenir de placer des éléments de terrain bloquant à l’intérieur même des zones de déploiement, car cela complique la mise en place complète de l’armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -2715,7 +2715,7 @@
     },
     {
       "value_en": "At the end of the battle, whichever player has the most tokens is the winner!",
-      "value_translated": null,
+      "value_translated": "À la fin de la bataille, le joueur ayant le plus de marqueurs est le vainqueur!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -2763,7 +2763,7 @@
     },
     {
       "value_en": "At the end of the game, count the total number of points that both players have killed. Whichever player that killed the most is declared the winner!",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, comptez le nombre total de points que chaque joueur a éliminés. Le joueur ayant éliminé le plus de points est déclaré vainqueur!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -3654,7 +3654,7 @@
     },
     {
       "value_en": "Control: There are only four 18”x18” squares on the table rather than six. The square that is on your right and on the opposite side of the table will give you the two Victory Points.",
-      "value_translated": null,
+      "value_translated": "Contrôle: Il n’y a que quatre zones de 18” x 18” sur la table au lieu de six. La zone située à votre droite, de l’autre côté de la table, vous rapporte deux points de victoire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -3722,7 +3722,7 @@
     },
     {
       "value_en": "Critical supplies are en route to a starving village, but bandits prey on the unwary!",
-      "value_translated": null,
+      "value_translated": "Des ravitaillements sont en route vers un village affamé, mais des bandits rôdent, prêts à attaquer les imprudents!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -3987,7 +3987,7 @@
     },
     {
       "value_en": "Determine one player to be the Recovery Team, and another to be the Bandit Raiders.",
-      "value_translated": null,
+      "value_translated": "Désignez un joueur qui jouera l’Équipe de Récupération et l’autre les Bandits.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -3995,7 +3995,7 @@
     },
     {
       "value_en": "Determine one player to be the attacker, and another to be the caravan. The game may be played at any point size. In addition, the caravan player must deploy 3 of the following:",
-      "value_translated": null,
+      "value_translated": "Désignez un joueur comme l'attaquant et un autre comme la caravane. La partie peut être jouée à n'importe quelle taille de points. De plus, le joueur de la caravane doit déployer 3 des éléments suivants:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -4003,7 +4003,7 @@
     },
     {
       "value_en": "Determine one player to be the attacker, and another to be the defender. The game may be played at any point size but the attacker always has 25% fewer points to spend than the defender.",
-      "value_translated": null,
+      "value_translated": "Désignez un joueur comme l'attaquant et un autre comme le défenseur. La partie peut être jouée à n'importe quelle taille de points, mais l'attaquant dispose toujours de 25% de points en moins que le défenseur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -4011,7 +4011,7 @@
     },
     {
       "value_en": "Determine one player to be the attacker, and another to be the defender. The game may be played at any point size but the attacker always has 25% more points to spend than the defender.",
-      "value_translated": null,
+      "value_translated": "Désignez un joueur comme l'attaquant et un autre comme le défenseur. La partie peut être jouée à n'importe quelle taille de points, mais l'attaquant dispose toujours de 25% de points en plus que le défenseur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -4306,7 +4306,7 @@
     },
     {
       "value_en": "Dominate: Decrease the size of the scoring zone to 9” from the centre of the playing area.",
-      "value_translated": null,
+      "value_translated": "Domination: Réduisez la zone de score à un rayon de 9” depuis le centre de la zone de jeu.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -4500,7 +4500,7 @@
     },
     {
       "value_en": "Each Hero, Monster, Titan or War Engine may only be taken once.",
-      "value_translated": null,
+      "value_translated": "Chaque Héros, Monstre, Titan ou Machine de Guerre ne peut être inclus qu’une seule fois.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -4848,7 +4848,7 @@
     },
     {
       "value_en": "Even if they are not marked with an *, all units with the Fly special rule are treated as Irregular in small point Kings of War.",
-      "value_translated": null,
+      "value_translated": "Même si elles ne sont pas marquées d’un astérisque (*), toutes les unités ayant la règle spéciale Vol sont considérées comme Irrégulières dans les parties à faible nombre de points de Kings of War.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -5111,7 +5111,7 @@
     },
     {
       "value_en": "Fool’s Gold: Use one of each value of Bluff Counter.",
-      "value_translated": null,
+      "value_translated": "L'Or du Fou : Utilisez un pion Bluff de chaque valeur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -5887,7 +5887,7 @@
     },
     {
       "value_en": "Hordes and Legions may not be taken in games of Ambush!",
-      "value_translated": null,
+      "value_translated": "Les Hordes et les Légions ne peuvent pas être jouées dans les parties d'Embuscade!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -5952,7 +5952,7 @@
     },
     {
       "value_en": "I beg you, return home, claim your birthright! Leave nothing unchecked, there is much to be found in forgotten places.",
-      "value_translated": null,
+      "value_translated": "Je vous en prie, rentrez chez vous, réclamez votre droit de naissance ! Cherchez dans chaque recoin, il y a tant à découvrir dans les lieux oubliés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -6648,7 +6648,7 @@
     },
     {
       "value_en": "In addition, after deployment is finished, the defender may deploy 2 additional 6” obstacle pieces of terrain touching the edge of the defender’s deployment zone in any fashion.",
-      "value_translated": null,
+      "value_translated": "De plus, une fois le déploiement terminé, le défenseur peut déployer 2 pièces de terrain d'obstacle de 6” supplémentaires, touchant le bord de sa zone de déploiement de la manière de son choix.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -6680,7 +6680,7 @@
     },
     {
       "value_en": "In all scenarios requiring the deployment of Loot tokens or Objective markers, the tokens and markers should be placed at least 9” apart rather than the 12” outlined in the scenarios section.",
-      "value_translated": null,
+      "value_translated": "Dans tous les scénarios nécessitant le déploiement de pions Butin ou de marqueurs d'Objectif, les pions et marqueurs doivent être placés à au moins 9” de distance, plutôt qu’à 12” comme indiqué dans la section des scénarios.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -6712,7 +6712,7 @@
     },
     {
       "value_en": "In games between 750-995 points, no unit may cost more than 250 points (including any magical artefacts, upgrades, or purchased spells).",
-      "value_translated": null,
+      "value_translated": "Dans les parties entre 750 et 995 points, aucune unité ne peut coûter plus de 250 points (y compris les artefacts magiques, améliorations ou sorts achetés).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -6729,7 +6729,7 @@
     },
     {
       "value_en": "In games under 750 points per side, no unit may cost more than 200 points (including any magical artefacts, upgrades, or purchased spells).",
-      "value_translated": null,
+      "value_translated": "Dans les parties à moins de 750 points par camp, aucune unité ne peut coûter plus de 200 points (y compris les artefacts magiques, améliorations ou sorts achetés).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -7187,7 +7187,7 @@
     },
     {
       "value_en": "Irregular Unit (See below)",
-      "value_translated": null,
+      "value_translated": "Unités Irrégulières (Voir plus bas)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -7510,7 +7510,7 @@
     },
     {
       "value_en": "Limited Units, Unique Upgrades, Formations and Unique Spells may not be taken.",
-      "value_translated": null,
+      "value_translated": "Les unités limitées, les améliorations uniques, les formations et les sorts uniques ne peuvent pas être inclus.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -8358,7 +8358,7 @@
     },
     {
       "value_en": "Note that some units have an asterisk next to their name (for example: Gargoyles*). We call these Irregular units, because they are not representative of the mainstay force of their army. In games of Ambush! this means they must be ‘unlocked’ by a regular Troop or Regiment in order to be included in your force in the same way Heroes, Monsters, Titans and War Engines must be unlocked. Therefore the number of Irregular Units you can include in your army is limited by the number of regular Troops and Regiments included in your army.",
-      "value_translated": null,
+      "value_translated": "Notez que certaines unités ont un astérisque à côté de leur nom (par exemple : Gargouilles*). Nous les appelons Unités Irégulières, car elles ne représentent pas la force principale de leur armée. Dans les parties d'Embuscade!, cela signifie qu’elles doivent être ’déverrouillées’ par une Troupe ou un Régiment régulier afin d’être incluses dans votre force, de la même manière que les Héros, Monstres, Titans et Machines de Guerre doivent être déverrouillés. Par conséquent, le nombre d’unités Irégulières que vous pouvez inclure dans votre armée est limité par le nombre de Troupes et de Régiments réguliers inclus dans votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -8540,7 +8540,7 @@
     },
     {
       "value_en": "On a turn in which a Caravan Wagon moves into a 6 inch deep by 12 “ wide zone centered on the opposite table edge from the Caravan Player, the Caravan is considered safely escorted and removed from play.",
-      "value_translated": null,
+      "value_translated": "Lors d'un tour où un Chariot de Caravane entre dans une zone de 6“ de profondeur et 12“ de largeur, centrée sur le bord opposé de la table par rapport au joueur de la Caravane, la Caravane est considérée comme escortée en toute sécurité et est retirée du jeu.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -8767,7 +8767,7 @@
     },
     {
       "value_en": "Our most venerable house",
-      "value_translated": null,
+      "value_translated": "Notre maison la plus vénérable",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -8775,7 +8775,7 @@
     },
     {
       "value_en": "Outnumbered and outmatched we must hold the line at all costs!",
-      "value_translated": null,
+      "value_translated": "En infériorité numérique et désavantagés, nous devons tenir la ligne à tout prix!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -9483,7 +9483,7 @@
     },
     {
       "value_en": "Pillage: Use D3+2 Objective Markers.",
-      "value_translated": null,
+      "value_translated": "Pillage: Utilisez D3+2 pions Objectif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -9548,7 +9548,7 @@
     },
     {
       "value_en": "Players should make the following changes to the each of the scenarios below:",
-      "value_translated": null,
+      "value_translated": "Les joueurs doivent apporter les modifications suivantes à chacun des scénarios ci-dessous:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -9572,7 +9572,7 @@
     },
     {
       "value_en": "Plunder: Use three Loot Counters on a 3’x3’ table. Rather than players choosing, the central counter is the single Primary Loot Counter.",
-      "value_translated": null,
+      "value_translated": "Saccage: Placez trois pions Butin sur une table de 3’ x 3’. Au lieu que les joueurs les choisissent, le pion central est désigné comme le seul pion Butin Principal.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -9620,7 +9620,7 @@
     },
     {
       "value_en": "Pregame",
-      "value_translated": null,
+      "value_translated": "Avant la partie",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -9859,7 +9859,7 @@
     },
     {
       "value_en": "Raze: Use 2 Objective Markers each.",
-      "value_translated": null,
+      "value_translated": "Ravage: Chaque joueur utilise 2 pions Objectif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -10205,7 +10205,7 @@
     },
     {
       "value_en": "Round 1: 3 minutes for every 100 points",
-      "value_translated": null,
+      "value_translated": "Manche 1: 3 minutes pour chaque tranche de 100 points",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -10213,7 +10213,7 @@
     },
     {
       "value_en": "Round 2: 2.5 minutes for every 100 points",
-      "value_translated": null,
+      "value_translated": "Manche 2: 2,5 minutes pour chaque tranche de 100 points",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -10221,7 +10221,7 @@
     },
     {
       "value_en": "Round 3: 2 minute for every 100 points",
-      "value_translated": null,
+      "value_translated": "Manche 3: 2 minutes pour chaque tranche de 100 points",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -10656,7 +10656,7 @@
     },
     {
       "value_en": "Some of the scenarios presented in the core rules (Kill, Push, Invade) can be played as written, but the others will need slight tweaking to accommodate the smaller forces and reduced playing surface in games of Ambush!",
-      "value_translated": null,
+      "value_translated": "Certains des scénarios présentés dans les règles de base (Massacre, Percée, Invasion) peuvent être joués tels quels, mais les autres nécessiteront quelques ajustements pour s'adapter aux forces plus petites et à la surface de jeu réduite dans les parties d'Embuscade!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11229,7 +11229,7 @@
     },
     {
       "value_en": "The Caravan",
-      "value_translated": null,
+      "value_translated": "La Caravane",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11272,7 +11272,7 @@
     },
     {
       "value_en": "The Dawn attack",
-      "value_translated": null,
+      "value_translated": "L'Attaque à l'Aube",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11337,7 +11337,7 @@
     },
     {
       "value_en": "The Recovery Team and the Bandits deploy as normal. The game must always have a square piece of Difficult Flat Terrain in the exact center of the Table that is 6” by 6” Known as the “Manor”. In addition, deploy a single loot token in the center of the Manor.",
-      "value_translated": null,
+      "value_translated": "L'Équipe de Récupération et les Bandits se déploient comme d'habitude. Le jeu doit toujours comporter un terrain plat difficile en forme de carré, situé exactement au centre de la table, mesurant 6” x 6”, appelé le 'Manoir'. De plus, déployez un seul marqueur Butin au centre du Manoir.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11345,7 +11345,7 @@
     },
     {
       "value_en": "The Recovery team player may choose to have their units delve into the ruins in search of trinkets and baubles. To do this, any unit at least partially within the Manor that issues a Halt order may roll a D6. On a 4+, that unit recovers and gains a loot token.",
-      "value_translated": null,
+      "value_translated": "Le joueur de l'Équipe de Récupération peut choisir de faire pénétrer ses unités dans les ruines à la recherche de bibelots et de trésors. Pour ce faire, toute unité située au moins partiellement dans le Manoir et ayant donné l'ordre Halte peut lancer un D6. Sur un résultat de 4 ou plus, cette unité récupère un marqueur Butin.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11442,7 +11442,7 @@
     },
     {
       "value_en": "The attacker deploys their full army as normal 12” from the centerline of the board. The Defending player splits their army into 2 roughly equal groups of units, deploying 1 within 3” of the centerline of the board (the vanguard), and the other in the normal 12” away from the centerline deployment zone (the rearguard).",
-      "value_translated": null,
+      "value_translated": "L'attaquant déploie son armée entière comme d'habitude, à 12” de la ligne centrale du plateau. Le joueur défenseur divise son armée en 2 groupes d'unités à peu près égaux, déployant l'un à moins de 3” de la ligne centrale du plateau (l'avant-garde), et l'autre dans la zone de déploiement habituelle à 12” de la ligne centrale (l'arrière-garde).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11450,7 +11450,7 @@
     },
     {
       "value_en": "The attacker earns scenario points for each Caravan Wagon they destroy by the end of the game. The Caravan Player earns points for each Caravan Safely escorted. Whichever player earned most points is declared the winner!",
-      "value_translated": null,
+      "value_translated": "L'attaquant gagne des points de scénario pour chaque Chariot de Caravane qu'il détruit avant la fin de la partie. Le joueur de la Caravane gagne des points pour chaque Chariot escorté en toute sécurité. Le joueur ayant obtenu le plus de points est déclaré vainqueur!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11458,7 +11458,7 @@
     },
     {
       "value_en": "The attacker earns scenario points for each point of unit strength they remove from the defender’s army by the end of the game. The defenders earn points equal to twice the amount of unit strength they have remaining fully within their deployment zone at the end of the final round. Whichever player earns more points is declared the winner!",
-      "value_translated": null,
+      "value_translated": "L'attaquant gagne des points de scénario pour chaque point de force d'unité qu'il élimine de l'armée du défenseur d'ici la fin de la partie. Le défenseur gagne des points équivalents au double de la force d'unité qu'il a encore entièrement dans sa zone de déploiement à la fin du dernier tour. Le joueur ayant accumulé le plus de points est déclaré vainqueur!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11466,7 +11466,7 @@
     },
     {
       "value_en": "The attacker may deploy up to 12” from their table edge up the left and right sides of the board and 6” inwards. The attacker must deploy as close to an equal amount of units as possible in both zones. The defending player must deploy their units within 12” of their table edge, but within a space 9 inches across (4.5” from the center of the table edge).",
-      "value_translated": null,
+      "value_translated": "L'attaquant peut déployer ses unités jusqu'à 12” de son bord de table, sur les côtés gauche et droit du plateau, et 6” vers l'intérieur. L'attaquant doit déployer un nombre d'unités aussi égal que possible dans les deux zones. Le joueur défenseur doit déployer ses unités dans un espace de 12” de son bord de table, mais dans une zone de 9” de large (4,5” à partir du centre du bord de table).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11474,7 +11474,7 @@
     },
     {
       "value_en": "The attacker may deploy up to 18” from their table edge up the left and right sides of the board and 6” inwards, as well as 6” inwards from their table edge. The defending player must deploy their units within 6” of the centre of the board.",
-      "value_translated": null,
+      "value_translated": "L'attaquant peut déployer ses unités jusqu'à 18” de son bord de table, sur les côtés gauche et droit du plateau, et 6” vers l'intérieur, ainsi que 6” vers l'intérieur depuis son bord de table. Le joueur défenseur doit déployer ses unités dans un rayon de 6” du centre du plateau.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -11531,7 +11531,7 @@
     },
     {
       "value_en": "The defending player may not move any units that were deployed in the rearguard until the start of their 3rd turn.",
-      "value_translated": null,
+      "value_translated": "Le joueur défenseur ne peut pas déplacer les unités déployées en arrière-garde avant le début de son 3ème tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -12243,7 +12243,7 @@
     },
     {
       "value_en": "The way players select their forces is a little different for games of Ambush!",
-      "value_translated": null,
+      "value_translated": "La façon dont les joueurs sélectionnent leurs forces est légèrement différente dans les parties d'Embuscade!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -12591,7 +12591,7 @@
     },
     {
       "value_en": "Thus, in a 1000 point tournament, the first game would last half an hour, the second would last 25 minutes, and the final game would last just 20 minutes per player!",
-      "value_translated": null,
+      "value_translated": "Ainsi, dans un tournoi à 1000 points, la première partie durerait une demi-heure, la deuxième 25 minutes, et la dernière seulement 20 minutes par joueur!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -13455,7 +13455,7 @@
     },
     {
       "value_en": "Victory",
-      "value_translated": null,
+      "value_translated": "Victoire",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -13634,7 +13634,7 @@
     },
     {
       "value_en": "We have been caught unaware! Rally our reserves and make haste to the field!",
-      "value_translated": null,
+      "value_translated": "Nous avons été pris au dépourvu ! Rassemblez nos réserves et précipitez-vous sur le champ de bataille!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -14286,7 +14286,7 @@
     },
     {
       "value_en": "You can include as many Troops and Regiments as you like in games of Ambush!. For each Troop or Regiment in the army you may also include one of the following units:",
-      "value_translated": null,
+      "value_translated": "Vous pouvez inclure autant de Troupes et de Régiments que vous le souhaitez dans les parties d'Embuscade! Pour chaque Troupe ou Régiment présent dans votre armée, vous pouvez également inclure l’une des unités suivantes:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
@@ -14366,7 +14366,7 @@
     },
     {
       "value_en": "You may take a combined total of three Heroes, Monsters, Titans and War Engines.",
-      "value_translated": null,
+      "value_translated": "Vous pouvez inclure un total combiné de trois Héros, Monstres, Titans et Machines de Guerre.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=18"
