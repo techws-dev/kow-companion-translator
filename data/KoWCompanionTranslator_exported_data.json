@@ -2691,7 +2691,7 @@
     },
     {
       "value_en": "At the end of the 6th Turn Command points are not discarded as usual. Any remaining Command Points are carried over into the 7th Turn (if there is one). No new Command Pool is created for Turn 7. This means that Players will need to carefully manage their Command Pool in Turn 6!",
-      "value_translated": null,
+      "value_translated": "À la fin du 6ème tour, les Points de Commandement ne sont pas perdus comme d’habitude. Tous les Points de Commandement restants sont conservés pour le 7ème tour (s'il a lieu). Aucune réserve de Commandement n’est générée pour le tour 7. Cela signifie que vous devrez gérer votre réserve de Commandement avec soin pendant le tour 6!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -3566,7 +3566,7 @@
     },
     {
       "value_en": "Command Orders include Universal Orders as well as the Faction Orders of the Army List being played. Universal Orders are listed below and may be used on any unit belonging to the Player’s army, while Faction Orders are listed in their respective Army Lists and may only be used on units belonging to that list in the Player’s army. Each Command Order, Universal or Faction, may only be used once per Player Turn.",
-      "value_translated": null,
+      "value_translated": "Les Ordres de Commandement incluent à la fois les Ordres Universels et les Ordres de Faction propres à la liste d’armée jouée. Les Ordres Universels sont présentés ci-dessous et peuvent être utilisés sur n’importe quelle unité appartenant à l’armée du joueur. Les Ordres de Faction, quant à eux, sont listés dans les listes d’armée correspondantes et ne peuvent être utilisés que sur des unités issues de cette même liste au sein de l’armée du joueur. Chaque Ordre de Commandement, qu’il soit Universel ou de Faction, ne peut être utilisé qu’une seule fois par tour de joueur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -4396,7 +4396,7 @@
     },
     {
       "value_en": "During a Player’s Turn, Command Points are spent in a number of ways to increase the utility of their Army. Unused Command Points are discarded at the end of every Turn except Turn 6.",
-      "value_translated": null,
+      "value_translated": "Pendant le tour d’un joueur, les Points de Commandement peuvent être dépensés de différentes manières pour accroître l’efficacité de son armée. Les Points de Commandement non utilisés sont perdus à la fin de chaque tour, sauf au tour 6.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -6874,7 +6874,7 @@
     },
     {
       "value_en": "Increase the (n) value of one non-Unique Spell by +1 until the end of the Turn.",
-      "value_translated": null,
+      "value_translated": "Augmentez la valeur (n) d’un sort non Unique de +1 jusqu’à la fin du tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -10138,7 +10138,7 @@
     },
     {
       "value_en": "Roll additional dice provided by units in your army with the Command (n) Special Rule (if any) that have not been Routed*.",
-      "value_translated": null,
+      "value_translated": "Lancez un nombre supplémentaire de dés fourni par les unités de votre armée disposant de la règle spéciale Commandement (n), si elles ne sont pas en Déroute*.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -10146,7 +10146,7 @@
     },
     {
       "value_en": "Roll three red Command Dice.",
-      "value_translated": null,
+      "value_translated": "Jetez trois dés de Commandement rouges.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -11410,7 +11410,7 @@
     },
     {
       "value_en": "The Unit loses its Wavered Status but remains disordered and cannot issue a charge or countercharge order this Turn.",
-      "value_translated": null,
+      "value_translated": "L'unité n'est plus Ebranlée mais reste désorganisée et ne peut pas donner d’ordre de charge ou de contre-charge pendant ce tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -11571,7 +11571,7 @@
     },
     {
       "value_en": "The following rules introduce a whole new element to the game using Command Dice. These are available separately and come in Red, White and Blue colours. Each colour has a different configuration of swords, with the Red die having the least swords and the Blue die having the most. When you roll them, read the top face like any normal six-sided dice, and count the number of swords shown as the result.",
-      "value_translated": null,
+      "value_translated": "Les règles suivantes introduisent un tout nouvel élément dans le jeu : les Dés de Commandement. Ceux-ci sont disponibles séparément et existent en trois couleurs : rouge, blanc et bleu. Chaque couleur présente une répartition différente de symboles d’épée — le dé rouge en ayant le moins, et le dé bleu le plus. Lorsque vous les lancez, lisez la face supérieure comme pour un dé à six faces classique, puis comptez le nombre d’épées affichées: c’est le résultat obtenu.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -12203,7 +12203,7 @@
     },
     {
       "value_en": "The unit may, after rolling to hit and to damage in the Melee phase, discard all damage caused and start again. Roll to hit and to damage again. The second result stands. Rerolling in this way must take place before testing for Nerve or rolling any other attacks from other units in the same Melee.",
-      "value_translated": null,
+      "value_translated": "L’unité peut, après avoir effectué un jet pour toucher et pour infliger des dégâts lors de la phase de Corps à Corps, annuler tous les dégâts causés et recommencer. Effectuez à nouveau un jet pour toucher et un jet pour infliger des dégâts. Le deuxième résultat est celui qui compte. La relance de cette manière doit avoir lieu avant de tester le Moral ou de réaliser toute autre attaque d’autres unités lors du même Corps à Corps.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -12211,7 +12211,7 @@
     },
     {
       "value_en": "The unit regains one point of damage it previously suffered.",
-      "value_translated": null,
+      "value_translated": "L'unité récupère un point de dégâts qu’elle avait précédemment subi.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -12333,7 +12333,7 @@
     },
     {
       "value_en": "These rules are optional but you are strongly encouraged to play your games with them and provide us with feedback.",
-      "value_translated": null,
+      "value_translated": "Ces règles sont facultatives, mais nous vous encourageons vivement à les utiliser lors de vos parties et à nous faire part de vos retours.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -13261,7 +13261,7 @@
     },
     {
       "value_en": "Universal Orders List",
-      "value_translated": null,
+      "value_translated": "Liste des Ordres Universels",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -13849,7 +13849,7 @@
     },
     {
       "value_en": "When issuing a Back Order, this unit may instead use its full Speed. The unit may not use a ranged attack or be targeted by the Surge Spell this Turn.",
-      "value_translated": null,
+      "value_translated": "Lorsqu’un ordre En arrière est donné, cette unité peut utiliser sa vitesse complète à la place. L’unité ne peut pas utiliser d’attaque à distance ni être ciblée par le sort Déferlement pendant ce tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -13857,7 +13857,7 @@
     },
     {
       "value_en": "When issuing a Sidestep Order, this unit may instead use its full Speed. The unit may not use a ranged attack or be targeted by the Surge Spell this Turn.",
-      "value_translated": null,
+      "value_translated": "Lorsqu’un ordre de Sur de côté est donné, cette unité peut utiliser sa vitesse complète à la place. L’unité ne peut pas utiliser d’attaque à distance ni être ciblée par le sort Déferlement pendant ce tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -13953,7 +13953,7 @@
     },
     {
       "value_en": "When the unit rolls to damage in Melee or at Range, it can re-roll one of the dice that failed to damage.",
-      "value_translated": null,
+      "value_translated": "Lorsque l’unité effectue un jet de dégâts au Corps à Corps ou à Distance, elle peut relancer un des dés qui n’ont pas réussi à infliger de dégâts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
@@ -13961,7 +13961,7 @@
     },
     {
       "value_en": "When the unit rolls to hit in Melee or at Range (excluding spells), it can re-roll one of the dice that failed to hit. The order should be declared before rolling to hit and its effects end as soon as that attack is resolved. A unit given this Order may not use the Blast Special Rule for this Turn.",
-      "value_translated": null,
+      "value_translated": "Lorsque l’unité effectue un jet pour toucher au Corps à Corps ou à Distance (à l’exception des sorts), elle peut relancer un des dés qui n’ont pas permis de toucher. L’ordre doit être déclaré avant le jet pour toucher et ses effets prennent fin dès que cette attaque est résolue. Une unité ayant reçu cet ordre ne peut pas utiliser la Règle Spéciale Explosion pendant ce tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=21"
