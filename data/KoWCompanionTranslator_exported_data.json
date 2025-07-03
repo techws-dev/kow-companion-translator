@@ -2195,7 +2195,7 @@
     },
     {
       "value_en": "After rolling, the player consults their own table, with the score on the each die corresponding to the equivalent row on their Channelling Table. This informs the player which Rift-Spells they have available to use this Turn. If a player rolls a result for a row they picked no Rift-Spell for, that die is ignored.",
-      "value_translated": null,
+      "value_translated": "Après avoir lancé les dés, le joueur consulte son propre tableau, chaque résultat correspondant à la ligne équivalente de son tableau de Canalisation. Cela indique au joueur quels sorts de la Faille il peut utiliser ce tour-ci. Si un résultat correspond à une ligne pour laquelle aucun sort de la Faille n’a été choisi, ce dé est ignoré.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -2203,7 +2203,7 @@
     },
     {
       "value_en": "After several requests from the community, we have developed the following rules for playing epic sieges in Kings of War.",
-      "value_translated": null,
+      "value_translated": "Suite à plusieurs demandes de la communauté, nous avons élaboré les règles suivantes pour jouer des sièges épiques dans Kings of War.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2211,7 +2211,7 @@
     },
     {
       "value_en": "After the Defender places their first unit, both players alternate unit deployments as usual. The Attacker may deploy their units anywhere on the table more than 24” away from both the castle and the Defender’s Set-Up Area. The Defender deploys as noted above. Once both players’ entire armies are deployed, roll for the first Turn as normal.",
-      "value_translated": null,
+      "value_translated": "Après que le Défenseur ait placé sa première unité, les deux joueurs déploient leurs unités à tour de rôle comme d’habitude. L’Attaquant peut déployer ses unités n’importe où sur la table, à plus de 24” à la fois du château et de la zone de déploiement du Défenseur. Le Défenseur déploie comme indiqué précédemment. Une fois que les armées des deux joueurs sont entièrement déployées, lancez un dé pour déterminer qui commence la première phase de jeu, comme d’habitude.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2235,7 +2235,7 @@
     },
     {
       "value_en": "Aid. Friendly.",
-      "value_translated": null,
+      "value_translated": "Assistance. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -2452,7 +2452,7 @@
     },
     {
       "value_en": "An Individual may move into base contact with a Friendly unit to protect a facing. While in base contact like this, the Individual may not be charged in any facing that is entirely in contact with the Friendly unit.",
-      "value_translated": "Un Indépendant peut se déplacer en contact avec une unité Amie pour protéger un flanc. Tant qu'il est en contact de cette manière, l'Indépendant ne peut pas être chargé dans un flanc qui est entièrement en contact avec l'unité Amie.",
+      "value_translated": "Un Indépendant peut se déplacer en contact avec une unité Amie pour protéger un flanc. Tant qu'il est en contact de cette manière, l'Indépendant ne peut pas être chargé dans un flanc qui est entièrement en contact avec l'unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=10"
@@ -2611,7 +2611,7 @@
     },
     {
       "value_en": "As well as the mechanics for moving around and assaulting the castle, the pages that follow contain the rules you need for building a fortress for the defenders, and for assembling the opposing force which will be attempting to destroy or conquer it.",
-      "value_translated": null,
+      "value_translated": "Les pages suivantes ne contiennent pas seulement les règles de déplacement et d’assaut sur le château : vous y trouverez également tout ce qu’il vous faut pour bâtir une forteresse côté défenseur, et constituer l’armée ennemie chargée de la conquérir ou de la réduire en ruines.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2795,7 +2795,7 @@
     },
     {
       "value_en": "At the start of each Turn, before making any other actions, the player whose Turn it is rolls to see which Rift-Spells they chose will be available to them. The power of the Rift is fickle, and so the army may not be able to capture and use its arcane energies at all times.",
-      "value_translated": null,
+      "value_translated": "Au début de chaque tour, avant toute autre action, le joueur actif lance un dé pour déterminer quels Sorts de la Faille choisis seront disponibles. La puissance de la Faille est instable, et l'armée ne peut pas toujours capter et utiliser ses énergies arcaniques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -2944,7 +2944,7 @@
     },
     {
       "value_en": "Battle Focus. Friendly.",
-      "value_translated": null,
+      "value_translated": "Concentration de Combat. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3107,7 +3107,7 @@
     },
     {
       "value_en": "Blood Craze. Friendly.",
-      "value_translated": null,
+      "value_translated": "Frénésie Sanguinaire. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3293,7 +3293,7 @@
     },
     {
       "value_en": "Calamitous Charge. Friendly.",
-      "value_translated": null,
+      "value_translated": "Charge Dévastatrice. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3310,7 +3310,7 @@
     },
     {
       "value_en": "Castles walls have a minimum of Defence 7+ and therefore can only be damaged by units with a +(n) modifier when rolling to damage, such as with Crushing Strength, Piercing or other similar effects. Additionally, Melee damage can only be caused to a castle wall section by Monsters, Large Infantry and Large Cavalry that are Height 3 or more. Melee attacks are never doubled or tripled when attacking a castle wall section.",
-      "value_translated": null,
+      "value_translated": "Les murs des châteaux ont une Défense minimale de 7+, et ne peuvent donc être endommagés que par des unités bénéficiant d’un modificateur +(n) lors du jet de dégâts, comme avec Force dévastatrice, Perforant ou d’autres effets similaires. De plus, les dégâts de mêlée ne peuvent être infligés à une section de mur que par des Monstres, Infanterie de Grande Taille et Cavalerie de Grande Taille dont la Taille est de 3 ou plus. Les attaques de mêlée ne sont jamais doublées ni triplées lorsqu’elles ciblent une section de mur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3441,7 +3441,7 @@
     },
     {
       "value_en": "Charges may be declared against a castle wall section or gate from either side of the castle wall, as if it were an ordinary unit.",
-      "value_translated": null,
+      "value_translated": "Des charges peuvent être déclarées contre une section de mur ou une porte du château depuis l’un ou l’autre côté du mur, comme s’il s’agissait d’une unité ordinaire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3449,7 +3449,7 @@
     },
     {
       "value_en": "Charging from one Wall Section to Another",
-      "value_translated": null,
+      "value_translated": "Charger d'une section de mur à une autre",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3507,7 +3507,7 @@
     },
     {
       "value_en": "Chronal Shift. Friendly.",
-      "value_translated": null,
+      "value_translated": "Déphasage Temporel. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3630,7 +3630,7 @@
     },
     {
       "value_en": "Confuse Monster. Enemy.",
-      "value_translated": null,
+      "value_translated": "Désorienter le Monstre. Unité ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -3810,7 +3810,7 @@
     },
     {
       "value_en": "Damaging a Castle Wall",
-      "value_translated": null,
+      "value_translated": "Endommager un Mur de Château",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3925,7 +3925,7 @@
     },
     {
       "value_en": "Depending on game size, more results can be picked from the dice rolled on a Channelling Table, as detailed below. Each Rift-Spell rolled for can only be used once that Turn. All other results are discarded.",
-      "value_translated": null,
+      "value_translated": "Le nombre de résultats que vous pouvez conserver sur la Table de Canalisation dépend de la taille de la partie, comme indiqué ci-dessous. Chaque Sort de Faille choisi ne peut être lancé qu’une fois durant le tour. Tous les autres résultats sont défaussés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4436,7 +4436,7 @@
     },
     {
       "value_en": "During the opponent's next turn, if the chosen enemy unit suffers a Rout result, all units engaged with it suffer D6 hits at Piercing (2).",
-      "value_translated": null,
+      "value_translated": "Lors du prochain tour de l’adversaire, si l’unité ennemie ciblée subit un résultat de Déroute, toutes les unités engagées avec elle subissent D6 blessures avec Perforant (2).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4532,7 +4532,7 @@
     },
     {
       "value_en": "Each Rift-Spell on the Channelling Table specifies whether it affects a Friendly or Enemy unit.",
-      "value_translated": "Chaque Sort de la Faille présent sur la Table de Canalisation précise s’il affecte une unité amie ou ennemie.",
+      "value_translated": "Chaque Sort de la Faille présent sur la Table de Canalisation précise s’il affecte une unité alliée ou ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4693,7 +4693,7 @@
     },
     {
       "value_en": "Embolden. Friendly.",
-      "value_translated": null,
+      "value_translated": "Encourager. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4808,7 +4808,7 @@
     },
     {
       "value_en": "Enrage. Friendly.",
-      "value_translated": null,
+      "value_translated": "Fureur. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4840,7 +4840,7 @@
     },
     {
       "value_en": "Ethereal Lightspeed. Friendly.",
-      "value_translated": null,
+      "value_translated": "Lumière Ethérée. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -4864,7 +4864,7 @@
     },
     {
       "value_en": "Every 1000 points thereafter",
-      "value_translated": null,
+      "value_translated": "Pour chaque tranche de 1000 points au-delà",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5095,7 +5095,7 @@
     },
     {
       "value_en": "Foe Seeker. Friendly.",
-      "value_translated": null,
+      "value_translated": "Traqueur d'Ennemis. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5231,7 +5231,7 @@
     },
     {
       "value_en": "For every full 10mm beyond 100mm the largest side of the monster’s base is, add +1 attack and +1 to their Waver and Rout value, in addition to +15pts for their cost.",
-      "value_translated": null,
+      "value_translated": "Pour chaque tranche complète de 10 mm au-delà de 100 mm sur le plus grand côté du socle du monstre, ajoutez +1 attaque et +1 à sa valeur d'Ebranlement et de Déroute, ainsi que +15 points à son coût.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5247,7 +5247,7 @@
     },
     {
       "value_en": "For example, a player with three units with spellcaster tiers of 0, 1 and 1, will roll two dice.",
-      "value_translated": null,
+      "value_translated": "Par exemple, un joueur ayant trois unités avec des niveaux de lanceur de sorts de 0, 1 et 1 lancera deux dés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5263,7 +5263,7 @@
     },
     {
       "value_en": "For example, if a player picked The Vortex Rift-Spell from row 6, they will be able to use it on any Turn they roll a 6. On any Turn they don’t roll a 6, they can’t use it that Turn!",
-      "value_translated": null,
+      "value_translated": "Par exemple, si un joueur a choisi le sort de la Faille 'Le Vortex' sur la ligne 6, il pourra l’utiliser à chaque fois qu’il obtient un 6 au lancer de dés. Lorsqu’il ne fait pas 6, il ne pourra pas l’utiliser pendant ce tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5319,7 +5319,7 @@
     },
     {
       "value_en": "For example. A dragon mounted on a 300mmx200mm base is used to represent an Colossal Elf Kindred Lord Dragon. It would increase its attacks from 10 to 30, its nerve from 17/19 to 37/39, and its points cost to 605pts, with the following profile:",
-      "value_translated": null,
+      "value_translated": "Par exemple, un dragon monté sur une base de 300mm x 200mm est utilisé pour représenter un colossal Elf Kindred Lord Dragon. Ses attaques passeraient de 10 à 30, son moral de 17/19 à 37/39, et son coût en points à 605 pts, avec le profil suivant:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5516,7 +5516,7 @@
     },
     {
       "value_en": "Garrisoning and Combat",
-      "value_translated": null,
+      "value_translated": "Garnison et Combat",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -5566,7 +5566,7 @@
     },
     {
       "value_en": "Ghost Walk. Friendly.",
-      "value_translated": null,
+      "value_translated": "Marche Spectrale. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5607,7 +5607,7 @@
     },
     {
       "value_en": "Guided Bolt. Enemy.",
-      "value_translated": null,
+      "value_translated": "Projectile Guidé. Unité ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5639,7 +5639,7 @@
     },
     {
       "value_en": "Harrowing Visions. Enemy.",
-      "value_translated": null,
+      "value_translated": "Visions Terrifiantes. Unité ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5647,7 +5647,7 @@
     },
     {
       "value_en": "Hasten. Friendly.",
-      "value_translated": null,
+      "value_translated": "Hâte. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -5944,7 +5944,7 @@
     },
     {
       "value_en": "Huge siege games are always a mouthwatering proposition and something many gamers aspire to. Planning a weekend siege game and imagining how it will look can almost be as exciting as the game itself!",
-      "value_translated": null,
+      "value_translated": "Les immenses parties de siège sont toujours une perspective alléchante, et beaucoup de joueurs en rêvent. Planifier une partie de siège pour un week-end et imaginer à quoi elle ressemblera peut parfois être aussi excitant que la partie en elle-même!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -5984,7 +5984,7 @@
     },
     {
       "value_en": "If a Garrisoning unit is Routed in Melee, then one unit that caused at least one point of damage to it in that Melee phase, may Garrison the vacated wall section, provided it is one of the unit types that could normally Garrison a wall. Pick up and place the unit in its new position, choosing its facing.",
-      "value_translated": null,
+      "value_translated": "Si une unité en Garnison est mise en déroute au corps à corps, alors une unité ayant infligé au moins un point de dommage à cette unité pendant cette phase de combat rapproché peut se mettre en Garnison dans la section de mur libérée, à condition qu’elle fasse partie des types d’unités pouvant normalement se mettre en Garnison dans un mur. Prenez cette unité et placez-la à sa nouvelle position, en choisissant son orientation.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6056,7 +6056,7 @@
     },
     {
       "value_en": "If a unit attacking a castle wall or a Garrisoning unit fails to Rout its target, leave the unit in base contact with the castle wall section. A Garrisoning unit may only declare a counter-charge against units that attacked it and that are in base contact with the outside of the castle wall. Garrisoning units may not countercharge enemy units that attacked the wall in the previous Turn.",
-      "value_translated": null,
+      "value_translated": "Si une unité attaquant un mur de château ou une unité en Garnison échoue à mettre sa cible en déroute, laissez l’unité en contact avec la base de la section de mur. Une unité en Garnison ne peut déclarer de contre-charge que contre les unités qui l’ont attaquée et qui sont en contact avec la base à l’extérieur du mur du château. Les unités retranchées ne peuvent pas contre-charger des unités ennemies qui ont attaqué le mur lors du tour précédent.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6128,7 +6128,7 @@
     },
     {
       "value_en": "If a unit that starts its turn Garrisoning a wall section wishes to move to the Courtyard, pick it up and place it so that its base is in contact with the vacated wall section. The unit may not be given any further movement orders that Turn. A unit that is Garrisoning a section of wall may only face outwards away from the castle or inwards towards the Courtyard. During the Move Phase, the unit may Change Facing! to reverse its current facing.",
-      "value_translated": null,
+      "value_translated": "Si une unité qui commence son tour en occupant une section de mur souhaite se déplacer vers la cour, placez-la de manière à ce que son socle soit en contact avec la section de mur quittée. L’unité ne peut pas recevoir d’autres ordres de mouvement durant ce tour. Une unité occupant une section de mur ne peut être orientée que vers l’extérieur du château ou vers l’intérieur, en direction de la cour. Pendant la phase de mouvement, l’unité peut effectuer un Changement de Face! pour inverser son orientation actuelle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6424,7 +6424,7 @@
     },
     {
       "value_en": "If two opposing units are in adjoining wall sections, then a charge may be declared. Line of sight is not required, and the units are not actually moved, as this may require you to balance them in precarious positions!",
-      "value_translated": null,
+      "value_translated": "Si deux unités adverses se trouvent dans des sections de mur adjacentes, une charge peut être déclarée. La ligne de vue n’est pas nécessaire, et les unités ne sont pas réellement déplacées, car cela pourrait vous obliger à les placer dans des positions précaires!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6456,7 +6456,7 @@
     },
     {
       "value_en": "If you are using a table where the length is not a multiple of 6, you may wish to proportionally increase the number of objectives used. For example, a table that is 9’ by 4’, is 50% longer than a standard table, and as such, you may wish to increase the number of objectives used by 50%, rounding down.",
-      "value_translated": null,
+      "value_translated": "Si vous utilisez une table dont la longueur n’est pas un multiple de 6, vous pouvez augmenter proportionnellement le nombre d’objectifs utilisés. Par exemple, une table de 9’x4’ est 50% plus longue qu’une table standard, vous pouvez donc augmenter de 50% le nombre d’objectifs, en arrondissant à l’inférieur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -6584,7 +6584,7 @@
     },
     {
       "value_en": "In Legendary games where the points limit for each side is 4000 or more, if any Allies are taken it is referred to as a Grand Alliance. The maximum amount of points that can be spent on Allies in a Grand Alliance is up to 50% of the total points limit.",
-      "value_translated": null,
+      "value_translated": "Dans les parties Légendaires où la limite de points par camp est de 4000 points ou plus, si des Alliés sont inclus, on parle alors de Grande Alliance. Le nombre maximum de points pouvant être dépensés pour les Alliés dans une Grande Alliance est de 50% de la limite totale de points.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -6592,7 +6592,7 @@
     },
     {
       "value_en": "In Legendary games where the points limit for each side is 4000 or more, players may choose to take Colossal Titans, Rare Monsters and Epic Units. These units are both unique, and irregular, so only one of each type may be included in an army, and must be unlocked using the usual army list building rules.",
-      "value_translated": null,
+      "value_translated": "Dans les parties Légendaires où la limite de points par camp est de 4000 points ou plus, les joueurs peuvent choisir d’inclure des Titans Colossaux, des Monstres Rares et des Unités Épiques. Ces unités sont à la fois uniques et irrégulières, donc une seule de chaque type peut être incluse dans une armée, et elles doivent être débloquées en utilisant les règles habituelles de construction d’armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -6608,7 +6608,7 @@
     },
     {
       "value_en": "In a Grand Alliance, the allied force may also select magical artefacts, however you still may not select the same artefact twice for the Grand Alliance as a whole. Irregular units, Unique units and Formations may also be taken by the allied force. Additionally, allies may target units in the Core force with spells, and vice versa, and the Inspiring Special rule will affect all Friendly units, instead of just Core units.",
-      "value_translated": null,
+      "value_translated": "Dans une Grande Alliance, la force alliée peut également choisir des artefacts magiques, mais il est toujours interdit de sélectionner deux fois le même artefact pour l’ensemble de la Grande Alliance. Les unités irrégulières, les unités uniques et les formations peuvent aussi être prises par la force alliée. De plus, les alliés peuvent cibler les unités de la force principale avec des sorts, et vice versa, et la règle spéciale Motivant affectera toutes les unités amies, pas seulement celles de la force principale.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -6616,7 +6616,7 @@
     },
     {
       "value_en": "In a similar way to a unit, a castle wall section has stats and a profile. The default profile for a section of wall is:",
-      "value_translated": null,
+      "value_translated": "De la même manière qu’une unité, une section de mur de château possède des caractéristiques et un profil. Le profil par défaut pour une section de mur est le suivant:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6656,7 +6656,7 @@
     },
     {
       "value_en": "In addition, the unit gains both the Fury and Headstrong special rules.",
-      "value_translated": null,
+      "value_translated": "De plus, l’unité gagne les règles spéciales Furie et Acharné.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -6672,7 +6672,7 @@
     },
     {
       "value_en": "In addition, when this unit routs an enemy unit in melee, it can Overrun as if it had routed an individual, adding +1 to the D6 result. (See Overrun on page 40 of the Rulebook).",
-      "value_translated": null,
+      "value_translated": "De plus, lorsque cette unité met en Déroute une unité ennemie en mêlée, elle peut déborder comme si elle avait mis en Déroute une unité d'Indépendant, en ajoutant +1 au résultat du D6. (Voir Débordement au chapitre des Indépendants).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -6825,7 +6825,7 @@
     },
     {
       "value_en": "In the melee phase, the deity makes 10 attacks against the charged unit, with a Melee (Me) value of 3+, any hits are resolved with the Crushing Strength (4) special rule.",
-      "value_translated": null,
+      "value_translated": "Lors de la phase de mêlée, la divinité effectue 10 attaques contre l’unité chargée, avec une valeur de Mêlée (Me) de 3+. Les touches obtenues sont résolues en utilisant la règle spéciale Force dévastatrice (4).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7205,7 +7205,7 @@
     },
     {
       "value_en": "It is a good idea to use a different coloured dice, or tokens and place them next to the affected unit as a reminder of any effects that are in play.",
-      "value_translated": null,
+      "value_translated": "Il est conseillé d’utiliser un dé d’une couleur différente, ou des jetons placés à côté de l’unité affectée, afin de se souvenir des effets en cours.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7229,7 +7229,7 @@
     },
     {
       "value_en": "It is recommended to have 3-5 extra pieces of terrain in addition to the castle while playing a siege battle (woods, buildings, hills etc.). This terrain cannot be placed within 12” of the castle walls.",
-      "value_translated": null,
+      "value_translated": "Il est recommandé de disposer de 3 à 5 éléments de terrain supplémentaires en plus du château lors d’une bataille de siège (bois, bâtiments, collines, etc.). Ces éléments ne peuvent pas être placés à moins de 12” des murs du château.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7245,7 +7245,7 @@
     },
     {
       "value_en": "Keep track of accumulated damage to a wall section as normal and roll a Nerve test as per any other unit. If a waver result is rolled, any Garrisoning unit will take D6+2 damage from falling debris. Furthermore, the wall section must take a Nerve test in each of the Attacking player’s Turns thereafter, regardless of whether it actually takes any subsequent damage in that Turn. A wall section that suffers a Rout result is removed, and any units Garrisoning it at the time are also automatically Routed. The gate is also Routed if the front wall section is Routed.",
-      "value_translated": null,
+      "value_translated": "Gardez une trace des dégâts accumulés sur une section de mur comme pour toute autre unité et effectuez un test de Moral comme d’habitude. Si le résultat est un Ebranlement, toute unité en garnison subira D6+2 points de dégâts dus aux débris tombants. De plus, la section de mur doit effectuer un test de Moral à chaque tour du joueur attaquant par la suite, qu’elle subisse ou non des dégâts supplémentaires ce tour-là. Une section de mur qui subit un résultat de Déroute est retirée du jeu, et toutes les unités qui y sont en garnison à ce moment sont automatiquement mises en Déroute. La porte est également mise en Déroute si la section de mur avant est mise en Déroute.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7469,7 +7469,7 @@
     },
     {
       "value_en": "Lifeshield. Friendly.",
-      "value_translated": null,
+      "value_translated": "Bouclier Vital. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7675,7 +7675,7 @@
     },
     {
       "value_en": "May only target a unit which is a Spellcaster tier 1 or above. The unit adds 6” to the range of the first spell it casts this turn.",
-      "value_translated": null,
+      "value_translated": "Peut cibler uniquement une unité ayant un niveau de lanceur de sorts 1 ou plus. L’unité ajoute 6” à la portée du premier sort qu’elle lance ce tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7683,7 +7683,7 @@
     },
     {
       "value_en": "May only target a unit which is a Spellcaster tier 1 or above. The unit may cast 2 spells, instead of 1 this turn, and when attempting to cast a spell, the unit may reroll all dice that failed to hit.",
-      "value_translated": null,
+      "value_translated": "Ne peut cibler qu’une unité ayant un niveau de lanceur de sorts 1 ou plus. L’unité peut lancer 2 sorts au lieu d’un ce tour-ci, et lorsqu’elle tente de lancer un sort, elle peut relancer tous les dés ayant échoué.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7691,7 +7691,7 @@
     },
     {
       "value_en": "May only target a unit which is not currently engaged in melee. The enemy unit immediately takes D3 points of damage. No Nerve test is required for damage taken from this Rift-Spell.",
-      "value_translated": null,
+      "value_translated": "Peut cibler uniquement une unité qui n’est pas actuellement engagée au corps à corps. L’unité ennemie subit immédiatement D3 points de dégâts. Aucun test de moral n’est requis pour les dégâts causés par ce sort de la Faille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7699,7 +7699,7 @@
     },
     {
       "value_en": "May only target a unit with the Individual special rule. The unit may double its Attacks (Att) value while attacking enemy Heroes, Monsters or Titans. Additionally, the unit gains the Crushing Strength (+1) special rule.",
-      "value_translated": null,
+      "value_translated": "Ne peut cibler qu’une unité possédant la règle spéciale Indépendant. L’unité peut doubler sa valeur d’Attaques (Att) lorsqu’elle attaque des Héros, Monstres ou Titans ennemis. De plus, l’unité gagne la règle spéciale Force dévastatrice (+1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -7707,7 +7707,7 @@
     },
     {
       "value_en": "May only target an enemy Monster or Titan with a Height value of 4 or more. All units (friend and foe) within 6” take two immediate hits. Use the Crushing Strength value of the Monster or Titan when resolving damage. No Nerve test is required for any damage taken from this Rift-Spell.",
-      "value_translated": null,
+      "value_translated": "Ne peut cibler qu’un Monstre ou Titan ennemi ayant une Valeur de Taille de 4 ou plus. Toutes les unités (alliées et ennemies) dans un rayon de 6” subissent immédiatement deux touches. Utilisez la valeur de Force de Frappe du Monstre ou Titan pour résoudre les dégâts. Aucun test de Moral n’est requis pour les dégâts subis à cause de ce Sort de la Faille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -8398,7 +8398,7 @@
     },
     {
       "value_en": "Note: These rules are by no means meant or balanced for competitive play! They are here to allow players to let their imaginations run wild and bring their favourite models into these Legendary games. Please remember that Kings of War is a social game against another person and meant to be friendly. Making a 1800mmx300mm monster with Defence 6, Ensnare, and Regeneration (4+) might be fun for you, but we don’t imagine it would be fun for your opponent!",
-      "value_translated": null,
+      "value_translated": "Note: Ces règles ne sont en aucun cas destinées ou équilibrées pour le jeu compétitif! Elles sont là pour permettre aux joueurs de laisser libre cours à leur imagination et d’intégrer leurs figurines préférées dans ces parties Légendaires. N’oubliez pas que Kings of War est un jeu social contre un autre joueur et doit rester convivial. Créer un monstre de 1800mm x 300mm avec Défense 6, Entraves et Régénération(4+) peut vous sembler amusant, mais on imagine que ce ne serait pas forcément le cas pour votre adversaire!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -8564,7 +8564,7 @@
     },
     {
       "value_en": "Once a wall section has been removed, replace it with a suitable obstacle (after all, it’s now just a big pile of rubble!). A wall cannot benefit from the Inspiring or Rallying! special rules and also cannot be Healed by any means.",
-      "value_translated": null,
+      "value_translated": "Une fois qu’une section de mur a été retirée, remplacez-la par un obstacle approprié (après tout, ce n’est plus qu’un tas de décombres !). Un mur ne peut pas bénéficier des règles spéciales Motivant ou Ralliement et ne peut pas non plus être soigné par quelque moyen que ce soit.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -8620,7 +8620,7 @@
     },
     {
       "value_en": "Once resolved, choose another enemy unit within 6” of the last unit targeted in this way and roll a dice. A unit can only be targeted by this Rift-Spell once per turn. On a 3+ The Vortex will gust over to the new enemy unit, resolve hits in the same way as described above. If a 1 or 2 is rolled, no damage is caused and The Vortex ends. Enemy units engaged in melee may be targeted by The Vortex, however this will result in all friendly units engaged with the target suffering the same number of hits. No Nerve test is required for any damage taken from this Rift-Spell.",
-      "value_translated": null,
+      "value_translated": "Une fois résolu, choisissez une autre unité ennemie dans un rayon de 6” de la dernière unité ciblée de cette manière et lancez un dé. Une unité ne peut être ciblée par ce Sort de la Faille qu’une seule fois par tour. Sur un résultat de 3 ou plus, le Vortex se déplace vers la nouvelle unité ennemie et inflige les touches de la même manière que précédemment. Si le résultat est 1 ou 2, aucun dégât n’est infligé et le Vortex prend fin. Les unités ennemies engagées au corps à corps peuvent être ciblées par le Vortex, mais cela entraînera que toutes les unités amies engagées avec la cible subissent le même nombre de touches. Aucun test de Moral n’est requis pour les dégâts infligés par ce Sort de la Faille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -8684,7 +8684,7 @@
     },
     {
       "value_en": "Only units Garrisoning an adjoining wall section can attack a unit Garrisoning a tower in Melee. Conversely, units Garrisoning a tower may attack enemy units Garrisoning adjoining wall sections. Units in wall sections may move through towers to Garrison, or charge units Garrisoning other adjoining wall sections. Units with Ranged attacks Garrisoning a tower may target enemy units in any direction. Draw line of sight and measure range from the centre of any of the tower’s facings. Units Garrisoning towers are always in cover from Ranged attacks, no matter the direction of the attacker.",
-      "value_translated": null,
+      "value_translated": "Seules les unités en Garnison dans une section de mur adjacente peuvent engager au Corps à Corps une unité en Garnison dans une tour. Inversement, une unité en Garnison dans une tour peut attaquer au Corps à Corps des unités ennemies en Garnison dans des sections de mur adjacentes. Les unités dans des sections de mur peuvent se déplacer à travers les tours pour entrer en Garnison, ou pour charger des unités en Garnison dans d'autres sections de mur adjacentes. Les unités disposant d’attaques à distance et occupant une tour peuvent cibler des unités ennemies dans n’importe quelle direction. La ligne de vue et la portée sont mesurées depuis le centre de n’importe quelle face de la tour. Enfin, les unités en Garnison dans une tour sont toujours considérées comme à couvert contre les attaques à distance, quelle que soit la direction de l’attaque.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -8750,7 +8750,7 @@
     },
     {
       "value_en": "Other Terrain",
-      "value_translated": null,
+      "value_translated": "Autres éléments de terrain",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -9508,7 +9508,7 @@
     },
     {
       "value_en": "Place a Height (Ht) 6 Titan in base contact with an enemy unit’s front facing as though it had charged the enemy unit.",
-      "value_translated": null,
+      "value_translated": "Placez un Titan de Taille 6 en contact avec la face avant de la base d’une unité ennemie comme s’il avait chargé cette unité.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9612,7 +9612,7 @@
     },
     {
       "value_en": "Power Surge. Friendly.",
-      "value_translated": null,
+      "value_translated": "Décharge d’Energie. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -9818,7 +9818,7 @@
     },
     {
       "value_en": "Ranged attacks made by the unit ignore all modifiers when rolling to hit.",
-      "value_translated": null,
+      "value_translated": "Les attaques à distance effectuées par l’unité ignorent tous les modificateurs lors des jets pour toucher.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10395,7 +10395,7 @@
     },
     {
       "value_en": "Serenade. Friendly.",
-      "value_translated": null,
+      "value_translated": "Sérénade. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10421,7 +10421,7 @@
     },
     {
       "value_en": "Setup Option A",
-      "value_translated": null,
+      "value_translated": "Configuration A",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -10429,7 +10429,7 @@
     },
     {
       "value_en": "Setup Option B",
-      "value_translated": null,
+      "value_translated": "Configuration B",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -10560,7 +10560,7 @@
     },
     {
       "value_en": "Simply roll the attacks in the Melee phase as though attacking a unit in its front facing (unless the target is already engaged by other units as previously described). If the target unit is Routed, the attacker may elect to Garrison the wall section vacated by the Routed unit.",
-      "value_translated": null,
+      "value_translated": "Il suffit de lancer les attaques lors de la phase de mêlée comme si vous attaquiez une unité dans sa face avant (sauf si la cible est déjà engagée par d’autres unités comme décrit précédemment). Si l’unité ciblée est mise en déroute, l’attaquant peut choisir d’occuper la section de mur laissée vacante par l’unité en déroute.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -10640,7 +10640,7 @@
     },
     {
       "value_en": "Some creatures grow beyond comprehension. These great and powerful beings are sometimes found in the largest battles. Whether sought after and enthralled to a host, or drawn to the bloodshed, many a war has been won thanks to these colossal beings.",
-      "value_translated": null,
+      "value_translated": "Certaines créatures atteignent une taille et une puissance dépassant l’entendement. Ces êtres gigantesques et redoutables apparaissent parfois lors des plus grandes batailles. Qu’ils soient invoqués et asservis par un hôte, ou simplement attirés par le carnage, nombre de guerres ont été remportées grâce à ces titans colossaux.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10729,7 +10729,7 @@
     },
     {
       "value_en": "Sometimes models wildly exceed the base size of the unit they’re supposed to represent. In Legendary games it can be fun to bring these comically oversized “miniatures’’ to bear on the battlefield. Pick a Monster or Titan unit that best represents the model and apply the following.",
-      "value_translated": null,
+      "value_translated": "Parfois, certaines figurines dépassent largement la taille de socle de l'unité qu’elles sont censées représenter. Dans les parties Légendaires, il peut être amusant d’utiliser ces figurines surdimensionnées sur le champ de bataille. Choisissez une unité de Monstre ou Titan qui correspond le mieux à la figurine et appliquez ce qui suit.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -10796,7 +10796,7 @@
     },
     {
       "value_en": "Speed 10 for +50 pts",
-      "value_translated": null,
+      "value_translated": "Vit 10 pour +50pts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11018,7 +11018,7 @@
     },
     {
       "value_en": "Summon Deity. Enemy.",
-      "value_translated": null,
+      "value_translated": "Invocation Divine. Unité ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11213,7 +11213,7 @@
     },
     {
       "value_en": "The Attacker may spend (up to) an extra 25% of their total points value on Offensive Siege Equipment and extra units. For example, a 2000 point army would be able to increase its total value to 2500. However the extra 500 points must be chosen from the Offensive Siege Equipment and extra units lists.",
-      "value_translated": null,
+      "value_translated": "L’Attaquant peut dépenser jusqu’à 25 % supplémentaires de la valeur totale de son armée en Équipements de Siège offensifs et en unités additionnelles. Par exemple, une armée de 2000 points peut monter jusqu’à 2500 points au total. Cependant, les 500 points supplémentaires doivent obligatoirement être dépensés en Équipements de Siège offensifs et unités supplémentaires, comme indiqué dans les listes correspondantes.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11255,7 +11255,7 @@
     },
     {
       "value_en": "The Castle and Movement",
-      "value_translated": null,
+      "value_translated": "Le Château et le Mouvement",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11280,7 +11280,7 @@
     },
     {
       "value_en": "The Defender chooses an army list up to the points limit agreed by both players, which may contain items from the Defensive Siege Equipment list. The total amount spent by the Defender on these upgrades cannot exceed 25% of the agreed limit. Therefore in a 2000 point game, the Defender may choose up to 500 points worth of equipment as part of their 2000 point limit.",
-      "value_translated": null,
+      "value_translated": "Le Défenseur compose une armée jusqu’à la limite de points convenue par les deux joueurs. Cette armée peut inclure des options provenant de la liste d’Équipements de Siège défensifs. Le total dépensé pour ces équipements ne peut pas dépasser 25 % de la limite fixée. Ainsi, dans une partie à 2000 points, le Défenseur peut inclure jusqu’à 500 points d’Équipements de Siège défensifs, compris dans la limite de 2000 points.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11288,7 +11288,7 @@
     },
     {
       "value_en": "The Defender deploys a unit first placing units more than 14” from the centre line (if specified on the map), or within the Courtyard. Additionally, up to one Infantry, Heavy Infantry, Large Infantry or Monstrous Infantry unit may be deployed in each of the castle wall sections, and one Hero (Infantry/ Heavy Infantry/Large Infantry/Monstrous Infantry), Infantry/ Heavy Infantry Troop, Large/Monstrous Infantry Regiment, or Tower Artillery may be deployed in each tower. Units deployed in walls or towers are considered to be “Garrisoning” (see opposite).",
-      "value_translated": null,
+      "value_translated": "Le Défenseur déploie ses unités en premier, en plaçant celles-ci à plus de 14” de la ligne centrale (si cela est indiqué sur la carte), ou à l’intérieur de la Cour. De plus, une unité d’Infanterie, d’Infanterie Lourde, d’Infanterie de Grande Taille ou d’Infanterie Monstrueuse peut être déployée dans chacune des sections des murailles du château, et un Héros (Infanterie/Infanterie Lourde/Infanterie de Grande Taille/Infanterie Monstrueuse), une Troupe d’Infanterie/Infanterie Lourde, un Régiment d’Infanterie de Grande Taille/Monstrueuse ou une Artillerie de Tour peut être déployé dans chaque tour. Les unités déployées dans les murs ou les tours sont considérées comme en garnison (voir plus loin).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11418,7 +11418,7 @@
     },
     {
       "value_en": "The Vortex. Enemy.",
-      "value_translated": null,
+      "value_translated": "Le Vortex. Unité ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11426,7 +11426,7 @@
     },
     {
       "value_en": "The area of open terrain inside the walls of the castle is referred to as the Courtyard.",
-      "value_translated": null,
+      "value_translated": "La zone de terrain dégagé située à l’intérieur des murs du château est appelée la Cour (Courtyard).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11515,7 +11515,7 @@
     },
     {
       "value_en": "The chosen Rift-Spell effect lasts until the start of the controlling player’s following Turn and all Rift-Spells are used and applied before any units are given orders. Results that affect Friendly units may also be placed on Friendly Allied units, providing there is a Friendly Allied unit with at least spellcaster tier 1 on the table.",
-      "value_translated": null,
+      "value_translated": "L’effet du sort de la Faille choisi dure jusqu’au début du tour suivant du joueur qui le contrôle, et tous les sorts de la Faille sont utilisés et appliqués avant que des ordres ne soient donnés aux unités. Les résultats affectant les unités amies peuvent également être appliqués aux unités alliées amies, à condition qu’il y ait sur la table une unité alliée amie possédant au moins le niveau 1 de lanceur de sorts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11555,7 +11555,7 @@
     },
     {
       "value_en": "The enemy unit immediately takes D6 hits resolved with Piercing (4).",
-      "value_translated": null,
+      "value_translated": "L’unité ennemie subit immédiatement D6 touches, résolues avec la règle Perforant (4).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11563,7 +11563,7 @@
     },
     {
       "value_en": "The enemy unit suffers -1 to both its waver and rout nerve values.",
-      "value_translated": null,
+      "value_translated": "L’unité ennemie subit une réduction de 1 à ses valeurs de moral (Ebranlement et Déroute)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11627,7 +11627,7 @@
     },
     {
       "value_en": "The number of Rift-Spells that can be used each Turn is determined by the size of the game (see table below), so if a player is rolling multiple dice, they must choose the results they wish to keep and apply them to the units of their choosing. All other results are discarded.",
-      "value_translated": null,
+      "value_translated": "Le nombre de sorts de la Faille pouvant être utilisés à chaque tour dépend de la taille de la partie (voir tableau ci-dessous). Ainsi, si un joueur lance plusieurs dés, il doit choisir les résultats qu’il souhaite conserver et les appliquer aux unités de son choix. Tous les autres résultats sont ignorés.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11643,7 +11643,7 @@
     },
     {
       "value_en": "The other key element of a castle is the castle gate. This is the main entrance and a key strategic feature for both sides.",
-      "value_translated": null,
+      "value_translated": "L’autre élément clé d’un château est la porte du château. C’est l’entrée principale et un point stratégique important pour les deux camps.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11651,7 +11651,7 @@
     },
     {
       "value_en": "The player rolls a number of dice equal to the cumulative Spellcaster tiers of all Friendly units on the table. In games of less than 4000 points, this is capped at a maximum of three dice. Even if no Friendly Spellcasters remain on the table, a player may still roll one dice on their Channelling table at the start of the Turn.",
-      "value_translated": null,
+      "value_translated": "Le joueur lance un nombre de dés égal à la somme des niveaux de lanceur de sorts de toutes les unités alliées présentes sur la table. Dans les parties de moins de 4000 points, ce nombre est limité à trois dés maximum. Même si aucune unité alliée lanceuse de sorts ne reste sur la table, le joueur peut quand même lancer un dé sur sa table de Canalisation au début du tour.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11667,7 +11667,7 @@
     },
     {
       "value_en": "The rules assume a game is being played on a table at least 6’x4’.",
-      "value_translated": null,
+      "value_translated": "Les règles supposent que la partie se déroule sur une table d’au moins 6’x4’.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11675,7 +11675,7 @@
     },
     {
       "value_en": "The siege rules can be used for fun, one-off games or as part of campaign; there are several different scenarios and win conditions listed at the end of this section. You and your opponent may wish to adjust these to suit the narrative of your campaign or battle you want to play. It should also be noted that this ruleset has not been designed with competitive play in mind.",
-      "value_translated": null,
+      "value_translated": "Les règles de siège peuvent être utilisées pour des parties uniques et amusantes, ou intégrées à une campagne. Plusieurs scénarios et conditions de victoire sont proposés à la fin de cette section. Vous et votre adversaire pouvez bien entendu les adapter afin de mieux servir le récit de votre campagne ou le type de bataille que vous souhaitez jouer. Il convient également de noter que cet ensemble de règles n’a pas été conçu pour le jeu compétitif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11715,7 +11715,7 @@
     },
     {
       "value_en": "The unit adds +1 to both its waver and rout nerve values.",
-      "value_translated": null,
+      "value_translated": "L’unité ajoute +1 à ses valeurs de moral (Ebranlement et Déroute).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11723,7 +11723,7 @@
     },
     {
       "value_en": "The unit adds +1 to its Speed (Sp) value and gains the Wild Charge (D3), Thunderous Charge (+2), Strider, and either the Elite or Vicious special rules.",
-      "value_translated": null,
+      "value_translated": "L’unité ajoute +1 à sa valeur de Vitesse et gagne les règles spéciales Charge féroce (D3), Charge fracassante (+2), Tout-terrain et, au choix, Élite ou Vicieux.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11731,7 +11731,7 @@
     },
     {
       "value_en": "The unit adds +5 to its Attacks (Att) value while attacking in melee.",
-      "value_translated": null,
+      "value_translated": "L’unité ajoute +5 à sa valeur d’Attaques (Att) lorsqu’elle attaque en mêlée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11739,7 +11739,7 @@
     },
     {
       "value_en": "The unit both gains the Headstrong and Fury special rules.",
-      "value_translated": null,
+      "value_translated": "L’unité acquiert les règles spéciales Acharné et Furie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11899,7 +11899,7 @@
     },
     {
       "value_en": "The unit gains both the Radiance of Life and Rallying (1) special rules.",
-      "value_translated": null,
+      "value_translated": "L’unité gagne les règles spéciales Radiance de Vie et Ralliement (1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11907,7 +11907,7 @@
     },
     {
       "value_en": "The unit gains either the Elite (Melee) or Vicious (Melee) special rule.",
-      "value_translated": null,
+      "value_translated": "L’unité gagne la règle spéciale Élite (Mêlée) ou Vicieux (Mêlée).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -11923,7 +11923,7 @@
     },
     {
       "value_en": "The unit gains the Brutal (+1) special rule.",
-      "value_translated": null,
+      "value_translated": "L’unité gagne la règle spéciale Brutal (+1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12035,7 +12035,7 @@
     },
     {
       "value_en": "The unit gains the Lifeleech (+2) special rule.",
-      "value_translated": null,
+      "value_translated": "L’unité gagne la règle spéciale Drain de vie (+2).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12075,7 +12075,7 @@
     },
     {
       "value_en": "The unit gains the Strider special rule.",
-      "value_translated": null,
+      "value_translated": "L’unité gagne la règle spéciale Tout-terrain.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12099,7 +12099,7 @@
     },
     {
       "value_en": "The unit gains the Thunderous Charge (+2) special rule.",
-      "value_translated": null,
+      "value_translated": "L’unité gagne la règle spéciale Charge fracassante (+2).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12155,7 +12155,7 @@
     },
     {
       "value_en": "The unit immediately regains D3 points of damage previously suffered.",
-      "value_translated": null,
+      "value_translated": "L’unité récupère immédiatement D3 points de dégâts précédemment subis.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12163,7 +12163,7 @@
     },
     {
       "value_en": "The unit immediately regains D6 points of damage previously suffered and increases its Defence (De) value to 6.",
-      "value_translated": null,
+      "value_translated": "L’unité récupère immédiatement D6 points de dégâts précédemment subis et son score de Défense (De) passe à 6.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12227,7 +12227,7 @@
     },
     {
       "value_en": "The units Ranged and Melee attacks always damage the enemy on a 4+ regardless of any other modifiers.",
-      "value_translated": null,
+      "value_translated": "Les attaques à distance et de mêlée de l’unité infligent toujours des dégâts à l’ennemi sur un résultat de 4+, quel que soit les autres modificateurs.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12309,7 +12309,7 @@
     },
     {
       "value_en": "Therefore, in a game on a 12x’4’ board, which is twice the standard size, players would double the number of Loot Counters, Objective Markers or Bluff Counters used in the game.",
-      "value_translated": null,
+      "value_translated": "Ainsi, dans une partie sur une table de 12’x4’, soit deux fois la taille standard, les joueurs doublent le nombre de jetons de butin, de marqueurs d’objectif ou de jetons de bluff utilisés dans la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12325,7 +12325,7 @@
     },
     {
       "value_en": "These hits are resolved by the player that Routed the unit. Roll for each unit separately. No Nerve test is required for any damage taken from this Rift-Spell.",
-      "value_translated": null,
+      "value_translated": "Ces blessures sont résolues par le joueur ayant provoqué la Déroute de l’unité. Lancez les jets pour chaque unité séparément. Aucun test de moral n’est requis pour les dégâts subis à cause de ce sort de Faille.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12503,7 +12503,7 @@
     },
     {
       "value_en": "This unit adds +1 to its Speed (Sp) value.",
-      "value_translated": null,
+      "value_translated": "La Vitesse (Sp) de cette unité est augmentée de 1.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12599,7 +12599,7 @@
     },
     {
       "value_en": "Time Bomb. Enemy.",
-      "value_translated": null,
+      "value_translated": "Bombe Temporelle. Unité ennemie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12642,7 +12642,7 @@
     },
     {
       "value_en": "Titans Strength. Friendly.",
-      "value_translated": null,
+      "value_translated": "Force des Titans. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12650,7 +12650,7 @@
     },
     {
       "value_en": "To Garrison an empty wall section, an Infantry, Heavy Infantry, Large Infantry or Monstrous Infantry unit must move into contact with the wall section. Once the unit has made contact, it is picked up and placed on top of it. Units may only Garrison castle walls if they started their Turn inside the Courtyard, are moving from an adjoining wall section, or have an Offensive Siege Equipment upgrade that allows them to Garrison wall sections from outside the castle, such as ladders or siege towers. Units with the Fly special rule can Garrison wall sections regardless of where they start their move. A unit that is Garrisoning a wall section may not move directly to the outside of the castle unless it has the Fly special rule, irrespective of any Siege Equipment purchased.",
-      "value_translated": null,
+      "value_translated": "Pour occuper une section de mur vide, une unité d’Infanterie, d’Infanterie lourde, d'Infanterie de Grande Taille ou d’Infanterie Monstrueuse doit se déplacer au contact de la section de mur. Une fois au contact, l’unité est placée sur le mur. Les unités ne peuvent occuper les murs du château que si elles ont commencé leur tour à l’intérieur de la cour, proviennent d’une section de mur adjacente, ou possèdent un équipement de siège offensif leur permettant d’occuper un mur depuis l’extérieur du château, comme des échelles ou des tours de siège. Les unités avec la règle spéciale Vol peuvent occuper un mur peu importe leur position de départ. Une unité occupant un mur ne peut pas se déplacer directement à l’extérieur du château, sauf si elle possède la règle spéciale Vol, même si elle a acheté de l’équipement de siège.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12698,7 +12698,7 @@
     },
     {
       "value_en": "To successfully complete this objective, the Attacker must destroy (Rout) at least two wall sections.",
-      "value_translated": null,
+      "value_translated": "Pour réussir cet objectif, l’attaquant doit détruire (mettre en déroute) au moins deux sections de mur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12779,7 +12779,7 @@
     },
     {
       "value_en": "Towers (Height 6)",
-      "value_translated": null,
+      "value_translated": "Tours (Taille 6)",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12853,7 +12853,7 @@
     },
     {
       "value_en": "True Shot. Friendly.",
-      "value_translated": null,
+      "value_translated": "Tir Précis. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -12901,7 +12901,7 @@
     },
     {
       "value_en": "Unabated Fury. Friendly.",
-      "value_translated": null,
+      "value_translated": "Fureur inarrêtable. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -13125,7 +13125,7 @@
     },
     {
       "value_en": "Units cannot move through a castle wall (or tower), nor may they draw line of sight through it, except where specified.",
-      "value_translated": null,
+      "value_translated": "Les unités ne peuvent pas traverser un mur de château (ou une tour), ni tracer une ligne de vue à travers celui-ci, sauf indication contraire.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13221,7 +13221,7 @@
     },
     {
       "value_en": "Units with the Fly special rule or units which are Height 5 or more that charge a wall section do not need any Siege Equipment in order to attack Garrisoning units from either side of the wall, but attacks rolled will suffer a -1 to hit modifier. Attacks against Garrisoning units are only ever doubled if it is engaged by enemy units on more than one side. When this occurs, each unit after the first unit that declared a charge is considered a flanking unit and may double its attacks.",
-      "value_translated": null,
+      "value_translated": "Les unités possédant la règle spéciale Vol ou celles ayant une Taille de 5 ou plus qui chargent une section de mur n’ont pas besoin d’équipement de siège pour attaquer les unités en Garnison des deux côtés du mur, mais leurs jets d’attaque subissent un malus de -1 pour toucher. Les attaques contre les unités en Garnison ne sont doublées que si elles sont engagées par des unités ennemies sur plus d’un côté. Dans ce cas, chaque unité au-delà de la première qui a déclaré une charge est considérée comme une unité de flanc et peut doubler ses attaques.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13277,7 +13277,7 @@
     },
     {
       "value_en": "Unless both players have already agreed the design of the battlefield, the Defender picks an edge of the table, and may choose to set up their castle in line with one of the diagrams opposite.",
-      "value_translated": null,
+      "value_translated": "À moins que les deux joueurs ne se soient déjà mis d’accord sur la configuration du champ de bataille, le Défenseur choisit un côté de la table, puis peut installer son château en suivant l’un des schémas présentés ci-dessous.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13333,7 +13333,7 @@
     },
     {
       "value_en": "Up to one Infantry, Heavy Infantry or Large Infantry unit (including Individuals) may occupy each section and is then considered as “Garrisoning”. A Garrisoning unit is considered to be its own Height, plus the Height of the castle wall. Furthermore, Garrisoning units gain cover from all Ranged attacks, no matter the direction they are coming from. Spells have no effect on wall sections or towers themselves, but may target Garrisoning units. Wind Blast, Enthral and other spells that would cause a unit to move have no effect on a Garrisoning unit. The arc of sight for a Garrisoning unit is not taken from the unit itself, but is instead drawn from the edges of the Garrisoned wall section in the direction the unit is facing. The centre of the castle wall section, on the side the unit is facing, will always be considered as the Leader Point for a Garrisoning unit. A Garrisoning unit ignores the wall section itself for the purposes of cover to targets.",
-      "value_translated": null,
+      "value_translated": "Jusqu’à une unité d’Infanterie, d’Infanterie Lourde ou d'Infanterie de Grande Taille (y compris les Indépendants) peut occuper chaque section de mur. Elle est alors considérée comme étant en 'Garnison'. Une unité en Garnison est considérée comme ayant sa propre Taille, augmentée de celle du mur du château. De plus, les unités en Garnison bénéficient d’un couvert contre toutes les attaques à distance, quelle que soit leur provenance. Les sorts n’ont aucun effet sur les sections de mur ou les tours elles-mêmes, mais peuvent cibler les unités en Garnison. Les sorts tels que Rafale de vent, Fascination ou tout autre sort provoquant un mouvement n’ont aucun effet sur une unité en Garnison. L’arc de vue d’une unité en Garnison ne se détermine pas à partir de l’unité elle-même, mais depuis les bords de la section de mur qu’elle occupe, dans la direction vers laquelle elle fait face. Le centre de la section de mur, du côté regardé par l’unité, est toujours considéré comme son Point de Leader. Enfin, une unité en Garnison ignore le mur lui-même pour déterminer le couvert de ses cibles.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13504,7 +13504,7 @@
     },
     {
       "value_en": "Vipers Bite. Friendly.",
-      "value_translated": null,
+      "value_translated": "Morsure de Vipère. Unité amie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -13889,7 +13889,7 @@
     },
     {
       "value_en": "When playing a game of Kings of War Siege, one player will be the Attacker (assaulting the castle) and the other will be the Defender (defending the castle). Once you have chosen the points limit for the game and which player is taking each role, use the following rules to select the units and equipment that make up each player’s Army:",
-      "value_translated": null,
+      "value_translated": "Lors d’une partie de Kings of War – Siège, un joueur incarne l’Attaquant (chargé d’assiéger la forteresse) et l’autre le Défenseur (chargé de la défendre). Une fois la limite de points déterminée et les rôles attribués, utilisez les règles suivantes pour sélectionner les unités et équipements composant l’armée de chaque joueur:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13897,7 +13897,7 @@
     },
     {
       "value_en": "When playing scenarios that require the placement of tokens on larger tables, it is recommended that players use the number of Loot Counters, Objective Markers or Bluff Counters described in the Kings of War rulebook for each 6’x4’ section of the total table being played on.",
-      "value_translated": null,
+      "value_translated": "Lorsqu’ils jouent des scénarios nécessitant le placement de jetons sur des tables plus grandes, il est recommandé aux joueurs d’utiliser le nombre de jetons de butin, de marqueurs d’objectif ou de jetons de bluff décrits dans le livre de règles de Kings of War pour chaque section de 6’x4’ de la table totale utilisée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
@@ -14147,7 +14147,7 @@
     },
     {
       "value_en": "While the Dominate scenario is not recommended on larger tables, scenarios such as Invade and Control, where the Victory Points are decided by the amount of Unit Strength in a specified area of the board, can be played exactly as written in the Kings of War rulebook.",
-      "value_translated": null,
+      "value_translated": "Bien que le scénario Domination ne soit pas recommandé sur les grandes tables, des scénarios tels qu’Invasion et Contrôle, où les points de victoire sont déterminés par la force des unités présentes dans une zone précise du champ de bataille, peuvent être joués exactement selon les règles du livre de base de Kings of War.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=20"
