@@ -1305,7 +1305,7 @@
     },
     {
       "value_en": "3: Kill the Attackers",
-      "value_translated": "3: Tuez les Assaillants",
+      "value_translated": "3: Eliminez les Assaillants",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -1313,7 +1313,7 @@
     },
     {
       "value_en": "3: Kill the Defenders",
-      "value_translated": "3: Tuez les Défenseurs",
+      "value_translated": "3: Eliminez les Défenseurs",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2139,7 +2139,7 @@
     },
     {
       "value_en": "After deployment, place one Objective Marker in the exact centre of the Courtyard and then each player, starting with the Attacker, takes turns to place two more Objective Markers on the table, no more than 6” away from the centre line and at least 12” from any other Objective Marker. The Objective Marker in the courtyard is worth 2 points while the other two are worth 1 point each. To successfully complete this objective the Defender must control Objective Markers with a combined worth at least 3 points at the end of the game.",
-      "value_translated": null,
+      "value_translated": "Après le déploiement, placez un Marqueur d’Objectif au centre exact de la Cour intérieure, puis chaque joueur, en commençant par l’Attaquant, place à tour de rôle deux autres Marqueurs d’Objectif sur la table, à moins de 6” de la ligne centrale et à au moins 12” de tout autre Marqueur d’Objectif. Le Marqueur d’Objectif dans la cour vaut 2 points tandis que les deux autres valent 1 point chacun. Pour réussir cet objectif, le Défenseur doit contrôler des Marqueurs d’Objectif dont la valeur cumulée est d’au moins 3 points à la fin de la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2267,7 +2267,7 @@
     },
     {
       "value_en": "All castle wall sections have the Regeneration (5+) special rule.",
-      "value_translated": null,
+      "value_translated": "Toutes les sections de mur du château bénéficient de la règle spéciale Régénération (5+).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2275,7 +2275,7 @@
     },
     {
       "value_en": "All castle wall sections, towers and the gate gain the Cloak of Death special rule.",
-      "value_translated": null,
+      "value_translated": "Toutes les sections de mur du château, les tours et la porte gagnent la règle spéciale Linceul de mort.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2283,7 +2283,7 @@
     },
     {
       "value_en": "All castle wall sections, towers and the gate gain the Radiance of Life Special Rule.",
-      "value_translated": null,
+      "value_translated": "Toutes les sections de mur du château, les tours et la porte gagnent la règle spéciale Radiance de Vie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2291,7 +2291,7 @@
     },
     {
       "value_en": "All castle wall sections, towers, the gate and any Garrisoning units have the Stealthy special rule.",
-      "value_translated": null,
+      "value_translated": "Toutes les sections de mur du château, les tours, la porte ainsi que toutes les unités en Garnison bénéficient de la règle spéciale Furtif.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2323,7 +2323,7 @@
     },
     {
       "value_en": "All spellcasters within the castle, either Garrisoning a wall, or within the Courtyard, extend the range of all spells by 6” and may reroll any dice that fail to hit.",
-      "value_translated": null,
+      "value_translated": "Tous les lanceurs de sorts présents dans le château, qu’ils soient en garnison sur un mur ou dans la cour, étendent la portée de leurs sorts de 6” et peuvent relancer tous les dés ayant échoué à toucher.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2485,7 +2485,7 @@
     },
     {
       "value_en": "An option is available for a faction if the cross reference is green. It is not available if it is red.",
-      "value_translated": null,
+      "value_translated": "Une option est disponible pour une faction si la case correspondante est verte. Elle n’est pas disponible si elle est rouge.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2731,7 +2731,7 @@
     },
     {
       "value_en": "At the end of the game, add up the points cost of all of the Enemy units you Routed. That is your score. Your opponent does the same and you compare scores. If the difference between the scores in favour of a player is at least 10% of the total cost of the armies, that player wins; otherwise the game is a draw. For example, in a game where armies are 2000 points, you need at least 200 points more than your opponent to win.",
-      "value_translated": "À la fin de la partie, additionnez le coût en points de toutes les unités ennemies que vous avez mises en Déroute. C'est votre score. Votre adversaire fait de même et vous comparez les scores. Si la différence entre les scores en faveur d'un joueur est d'au moins 10 % du coût total des armées, ce joueur gagne ; sinon, la partie se termine par un match nul. Par exemple, dans une partie où les armées font 2000 points, vous devez avoir au moins 200 points de plus que votre adversaire pour gagner.",
+      "value_translated": "À la fin de la partie, additionnez le coût en points de toutes les unités ennemies que vous avez mises en Déroute. C'est votre score. Votre adversaire fait de même et vous comparez les scores. Si la différence entre les scores en faveur d'un joueur est d'au moins 10% du coût total des armées, ce joueur gagne ; sinon, la partie se termine par un match nul. Par exemple, dans une partie où les armées font 2000 points, vous devez avoir au moins 200 points de plus que votre adversaire pour gagner.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=17"
@@ -2747,7 +2747,7 @@
     },
     {
       "value_en": "At the end of the game, add up the total points value of units Routed on both sides (including any Siege options or other upgrades they had). The objective is successfully completed if the Attacker has Routed at least 10% of the agreed points limit more than the Defender has. Castle wall sections are worth 100 points each plus the cost of any upgrades given to them. The gate is worth 80 points and is counted if Routed itself, or if the wall section containing it is also Routed.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, additionnez la valeur totale en points des unités mises en déroute des deux camps (y compris les options de siège ou autres améliorations qu’elles avaient). L’objectif est réussi si l’attaquant a mis en déroute au moins 10% de plus que le défenseur par rapport à la limite de points convenue. Chaque section de mur du château vaut 100 points, plus le coût de ses améliorations éventuelles. La porte vaut 80 points et est comptabilisée si elle-même est mise en déroute ou si la section de mur qui la contient l’est également.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2755,7 +2755,7 @@
     },
     {
       "value_en": "At the end of the game, add up the total points value of units Routed on both sides. The objective is successfully completed if the Defender has Routed at least 10% of the agreed points limit more than the Attacker has. Castle wall sections are worth 100 points each plus the cost of any upgrades given to them. The gate is worth 80 points and is counted if Routed itself, or if the wall section containing it is also Routed.",
-      "value_translated": null,
+      "value_translated": "À la fin de la partie, additionnez la valeur totale en points des unités mises en déroute des deux camps. L’objectif est réussi si le défenseur a mis en déroute au moins 10% de plus que l’attaquant par rapport à la limite de points convenue. Chaque section de mur du château vaut 100 points, plus le coût de ses améliorations éventuelles. La porte vaut 80 points et est comptabilisée si elle-même est mise en déroute ou si la section de mur qui la contient l’est également.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -2936,7 +2936,7 @@
     },
     {
       "value_en": "Battering Ram [25pts]",
-      "value_translated": null,
+      "value_translated": "Bélier [25 pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3277,7 +3277,7 @@
     },
     {
       "value_en": "Buttresses [90pts]",
-      "value_translated": null,
+      "value_translated": "Contreforts [90pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3794,7 +3794,7 @@
     },
     {
       "value_en": "Cursed Walls [70pts]",
-      "value_translated": null,
+      "value_translated": "Murs Maudits [70 pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3828,7 +3828,7 @@
     },
     {
       "value_en": "Damned Obelisk [60pts]",
-      "value_translated": null,
+      "value_translated": "Obélisque damnée [60pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3892,7 +3892,7 @@
     },
     {
       "value_en": "Defending units may trace Line of Sight through the gate if they are in base contact with the inside of the gate. Attackers may only trace line of sight through a destroyed (Routed) gate.",
-      "value_translated": null,
+      "value_translated": "Les unités défensives peuvent tracer leur ligne de vue à travers la porte si elles sont en contact avec l’intérieur de la porte. Les attaquants ne peuvent tracer leur ligne de vue qu’à travers une porte détruite (mise en Déroute).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -3900,7 +3900,7 @@
     },
     {
       "value_en": "Defensive Siege Equipment",
-      "value_translated": "Equipement défensif de Siège",
+      "value_translated": "Equipement de Siège Défensif",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -3909,7 +3909,7 @@
     },
     {
       "value_en": "Defensive Siege Equipment may be taken by any of the Defender’s units, in addition to any magical artefacts chosen. The list of items below also provides several upgrades that can be applied to the castle wall sections themselves. Each item may only be taken by a unit, or applied to a castle section, once.",
-      "value_translated": null,
+      "value_translated": "L’Équipement de Siège Défensif peut être sélectionné par n’importe quelle unité du Défenseur, en plus de tout artefact magique. La liste ci-dessous inclut également plusieurs améliorations pouvant être appliquées directement aux sections de mur du château. Chaque objet ou amélioration ne peut être pris ou appliqué qu’une seule fois par unité ou par section de mur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -4701,7 +4701,7 @@
     },
     {
       "value_en": "Enchanted Castle [50pts]",
-      "value_translated": null,
+      "value_translated": "Château Enchanté [50pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -5239,7 +5239,7 @@
     },
     {
       "value_en": "For example a Kingdoms of Men Shield Wall Regiment may take the Brew of Strength, giving it a cost of 180 points, then take a Siege Tower for a total cost of 245 points.",
-      "value_translated": null,
+      "value_translated": "Par exemple, un régiment de Shield Wall des Kingdoms of Men peut prendre la Potion de Force, ce qui lui donne un coût de 180 points, puis prendre une tour de siège pour un coût total de 245 points.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -5384,7 +5384,7 @@
     },
     {
       "value_en": "Fortress of Flames [60pts]",
-      "value_translated": null,
+      "value_translated": "Forteresse de Flammes [60pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -5524,7 +5524,7 @@
     },
     {
       "value_en": "Gate Trap [30pts]",
-      "value_translated": null,
+      "value_translated": "Piège de Porte [30pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -5861,7 +5861,7 @@
     },
     {
       "value_en": "Horde +95 pts",
-      "value_translated": null,
+      "value_translated": "Horde +95 pts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6104,7 +6104,7 @@
     },
     {
       "value_en": "If a unit inside the Courtyard starts its Turn in base contact with the front wall section it may move through the gate. Pick up the unit and place it so that its rear edge is in contact with the outside wall of the castle. It may then receive a normal move order. A unit inside the Courtyard may also charge out of the gate if it starts its Turn in base contact with, and facing, the front wall. Draw line of sight and range from the centre of the outside of the gate then place the charging unit so that its entire rear facing is in base contact with the gate, and then finally move it using the usual rules for charging. Charges through the gate in this manner are considered to be over an obstacle. If an Attacker’s unit is in base contact with the outside of the gate, then one defending unit may declare a charge against it, providing it is able to move into base contact and align with the inside of the gate. A unit that charges in this manner may be countercharged as the gate is considered open during the Melee.",
-      "value_translated": null,
+      "value_translated": "Si une unité à l’intérieur de la cour commence son tour en contact avec la section de mur avant du château, elle peut passer par la porte. Soulevez l’unité et placez-la de façon que son bord arrière soit en contact avec le mur extérieur du château. Elle peut alors recevoir un ordre de déplacement normal. Une unité à l’intérieur de la cour peut aussi charger à travers la porte si elle commence son tour en contact avec la section de mur avant du château et tournée vers celle-ci. Tracez la ligne de vue et la portée depuis le centre de l’extérieur de la porte, puis placez l’unité chargée de façon que toute sa face arrière soit en contact avec la porte, et déplacez-la ensuite selon les règles habituelles de charge. Les charges par la porte de cette manière sont considérées comme un franchissement d’obstacle. Si une unité de l’attaquant est en contact avec l’extérieur de la porte, alors une unité défenseuse peut déclarer une charge contre elle, à condition qu’elle puisse se déplacer en contact et s’aligner avec l’intérieur de la porte. Une unité qui charge ainsi peut être contrechargée, car la porte est considérée comme ouverte durant le corps à corps.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6793,7 +6793,7 @@
     },
     {
       "value_en": "In subsequent Defender turns, roll for each unit in reserve again. The score needed to emerge from the tunnel is lowered by one each Turn (so 3+ in turn 3, 2+ in turn 4). A dice roll of a 1 always fails and cannot be re-rolled. If an enemy unit is covering the tunnel exit marker when the unit emerges, consider this as a front charge by the emerging unit and place the unit in base contact with the enemy unit’s front. If there is no room to place a unit emerging from a tunnel, it must stay in reserve and roll again next Turn. If the unit is unable to emerge from the tunnel before the game ends it is considered Routed.",
-      "value_translated": null,
+      "value_translated": "Lors des tours suivants du Défenseur, lancez à nouveau un dé pour chaque unité en réserve. Le score nécessaire pour sortir du tunnel diminue d’un point à chaque tour (donc 3+ au tour 3, 2+ au tour 4). Un résultat de 1 échoue toujours et ne peut pas être relancé. Si une unité ennemie occupe le marqueur de sortie du tunnel lorsque l’unité sort, considérez cela comme une charge frontale de l’unité sortante et placez l’unité en contact avec l’avant de l’unité ennemie. S’il n’y a pas assez de place pour placer l’unité sortant du tunnel, elle doit rester en réserve et relancer au tour suivant. Si l’unité ne parvient pas à sortir du tunnel avant la fin de la partie, elle est considérée comme en Déroute.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6882,7 +6882,7 @@
     },
     {
       "value_en": "Increase the Defence of all wall sections by +1 to a maximum of 8+.",
-      "value_translated": null,
+      "value_translated": "Augmentez la Défense de toutes les sections de mur de +1, jusqu’à un maximum de 8+.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -6890,7 +6890,7 @@
     },
     {
       "value_en": "Increase the Waver and Rout values of all wall sections by 2.",
-      "value_translated": null,
+      "value_translated": "Augmentez les valeurs d'Ebranlement et de Déroute de toutes les sections de mur de 2.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7059,7 +7059,7 @@
     },
     {
       "value_en": "Infantry, Heavy Infantry, Large Infantry and Monstrous Infantry units only When equipped with a siege tower, the unit increases its Height to 6 and all Ranged attacks from enemies that are in the unit’s front arc treat its Defence as 6+. The unit’s speed is reduced to 5 (unless it is already 5 or less) and the unit cannot benefit from the Pathfinder, Strider, Stealthy, Fly or Nimble special rules. It also cannot be targeted by Wind Blast or Surge. Units equipped with a Siege Tower treat obstacles as blocking terrain. When charging a wall section, a unit with this upgrade may elect to attack a Garrisoning unit instead. A unit with this upgrade may Garrison unoccupied wall sections from the outside of the castle. When a unit with this upgrade Garrisons a wall section, the Siege Tower is destroyed. At the start of your turn, units equipped with a Siege Tower may choose to destroy it. Destroyed Siege Towers are removed from play and the unit gains no further effects from it for the remainder of the game.",
-      "value_translated": null,
+      "value_translated": "Uniquement pour les unités d’Infanterie, Infanterie Lourde, Infanterie de Grande Taille et Infanterie Monstrueuse. Lorsqu’elle est équipée d’une tour de siège, l’unité passe sa Taille à 6 et toutes les attaques à distance des ennemis situés dans l’arc avant de l’unité considèrent sa Défense comme étant de 6+. La vitesse de l’unité est réduite à 5 (sauf si elle est déjà de 5 ou moins), et elle ne peut pas bénéficier des règles spéciales Eclaireur, Tout-terrain, Furtif, Vol ou Agile. Elle ne peut pas non plus être ciblée par Rafale de vent ou Déferlement. Les unités équipées d’une tour de siège considèrent les obstacles comme des terrains bloquants. Lorsqu’elles chargent une section de mur, ces unités peuvent choisir d’attaquer une unité en garnison à la place. Une unité équipée de cette amélioration peut occuper une section de mur inoccupée depuis l’extérieur du château. Quand une unité occupe une section de mur avec cette amélioration, la tour de siège est détruite. Au début de votre tour, les unités équipées d’une tour de siège peuvent choisir de la détruire. Les tours de siège détruites sont retirées du jeu et l’unité ne bénéficie plus d’aucun effet lié à la tour pour le reste de la partie.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7067,7 +7067,7 @@
     },
     {
       "value_en": "Infantry, Heavy Infantry, Large Infantry and Monstrous Infantry units only. Multiple tunnels may be purchased. Before any deployment, for each unit with a secret tunnel, place two markers anywhere on the table to represent the tunnel exit and secretly note which marker is the real exit; the other will be a decoy (e.g. place two counters marked “A”, place 2 counters marked “B” etc.). A unit that has a tunnel is is not deployed, but is held in “reserve”. At the start of the Defender’s player Turn two, roll a D6 for each unit held in reserve. On a 4+ that unit has successfully navigated the tunnels and may be placed in base contact with the real tunnel exit marker, facing any direction. In the turn they emerge, a unit may be given no further orders, nor be targeted by Surge. The corresponding decoy marker is removed.",
-      "value_translated": null,
+      "value_translated": "Uniquement pour les unités d'Infanterie, Infanterie Lourde, Infanterie de Grande Taille et Infanterie Monstrueuse. Plusieurs tunnels peuvent être achetés. Avant tout déploiement, pour chaque unité équipée d’un tunnel secret, placez deux marqueurs n’importe où sur la table pour représenter la sortie du tunnel et notez secrètement quel marqueur est la vraie sortie ; l’autre sera un leurre (par exemple, placez deux marqueurs « A », deux marqueurs « B », etc.). Une unité disposant d’un tunnel n’est pas déployée mais placée en « réserve ». Au début du deuxième tour du joueur Défenseur, lancez un D6 pour chaque unité en réserve. Sur un résultat de 4 ou plus, l’unité a réussi à traverser les tunnels et peut être placée en contact de base avec le marqueur de la vraie sortie, dans la direction de votre choix. Lors du tour où elle apparaît, l’unité ne peut recevoir aucune autre ordre et ne peut pas être ciblée par Déferlement. Le marqueur leurre correspondant est retiré.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7075,7 +7075,7 @@
     },
     {
       "value_en": "Infantry, Heavy Infantry, Large Infantry and Monstrous Infantry units only. When attacking a castle wall section or the gate in Melee, the unit has the Blast (D3) and Crushing Strength (+2) special rules.",
-      "value_translated": null,
+      "value_translated": "Uniquement pour les unités d’Infanterie, Infanterie Lourde, Infanterie de Grande Taille et Infanterie Monstrueuse. Lorsqu’elles attaquent une section de mur de château ou la porte en mêlée, l’unité bénéficie des règles spéciales Explosion (D3) et Force dévastatrice (+2).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7083,7 +7083,7 @@
     },
     {
       "value_en": "Infantry, Heavy Infantry, Large Infantry or Monstrous Infantry units only. When charging a wall section, a unit with this upgrade may elect to attack a Garrisoning unit instead. However this will be considered as a Hindered charge, even if the attacking unit has Strider or Pathfinder. A unit with this upgrade may also Garrison an unoccupied wall section, moving onto it from the outside in the same way a unit in the Courtyard moves into one from the inside.",
-      "value_translated": null,
+      "value_translated": "Uniquement pour les unités d’Infanterie, d’Infanterie Lourde, d’Infanterie de Grande Taille ou d’Infanterie Monstrueuse. Lorsqu’elle charge une section de mur, une unité avec cette amélioration peut choisir d’attaquer une unité en Garnison à la place. Cependant, cela sera considéré comme une charge Gênée, même si l’unité attaquante possède les règles Spéciales Tout-terrain ou Eclaireur. Une unité avec cette amélioration peut également se mettre en Garnison sur une section de mur inoccupée, en y entrant depuis l’extérieur de la même manière qu’une unité dans la Cour intérieure y entre depuis l’intérieur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7329,7 +7329,7 @@
     },
     {
       "value_en": "Ladders/Climbing Gear [10pts]",
-      "value_translated": null,
+      "value_translated": "Échelles/Matériel d’Escalade [10pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7544,7 +7544,7 @@
     },
     {
       "value_en": "Living Castle [150pts]",
-      "value_translated": null,
+      "value_translated": "Château Vivant [150pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7659,7 +7659,7 @@
     },
     {
       "value_en": "May be applied to the gate only. When a unit Routs the gate in Melee, it suffers 2D6 hits at Piercing (3). The controlling player resolves the hits against their own units. No Nerve test is taken for this damage.",
-      "value_translated": null,
+      "value_translated": "Peut être appliqué uniquement à la porte. Lorsqu’une unité met la porte en Déroute lors d’un corps à corps, elle subit 2D6 touches avec Perforant (3). Le joueur contrôlant la porte résout les touches contre ses propres unités. Aucun test de Moral n’est effectué pour ces dégâts.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -7908,7 +7908,7 @@
     },
     {
       "value_en": "More troops",
-      "value_translated": null,
+      "value_translated": "Plus d'unités",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -8506,7 +8506,7 @@
     },
     {
       "value_en": "Offensive Siege Equipment",
-      "value_translated": "Equipement offensif de Siège",
+      "value_translated": "Equipement de Siège Offensif",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8515,7 +8515,7 @@
     },
     {
       "value_en": "Offensive Siege Equipment may be taken by the Attacker and assigned to any unit. This is in addition to any magical artefacts purchased for a unit. The list below also includes extra units that can be chosen as part of the attacking force. All extra units and equipment count towards the additional 25% the Attacker has to spend. Unlike magical artefacts, Offensive Siege Equipment choices may be duplicated in multiple units in the army.",
-      "value_translated": null,
+      "value_translated": "L’équipement de siège offensif peut être choisi par l’Attaquant et attribué à n’importe quelle unité. Cela s’ajoute à tout artefact magique acheté pour une unité. La liste ci-dessous inclut également des unités supplémentaires pouvant faire partie de la force d’attaque. Toutes les unités et équipements supplémentaires comptent dans les 25 % additionnels que l’Attaquant doit dépenser. Contrairement aux artefacts magiques, les choix d’équipement de siège offensif peuvent être dupliqués sur plusieurs unités dans l’armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -8523,7 +8523,7 @@
     },
     {
       "value_en": "Offensive Siege Options",
-      "value_translated": "Options offensives de Siège",
+      "value_translated": "Options de Siège Offensives",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/",
@@ -8676,7 +8676,7 @@
     },
     {
       "value_en": "One use only. This upgrade is given to a single wall section, but can only be activated when the wall section is Garrisoned. Instead of declaring a countercharge using their own profile, a unit Garrisoning a wall section with this upgrade, may declare it is activating the trap as its order for the Turn. In the following Melee phase, the trap inflicts 2D6 hits on every attacking unit that charged the wall section or Garrisoning unit in the previous turn. Hits are calculated at Crushing Strength (3).",
-      "value_translated": null,
+      "value_translated": "Usage unique. Cette amélioration est attribuée à une seule section de mur, mais ne peut être activée que lorsque cette section est en Garnison. Au lieu de déclarer une contre-charge avec leur propre profil, une unité en Garnison dans une section de mur équipée de cette amélioration peut annoncer qu’elle active le piège comme ordre pour ce tour. Lors de la phase de Mêlée suivante, le piège inflige 2D6 touches à chaque unité attaquante ayant chargé la section de mur ou l’unité en Garnison lors du tour précédent. Les touches sont calculées avec Force dévastatrice (3).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -9944,7 +9944,7 @@
     },
     {
       "value_en": "Regiment +65 pts",
-      "value_translated": null,
+      "value_translated": "Régiment +65 pts",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -10254,7 +10254,7 @@
     },
     {
       "value_en": "Sacred Stronghold [70pts]",
-      "value_translated": "Forteresse Sacrée [70pts]",
+      "value_translated": "Citadelle Sacrée [70pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11010,7 +11010,7 @@
     },
     {
       "value_en": "Sturdy Walls [150pts]",
-      "value_translated": null,
+      "value_translated": "Murs Solides [150pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11205,7 +11205,7 @@
     },
     {
       "value_en": "The Attacker may choose one extra unit from their army list worth up to 200 points (including magical artefacts). Offensive Siege Equipment may be given to this unit in addition to the 200 point limit.",
-      "value_translated": null,
+      "value_translated": "L’Attaquant peut choisir une unité supplémentaire dans sa liste d’armée d’une valeur maximale de 200 points (artefacts magiques inclus). De l’équipement de siège offensif peut être attribué à cette unité en plus de cette limite de 200 points.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11603,7 +11603,7 @@
     },
     {
       "value_en": "The gate has the following profile:",
-      "value_translated": null,
+      "value_translated": "La porte possède le profil suivant:",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -11635,7 +11635,7 @@
     },
     {
       "value_en": "The only Ranged attacks that can damage a castle gate are those made by spells or War Engines. War Engines with the Indirect Fire special rule suffer an additional -1 to hit modifier when targeting a gate. Once a gate is Routed, it is destroyed. Any unit may move through the hole where the gate once was by starting its Turn in base contact with the front wall facing the hole. It is then placed on the opposite side of the wall, with its rear facing entirely within base contact of the Routed gate before moving as normal. A unit that Routs a gate, or an enemy unit that was in base contact with the gate, may use its Regroup move to be placed on the opposite side of the wall in the same manner provided that there is room for it to fit.",
-      "value_translated": null,
+      "value_translated": "Les seules attaques à distance pouvant endommager une porte de château sont celles effectuées par des sorts ou des engins de guerre. Les engins de guerre avec la règle spéciale Tir Indirect subissent un malus supplémentaire de -1 pour toucher lorsqu’ils ciblent une porte. Une fois qu’une porte est mise en Déroute, elle est détruite. Toute unité peut traverser le trou laissé par la porte en commençant son tour en contact avec la face avant du mur au niveau du trou. Elle est alors placée de l’autre côté du mur, avec sa face arrière entièrement en contact avec la base de la porte mise en Déroute, avant de se déplacer normalement. Une unité qui met une porte en Déroute, ou une unité ennemie qui était en contact avec la porte, peut utiliser son déplacement de regroupement pour être placée de l’autre côté du mur de la même façon, à condition qu’il y ait assez de place.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12235,7 +12235,7 @@
     },
     {
       "value_en": "The various different races that inhabit the world of Pannithor each take a different approach to castle construction. There is significant variation between the mighty Dwafen Holds carved into the mountainside, ramshackle Goblin fortresses, and ancient castles inhabited by the Undead.",
-      "value_translated": null,
+      "value_translated": "Les différentes races qui peuplent le monde de Pannithor ont chacune une approche différente de la construction de châteaux. On trouve une grande variété, des puissants bastions nains taillés à flanc de montagne, aux forteresses branlantes des gobelins, en passant par les anciens châteaux habités par les morts-vivants.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12357,7 +12357,7 @@
     },
     {
       "value_en": "This Is Our Castle! [60pts]",
-      "value_translated": null,
+      "value_translated": "C’est Notre Château! [60 pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12374,7 +12374,7 @@
     },
     {
       "value_en": "This grants all friendly units which are currently Garrisoning a castle wall section the Elite special rule, or if they already have Elite, they are granted the Vicious special rule.",
-      "value_translated": null,
+      "value_translated": "Confère à toutes les unités amies qui sont actuellement en garnison dans une section du mur du château la règle spéciale Élite, ou si elles possèdent déjà Élite, elles bénéficient alors de la règle spéciale Vicieux.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12382,7 +12382,7 @@
     },
     {
       "value_en": "This grants each castle wall section the Dread special rule.",
-      "value_translated": null,
+      "value_translated": "Confère à chaque section de mur du château la règle spéciale Terreur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12390,7 +12390,7 @@
     },
     {
       "value_en": "This grants each castle wall section the Fireball (6) Spell.",
-      "value_translated": null,
+      "value_translated": "Confère à chaque section de mur du château le sort Boule de Feu (6).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12398,7 +12398,7 @@
     },
     {
       "value_en": "This grants each castle wall section the Rallying! (1) special rule.",
-      "value_translated": null,
+      "value_translated": "Confère à chaque section de mur du château la règle spéciale Ralliement ! (1).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12674,7 +12674,7 @@
     },
     {
       "value_en": "To reflect this in game, we have created the chart below to show which of the Defensive Siege Equipment and castle upgrades each faction is able to take.",
-      "value_translated": null,
+      "value_translated": "Pour refléter cela dans le jeu, nous avons créé le tableau ci-dessous indiquant quels équipements de siège défensifs et améliorations de château chaque faction peut utiliser.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12706,7 +12706,7 @@
     },
     {
       "value_en": "To successfully complete this objective, the Attacker must have units with more combined Unit Strength inside the Courtyard or Garrisoning wall sections than the Defender has at the end of the game. In the event of a castle wall section being Routed and removed from play, units will score points if the majority of their base is within the footprint of where the wall section used to be.",
-      "value_translated": null,
+      "value_translated": "Pour réussir cet objectif, l’attaquant doit avoir des unités dont la Puissance d’Unité cumulée à l’intérieur de la Cour et en garnison sur les sections de mur est supérieure à celle du défenseur à la fin de la partie. En cas de section de mur du château en Déroute et retirée du jeu, les unités marquent des points si la majorité de leur socle se trouve à l’emplacement de l’ancienne section de mur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12714,7 +12714,7 @@
     },
     {
       "value_en": "To successfully complete this objective, the Defender must have units with more combined Unit Strength in the Attacker’s half of the table than the Attacker has Garrisoning walls or occupying the Courtyard (or the footprint of where any Routed walls once were), at the end of the game.",
-      "value_translated": null,
+      "value_translated": "Pour réussir cet objectif, le Défenseur doit avoir à la fin de la partie des unités dont la Puissance d’Unité cumulée dans la moitié de table de l’Attaquant est supérieure à celle des unités de l’Attaquant qui occupent les murs en garnison ou la Cour (ou l’emplacement des murs détruits).",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12763,7 +12763,7 @@
     },
     {
       "value_en": "Tower Artillery [100pts]",
-      "value_translated": null,
+      "value_translated": "Artillerie de Tour [100pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12771,7 +12771,7 @@
     },
     {
       "value_en": "Tower Artillery is a specialist War Engine that is permanently Garrisoned and may only be deployed in a tower. If the Tower Artillery is Routed, the tower itself cannot be Garrisoned for the remainder of the game, as it is blocked with debris. The Tower Artillery may target enemy units in any direction. You may choose to draw line of sight and measure range from the centre of any of its tower’s facings. The profile listed below is intended to be suitably generic to cover all manner of artillery - we recommend using a model most fitting to your army.",
-      "value_translated": null,
+      "value_translated": "L’Artillerie de Tour est une machine de guerre spécialisée qui est en Garnison permanente et ne peut être déployée que dans une tour. Si l’Artillerie de Tour est mise en Déroute, la tour ne peut plus être occupée pour le reste de la partie, car elle est obstruée par des décombres. L’Artillerie de Tour peut cibler des unités ennemies dans n’importe quelle direction. Vous pouvez choisir de tracer la ligne de vue et mesurer la portée depuis le centre de n’importe quelle face de la tour qu’elle occupe. Le profil ci-dessous est volontairement générique afin de représenter toute sorte d’artillerie – nous vous recommandons d’utiliser une figurine adaptée au thème de votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -12861,7 +12861,7 @@
     },
     {
       "value_en": "Tunnels [40pts]",
-      "value_translated": null,
+      "value_translated": "Tunnels [40pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13141,7 +13141,7 @@
     },
     {
       "value_en": "Units on the Attacker’s side may also move and charge through the gate once it is Routed in the same way as previously described for Defenders. If a unit cannot be placed on the other side of the gate (or the hole where the gate used to be!) due to the presence of enemy units, they can still declare a charge against those units. The charging unit is not moved and the charge is considered to be over an obstacle. If the enemy unit is Routed, the attacking unit’s Regroup move can be used to place it on the opposite side of the wall, though it must still be in contact with the wall.",
-      "value_translated": null,
+      "value_translated": "Les unités du côté de l’attaquant peuvent également se déplacer et charger à travers la porte une fois qu’elle est mise en Déroute, de la même manière que pour les défenseurs. Si une unité ne peut pas être placée de l’autre côté de la porte (ou du trou laissé par la porte) à cause de la présence d’unités ennemies, elle peut quand même déclarer une charge contre ces unités. L’unité qui charge ne bouge pas et la charge est considérée comme passant par-dessus un obstacle. Si l’unité ennemie est mise en Déroute, l’unité attaquante peut utiliser son mouvement de regroupement pour se placer de l’autre côté du mur, mais elle doit rester en contact avec le mur.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13512,7 +13512,7 @@
     },
     {
       "value_en": "Wall Trap [30pts]",
-      "value_translated": null,
+      "value_translated": "Piège de Mur [30pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13520,7 +13520,7 @@
     },
     {
       "value_en": "Wallbreaker Artillery",
-      "value_translated": null,
+      "value_translated": "Artillerie Brise-Mur",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13528,7 +13528,7 @@
     },
     {
       "value_en": "Wallbreaker Artillery may not be taken if any other War Engines are selected in the army list. The profile listed below is intended to be suitably generic to cover all manner of artillery – we recommend using a model most fitting to your army.",
-      "value_translated": null,
+      "value_translated": "L'Artillerie Brise-Mur ne peut pas être choisie si d'autres Machines de Guerre sont déjà sélectionnées dans la liste d'armée. Le profil ci-dessous est conçu pour être suffisamment générique afin de couvrir tous types d'artillerie – nous recommandons d'utiliser une figurine qui convient le mieux à votre armée.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13733,7 +13733,7 @@
     },
     {
       "value_en": "We’re used to this! [75pts]",
-      "value_translated": null,
+      "value_translated": "Même pas peur! [75pts]",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13785,7 +13785,7 @@
     },
     {
       "value_en": "When an enemy unit moves into base contact with a tunnel exit marker its controlling player may roll a die: on a 4+ the unit is able to tell whether the tunnel exit is real or the decoy. Remove a decoy marker immediately if the real tunnel is revealed. The tunnel markers do not affect movement or line of sight in any way.",
-      "value_translated": null,
+      "value_translated": "Lorsqu’une unité ennemie entre en contact avec un marqueur de sortie de tunnel, son joueur peut lancer un dé: sur un 4+, il découvre si la sortie est réelle ou un leurre. Le marqueur leurre est alors immédiatement retiré si la sortie réelle est révélée. Les marqueurs de tunnel n’affectent en rien les déplacements ni la ligne de vue.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -13881,7 +13881,7 @@
     },
     {
       "value_en": "When playing a Siege game using Setup Option A, both players separately roll a D3 for their objective. If the castle has been set up using Option B, the Defender’s objective will be 3: Kill the Attackers, while the Attacking player may choose any one of the options below, rather than rolling to determine their objective. To win a Siege game, you must complete your objective and prevent your opponent from completing theirs. If both or neither player completes their objective, the game is considered a draw.",
-      "value_translated": null,
+      "value_translated": "Lors d’une partie de siège utilisant la configuration A, chaque joueur lance séparément un D3 pour déterminer son objectif. Si le château a été déployé selon la configuration B, l’objectif du défenseur sera le numéro 3: Eliminez les assaillants, tandis que le joueur attaquant peut choisir librement l’un des objectifs ci-dessous, au lieu de lancer pour déterminer son objectif. Pour gagner une partie de siège, vous devez accomplir votre objectif tout en empêchant votre adversaire de réaliser le sien. Si les deux joueurs réussissent ou échouent à accomplir leur objectif, la partie est considérée comme nulle.",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -14302,7 +14302,7 @@
     },
     {
       "value_en": "You can of course, choose to tinker with this for thematic reasons - perhaps your Ogres are particularly good at building Sturdy Walls, or your Elves have built a tunnel network under their city. Maybe the current occupier isn’t the original builder, and you could be leading a Ratkin occupation of a former Basilean stronghold!",
-      "value_translated": null,
+      "value_translated": "Bien sûr, vous pouvez ajuster cela pour des raisons thématiques — peut-être que vos Ogres sont particulièrement doués pour construire des murs solides, ou que vos Elfes ont creusé un réseau de tunnels sous leur cité. Peut-être aussi que l’occupant actuel n’est pas le bâtisseur d’origine, et que vous menez une occupation Ratkin dans une ancienne forteresse basiléenne!",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -15203,7 +15203,7 @@
     },
     {
       "value_en": "e. Offensive Siege Options",
-      "value_translated": "e. Options offensives de Siège",
+      "value_translated": "e. Options de Siège Offensives",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -15405,7 +15405,7 @@
     },
     {
       "value_en": "g. Offensive Siege Equipment",
-      "value_translated": "g. Equipement offensif de Siège",
+      "value_translated": "g. Equipement de Siège Offensif",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
@@ -15433,7 +15433,7 @@
     },
     {
       "value_en": "h. Defensive Siege Equipment",
-      "value_translated": "h. Equipement défensif de Siège",
+      "value_translated": "h. Equipement de Siège défensif",
       "locale": "fr",
       "urls": [
         "https://companion.manticgames.com/kings-of-war-rules/?chapter=19"
