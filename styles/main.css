@@ -19,4 +19,8 @@
     .units-row {
         width: 100%;
     }
+
+    .rules_contents {
+        column-count: 2 !important;
+    }
 }
