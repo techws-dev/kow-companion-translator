@@ -17,7 +17,11 @@
     }
 
     .units-row {
-        width: 100%;
+        width: 100% !important;
+    }
+
+    .width-70, .unit-70 {
+        width: 100% !important;
     }
 
     .rules_contents {
